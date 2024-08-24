@@ -1,0 +1,31 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131342,577,UCRAINA,13030.0,VIKTOR TSYGANKOV,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,6,48,7,0,105.00;30.92;0.38,105.00;30.92;0.38,84.29,28.46,94.40,30.44,"Possession 
+Lost",True
+131342,486,ROMANIA,16006.0,FLORINEL COMAN,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,7,36,7,48,0.00;32.60;0.66,105.00;35.40;0.66,78.56,26.62,102.28,34.98,Pass,True
+131342,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"Off Target, Blocked, Right, From outside the Penalty Area",1,1t,11,37,11,49,105.00;28.68;0.36,105.00;28.68;0.36,85.26,23.41,89.37,25.39,Shot Against,False
+131342,577,UCRAINA,26396.0,ARTEM DOVBYK,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,21,25,21,37,105.00;31.88;3.41,105.00;31.88;3.41,81.08,33.81,105.00,31.88,Shot Against,False
+131342,486,ROMANIA,11106.0,NICOLAE STANCIU,25,Goal,"Right, From outside the Penalty Area, Offensive Action",1,1t,28,41,28,54,0.00;36.58;1.98,105.00;31.42;1.98,83.22,39.54,105.00,31.42,"Offensive
+Action",False
+131342,486,ROMANIA,11106.0,NICOLAE STANCIU,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",1,1t,28,42,28,54,0.00;36.58;1.98,105.00;31.42;1.98,83.22,39.54,105.00,31.42,Goal Suffered,True
+131342,577,UCRAINA,13030.0,VIKTOR TSYGANKOV,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,37,29,37,41,105.00;33.22;0.31,105.00;33.22;0.31,89.74,34.97,90.96,34.86,"Possession 
+Lost",True
+131342,486,ROMANIA,16004.0,DENNIS MAN,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",1,1t,37,50,38,2,0.00;35.01;0.45,105.00;32.99;0.45,86.33,48.28,91.62,48.82,Pass,True
+131342,486,ROMANIA,16006.0,FLORINEL COMAN,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,0,24,0,36,105.00;40.62;0.25,105.00;40.62;0.25,90.22,23.70,105.00,40.62,Pass,False
+131342,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,4,1,4,13,0.00;30.08;6.50,105.00;37.92;6.50,81.47,20.01,105.00,37.92,Shot Against,False
+131342,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,6,39,6,51,0.00;36.49;0.25,105.00;31.51;0.25,92.85,23.99,94.80,30.09,Shot Against,True
+131342,486,ROMANIA,18555.0,RAZVAN MARIN,25,Goal,"Right, From outside the Penalty Area, Offensive Action",2,2t,7,4,7,33,105.00;31.01;0.12,105.00;31.01;0.12,84.10,43.13,105.00,31.01,Ball Recovery,False
+131342,486,ROMANIA,18555.0,RAZVAN MARIN,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",2,2t,7,21,7,33,105.00;31.01;0.12,105.00;31.01;0.12,84.10,43.13,105.00,31.01,Pass,True
+131342,486,ROMANIA,11106.0,NICOLAE STANCIU,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,10,48,11,0,105.00;31.88;0.41,105.00;31.88;0.41,85.75,37.69,94.53,36.35,"Offensive
+Action",True
+131342,486,ROMANIA,19590.0,ANDREI RATIU,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,10,56,11,8,105.00;37.11;1.81,105.00;37.11;1.81,100.04,47.31,102.28,36.47,Pass,True
+131342,486,ROMANIA,19571.0,DENIS DRAGUS,25,Goal,"Left, From inside the Penalty Area, Corner",2,2t,11,24,11,36,105.00;34.16;0.45,105.00;34.16;0.45,101.69,35.26,105.00,34.16,Pass,False
+131342,486,ROMANIA,19571.0,DENIS DRAGUS,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,11,24,11,36,105.00;34.16;0.45,105.00;34.16;0.45,101.69,35.26,105.00,34.16,Goal,True
+131342,577,UCRAINA,7845.0,ANDRIY YARMOLENKO,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,19,5,19,17,0.00;32.64;4.50,105.00;35.36;4.50,90.42,39.44,105.00,35.36,Set Pieces,False
+131342,486,ROMANIA,11106.0,NICOLAE STANCIU,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,22,39,22,51,105.00;29.42;1.22,105.00;29.42;1.22,97.22,3.50,105.00,29.42,Foul,False
+131342,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",2,2t,25,3,25,15,0.00;35.43;4.50,105.00;32.57;4.50,83.81,21.95,92.55,30.90,Shot Against,False
+131342,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,31,7,31,19,0.00;34.37;1.38,105.00;33.63;1.38,79.33,33.90,101.75,35.67,Shot Against,True
+131342,577,UCRAINA,17326.0,ROMAN YAREMCHUK,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,32,5,32,17,0.00;31.21;0.69,105.00;36.79;0.69,84.00,35.26,91.88,38.42,"Possession 
+Lost",True
+131342,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,38,23,38,35,0.00;37.98;2.99,105.00;30.02;2.99,96.06,23.61,105.00,30.02,Shot Against,False
+131342,577,UCRAINA,17326.0,ROMAN YAREMCHUK,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,46,9,46,21,0.00;33.75;2.73,105.00;34.25;2.73,95.18,44.78,105.00,34.25,Shot Against,False
+131342,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,48,19,48,31,0.00;34.00;0.18,105.00;34.00;0.18,75.35,24.48,100.83,35.90,Shot Against,True

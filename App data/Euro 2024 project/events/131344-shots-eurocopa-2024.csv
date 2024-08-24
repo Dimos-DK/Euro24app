@@ -1,0 +1,25 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131344,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,1,5,1,17,105.00;37.34;0.08,105.00;37.34;0.08,91.93,45.06,102.42,35.67,Cross Against,True
+131344,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,3,28,3,40,105.00;36.19;0.18,105.00;36.19;0.18,79.68,39.05,86.32,35.55,Pass,True
+131344,579,TURCHIA,26395.0,KEREM AKTURKOGLU,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,4,35,4,47,0.00;26.52;0.13,105.00;41.48;0.13,92.97,37.27,105.00,41.48,Shot Against,False
+131344,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,7,29,7,41,105.00;22.93;2.32,105.00;22.93;2.32,98.17,32.22,105.00,22.93,Ball Line Out,False
+131344,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,19,54,21,7,105.00;37.57;1.06,105.00;37.57;1.06,95.50,36.30,105.00,37.57,"Offensive
+Action",False
+131344,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",1,1t,20,55,21,7,105.00;37.57;1.06,105.00;37.57;1.06,95.50,36.30,105.00,37.57,"Decisive
+ Action",True
+131344,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,23,41,23,53,105.00;41.74;0.19,105.00;41.74;0.19,90.52,25.54,105.00,41.74,Intercept,False
+131344,427,PORTOGALLO,,,25,Goal,"Right, From outside the Penalty Area, Own Goal, Offensive Action",1,1t,27,48,28,6,105.00;35.13;0.12,105.00;35.13;0.12,87.18,45.73,105.00,35.13,Pass,False
+131344,579,TURCHIA,26395.0,KEREM AKTURKOGLU,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,30,13,30,25,0.00;37.22;0.12,105.00;30.78;0.12,95.20,23.31,102.55,32.51,Dribbling,True
+131344,579,TURCHIA,21550.0,ORKUN KOKCU,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,31,28,31,40,0.00;30.89;0.66,105.00;37.11;0.66,92.75,42.91,96.85,42.10,Set Pieces,True
+131344,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,34,40,34,52,105.00;40.37;4.50,105.00;40.37;4.50,93.34,47.88,105.00,40.37,Pass,False
+131344,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,35,57,36,9,105.00;37.94;3.44,105.00;37.94;3.44,88.29,24.87,105.00,37.94,Pass,False
+131344,579,TURCHIA,21550.0,ORKUN KOKCU,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,40,9,40,21,0.00;37.36;0.08,105.00;30.64;0.08,82.13,28.43,102.15,34.29,Shot Against,True
+131344,579,TURCHIA,21439.0,YUSUF YAZICI,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,7,46,7,58,105.00;33.40;0.28,105.00;33.40;0.28,80.20,47.51,102.28,34.29,Shot Against,True
+131344,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,25,Goal,"Right, From inside the Penalty Area, Lateral Free Kick",2,2t,10,7,10,19,0.00;33.88;0.18,105.00;34.12;0.18,97.28,32.52,105.00,34.12,Pass,False
+131344,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,10,7,10,19,0.00;33.88;0.18,105.00;34.12;0.18,97.28,32.52,105.00,34.12,Goal,True
+131344,579,TURCHIA,21439.0,YUSUF YAZICI,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,14,38,14,50,105.00;31.70;0.35,105.00;31.70;0.35,85.40,21.23,87.25,24.01,"Possession 
+Lost",True
+131344,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,18,0,18,12,105.00;38.48;6.50,105.00;38.48;6.50,83.69,18.48,105.00,38.48,Shot Against,False
+131344,579,TURCHIA,34287.0,ARDA GULER,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",2,2t,35,37,35,49,105.00;31.19;0.96,105.00;31.19;0.96,77.97,45.95,81.09,40.83,Shot Against,True
+131344,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,44,32,44,44,0.00;30.98;0.18,105.00;37.02;0.18,93.71,30.36,96.06,31.36,Pass,True
+131344,427,PORTOGALLO,7473.0,RUBEN DIOGO DA SILVA NEVES,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,49,36,49,48,0.00;37.18;6.50,105.00;30.82;6.50,78.00,44.52,105.00,30.82,Pass,False

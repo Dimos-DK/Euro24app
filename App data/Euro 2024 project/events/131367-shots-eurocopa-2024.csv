@@ -1,0 +1,43 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131367,579,TURCHIA,14828.0,KAAN AYHAN,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,5,25,5,37,0.00;29.79;3.21,105.00;38.21;3.21,98.39,33.93,105.00,38.21,Set Pieces,False
+131367,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,6,47,6,59,0.00;36.81;0.08,105.00;31.19;0.08,84.88,49.96,94.93,41.29,Shot Against,True
+131367,579,TURCHIA,35499.0,ABDULKERIM BARDAKCI,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,9,0,9,12,0.00;38.49;0.13,105.00;29.51;0.13,98.17,32.07,105.00,29.51,Set Pieces,False
+131367,579,TURCHIA,14828.0,KAAN AYHAN,5,Shot,"Post, Right, From outside the Penalty Area, Off Target",1,1t,9,40,9,52,0.00;37.68;0.01,105.00;30.32;0.01,85.77,27.24,105.00,30.32,Possession Phase,False
+131367,461,GEORGIA,42398.0,ANZOR MEKVABISHVILI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",1,1t,10,51,11,3,105.00;31.10;0.18,105.00;31.10;0.18,80.35,34.67,88.44,35.67,Pass,True
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,11,33,11,45,105.00;42.43;2.96,105.00;42.43;2.96,88.37,21.97,105.00,42.43,Intercept,False
+131367,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,13,22,13,34,0.00;33.88;1.85,105.00;34.12;1.85,97.50,17.22,101.89,32.62,Shot Against,True
+131367,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,20,29,20,41,0.00;39.79;0.10,105.00;28.21;0.10,91.19,25.76,105.00,28.21,Shot Against,False
+131367,579,TURCHIA,21550.0,ORKUN KOKCU,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,22,26,22,38,0.00;33.75;0.79,105.00;34.25;0.79,81.09,24.35,91.35,30.67,Shot Against,True
+131367,579,TURCHIA,17563.0,MERT MULDUR,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,23,58,25,6,0.00;30.62;1.81,105.00;37.38;1.81,89.11,42.17,105.00,37.38,GK Play,False
+131367,579,TURCHIA,17563.0,MERT MULDUR,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",1,1t,24,54,25,6,0.00;30.62;1.81,105.00;37.38;1.81,89.11,42.17,105.00,37.38,Shot Against,True
+131367,461,GEORGIA,39056.0,GEORGIY TSITAISHVILI,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,29,9,29,21,105.00;31.24;0.96,105.00;31.24;0.96,97.43,16.78,102.42,30.90,Pass,True
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,29,52,31,53,105.00;37.15;0.15,105.00;37.15;0.15,96.46,42.31,105.00,37.15,"Offensive
+Action",False
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,31,41,31,53,105.00;37.15;0.15,105.00;37.15;0.15,96.46,42.31,105.00,37.15,Cross Against,True
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,34,47,34,59,105.00;29.23;0.13,105.00;29.23;0.13,94.08,36.90,105.00,29.23,"Duel 
+Won",False
+131367,461,GEORGIA,53252.0,GIORGI KOCHORASHVILI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,36,28,36,40,105.00;31.47;0.61,105.00;31.47;0.61,85.99,32.22,87.11,32.85,Intercept,True
+131367,579,TURCHIA,14828.0,KAAN AYHAN,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,39,27,39,39,0.00;33.79;0.21,105.00;34.21;0.21,93.71,30.07,93.74,29.75,Set Pieces,True
+131367,579,TURCHIA,20912.0,FERDI KADIOGLU,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,40,40,40,52,0.00;16.72;7.50,105.00;51.28;7.50,64.38,33.03,105.00,51.28,Shot Against,False
+131367,579,TURCHIA,17563.0,MERT MULDUR,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,0,24,0,36,105.00;34.71;1.55,105.00;34.71;1.55,98.02,38.60,102.42,35.09,Cross,True
+131367,579,TURCHIA,29786.0,BARIS ALPER YILMAZ,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,2,32,2,44,105.00;32.02;0.45,105.00;32.02;0.45,95.35,41.72,95.20,39.23,Shot Against,True
+131367,461,GEORGIA,39056.0,GEORGIY TSITAISHVILI,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,3,26,3,38,0.00;36.62;0.61,105.00;31.38;0.61,98.39,18.63,102.55,31.01,Cross Against,True
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,5,57,6,9,0.00;33.06;1.32,105.00;34.94;1.32,97.87,33.70,97.65,34.63,"Possession 
+Lost",True
+131367,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",2,2t,11,19,11,31,105.00;34.00;0.92,105.00;34.00;0.92,78.49,27.69,102.42,33.77,Shot Against,True
+131367,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,14,3,14,15,105.00;31.10;0.18,105.00;31.10;0.18,88.14,19.67,89.90,22.74,Shot Against,True
+131367,579,TURCHIA,17563.0,MERT MULDUR,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,14,51,15,3,105.00;31.51;0.18,105.00;31.51;0.18,83.47,45.73,85.66,42.33,Shot Against,True
+131367,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,15,6,15,18,105.00;28.49;0.10,105.00;28.49;0.10,84.65,41.79,84.86,40.95,Shot Against,False
+131367,461,GEORGIA,31347.0,KHVICHA KVARATSKHELIA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,16,46,16,58,0.00;25.31;0.04,105.00;42.69;0.04,95.20,26.13,105.00,42.69,Pass,False
+131367,579,TURCHIA,34287.0,ARDA GULER,25,Goal,"Left, From outside the Penalty Area, Offensive Action",2,2t,19,49,20,4,105.00;30.59;1.95,105.00;30.59;1.95,83.84,46.69,105.00,30.59,Ball Recovery,False
+131367,579,TURCHIA,34287.0,ARDA GULER,5,Shot,"On Target, Goal, Left, From outside the Penalty Area",2,2t,19,52,20,4,105.00;30.59;1.95,105.00;30.59;1.95,83.84,46.69,105.00,30.59,Shot Against,True
+131367,461,GEORGIA,53252.0,GIORGI KOCHORASHVILI,5,Shot,"Post, Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,24,13,24,25,0.00;31.21;2.44,105.00;36.79;2.44,93.56,35.86,105.00,36.79,"Dribbling
+ Suffered",False
+131367,579,TURCHIA,21550.0,ORKUN KOKCU,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,26,24,26,36,105.00;37.34;0.41,105.00;37.34;0.41,47.00,33.03,96.72,34.00,Shot Against,True
+131367,579,TURCHIA,21439.0,YUSUF YAZICI,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,41,21,41,33,105.00;33.31;1.88,105.00;33.31;1.88,97.50,32.74,102.55,34.29,Shot Against,True
+131367,461,GEORGIA,27393.0,GEORGES MIKAUTADZE,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,47,45,47,57,0.00;37.98;0.64,105.00;30.02;0.64,97.95,32.14,105.00,30.02,"Duel 
+Lost",False
+131367,461,GEORGIA,31347.0,KHVICHA KVARATSKHELIA,5,Shot,"Post, Right, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,50,23,50,35,0.00;30.34;1.21,105.00;37.66;1.21,71.81,9.13,105.00,37.66,Foul,False
+131367,461,GEORGIA,27386.0,ZURIKO DAVITASHVILI,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,50,27,50,39,0.00;33.75;0.92,105.00;34.25;0.92,93.79,39.20,100.83,35.44,Set Pieces Against,True
+131367,579,TURCHIA,26395.0,KEREM AKTURKOGLU,25,Goal,"Right, From outside the Penalty Area, Corner, Offensive Action",2,2t,51,20,51,39,105.00;31.33;0.12,105.00;31.33;0.12,84.36,45.21,105.00,31.33,Ball Recovery,False
+131367,579,TURCHIA,26395.0,KEREM AKTURKOGLU,5,Shot,"On Target, Goal, Big Chance, Right, From outside the Penalty Area",2,2t,51,27,51,39,105.00;31.33;0.12,105.00;31.33;0.12,84.36,45.21,105.00,31.33,Shot Against,True

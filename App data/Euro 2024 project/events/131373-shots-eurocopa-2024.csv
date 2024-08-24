@@ -1,0 +1,39 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131373,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,5,42,5,54,0.00;30.62;0.12,105.00;37.38;0.12,81.91,32.20,101.89,35.32,Shot Against,True
+131373,423,FRANCIA,15562.0,THEO BERNARD FRANCOIS HERNANDEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,10,37,10,49,105.00;30.69;0.08,105.00;30.69;0.08,98.60,22.43,102.68,31.13,Cross Against,True
+131373,488,POLONIA,20280.0,SEBASTIAN SZYMANSKI,5,Shot,"On Target, Promising Action, Left, From inside the Penalty Area, Deflected",1,1t,13,29,13,41,0.00;31.12;0.82,105.00;36.88;0.82,90.18,18.76,92.15,21.88,Shot Against,True
+131373,488,POLONIA,26263.0,KACPER URBANSKI,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,14,5,14,17,0.00;35.29;1.25,105.00;32.71;1.25,92.85,32.13,102.55,34.00,Shot Against,True
+131373,488,POLONIA,23936.0,JAKUB MODER,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,16,47,16,59,0.00;29.01;6.50,105.00;38.99;6.50,77.67,22.79,105.00,38.99,Shot Against,False
+131373,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,18,38,18,50,105.00;35.82;0.89,105.00;35.82;0.89,96.80,43.34,101.22,38.65,Pass,True
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,33,11,33,23,0.00;38.68;0.96,105.00;29.32;0.96,96.30,36.80,105.00,29.32,Shot Against,False
+131373,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,35,56,36,8,105.00;35.13;0.15,105.00;35.13;0.15,74.22,23.58,86.58,31.59,"Possession 
+Lost",True
+131373,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,37,3,37,15,105.00;30.87;0.12,105.00;30.87;0.12,86.73,35.80,87.11,34.29,Pass,True
+131373,423,FRANCIA,30184.0,WILLIAM SALIBA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,37,36,37,48,105.00;30.46;3.08,105.00;30.46;3.08,92.92,33.71,105.00,30.46,Ball Line Out,False
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,38,14,38,26,0.00;24.12;0.07,105.00;43.88;0.07,77.24,33.28,105.00,43.88,Shot Against,False
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,41,8,41,20,105.00;37.52;0.38,105.00;37.52;0.38,100.54,24.30,102.28,29.52,Pass,True
+131373,423,FRANCIA,14949.0,DAYOT UPAMECANO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,41,32,41,44,105.00;28.68;7.50,105.00;28.68;7.50,97.88,33.86,105.00,28.68,"Duel 
+Won",False
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"GK Save, Right, On Target, From inside the Penalty Area",1,1t,44,23,44,35,105.00;32.20;0.25,105.00;32.20;0.25,102.27,24.08,102.81,28.72,"Decisive
+ Action",True
+131373,423,FRANCIA,11041.0,N'GOLO KANTE',5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,2,48,3,0,0.00;31.03;0.92,105.00;36.97;0.92,87.02,34.22,93.87,37.62,Pass,True
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,3,26,3,38,0.00;31.12;0.51,105.00;36.88;0.51,91.19,18.76,102.28,33.54,Pass,True
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,3,53,4,5,0.00;29.18;0.22,105.00;38.82;0.22,86.88,20.92,105.00,38.82,"Dribbling
+ Suffered",False
+131373,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,5,40,5,52,0.00;30.94;0.76,105.00;37.06;0.76,90.26,50.75,92.15,49.97,"Possession 
+Lost",True
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",2,2t,10,35,11,47,0.00;30.66;0.51,105.00;37.34;0.51,93.71,33.78,105.00,37.34,Set Pieces,False
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",2,2t,10,35,10,47,0.00;30.66;0.51,105.00;37.34;0.51,93.71,33.78,105.00,37.34,Goal,True
+131373,423,FRANCIA,32536.0,BRADLEY BARCOLA,5,Shot,"GK Save, Left, On Target, From inside the Penalty Area",2,2t,13,24,13,36,0.00;36.21;0.73,105.00;31.79;0.73,100.83,22.71,102.15,30.44,"Dribbling
+ Suffered",True
+131373,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",2,2t,20,7,20,19,0.00;31.40;0.12,105.00;36.60;0.12,78.82,39.97,87.51,38.19,Possession Phase,True
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,26,23,26,35,105.00;28.68;0.22,105.00;28.68;0.22,79.25,25.81,105.00,28.68,"Offensive
+Action",False
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",2,2t,33,10,34,19,105.00;30.64;0.12,105.00;30.64;0.12,93.85,34.29,105.00,30.64,Set Pieces,False
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",2,2t,33,10,33,22,105.00;30.64;0.12,105.00;30.64;0.12,93.85,34.29,105.00,30.64,Goal,True
+131373,488,POLONIA,7449.0,ROBERT LEWANDOWSKI,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,36,20,36,32,105.00;28.49;4.50,105.00;28.49;4.50,97.38,19.84,105.00,28.49,Ball Line Out,False
+131373,488,POLONIA,26263.0,KACPER URBANSKI,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,38,55,39,7,105.00;35.22;1.06,105.00;35.22;1.06,79.76,27.89,85.26,28.95,"Possession 
+Lost",True
+131373,423,FRANCIA,7723.0,OLIVIER GIROUD,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,39,42,39,54,0.00;30.75;0.61,105.00;37.25;0.61,93.42,36.23,96.32,36.35,Pass,True
+131373,423,FRANCIA,30850.0,YOUSSOUF FOFANA,5,Shot,"Off Target, Blocked, Right, From outside the Penalty Area",2,2t,41,50,42,2,0.00;39.60;0.07,105.00;28.40;0.07,84.00,24.87,92.15,26.88,Pass,False
+131373,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",2,2t,46,20,46,32,0.00;35.75;1.25,105.00;32.25;1.25,86.95,24.51,91.35,26.30,Pass,True

@@ -1,0 +1,33 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+133246,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,0,33,0,45,0.00;40.62;0.13,105.00;27.38;0.13,91.21,36.55,105.00,27.38,Shot Against,False
+133246,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,4,53,5,5,105.00;30.82;0.05,105.00;30.82;0.05,82.92,18.67,102.55,31.93,Pass,True
+133246,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"Post, Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,6,8,6,20,105.00;30.34;0.92,105.00;30.34;0.92,91.61,41.14,105.00,30.34,"Duel 
+Lost",False
+133246,414,COLOMBIA,21776.0,CARLOS ECCEHOMO CUESTA FIGUEROA,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,12,4,12,16,105.00;31.61;0.25,105.00;31.61;0.25,97.91,32.95,102.81,32.16,Set Pieces Against,True
+133246,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area, Deflected",1,1t,19,40,19,52,0.00;36.49;0.51,105.00;31.51;0.51,92.61,28.56,98.18,31.47,Shot Against,True
+133246,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,32,16,32,28,105.00;30.82;1.06,105.00;30.82;1.06,73.13,26.96,102.81,32.05,"Dribbling
+ Suffered",True
+133246,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,39,19,39,31,105.00;26.37;0.90,105.00;26.37;0.90,91.91,26.56,105.00,26.37,Cross Against,False
+133246,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,40,11,40,23,105.00;36.65;0.25,105.00;36.65;0.25,74.33,44.73,102.81,35.90,"Defensive
+Action",True
+133246,421,ARGENTINA,15904.0,NICOLAS TAGLIAFICO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,43,25,43,37,0.00;34.00;4.50,105.00;34.00;4.50,95.31,31.85,105.00,34.00,Set Pieces,False
+133246,414,COLOMBIA,10386.0,SANTIAGO ARIAS NARANJO,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,1,56,2,8,0.00;39.60;0.04,105.00;28.40;0.04,90.91,48.33,105.00,28.40,Pass,False
+133246,421,ARGENTINA,7512.0,ANGEL DI MARIA,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,2,58,3,10,105.00;31.56;0.12,105.00;31.56;0.12,94.91,20.17,97.65,22.46,Shot Against,True
+133246,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,8,8,8,20,0.00;23.33;0.28,105.00;44.67;0.28,82.52,20.47,86.58,23.43,Pass,False
+133246,414,COLOMBIA,14259.0,DAVINSON SANCHEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,8,39,8,51,0.00;30.71;3.18,105.00;37.29;3.18,99.61,36.65,105.00,37.29,Ball Line Out,False
+133246,421,ARGENTINA,32684.0,ALEXIS MAC ALLISTER,5,Shot,"On Target, Blocked, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,11,40,11,52,105.00;32.76;0.66,105.00;32.76;0.66,92.51,28.46,96.72,32.28,Shot Against,True
+133246,421,ARGENTINA,7512.0,ANGEL DI MARIA,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,12,21,12,33,105.00;32.66;0.28,105.00;32.66;0.28,94.51,18.17,102.28,30.67,Shot Against,True
+133246,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,16,52,17,4,0.00;37.08;6.50,105.00;30.92;6.50,76.83,30.46,105.00,30.92,Pass,False
+133246,414,COLOMBIA,21776.0,CARLOS ECCEHOMO CUESTA FIGUEROA,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,33,15,33,27,0.00;25.83;1.28,105.00;42.17;1.28,94.91,35.65,105.00,42.17,Ball Line Out,False
+133246,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",2,2t,36,40,36,52,0.00;36.58;1.19,105.00;31.42;1.19,80.42,18.87,91.75,24.58,Foul,True
+133246,421,ARGENTINA,26456.0,NICOLAS GONZALEZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,47,4,47,16,105.00;32.62;6.50,105.00;32.62;6.50,97.41,36.25,105.00,32.62,Shot Against,False
+133246,421,ARGENTINA,26456.0,NICOLAS GONZALEZ,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",3,1t sup,4,5,4,17,105.00;32.85;0.18,105.00;32.85;0.18,96.21,30.26,102.68,32.85,"Defensive
+Action",True
+133246,414,COLOMBIA,53534.0,JUAN FERNANDO QUINTERO PANIAGUA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",3,1t sup,6,47,6,59,0.00;34.97;0.25,105.00;33.03;0.25,74.03,33.25,89.23,33.77,"Possession 
+Lost",True
+133246,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",3,1t sup,10,56,11,8,0.00;30.94;1.09,105.00;37.06;1.09,78.92,34.05,87.91,34.40,Pass,True
+133246,414,COLOMBIA,31361.0,JORGE CARRASCAL,5,Shot,"Right, From outside the Penalty Area, Off Target",4,2t sup,0,28,0,40,105.00;21.21;0.22,105.00;21.21;0.22,76.83,18.87,105.00,21.21,Pass,False
+133246,414,COLOMBIA,16565.0,MIGUEL BORJA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",4,2t sup,3,38,3,50,105.00;27.66;0.16,105.00;27.66;0.16,94.41,20.27,97.51,23.66,Pass,False
+133246,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",4,2t sup,6,1,6,23,0.00;36.90;1.19,105.00;31.10;1.19,91.61,48.73,105.00,31.10,Pass,False
+133246,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",4,2t sup,6,11,6,23,0.00;36.90;1.19,105.00;31.10;1.19,91.61,48.73,105.00,31.10,Shot Against,True
+133246,414,COLOMBIA,16562.0,MATEUS URIBE,5,Shot,"Right, From outside the Penalty Area, Off Target",4,2t sup,14,26,14,38,105.00;31.84;4.50,105.00;31.84;4.50,74.43,42.34,105.00,31.84,Pass,False

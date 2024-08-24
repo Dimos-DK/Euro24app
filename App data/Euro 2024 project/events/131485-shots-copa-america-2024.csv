@@ -1,0 +1,46 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131485,243,BRASILE,58498.0,JOAO VICTOR GOMES DA SILVA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,5,17,5,29,105.00;38.56;4.50,105.00;38.56;4.50,80.28,41.28,105.00,38.56,Pass,False
+131485,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,8,8,8,20,0.00;40.62;0.19,105.00;27.38;0.19,95.76,10.95,105.00,27.38,Set Pieces,False
+131485,787,PARAGUAY,68174.0,DAMIAN JOSUE' BOBADILLA BENITEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,14,19,14,31,0.00;36.76;1.75,105.00;31.24;1.75,75.66,41.38,101.62,36.47,Shot Against,True
+131485,787,PARAGUAY,113190.0,ALEX ARCE,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,16,2,16,14,0.00;33.95;1.09,105.00;34.05;1.09,83.50,25.01,86.72,26.07,"Possession 
+Lost",True
+131485,787,PARAGUAY,113190.0,ALEX ARCE,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,18,31,18,43,0.00;45.80;0.13,105.00;22.20;0.13,44.91,26.42,105.00,22.20,Shot Against,False
+131485,243,BRASILE,7431.0,MARCOS AOAS CORREA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,22,21,22,33,105.00;-1.00;3.47,105.00;-1.00;3.47,99.07,35.86,105.00,0.00,"Duel 
+Won",False
+131485,787,PARAGUAY,68174.0,DAMIAN JOSUE' BOBADILLA BENITEZ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,28,47,28,59,0.00;35.57;1.85,105.00;32.43;1.85,92.94,29.83,102.55,32.74,"Defensive
+Action",True
+131485,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,29,5,29,17,105.00;51.28;0.10,105.00;51.28;0.10,84.20,22.00,91.62,25.96,"Decisive
+ Action",False
+131485,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Left, Penalty, From inside the Penalty Area, Off Target",1,1t,30,56,31,8,105.00;39.34;1.95,105.00;39.34;1.95,94.00,34.00,105.00,39.34,Set Pieces,False
+131485,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,33,28,34,51,105.00;35.45;0.21,105.00;35.45;0.21,96.86,40.48,105.00,35.45,Pass,False
+131485,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,34,39,34,51,105.00;35.45;0.21,105.00;35.45;0.21,96.86,40.48,105.00,35.45,"Dribbling
+ Suffered",True
+131485,787,PARAGUAY,26474.0,MATHIAS VILLASANTI,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,39,26,39,38,0.00;37.89;4.50,105.00;30.11;4.50,95.56,32.44,105.00,30.11,Shot Against,False
+131485,243,BRASILE,23388.0,BRUNO GUIMARAES RODRIGUEZ MOURA,5,Shot,"Post, Right, From outside the Penalty Area, Off Target",1,1t,42,4,42,16,105.00;33.91;2.44,105.00;33.91;2.44,87.01,34.35,105.00,33.91,"Dribbling
+ Suffered",False
+131485,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,42,11,42,42,105.00;35.13;0.28,105.00;35.13;0.28,102.09,38.47,105.00,35.13,"Offensive
+Action",False
+131485,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,42,29,42,41,105.00;31.05;1.02,105.00;31.05;1.02,96.56,22.90,101.49,30.55,"Dribbling
+ Suffered",True
+131485,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",1,1t,42,30,42,42,105.00;35.13;0.28,105.00;35.13;0.28,102.09,38.47,105.00,35.13,Shot Against,True
+131485,787,PARAGUAY,68174.0,DAMIAN JOSUE' BOBADILLA BENITEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,44,38,44,50,0.00;36.58;0.05,105.00;31.42;0.05,75.96,33.85,101.36,31.13,"Defensive
+Action",True
+131485,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,49,20,49,39,105.00;31.28;0.08,105.00;31.28;0.08,99.88,28.22,105.00,31.28,"Offensive
+Action",False
+131485,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,49,27,49,39,105.00;31.28;0.08,105.00;31.28;0.08,99.88,28.22,105.00,31.28,Pass,True
+131485,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",2,2t,2,18,2,30,105.00;31.15;1.45,105.00;31.15;1.45,77.57,19.49,87.78,22.23,Set Pieces,True
+131485,787,PARAGUAY,23794.0,OMAR FEDERICO ALDERETE FERNANDEZ,25,Goal,"Left, From outside the Penalty Area, Direct Free Kick",2,2t,2,43,2,55,105.00;37.38;0.21,105.00;37.38;0.21,80.89,43.99,105.00,37.38,Shot Against,False
+131485,787,PARAGUAY,23794.0,OMAR FEDERICO ALDERETE FERNANDEZ,5,Shot,"On Target, Goal, Left, From outside the Penalty Area",2,2t,2,43,2,55,105.00;37.38;0.21,105.00;37.38;0.21,80.89,43.99,105.00,37.38,Goal,True
+131485,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,5,7,5,19,105.00;32.30;1.75,105.00;32.30;1.75,92.14,13.86,102.55,31.70,Shot Against,True
+131485,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",2,2t,8,58,9,10,0.00;30.66;1.15,105.00;37.34;1.15,71.04,44.60,101.89,35.67,Foul,True
+131485,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,17,18,17,30,0.00;31.31;0.99,105.00;36.69;0.99,89.02,48.21,92.15,43.25,"Decisive
+ Action",True
+131485,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",2,2t,19,41,20,48,0.00;31.03;0.45,105.00;36.97;0.45,94.00,34.00,105.00,36.97,Set Pieces,False
+131485,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",2,2t,19,41,19,53,0.00;31.03;0.45,105.00;36.97;0.45,94.00,34.00,105.00,36.97,Goal,True
+131485,787,PARAGUAY,11341.0,MIGUEL ALMIRON,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,21,34,21,46,105.00;31.01;0.48,105.00;31.01;0.48,82.69,42.49,102.02,32.62,Shot Against,True
+131485,243,BRASILE,23388.0,BRUNO GUIMARAES RODRIGUEZ MOURA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,22,54,23,6,0.00;26.00;3.21,105.00;42.00;3.21,79.28,41.99,92.41,39.57,Pass,False
+131485,787,PARAGUAY,43831.0,GUSTAVO VELAZQUEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,25,36,25,48,105.00;38.09;3.24,105.00;38.09;3.24,91.84,31.64,105.00,38.09,"Duel 
+Won",False
+131485,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,27,53,28,5,0.00;37.13;5.50,105.00;30.87;5.50,90.03,18.58,105.00,30.87,Pass,False
+131485,787,PARAGUAY,11339.0,FABIAN BALBUENA,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,39,7,39,19,105.00;42.77;0.19,105.00;42.77;0.19,92.34,41.28,105.00,42.77,Ball Line Out,False
+131485,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",2,2t,45,7,45,19,0.00;28.75;0.25,105.00;39.25;0.25,92.64,49.42,95.33,41.98,Possession Phase,False

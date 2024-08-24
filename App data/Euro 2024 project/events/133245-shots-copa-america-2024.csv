@@ -1,0 +1,47 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+133245,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",1,1t,7,10,7,22,105.00;3.92;0.22,105.00;3.92;0.22,76.63,17.23,91.75,27.11,Foul,False
+133245,246,URUGUAY,14080.0,RODRIGO BENTANCUR,25,Goal,"Left, From inside the Penalty Area, Corner",1,1t,7,28,7,40,105.00;32.80;2.14,105.00;32.80;2.14,100.51,26.40,105.00,32.80,"Duel 
+Lost",False
+133245,246,URUGUAY,14080.0,RODRIGO BENTANCUR,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",1,1t,7,28,7,40,105.00;32.80;2.14,105.00;32.80;2.14,100.51,26.40,105.00,32.80,Goal,True
+133245,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,17,37,17,49,105.00;31.51;0.21,105.00;31.51;0.21,96.12,22.84,102.02,30.21,Pass,True
+133245,3914,CANADA,36782.0,RICHIE LARYEA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,18,10,18,22,0.00;28.15;4.50,105.00;39.85;4.50,79.08,17.64,105.00,39.85,Shot Against,False
+133245,3914,CANADA,36785.0,ISMAEL KONE',25,Goal,"Right, From inside the Penalty Area, Corner",1,1t,21,0,21,12,0.00;32.18;1.12,105.00;35.82;1.12,98.67,27.22,105.00,35.82,Shot Against,False
+133245,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,21,0,21,12,0.00;32.18;1.12,105.00;35.82;1.12,98.67,27.22,105.00,35.82,Goal,True
+133245,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,31,2,31,14,0.00;58.45;0.04,105.00;9.55;0.04,93.37,29.26,105.00,9.55,Shot Against,False
+133245,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,36,26,36,38,105.00;31.84;3.05,105.00;31.84;3.05,84.59,25.49,105.00,31.84,Set Pieces,False
+133245,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,40,54,41,6,0.00;28.84;2.88,105.00;39.16;2.88,96.33,29.46,105.00,39.16,Cross,False
+133245,3914,CANADA,36786.0,JONATHAN OSORIO,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,42,53,43,5,0.00;33.84;0.79,105.00;34.16;0.79,93.78,37.62,97.38,36.12,Shot Against,True
+133245,3914,CANADA,36786.0,JONATHAN OSORIO,5,Shot,"On Target, Blocked, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,42,55,43,7,0.00;31.17;0.58,105.00;36.83;0.58,94.90,35.17,103.08,36.24,GK Claim,True
+133245,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,14,50,15,2,105.00;34.30;0.21,105.00;34.30;0.21,94.18,38.13,99.10,35.67,"Defensive
+Action",True
+133245,246,URUGUAY,26464.0,PAUL BRIAN RODRIGUEZ BRAVO,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",2,2t,24,4,24,16,0.00;9.89;0.22,105.00;58.11;0.22,95.20,46.49,98.84,40.83,Cross Against,False
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,24,37,24,49,0.00;32.46;0.79,105.00;35.54;0.79,91.53,17.64,102.15,33.66,"Defensive
+Action",True
+133245,3914,CANADA,22446.0,ALPHONSO DAVIES,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,25,10,25,22,105.00;36.88;0.02,105.00;36.88;0.02,79.08,28.65,100.30,35.09,Shot Against,True
+133245,3914,CANADA,49309.0,MOISE BOMBITO LUMPUNGU,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,28,16,28,28,105.00;37.66;4.50,105.00;37.66;4.50,95.82,33.03,105.00,37.66,Set Pieces,False
+133245,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",2,2t,32,8,32,20,0.00;37.31;3.11,105.00;30.69;3.11,90.20,46.69,92.28,45.08,"Dribbling
+ Suffered",False
+133245,3914,CANADA,23346.0,JONATHAN DAVID,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,34,20,34,44,105.00;37.02;0.18,105.00;37.02;0.18,93.57,40.78,105.00,37.02,GK Play,False
+133245,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,34,30,34,42,105.00;32.39;0.66,105.00;32.39;0.66,82.24,43.94,100.43,35.32,Shot Against,True
+133245,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,34,32,34,44,105.00;37.02;0.18,105.00;37.02;0.18,93.57,40.78,105.00,37.02,Shot Against,True
+133245,246,URUGUAY,7671.0,JOSE' MARIA GIMENEZ,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,37,50,38,2,0.00;37.27;5.50,105.00;30.73;5.50,98.37,28.24,105.00,30.73,Set Pieces,False
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,46,1,46,13,0.00;31.17;0.69,105.00;36.83;0.69,95.51,44.86,101.09,37.16,"Dribbling
+ Suffered",True
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,46,24,46,54,0.00;36.81;1.95,105.00;31.19;1.95,95.82,30.69,105.00,31.19,Pass,False
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,46,42,46,54,0.00;36.81;1.95,105.00;31.19;1.95,95.82,30.69,105.00,31.19,Pass,True
+133245,3914,CANADA,23346.0,JONATHAN DAVID,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,0,0,6,0.00;34.09;1.02,0.00;34.09;1.02,11.33,34.33,0.00,34.09,Set Pieces,False
+133245,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,0,0,10,0.00;34.09;1.02,0.00;34.09;1.02,11.33,34.33,0.00,34.09,Goal,True
+133245,246,URUGUAY,16801.0,FEDERICO VALVERDE,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,1,0,7,105.00;30.73;0.08,105.00;30.73;0.08,93.98,34.56,105.00,30.73,Set Pieces,False
+133245,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,1,0,13,105.00;30.73;0.08,105.00;30.73;0.08,93.98,34.56,105.00,30.73,Goal,True
+133245,3914,CANADA,49309.0,MOISE BOMBITO LUMPUNGU,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,1,36,1,42,0.00;31.40;0.28,0.00;31.40;0.28,11.33,33.75,0.00,31.40,Set Pieces,False
+133245,3914,CANADA,49309.0,MOISE BOMBITO LUMPUNGU,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,1,36,1,48,0.00;31.40;0.28,0.00;31.40;0.28,11.33,33.75,0.00,31.40,Goal,True
+133245,246,URUGUAY,14080.0,RODRIGO BENTANCUR,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,2,19,2,25,105.00;30.78;2.04,105.00;30.78;2.04,93.78,34.36,105.00,30.78,Set Pieces,False
+133245,246,URUGUAY,14080.0,RODRIGO BENTANCUR,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,2,19,2,31,105.00;30.78;2.04,105.00;30.78;2.04,93.78,34.36,105.00,30.78,Goal,True
+133245,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,3,15,3,27,0.00;36.90;0.21,0.00;36.90;0.21,11.22,34.36,1.39,34.11,Set Pieces,True
+133245,246,URUGUAY,13443.0,GIORGIAN DE ARRASCAETA,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,3,58,4,4,105.00;35.54;1.45,105.00;35.54;1.45,93.98,34.15,105.00,35.54,Set Pieces,False
+133245,246,URUGUAY,13443.0,GIORGIAN DE ARRASCAETA,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,3,58,4,10,105.00;35.54;1.45,105.00;35.54;1.45,93.98,34.15,105.00,35.54,Goal,True
+133245,3914,CANADA,11695.0,MATHIEU CHOINIERE,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,4,50,4,56,0.00;37.08;1.78,0.00;37.08;1.78,11.73,34.36,0.00,37.08,Set Pieces,False
+133245,3914,CANADA,11695.0,MATHIEU CHOINIERE,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,4,50,5,2,0.00;37.08;1.78,0.00;37.08;1.78,11.73,34.36,0.00,37.08,Goal,True
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,5,32,5,38,105.00;37.20;1.45,105.00;37.20;1.45,93.78,33.95,105.00,37.20,Set Pieces,False
+133245,246,URUGUAY,7420.0,LUIS SUAREZ,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,5,32,5,44,105.00;37.20;1.45,105.00;37.20;1.45,93.78,33.95,105.00,37.20,Goal,True
+133245,3914,CANADA,22446.0,ALPHONSO DAVIES,5,Shot,"Post, Left, Penalty, From inside the Penalty Area, Off Target",5,rigori,6,17,6,29,0.00;34.05;2.44,0.00;34.05;2.44,11.33,34.15,0.00,34.05,Set Pieces,False

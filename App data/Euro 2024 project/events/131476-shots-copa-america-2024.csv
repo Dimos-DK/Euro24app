@@ -1,0 +1,30 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131476,787,PARAGUAY,113190.0,ALEX ARCE,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,2,28,2,40,105.00;30.50;6.50,105.00;30.50;6.50,77.48,41.35,105.00,30.50,Shot Against,False
+131476,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,4,40,4,52,0.00;28.41;0.90,105.00;39.59;0.90,79.51,49.22,105.00,39.59,"Offensive
+Action",False
+131476,414,COLOMBIA,30367.0,DANIEL MUNOZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,6,31,6,43,0.00;27.46;0.25,105.00;40.54;0.25,94.51,40.48,105.00,40.54,"Duel 
+Won",False
+131476,787,PARAGUAY,113190.0,ALEX ARCE,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,9,23,9,35,105.00;48.92;0.10,105.00;48.92;0.10,99.47,38.00,105.00,48.92,"Duel 
+Won",False
+131476,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,16,38,16,50,105.00;30.87;0.28,105.00;30.87;0.28,83.30,16.16,103.08,31.24,Shot Against,True
+131476,787,PARAGUAY,11339.0,FABIAN BALBUENA,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,16,40,16,52,105.00;28.12;1.68,105.00;28.12;1.68,101.65,26.65,105.00,28.12,Shot Against,False
+131476,414,COLOMBIA,14259.0,DAVINSON SANCHEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,19,6,19,18,0.00;27.46;5.50,105.00;40.54;5.50,90.73,33.05,105.00,40.54,"Duel 
+Lost",False
+131476,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,20,23,20,35,105.00;34.16;1.06,105.00;34.16;1.06,80.24,33.20,87.64,34.29,Shot Against,True
+131476,787,PARAGUAY,113190.0,ALEX ARCE,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,22,19,22,31,105.00;44.14;0.10,105.00;44.14;0.10,78.93,32.47,81.88,33.08,Shot Against,False
+131476,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,27,47,27,59,105.00;38.21;7.50,105.00;38.21;7.50,85.63,18.49,105.00,38.21,Shot Against,False
+131476,414,COLOMBIA,30367.0,DANIEL MUNOZ,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",1,1t,31,47,32,4,0.00;31.08;0.12,105.00;36.92;0.12,98.01,39.17,105.00,36.92,Pass,False
+131476,414,COLOMBIA,30367.0,DANIEL MUNOZ,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,31,52,32,4,0.00;31.08;0.12,105.00;36.92;0.12,98.01,39.17,105.00,36.92,Possession Phase,True
+131476,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,25,Goal,"Headed Shot, From inside the Penalty Area, Lateral Free Kick",1,1t,41,22,41,34,0.00;36.76;0.28,105.00;31.24;0.28,96.55,35.09,105.00,31.24,"Duel 
+Lost",False
+131476,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,41,22,41,34,0.00;36.76;0.28,105.00;31.24;0.28,96.55,35.09,105.00,31.24,Goal,True
+131476,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,13,33,13,45,105.00;32.39;2.79,105.00;32.39;2.79,90.87,26.94,105.00,32.39,Set Pieces Against,False
+131476,787,PARAGUAY,26474.0,MATHIAS VILLASANTI,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,15,41,15,53,0.00;34.00;3.27,105.00;34.00;3.27,87.09,42.66,105.00,34.00,Shot Against,False
+131476,787,PARAGUAY,60248.0,MATIAS DAVID ESPINOZA ACOSTA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,18,14,18,26,0.00;37.22;0.02,105.00;30.78;0.02,82.57,21.11,101.75,31.36,Shot Against,True
+131476,787,PARAGUAY,26480.0,JULIO ENCISO,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,23,3,23,37,0.00;37.18;0.05,105.00;30.82;0.05,101.36,39.02,105.00,30.82,Pass,False
+131476,787,PARAGUAY,26480.0,JULIO ENCISO,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,23,25,23,37,0.00;37.18;0.05,105.00;30.82;0.05,101.36,39.02,105.00,30.82,Shot Against,True
+131476,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,30,25,30,37,105.00;33.49;0.25,105.00;33.49;0.25,81.84,16.45,103.21,32.39,Pass,True
+131476,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,30,48,31,0,105.00;38.73;1.74,105.00;38.73;1.74,97.57,45.28,105.00,38.73,"Dribbling
+ Suffered",False
+131476,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,31,47,31,59,105.00;28.21;0.07,105.00;28.21;0.07,95.24,44.12,105.00,28.21,Cross Against,False
+131476,787,PARAGUAY,20508.0,MATIAS ROJAS,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,51,33,51,45,0.00;38.10;6.50,105.00;29.90;6.50,77.18,47.47,105.00,29.90,Shot Against,False

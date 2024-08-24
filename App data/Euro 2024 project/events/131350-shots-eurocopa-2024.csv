@@ -1,0 +1,34 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131350,510,AUSTRIA,,,25,Goal,"Right, From inside the Penalty Area, Own Goal, Offensive Action",1,1t,5,24,5,58,0.00;35.98;0.58,105.00;32.02;0.58,93.66,28.50,105.00,32.02,"Offensive
+Action",False
+131350,411,OLANDA,24902.0,TIJJANI REIJNDERS,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,13,15,13,27,105.00;43.75;0.19,105.00;43.75;0.19,92.76,31.76,105.00,43.75,Cross,False
+131350,411,OLANDA,17372.0,DONYELL MALEN,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,22,52,23,4,105.00;39.25;0.10,105.00;39.25;0.10,93.32,26.93,105.00,39.25,Pass,False
+131350,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,29,35,29,47,0.00;35.70;0.86,105.00;32.30;0.86,89.84,29.40,92.55,29.64,"Offensive
+Action",True
+131350,510,AUSTRIA,17396.0,FLORIAN GRILLITSCH,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,29,38,29,50,0.00;35.84;0.66,105.00;32.16;0.66,80.74,22.22,102.15,33.20,Shot Against,True
+131350,411,OLANDA,24902.0,TIJJANI REIJNDERS,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,33,35,33,47,105.00;25.53;0.10,105.00;25.53;0.10,82.43,37.70,105.00,25.53,Pass,False
+131350,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,36,57,37,9,0.00;37.08;0.25,105.00;30.92;0.25,83.33,22.44,102.81,31.36,Shot Against,True
+131350,510,AUSTRIA,17396.0,FLORIAN GRILLITSCH,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,37,6,37,18,0.00;32.37;1.29,105.00;35.63;1.29,86.92,25.92,91.22,28.60,Shot Against,True
+131350,510,AUSTRIA,10847.0,MARKO ARNAUTOVIC,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,37,7,37,19,0.00;32.00;1.48,105.00;36.00;1.48,96.69,35.01,100.96,35.32,Shot Against,True
+131350,510,AUSTRIA,36154.0,PATRICK WIMMER,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,38,59,39,11,0.00;35.34;0.35,105.00;32.66;0.35,80.29,36.24,86.05,35.90,"Possession 
+Lost",True
+131350,411,OLANDA,20888.0,JERDY SCHOUTEN,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,40,34,40,46,105.00;31.56;0.25,105.00;31.56;0.25,93.88,43.65,96.85,37.73,"Possession 
+Lost",True
+131350,411,OLANDA,10420.0,MEMPHIS DEPAY,5,Shot,"Post, Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,40,53,41,5,105.00;37.66;0.28,105.00;37.66;0.28,101.07,32.20,105.00,37.66,Cross Against,False
+131350,510,AUSTRIA,17396.0,FLORIAN GRILLITSCH,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,46,52,47,4,0.00;28.66;5.50,105.00;39.34;5.50,95.79,35.12,105.00,39.34,Set Pieces,False
+131350,411,OLANDA,17859.0,CODY GAKPO,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,1,1,1,21,0.00;31.26;1.19,105.00;36.74;1.19,93.11,24.88,105.00,36.74,Ball Recovery,False
+131350,411,OLANDA,17859.0,CODY GAKPO,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,1,9,1,21,0.00;31.26;1.19,105.00;36.74;1.19,93.11,24.88,105.00,36.74,Pass,True
+131350,411,OLANDA,8564.0,VIRGIL VAN DIJK,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target, Deflected",2,2t,8,10,8,22,0.00;35.47;3.18,105.00;32.53;3.18,100.16,32.23,101.22,33.08,Set Pieces Against,False
+131350,411,OLANDA,6149.0,STEFAN DE VRIJ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,11,44,11,56,0.00;52.75;0.30,105.00;15.25;0.30,91.74,39.06,105.00,15.25,Pass,False
+131350,510,AUSTRIA,21566.0,ROMANO SCHMID,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",2,2t,13,5,13,41,105.00;31.93;0.48,105.00;31.93;0.48,96.54,35.65,105.00,31.93,Pass,False
+131350,510,AUSTRIA,21566.0,ROMANO SCHMID,5,Shot,"On Target, Goal, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,13,28,13,40,105.00;31.93;0.48,105.00;31.93;0.48,96.54,35.65,105.00,31.93,Shot Against,True
+131350,411,OLANDA,36670.0,XAVI SIMONS,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,27,23,27,35,0.00;46.17;0.61,105.00;21.83;0.61,63.89,43.31,105.00,21.83,GK Play,False
+131350,411,OLANDA,10420.0,MEMPHIS DEPAY,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,29,15,29,57,0.00;31.26;1.62,105.00;36.74;1.62,95.68,32.08,105.00,36.74,"Offensive
+Action",False
+131350,411,OLANDA,10420.0,MEMPHIS DEPAY,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,29,45,29,57,0.00;31.26;1.62,105.00;36.74;1.62,95.68,32.08,105.00,36.74,"Duel 
+Lost",True
+131350,510,AUSTRIA,10852.0,MARCEL SABITZER,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,34,33,35,0,105.00;31.15;1.55,105.00;31.15;1.55,101.28,23.70,105.00,31.15,GK Play,False
+131350,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,34,48,35,0,105.00;31.15;1.55,105.00;31.15;1.55,101.28,23.70,105.00,31.15,Shot Against,True
+131350,411,OLANDA,17859.0,CODY GAKPO,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,38,1,38,13,0.00;33.33;3.44,105.00;34.67;3.44,96.16,14.97,105.00,34.67,Pass,False
+131350,411,OLANDA,14245.0,WOUT WEGHORST,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,40,15,40,27,0.00;33.38;2.90,105.00;34.62;2.90,94.95,35.46,105.00,34.62,Ball Line Out,False
+131350,411,OLANDA,10420.0,MEMPHIS DEPAY,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,49,8,49,20,0.00;33.06;1.19,105.00;34.94;1.19,97.67,19.99,100.43,24.70,Pass,True

@@ -1,0 +1,33 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132452,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,14,15,14,27,105.00;31.51;0.25,105.00;31.51;0.25,100.90,25.95,101.89,28.37,Side Balls,True
+132452,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,14,19,14,31,105.00;36.32;3.02,105.00;36.32;3.02,90.95,32.88,105.00,36.32,Ball Line Out,False
+132452,419,ECUADOR,30362.0,ANGELO PRECIADO,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,15,53,16,5,105.00;33.54;3.24,105.00;33.54;3.24,99.14,40.88,105.00,33.54,Pass,False
+132452,421,ARGENTINA,35040.0,ENZO FERNANDEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,26,49,27,1,0.00;27.55;0.42,105.00;40.45;0.42,91.92,30.15,105.00,40.45,Shot Against,False
+132452,421,ARGENTINA,35040.0,ENZO FERNANDEZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",1,1t,33,43,33,55,0.00;20.45;3.02,105.00;47.55;3.02,92.12,44.20,95.73,40.72,Shot Against,False
+132452,421,ARGENTINA,21433.0,LISANDRO MARTINEZ,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",1,1t,34,37,34,49,0.00;34.92;1.12,105.00;33.08;1.12,101.88,27.71,105.00,33.08,Shot Against,False
+132452,421,ARGENTINA,21433.0,LISANDRO MARTINEZ,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,34,37,34,49,0.00;34.92;1.12,105.00;33.08;1.12,101.88,27.71,105.00,33.08,Goal,True
+132452,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,9,32,9,44,105.00;26.46;0.13,105.00;26.46;0.13,92.22,26.34,105.00,26.46,Ball Line Out,False
+132452,419,ECUADOR,11255.0,ENNER VALENCIA,5,Shot,"Post, Right, Penalty, From inside the Penalty Area, Off Target",2,2t,16,40,16,52,0.00;37.66;0.11,105.00;30.34;0.11,94.00,34.00,105.00,30.34,Possession Phase,False
+132452,419,ECUADOR,30855.0,PIERO HINCAPIE',5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,16,42,16,54,0.00;38.68;1.19,105.00;29.32;1.19,98.66,20.68,105.00,29.32,Set Pieces,False
+132452,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,21,56,22,8,105.00;31.93;0.99,105.00;31.93;0.99,93.29,22.93,101.75,31.13,Shot Against,True
+132452,419,ECUADOR,20486.0,ANGEL MENA,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",2,2t,36,43,36,55,0.00;36.03;1.35,105.00;31.97;1.35,77.48,29.95,90.43,31.24,Set Pieces,True
+132452,419,ECUADOR,30956.0,JORDY CAICEDO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,44,22,44,34,0.00;39.69;1.16,105.00;28.31;1.16,98.85,18.93,105.00,28.31,Ball Line Out,False
+132452,419,ECUADOR,36817.0,KEVIN RODRIGUEZ,25,Goal,"Headed Shot, From inside the Penalty Area, Lateral Free Kick",2,2t,45,47,45,59,0.00;36.90;0.92,105.00;31.10;0.92,93.29,40.29,105.00,31.10,"Duel 
+Won",False
+132452,419,ECUADOR,36817.0,KEVIN RODRIGUEZ,5,Shot,"On Target, Goal, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,45,47,45,59,0.00;36.90;0.92,105.00;31.10;0.92,93.29,40.29,105.00,31.10,Goal,True
+132452,419,ECUADOR,30956.0,JORDY CAICEDO,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,51,9,51,21,0.00;26.77;0.04,105.00;41.23;0.04,98.17,29.95,105.00,41.23,Cross Against,False
+132452,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"Post, Left, Penalty, From inside the Penalty Area, Off Target",5,rigori,0,0,0,9,0.00;34.55;2.44,0.00;34.55;2.44,11.32,34.15,0.00,34.55,Set Pieces,False
+132452,419,ECUADOR,20486.0,ANGEL MENA,5,Shot,"On Target, GK Save, Left, Penalty, From inside the Penalty Area",5,rigori,0,37,0,49,105.00;36.46;1.29,105.00;36.46;1.29,93.78,34.05,103.34,33.89,Set Pieces,True
+132452,421,ARGENTINA,26457.0,JULIAN ALVAREZ,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,1,22,1,28,0.00;31.26;1.91,0.00;31.26;1.91,11.32,34.15,0.00,31.26,Set Pieces,False
+132452,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,1,22,1,34,0.00;31.26;1.91,0.00;31.26;1.91,11.32,34.15,0.00,31.26,Goal,True
+132452,419,ECUADOR,57354.0,ALAN STEVE MINDA GARCIA,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,2,12,2,24,105.00;32.34;1.29,105.00;32.34;1.29,93.97,33.95,103.21,34.29,Set Pieces,True
+132452,421,ARGENTINA,32684.0,ALEXIS MAC ALLISTER,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,3,10,3,16,0.00;30.66;0.69,0.00;30.66;0.69,11.03,34.15,0.00,30.66,Set Pieces,False
+132452,421,ARGENTINA,32684.0,ALEXIS MAC ALLISTER,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,3,10,3,22,0.00;30.66;0.69,0.00;30.66;0.69,11.03,34.15,0.00,30.66,Goal,True
+132452,419,ECUADOR,59457.0,JOHN YEBOAH ZAMORA,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,3,51,3,57,105.00;36.88;1.91,105.00;36.88;1.91,93.88,34.15,105.00,36.88,Set Pieces,False
+132452,419,ECUADOR,59457.0,JOHN YEBOAH ZAMORA,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,3,51,4,3,105.00;36.88;1.91,105.00;36.88;1.91,93.88,34.15,105.00,36.88,Goal,True
+132452,421,ARGENTINA,26455.0,GONZALO MONTIEL,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,4,31,4,37,0.00;31.54;0.45,0.00;31.54;0.45,11.25,34.17,0.00,31.54,Set Pieces,False
+132452,421,ARGENTINA,26455.0,GONZALO MONTIEL,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,4,31,4,43,0.00;31.54;0.45,0.00;31.54;0.45,11.25,34.17,0.00,31.54,Goal,True
+132452,419,ECUADOR,30956.0,JORDY CAICEDO,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,5,29,5,35,105.00;33.13;0.61,105.00;33.13;0.61,94.09,34.28,105.00,33.13,Set Pieces,False
+132452,419,ECUADOR,30956.0,JORDY CAICEDO,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,5,29,5,41,105.00;33.13;0.61,105.00;33.13;0.61,94.09,34.28,105.00,33.13,Goal,True
+132452,421,ARGENTINA,7507.0,NICOLAS OTAMENDI,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,6,13,6,19,0.00;37.22;0.21,0.00;37.22;0.21,11.36,34.17,0.00,37.22,Set Pieces,False
+132452,421,ARGENTINA,7507.0,NICOLAS OTAMENDI,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,6,13,6,25,0.00;37.22;0.21,0.00;37.22;0.21,11.36,34.17,0.00,37.22,Goal,True

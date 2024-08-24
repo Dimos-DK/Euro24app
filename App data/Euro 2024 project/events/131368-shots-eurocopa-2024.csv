@@ -1,0 +1,24 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131368,4,CROAZIA,24936.0,LUKA SUCIC,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,4,2,4,14,0.00;36.67;1.81,105.00;31.33;1.81,79.46,47.13,102.15,32.74,Shot Against,True
+131368,1,ITALIA,7227.0,LORENZO PELLEGRINI,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,10,31,10,43,105.00;24.04;0.30,105.00;24.04;0.30,93.29,25.41,105.00,24.04,Pass,False
+131368,1,ITALIA,38196.0,MATEO RETEGUI,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target, Deflected",1,1t,20,29,20,41,105.00;39.59;1.39,105.00;39.59;1.39,97.09,39.01,98.31,36.35,"Duel 
+Won",False
+131368,1,ITALIA,38196.0,MATEO RETEGUI,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,21,49,22,1,105.00;21.58;2.88,105.00;21.58;2.88,92.23,30.78,93.34,30.90,Side Balls Against,False
+131368,1,ITALIA,38196.0,MATEO RETEGUI,5,Shot,"GK Save, Left, From inside the Penalty Area, Off Target, Deflected",1,1t,25,42,25,54,105.00;26.00;0.19,105.00;26.00;0.19,95.71,19.93,97.91,20.39,Pass,False
+131368,1,ITALIA,12940.0,ALESSANDRO BASTONI,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,26,27,26,39,105.00;31.47;1.65,105.00;31.47;1.65,98.14,29.94,103.21,32.39,Pass,True
+131368,4,CROAZIA,7243.0,LUKA MODRIC,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,30,32,30,44,0.00;35.98;0.38,105.00;32.02;0.38,84.75,50.09,89.37,48.47,Shot Against,True
+131368,1,ITALIA,7227.0,LORENZO PELLEGRINI,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,35,23,35,35,105.00;35.82;0.15,105.00;35.82;0.15,92.35,21.63,102.15,32.97,"Dribbling
+ Suffered",True
+131368,4,CROAZIA,7248.0,ANDREJ KRAMARIC,5,Shot,"Off Target, Blocked, Right, From inside the Penalty Area",2,2t,6,19,6,31,105.00;43.03;1.37,105.00;43.03;1.37,95.11,20.00,99.90,34.52,Shot Against,False
+131368,4,CROAZIA,7243.0,LUKA MODRIC,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",2,2t,8,41,8,53,105.00;37.06;0.08,105.00;37.06;0.08,94.17,34.15,103.34,36.13,Shot Against,True
+131368,4,CROAZIA,7243.0,LUKA MODRIC,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,8,50,9,19,105.00;30.82;1.32,105.00;30.82;1.32,100.24,30.86,105.00,30.82,"Offensive
+Action",False
+131368,4,CROAZIA,7243.0,LUKA MODRIC,5,Shot,"Goal, Big Chance, Left, From inside the Penalty Area, On Target",2,2t,9,7,9,19,105.00;30.82;1.32,105.00;30.82;1.32,100.24,30.86,105.00,30.82,Killer Pass,True
+131368,4,CROAZIA,8950.0,ANTE BUDIMIR,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,9,11,9,23,105.00;35.50;0.28,105.00;35.50;0.28,96.95,36.04,103.08,34.00,Shot Against,True
+131368,1,ITALIA,12940.0,ALESSANDRO BASTONI,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,15,47,15,59,0.00;31.12;2.88,105.00;36.88;2.88,100.00,36.04,105.00,36.88,Set Pieces,False
+131368,1,ITALIA,6314.0,MATTEO DARMIAN,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,21,8,21,20,0.00;31.26;0.41,105.00;36.74;0.41,96.42,22.56,97.78,27.68,Pass,True
+131368,1,ITALIA,19990.0,GIACOMO RASPADORI,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",2,2t,26,53,27,5,0.00;35.66;6.50,105.00;32.34;6.50,79.57,38.08,92.15,37.16,Set Pieces,False
+131368,1,ITALIA,14684.0,GIANLUCA SCAMACCA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,46,19,46,31,0.00;40.25;0.73,105.00;27.75;0.73,75.50,25.05,79.50,25.16,Pass,False
+131368,4,CROAZIA,7244.0,IVAN PERISIC,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,49,57,50,9,105.00;48.07;4.50,105.00;48.07;4.50,97.95,18.98,105.00,48.07,Shot Against,False
+131368,1,ITALIA,8666.0,MATTIA ZACCAGNI,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,52,9,52,22,0.00;30.57;1.88,105.00;37.43;1.88,90.50,24.12,105.00,37.43,Pass,False
+131368,1,ITALIA,8666.0,MATTIA ZACCAGNI,5,Shot,"Goal, Big Chance, Right, From inside the Penalty Area, On Target",2,2t,52,10,52,22,0.00;30.57;1.88,105.00;37.43;1.88,90.50,24.12,105.00,37.43,Goal Suffered,True

@@ -1,0 +1,29 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131358,322,DANIMARCA,9556.0,ANDREAS CHRISTENSEN,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,10,28,10,40,0.00;33.70;6.50,105.00;34.30;6.50,91.26,31.85,105.00,34.30,Set Pieces,False
+131358,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,15,44,15,56,105.00;28.58;1.57,105.00;28.58;1.57,80.79,37.86,105.00,28.58,Shot Against,False
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,16,33,16,45,0.00;37.36;0.15,105.00;30.64;0.15,96.61,40.31,105.00,30.64,Set Pieces Against,False
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,5,Shot,"Goal, Big Chance, Right, On Target, From inside the Penalty Area",1,1t,16,33,16,45,0.00;37.36;0.15,105.00;30.64;0.15,96.61,40.31,105.00,30.64,Goal,True
+131358,516,SLOVENIA,59411.0,ERIK JANZA,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,20,18,20,30,105.00;40.37;0.10,105.00;40.37;0.10,81.68,31.92,105.00,40.37,Shot Against,False
+131358,516,SLOVENIA,59411.0,ERIK JANZA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,20,45,20,57,105.00;37.20;0.12,105.00;37.20;0.12,79.60,25.31,87.38,34.29,Shot Against,True
+131358,322,DANIMARCA,10793.0,JANNIK VESTERGAARD,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,27,57,28,9,0.00;26.60;0.19,105.00;41.40;0.19,98.39,34.89,105.00,41.40,Ball Line Out,False
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,38,58,39,10,0.00;30.66;0.28,105.00;37.34;0.28,96.46,48.92,97.38,45.83,Pass,True
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,41,40,41,52,0.00;33.70;0.96,105.00;34.30;0.96,76.93,29.40,81.35,31.47,Possession Phase,True
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,42,39,42,51,0.00;29.52;6.50,105.00;38.48;6.50,93.86,28.36,105.00,38.48,"Offensive
+Action",False
+131358,516,SLOVENIA,23908.0,ADAM GNEZDA CERIN,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,20,52,21,4,0.00;27.98;1.28,105.00;40.02;1.28,98.09,33.78,105.00,40.02,"Duel 
+Won",False
+131358,322,DANIMARCA,7591.0,CHRISTIAN ERIKSEN,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,22,30,22,42,105.00;29.83;3.05,105.00;29.83;3.05,99.73,21.83,105.00,29.83,"Duel 
+Lost",False
+131358,322,DANIMARCA,18562.0,JONAS WIND,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,25,38,25,50,105.00;34.21;5.50,105.00;34.21;5.50,101.14,35.63,105.00,34.21,Ball Line Out,False
+131358,516,SLOVENIA,9064.0,ANDRAZ SPORAR,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,28,52,29,4,0.00;40.06;0.73,105.00;27.94;0.73,100.47,33.70,105.00,27.94,Shot Against,False
+131358,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"Post, Right, From outside the Penalty Area, Off Target",2,2t,30,43,30,55,0.00;30.34;1.67,105.00;37.66;1.67,80.05,35.04,105.00,37.66,Shot Against,False
+131358,516,SLOVENIA,59411.0,ERIK JANZA,25,Goal,"Left, From outside the Penalty Area, Corner",2,2t,31,24,31,36,0.00;32.32;1.38,105.00;35.68;1.38,85.17,20.86,92.94,25.39,Shot Against,False
+131358,516,SLOVENIA,59411.0,ERIK JANZA,5,Shot,"On Target, Goal, Left, From outside the Penalty Area, Deflected",2,2t,31,24,31,36,0.00;32.32;1.38,105.00;35.68;1.38,85.17,20.86,92.94,25.39,Goal,True
+131358,516,SLOVENIA,9064.0,ANDRAZ SPORAR,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,33,16,33,28,0.00;33.70;6.50,105.00;34.30;6.50,97.35,33.70,105.00,34.30,Shot Against,False
+131358,322,DANIMARCA,10793.0,JANNIK VESTERGAARD,5,Shot,"GK Save, Headed Shot, On Target, From inside the Penalty Area",2,2t,35,23,35,35,105.00;30.96;2.18,105.00;30.96;2.18,97.65,22.86,102.42,31.70,"Duel 
+Won",True
+131358,516,SLOVENIA,9064.0,ANDRAZ SPORAR,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,35,55,36,7,0.00;30.57;1.19,105.00;37.43;1.19,100.25,46.62,102.68,40.72,Shot Against,True
+131358,322,DANIMARCA,25397.0,MORTEN HJULMAND,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,40,35,40,42,105.00;32.39;0.15,105.00;32.39;0.15,82.28,34.15,102.15,32.28,Pass,True
+131358,516,SLOVENIA,12488.0,BENJAMIN VERBIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,42,23,42,35,0.00;27.72;1.77,105.00;40.28;1.77,93.64,37.34,105.00,40.28,"Duel 
+Won",False
+131358,516,SLOVENIA,30898.0,ZAN KARNICNIK,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,44,59,45,11,0.00;30.48;3.35,105.00;37.52;3.35,76.63,48.03,105.00,37.52,Shot Against,False

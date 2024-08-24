@@ -1,0 +1,34 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131359,11,GERMANIA,23830.0,FLORIAN WIRTZ,25,Goal,"Right, From outside the Penalty Area, Offensive Action",1,1t,9,34,10,3,0.00;35.80;0.12,105.00;32.20;0.12,87.73,34.64,105.00,32.20,Pass,False
+131359,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",1,1t,9,51,10,3,0.00;35.80;0.12,105.00;32.20;0.12,87.73,34.64,105.00,32.20,Pass,True
+131359,11,GERMANIA,24707.0,JAMAL MUSIALA,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,18,14,18,51,0.00;34.83;2.08,105.00;33.17;2.08,92.45,30.73,105.00,33.17,Pass,False
+131359,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"On Target, Goal, Right, From inside the Penalty Area",1,1t,18,39,18,51,0.00;34.83;2.08,105.00;33.17;2.08,92.45,30.73,105.00,33.17,Pass,True
+131359,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area, Deflected",1,1t,27,14,27,26,0.00;36.35;0.31,105.00;31.65;0.31,87.73,34.73,94.14,32.74,Set Pieces,True
+131359,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,41,2,41,14,0.00;35.01;0.15,105.00;32.99;0.15,96.79,35.46,102.42,34.40,"Duel 
+Won",True
+131359,11,GERMANIA,13310.0,KAI HAVERTZ,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",1,1t,45,31,46,45,0.00;34.92;0.79,105.00;33.08;0.79,93.69,33.73,105.00,33.08,Set Pieces,False
+131359,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",1,1t,45,31,45,43,0.00;34.92;0.79,105.00;33.08;0.79,93.69,33.73,105.00,33.08,Goal,True
+131359,11,GERMANIA,8755.0,ANTONIO RUDIGER,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,5,21,5,33,105.00;31.10;0.35,105.00;31.10;0.35,72.43,37.46,102.02,32.28,Pass,True
+131359,11,GERMANIA,8755.0,ANTONIO RUDIGER,5,Shot,"Off Target, Blocked, Headed Shot, From inside the Penalty Area",2,2t,6,10,6,22,105.00;28.58;0.19,105.00;28.58;0.19,92.68,37.74,96.32,35.32,"Duel 
+Won",False
+131359,11,GERMANIA,43194.0,PASCAL GROSS,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,11,4,11,16,105.00;31.93;0.02,105.00;31.93;0.02,85.66,22.97,88.04,25.27,Ball Recovery,True
+131359,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,11,27,11,39,105.00;33.54;0.41,105.00;33.54;0.41,82.74,46.49,92.68,39.23,Pass,True
+131359,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,12,2,12,14,105.00;36.74;3.21,105.00;36.74;3.21,98.07,43.21,105.00,36.74,Ball Line Out,False
+131359,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,13,29,13,41,105.00;33.86;0.25,105.00;33.86;0.25,95.42,31.54,97.65,30.90,"Possession 
+Lost",True
+131359,11,GERMANIA,15741.0,MAXIMILIAN MITTELSTADT,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,14,44,14,56,105.00;35.13;0.18,105.00;35.13;0.18,89.77,20.42,91.62,22.74,Cross Against,True
+131359,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,14,52,15,4,105.00;31.74;5.50,105.00;31.74;5.50,78.00,29.90,105.00,31.74,Pass,False
+131359,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,17,57,18,9,105.00;35.73;0.12,105.00;35.73;0.12,92.68,44.85,102.42,35.21,"Defensive
+Action",True
+131359,11,GERMANIA,15741.0,MAXIMILIAN MITTELSTADT,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,20,20,20,32,105.00;36.79;5.50,105.00;36.79;5.50,86.75,22.70,105.00,36.79,Set Pieces Against,False
+131359,11,GERMANIA,14216.0,NICLAS FULLKRUG,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,22,20,22,52,105.00;36.88;1.91,105.00;36.88;1.91,90.86,31.72,105.00,36.88,"Offensive
+Action",False
+131359,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,22,40,22,52,105.00;36.88;1.91,105.00;36.88;1.91,90.86,31.72,105.00,36.88,"Dribbling
+ Suffered",True
+131359,11,GERMANIA,15741.0,MAXIMILIAN MITTELSTADT,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,34,21,34,33,105.00;34.81;6.50,105.00;34.81;6.50,89.86,20.33,105.00,34.81,Ball Line Out,False
+131359,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,37,50,38,2,105.00;33.72;1.29,105.00;33.72;1.29,86.75,46.76,102.42,34.52,Pass,True
+131359,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,40,9,40,21,105.00;31.65;4.50,105.00;31.65;4.50,80.37,37.01,105.00,31.65,"Duel 
+Lost",False
+131359,462,SCOZIA,,,25,Goal,"Headed Shot, From inside the Penalty Area, Own Goal, Lateral Free Kick",2,2t,41,29,41,41,0.00;32.41;1.88,105.00;35.59;1.88,95.79,39.92,105.00,35.59,Goal Suffered,False
+131359,11,GERMANIA,8214.0,EMRE CAN,25,Goal,"Right, From outside the Penalty Area, Offensive Action",2,2t,45,49,47,41,105.00;37.43;0.18,105.00;37.43;0.18,86.03,32.45,105.00,37.43,GK Play,False
+131359,11,GERMANIA,8214.0,EMRE CAN,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",2,2t,47,29,47,41,105.00;37.43;0.18,105.00;37.43;0.18,86.03,32.45,105.00,37.43,Pass,True

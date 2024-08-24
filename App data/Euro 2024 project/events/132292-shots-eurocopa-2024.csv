@@ -1,0 +1,36 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132292,475,SLOVACCHIA,27998.0,DAVID STRELEC,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,3,47,3,59,0.00;48.94;0.39,105.00;19.06;0.39,95.13,30.81,105.00,19.06,Set Pieces,False
+132292,475,SLOVACCHIA,16819.0,DAVID HANCKO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,4,40,4,52,0.00;28.58;0.04,105.00;39.42;0.04,98.11,21.65,105.00,39.42,Shot Against,False
+132292,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,7,26,7,38,0.00;31.31;0.25,105.00;36.69;0.25,86.75,30.10,91.22,31.36,Shot Against,True
+132292,16,INGHILTERRA,9271.0,KIERAN TRIPPIER,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,8,48,9,0,105.00;37.02;8.50,105.00;37.02;8.50,90.45,25.84,105.00,37.02,Pass,False
+132292,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,11,19,11,31,0.00;30.98;0.08,105.00;37.02;0.08,93.36,26.62,94.93,29.41,Shot Against,True
+132292,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"On Target, Promising Action, Headed Shot, From inside the Penalty Area, Deflected",1,1t,22,12,22,24,105.00;36.65;1.45,105.00;36.65;1.45,97.19,38.33,98.18,36.24,Cross Against,True
+132292,16,INGHILTERRA,58426.0,KOBBIE BOATENG MAINOO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,23,8,23,20,105.00;28.68;3.41,105.00;28.68;3.41,84.48,40.25,105.00,28.68,Ball Line Out,False
+132292,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,23,33,24,33,0.00;35.57;0.05,105.00;32.43;0.05,97.76,39.82,105.00,32.43,Pass,False
+132292,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,24,21,24,33,0.00;35.57;0.05,105.00;32.43;0.05,97.76,39.82,105.00,32.43,Shot Against,True
+132292,16,INGHILTERRA,58426.0,KOBBIE BOATENG MAINOO,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,47,14,47,26,105.00;27.75;0.01,105.00;27.75;0.01,84.55,27.26,87.51,30.32,"Dribbling
+ Suffered",False
+132292,16,INGHILTERRA,18698.0,BUKAYO SAKA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,47,50,48,2,105.00;36.60;1.75,105.00;36.60;1.75,80.93,41.95,84.33,36.93,Pass,True
+132292,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"On Target, Right, From inside the Penalty Area, Deflected",2,2t,6,0,6,12,0.00;31.35;0.02,105.00;36.65;0.02,92.65,27.61,93.21,30.55,Possession Phase,True
+132292,475,SLOVACCHIA,27998.0,DAVID STRELEC,5,Shot,"Promising Action, Left, From outside the Penalty Area, Off Target",2,2t,8,57,9,9,105.00;40.20;0.19,105.00;40.20;0.19,56.51,29.74,105.00,40.20,Set Pieces Against,False
+132292,16,INGHILTERRA,15748.0,PHILIP WALTER FODEN,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",2,2t,15,0,15,12,0.00;36.76;1.81,105.00;31.24;1.81,86.75,23.21,93.34,26.30,Set Pieces,True
+132292,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,32,9,32,21,0.00;39.42;0.58,105.00;28.58;0.58,97.55,33.29,105.00,28.58,Set Pieces,False
+132292,16,INGHILTERRA,22931.0,DECLAN RICE,5,Shot,"Post, Right, From outside the Penalty Area, Off Target",2,2t,35,9,35,21,0.00;37.66;0.57,105.00;30.34;0.57,80.79,30.31,105.00,30.34,Pass,False
+132292,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,35,11,35,23,0.00;30.80;5.50,105.00;37.20;5.50,92.72,33.72,105.00,37.20,Shot Against,False
+132292,475,SLOVACCHIA,13903.0,STANISLAV LOBOTKA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,41,42,41,54,105.00;34.00;0.69,105.00;34.00;0.69,78.66,36.63,102.42,34.00,"Defensive
+Action",True
+132292,16,INGHILTERRA,24532.0,JUDE BELLINGHAM,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,49,28,49,43,0.00;30.94;0.86,105.00;37.06;0.86,96.34,33.57,105.00,37.06,Killer Pass,False
+132292,16,INGHILTERRA,24532.0,JUDE BELLINGHAM,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,49,31,49,43,0.00;30.94;0.86,105.00;37.06;0.86,96.34,33.57,105.00,37.06,"Duel 
+Won",True
+132292,16,INGHILTERRA,7345.0,HARRY KANE,25,Goal,"Headed Shot, From inside the Penalty Area, Lateral Free Kick",3,1t sup,0,49,1,1,105.00;34.76;1.52,105.00;34.76;1.52,100.74,36.91,105.00,34.76,Pass,False
+132292,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"On Target, Goal, Promising Action, Headed Shot, From inside the Penalty Area",3,1t sup,0,49,1,1,105.00;34.76;1.52,105.00;34.76;1.52,100.74,36.91,105.00,34.76,Goal,True
+132292,475,SLOVACCHIA,9912.0,PETER PEKARIK,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",3,1t sup,14,41,14,53,0.00;32.32;3.50,105.00;35.68;3.50,101.02,34.99,105.00,35.68,"Duel 
+Won",False
+132292,475,SLOVACCHIA,13905.0,MATUS BERO,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",4,2t sup,1,10,1,22,105.00;22.32;0.01,105.00;22.32;0.01,83.49,44.15,88.17,38.08,Shot Against,False
+132292,475,SLOVACCHIA,10151.0,LUBOMIR TUPTA,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",4,2t sup,5,4,5,16,105.00;34.94;3.41,105.00;34.94;3.41,77.53,35.99,105.00,34.94,Set Pieces,False
+132292,475,SLOVACCHIA,23166.0,ROBERT BOZENIK,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",4,2t sup,11,47,11,59,105.00;40.02;1.92,105.00;40.02;1.92,99.60,49.47,105.00,40.02,Shot Against,False
+132292,475,SLOVACCHIA,16819.0,DAVID HANCKO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",4,2t sup,13,37,13,49,105.00;26.83;5.50,105.00;26.83;5.50,97.33,32.37,105.00,26.83,Shot Against,False
+132292,16,INGHILTERRA,35417.0,IVAN TONEY,5,Shot,"Promising Action, Right, From outside the Penalty Area, Off Target",4,2t sup,15,6,15,18,0.00;30.08;3.47,105.00;37.92;3.47,87.04,34.92,105.00,37.92,"Dribbling
+ Suffered",False
+132292,475,SLOVACCHIA,16819.0,DAVID HANCKO,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",4,2t sup,15,52,16,4,105.00;31.28;0.51,105.00;31.28;0.51,92.29,34.43,102.95,34.40,"Duel 
+Won",True

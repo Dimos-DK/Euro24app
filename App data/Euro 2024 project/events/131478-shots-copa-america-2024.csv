@@ -1,0 +1,19 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131478,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,9,28,9,40,0.00;31.17;1.62,105.00;36.83;1.62,86.00,47.56,101.89,35.90,"Defensive
+Action",True
+131478,780,PERU',54906.0,PIERO ALDAIR QUISPE CORDOVA,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,26,59,27,11,0.00;36.03;0.79,105.00;31.97;0.79,93.44,24.78,101.89,33.77,Pass,True
+131478,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,34,56,35,8,0.00;33.88;0.38,105.00;34.12;0.38,93.78,31.00,95.33,32.74,"Possession 
+Lost",True
+131478,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,45,47,45,59,0.00;39.69;0.07,105.00;28.31;0.07,86.00,33.44,105.00,28.31,Set Pieces,False
+131478,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,2,30,2,42,105.00;17.71;0.13,105.00;17.71;0.13,54.22,52.44,105.00,17.71,"Defensive
+Action",False
+131478,3914,CANADA,28652.0,CYLE LARIN,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,21,46,21,58,0.00;39.42;3.08,105.00;28.58;3.08,101.56,28.67,105.00,28.58,Shot Against,False
+131478,3914,CANADA,23346.0,JONATHAN DAVID,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,28,24,28,48,0.00;36.95;0.08,105.00;31.05;0.08,91.22,41.89,105.00,31.05,"Offensive
+Action",False
+131478,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,28,36,28,48,0.00;36.95;0.08,105.00;31.05;0.08,91.22,41.89,105.00,31.05,Shot Against,True
+131478,780,PERU',13035.0,ANDRE CARRILLO,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,38,49,39,1,105.00;19.25;0.13,105.00;19.25;0.13,77.44,33.78,105.00,19.25,"Duel 
+Won",False
+131478,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,42,8,42,20,0.00;36.81;0.08,105.00;31.19;0.08,98.33,18.67,100.69,24.24,Shot Against,True
+131478,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,43,16,43,28,0.00;19.93;0.22,105.00;48.07;0.22,99.89,34.78,105.00,48.07,Shot Against,False
+131478,780,PERU',11234.0,CHRISTIAN ALBERTO CUEVA BRAVO,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,45,49,46,1,105.00;31.47;0.12,105.00;31.47;0.12,91.44,29.44,101.49,33.31,Pass,True
+131478,780,PERU',11234.0,CHRISTIAN ALBERTO CUEVA BRAVO,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",2,2t,49,50,50,2,105.00;31.19;1.09,105.00;31.19;1.09,79.67,19.56,102.81,33.77,Foul,True

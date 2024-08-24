@@ -1,0 +1,52 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,1,47,1,59,0.00;33.65;0.21,105.00;34.35;0.21,81.89,34.90,90.82,35.55,"Duel 
+Lost",True
+132290,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,4,2,4,14,0.00;34.46;0.08,105.00;33.54;0.08,94.97,39.11,102.02,34.17,Cross Against,True
+132290,2,SPAGNA,7486.0,DANIEL CARVAJAL RAMOS,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,9,55,10,7,0.00;32.96;0.15,105.00;35.04;0.15,99.41,26.99,102.68,33.31,Ball Recovery,True
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,10,57,11,9,0.00;26.77;2.76,105.00;41.23;2.76,85.48,27.83,90.69,28.14,Cross Against,False
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,12,38,12,50,0.00;34.00;0.86,105.00;34.00;0.86,90.44,38.38,92.41,37.04,Pass,True
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,12,45,12,57,0.00;34.14;0.99,105.00;33.86;0.99,94.55,18.66,96.19,21.19,Pass,True
+132290,2,SPAGNA,7904.0,AYMERIC JEAN LOUIS GERARD ALPHONSE LAPORTE,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,15,39,15,51,0.00;41.54;0.22,105.00;26.46;0.22,97.72,30.78,105.00,26.46,Ball Line Out,False
+132290,461,GEORGIA,,,25,Goal,"Other, From inside the Penalty Area, Own Goal, Lateral Free Kick",1,1t,17,11,17,23,105.00;37.20;0.79,105.00;37.20;0.79,97.40,32.26,105.00,37.20,Goal Suffered,False
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,21,14,21,26,0.00;30.85;0.15,105.00;37.15;0.15,90.23,49.13,101.62,35.09,Pass,True
+132290,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,25,13,25,25,0.00;34.00;1.45,105.00;34.00;1.45,75.03,29.31,90.03,28.37,"Possession 
+Lost",True
+132290,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,26,35,26,47,0.00;39.42;3.18,105.00;28.58;3.18,87.38,24.25,105.00,28.58,Pass,False
+132290,2,SPAGNA,7904.0,AYMERIC JEAN LOUIS GERARD ALPHONSE LAPORTE,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,28,36,28,48,0.00;39.88;4.50,105.00;28.12;4.50,75.14,23.09,105.00,28.12,Pass,False
+132290,461,GEORGIA,53252.0,GIORGI KOCHORASHVILI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,29,31,29,43,105.00;33.68;1.25,105.00;33.68;1.25,86.11,36.37,88.97,37.04,"Possession 
+Lost",True
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,30,17,30,29,0.00;33.52;0.31,105.00;34.48;0.31,79.04,47.13,94.67,34.75,Pass,True
+132290,2,SPAGNA,23370.0,MARC CUCURELLA SASETA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,34,34,34,46,0.00;30.98;0.25,105.00;37.02;0.25,81.99,23.51,101.36,33.54,Pass,True
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,37,46,37,58,0.00;33.10;0.41,105.00;34.90;0.41,96.66,21.30,101.62,32.62,Pass,True
+132290,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,25,Goal,"Left, From outside the Penalty Area, Offensive Action",1,1t,37,54,38,20,0.00;30.75;0.08,105.00;37.25;0.08,87.69,31.00,105.00,37.25,Pass,False
+132290,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,5,Shot,"On Target, Goal, Left, From outside the Penalty Area",1,1t,38,8,38,20,0.00;30.75;0.08,105.00;37.25;0.08,87.69,31.00,105.00,37.25,Pass,True
+132290,461,GEORGIA,53252.0,GIORGI KOCHORASHVILI,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,40,44,40,56,105.00;38.12;5.50,105.00;38.12;5.50,47.80,36.79,105.00,38.12,"Offensive
+Action",False
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,46,5,46,17,0.00;34.23;0.41,105.00;33.77;0.41,76.09,42.80,85.39,41.06,Pass,True
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,0,19,0,31,105.00;26.83;0.22,105.00;26.83;0.22,81.68,39.43,105.00,26.83,Possession Phase,False
+132290,461,GEORGIA,31347.0,KHVICHA KVARATSKHELIA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,2,52,3,4,0.00;39.05;0.33,105.00;28.95;0.33,49.28,21.61,105.00,28.95,Shot Against,False
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",2,2t,5,23,5,35,105.00;31.47;1.02,105.00;31.47;1.02,86.85,36.37,102.28,33.43,Set Pieces,True
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,25,Goal,"Headed Shot, From inside the Penalty Area, Direct Free Kick",2,2t,5,37,5,49,105.00;32.99;0.82,105.00;32.99;0.82,100.04,32.58,105.00,32.99,Cross Against,False
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,5,37,5,49,105.00;32.99;0.82,105.00;32.99;0.82,100.04,32.58,105.00,32.99,Goal,True
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,7,11,7,23,105.00;39.34;0.16,105.00;39.34;0.16,87.38,40.69,105.00,39.34,Ball Line Out,False
+132290,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,9,36,9,48,105.00;28.21;0.10,105.00;28.21;0.10,81.78,29.10,105.00,28.21,Pass,False
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,14,1,14,13,105.00;33.22;0.86,105.00;33.22;0.86,80.73,36.69,87.25,39.11,Pass,True
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,15,50,16,2,105.00;33.13;0.18,105.00;33.13;0.18,88.01,42.80,96.19,36.01,"Possession 
+Lost",True
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,17,17,17,29,105.00;28.58;0.10,105.00;28.58;0.10,90.23,34.90,105.00,28.58,"Decisive
+ Action",False
+132290,461,GEORGIA,39056.0,GEORGIY TSITAISHVILI,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,22,46,22,58,0.00;40.99;1.77,105.00;27.01;1.77,94.87,18.34,105.00,27.01,Ball Line Out,False
+132290,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,24,6,24,18,105.00;38.56;7.50,105.00;38.56;7.50,78.72,24.35,105.00,38.56,Pass,False
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,29,25,29,49,105.00;33.13;2.11,105.00;33.13;2.11,94.55,22.46,105.00,33.13,"Offensive
+Action",False
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,29,37,29,49,105.00;33.13;2.11,105.00;33.13;2.11,94.55,22.46,105.00,33.13,"Dribbling
+ Suffered",True
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,31,56,32,8,105.00;35.40;0.12,105.00;35.40;0.12,92.76,33.21,101.22,33.89,Pass,True
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,34,56,35,8,105.00;34.85;0.96,105.00;34.85;0.96,99.62,41.22,101.49,35.78,Pass,True
+132290,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,36,55,37,7,105.00;39.34;0.13,105.00;39.34;0.13,93.39,41.75,105.00,39.34,Ball Line Out,False
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,37,29,37,45,105.00;30.69;0.08,105.00;30.69;0.08,90.12,35.32,105.00,30.69,Pass,False
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",2,2t,37,33,37,45,105.00;30.69;0.08,105.00;30.69;0.08,90.12,35.32,105.00,30.69,"Dribbling
+ Suffered",True
+132290,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,44,14,44,26,105.00;33.59;1.15,105.00;33.59;1.15,91.91,23.72,95.92,30.55,Pass,True
+132290,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,44,36,44,48,105.00;34.00;0.08,105.00;34.00;0.08,86.43,35.11,102.15,33.89,Pass,True
+132290,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,47,16,47,28,105.00;36.65;2.90,105.00;36.65;2.90,91.49,35.42,105.00,36.65,Cross,False

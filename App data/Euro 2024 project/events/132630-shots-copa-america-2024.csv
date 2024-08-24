@@ -1,0 +1,27 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132630,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,5,14,5,26,105.00;37.75;5.50,105.00;37.75;5.50,84.80,45.27,105.00,37.75,Shot Against,False
+132630,414,COLOMBIA,30367.0,DANIEL MUNOZ,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,14,1,14,13,105.00;28.31;0.19,105.00;28.31;0.19,95.51,43.43,105.00,28.31,"Duel 
+Won",False
+132630,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,15,16,15,28,105.00;27.94;0.16,105.00;27.94;0.16,72.45,32.73,105.00,27.94,Shot Against,False
+132630,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,16,52,17,4,0.00;39.79;0.16,105.00;28.21;0.16,90.51,37.52,105.00,28.21,"Dribbling
+ Suffered",False
+132630,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,21,31,21,43,0.00;42.84;0.04,105.00;25.16;0.04,94.18,50.36,105.00,25.16,Pass,False
+132630,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,26,59,27,11,0.00;28.66;3.47,105.00;39.34;3.47,86.63,32.73,105.00,39.34,Pass,False
+132630,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,32,49,33,1,105.00;49.18;0.30,105.00;49.18;0.30,94.49,32.01,105.00,49.18,"Duel 
+Won",False
+132630,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",1,1t,38,39,38,51,105.00;31.01;0.66,105.00;31.01;0.66,101.94,27.22,105.00,31.01,Shot Against,False
+132630,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"On Target, Goal, Headed Shot, From inside the Penalty Area",1,1t,38,39,38,51,105.00;31.01;0.66,105.00;31.01;0.66,101.94,27.22,105.00,31.01,Goal,True
+132630,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,43,34,43,46,105.00;36.92;0.66,105.00;36.92;0.66,92.04,42.21,101.75,36.01,Shot Against,True
+132630,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area, Deflected",1,1t,49,19,49,31,105.00;30.92;2.01,105.00;30.92;2.01,92.04,22.63,92.68,27.34,Shot Against,True
+132630,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,5,39,5,51,0.00;21.37;0.30,105.00;46.63;0.30,98.27,37.11,105.00,46.63,Set Pieces,False
+132630,246,URUGUAY,26462.0,NICOLAS DE LA CRUZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,22,10,22,22,105.00;31.93;0.12,105.00;31.93;0.12,84.39,43.02,102.15,33.08,"Defensive
+Action",True
+132630,246,URUGUAY,7420.0,LUIS SUAREZ,5,Shot,"Post, Right, From inside the Penalty Area, Off Target",2,2t,25,56,26,8,105.00;37.66;1.93,105.00;37.66;1.93,92.24,38.43,105.00,37.66,Pass,False
+132630,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,29,15,29,27,105.00;28.31;0.01,105.00;28.31;0.01,84.39,24.47,105.00,28.31,Pass,False
+132630,246,URUGUAY,29661.0,MANUEL UGARTE,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,39,28,39,40,105.00;20.97;0.19,105.00;20.97;0.19,79.90,39.25,91.62,34.00,Pass,False
+132630,246,URUGUAY,7671.0,JOSE' MARIA GIMENEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,39,58,40,10,105.00;20.11;5.50,105.00;20.11;5.50,98.47,34.15,105.00,20.11,Set Pieces,False
+132630,414,COLOMBIA,16562.0,MATEUS URIBE,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,42,7,42,19,0.00;39.60;0.10,105.00;28.40;0.10,91.53,37.82,105.00,28.40,Shot Against,False
+132630,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,43,32,43,44,105.00;31.05;0.28,105.00;31.05;0.28,80.10,19.88,102.68,31.47,Possession Phase,True
+132630,414,COLOMBIA,16562.0,MATEUS URIBE,5,Shot,"GK Save, Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,48,49,49,1,0.00;35.24;2.15,105.00;32.76;2.15,93.16,36.80,98.44,35.55,Shot Against,False
+132630,246,URUGUAY,7671.0,JOSE' MARIA GIMENEZ,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,49,24,49,36,105.00;20.60;2.32,105.00;20.60;2.32,92.65,30.79,105.00,20.60,Cross,False
+132630,414,COLOMBIA,16563.0,JEFFERSON ANDRES LERMA SOLIS,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,52,1,52,13,0.00;32.50;4.50,105.00;35.50;4.50,49.49,52.81,105.00,35.50,Shot Against,False

@@ -1,0 +1,37 @@
+Player ID,First Name,Last Name,Known Name,Born Date,Shirt Number,Position,Position Detail,Citizenship,Height,Foot,Photo,Module Position,Age
+22250,VALERIY,BONDAR,BONDAR V.,1999-02-27,21,Defender,,Ukraine,185,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BONDAR V._22250.png,0,25.3
+24246,ILLIA,BORYSOVYCH ZABARNYI,ZABARNYI I.,2002-09-01,13,Defender,Centre-Back,Ukraine,189,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZABARNYI I._24246.png,0,21.8
+38393,VOLODYMYR,BRAZHKO,BRAZHKO V.,2002-01-23,18,Midfielder,,Ukraine,184,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRAZHKO V._38393.png,0,22.4
+24245,GEORGIY,BUSHCHAN,BUSHCHAN G.,1994-05-31,1,Goalkeeper,Goalkeeper,Ukraine,196,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUSHCHAN H._24245.png,0,30.1
+28013,VITALIY,BUYALSKYI,BUYALSKYI V.,1993-01-06,0,Midfielder,Attacking Midfield,Ukraine,175,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUYALSKYI V._28013.png,0,31.5
+26396,ARTEM,DOVBYK,DOVBYK A.,1997-06-21,11,Striker,Centre-Forward,Ukraine,189,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOVBYK A._26396.png,0,27.0
+37135,VLADYSLAV,DUBINCHAK,DUBINCHAK V.,1998-07-01,0,Defender,,Ukraine,173,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUBINCHAK V._37135.png,0,26.0
+11125,OLEKSANDR,KARAVAEV,KARAVAEV O.,1992-06-02,0,Defender,Right-Back,Ukraine,175,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KARAVAEV O._11125.png,0,32.1
+24739,YUKHYM,KONOPLYA,KONOPLYA Y.,1999-08-26,2,Defender,Right-Back,Ukraine,180,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KONOPLYA Y._24739.png,0,24.8
+7752,SERGIY,KRYVTSOV,KRYVTSOV S.,1991-03-15,0,Defender,Centre-Back,Ukraine,186,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRYVTSOV S._7752.png,0,33.3
+15780,ANDRIY,LUNIN,LUNIN A.,1999-02-11,23,Goalkeeper,Goalkeeper,Ukraine,191,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUNIN A._15780.png,0,25.4
+14066,RUSLAN,MALINOVSKYI,MALINOVSKYI R.,1993-05-04,8,Midfielder,,Ukraine,181,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MALINOVSKYI R._14066.png,0,31.2
+23819,MYKOLA,MATVIENKO,MATVIENKO M.,1996-05-02,22,Defender,Centre-Back,Ukraine,182,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATVIENKO M._23819.png,0,28.2
+28011,MYKHAYLO,MUDRYK,MUDRYK M.,2001-01-05,10,Striker,Left Forward,Ukraine,175,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUDRYK M._28011.png,0,23.5
+24738,BOGDAN,MYKHAYLICHENKO,MYKHAYLICHENKO B.,1997-03-21,26,Defender,Left-Back,Ukraine,178,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MYKHAYLICHENKO B._24738.png,0,27.3
+19380,VITALIY,MYKOLENKO,MYKOLENKO V.,1999-05-29,16,Defender,Left-Back,Ukraine,180,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MYKOLENKO V._19380.png,0,25.1
+24801,YEGOR,NAZARYNA,NAZARYNA E.,1997-07-10,0,Midfielder,Center Midfield,Ukraine,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NAZARYNA E._24801.png,0,27.0
+38383,OLEKSANDR,PIKHALYONOK,PIKHALYONOK O.,1997-05-07,0,Midfielder,Center Midfield,Ukraine,179,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIKHALYONOK O._38383.png,0,27.2
+24531,DENYS,POPOV,POPOV D.,1999-02-17,0,Defender,Centre-Back,Ukraine,185,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POPOV D._24531.png,0,25.4
+24735,DMYTRO,RIZNYK,RIZNYK D.,1999-01-30,0,Goalkeeper,,Ukraine,191,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIZNYK D._24735.png,0,25.4
+16244,MYKOLA,SHAPARENKO,SHAPARENKO M.,1998-10-04,19,Midfielder,,Ukraine,178,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHAPARENKO M._16244.png,0,25.7
+22756,DANYLO,SIKAN,SIKAN D.,2001-04-16,0,Striker,,Ukraine,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIKAN D._22756.png,0,23.2
+7747,TARAS,STEPANENKO,STEPANENKO T.,1989-08-08,6,Midfielder,Defensive Midfield,Ukraine,181,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STEPANENKO T._7747.png,0,34.9
+24582,GEORGIY,SUDAKOV,SUDAKOV G.,2002-09-01,14,Midfielder,Attacking Midfield,Ukraine,177,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUDAKOV G._24582.png,0,21.8
+15781,OLEKSANDR,SVATOK,SVATOK O.,1994-09-27,3,Defender,,Ukraine,186,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SVATOK O._15781.png,0,29.8
+7848,SERGIY,SYDORCHUK,SYDORCHUK S.,1991-05-02,5,Midfielder,Defensive Midfield,Ukraine,189,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SYDORCHUK S._7848.png,0,33.2
+32401,MAKSYM,TALOVEROV,TALOVEROV M.,2000-06-28,0,Midfielder,,Ukraine,195,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TALOVEROV M._32401.png,0,24.0
+56922,MAKSYM,TALOVIEROV,TALOVIEROV M.,2000-06-28,4,Defender,,Ukraine,195,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TALOVIEROV M._56922.png,0,24.0
+24578,ANATOLIY,TRUBIN,TRUBIN A.,2001-08-01,12,Goalkeeper,Goalkeeper,Ukraine,199,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TRUBIN A._24578.png,0,22.9
+13030,VIKTOR,TSYGANKOV,TSYGANKOV V.,1997-11-15,15,Midfielder,Right Winger,Ukraine,178,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TSYGANKOV V._13030.png,0,26.6
+25840,OLEKSANDR,TYMCHYK,TYMCHYK O.,1997-01-20,24,Defender,,Ukraine,180,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TYMCHYK O._25840.png,0,27.4
+37143,VLADYSLAV,VANAT,VANAT V.,2002-01-04,25,Striker,Centre-Forward,Ukraine,182,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VANAT V._37143.png,0,22.5
+17326,ROMAN,YAREMCHUK,YAREMCHUK R.,1995-11-27,9,Striker,Centre-Forward,Ukraine,191,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YAREMCHUK R._17326.png,0,28.6
+7845,ANDRIY,YARMOLENKO,YARMOLENKO A.,1989-10-23,7,Midfielder,Right Winger,Ukraine,189,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YARMOLENKO A._7845.png,0,34.7
+10072,OLEKSANDR,ZINCHENKO,ZINCHENKO O.,1996-12-15,17,Defender,Left-Back,Ukraine,175,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZINCHENKO O._10072.png,0,27.5
+15502,OLEKSANDR,ZUBKOV,ZUBKOV O.,1996-08-03,20,Midfielder,Right Winger,Ukraine,182,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZUBKOV O._15502.png,0,27.9

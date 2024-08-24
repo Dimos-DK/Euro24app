@@ -1,0 +1,29 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131354,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,2,16,2,28,0.00;33.47;1.58,105.00;34.53;1.58,97.19,39.01,102.02,34.63,"Duel 
+Won",True
+131354,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,10,47,10,59,0.00;34.00;0.92,105.00;34.00;0.92,80.94,31.31,91.09,33.08,"Possession 
+Lost",True
+131354,418,SVIZZERA,24817.0,DAN NDOYE,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,27,42,28,1,105.00;31.84;1.91,105.00;31.84;1.91,99.72,32.89,105.00,31.84,Pass,False
+131354,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,27,49,28,1,105.00;31.84;1.91,105.00;31.84;1.91,99.72,32.89,105.00,31.84,Shot Against,True
+131354,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,29,58,30,10,105.00;38.18;0.01,105.00;38.18;0.01,88.12,22.35,105.00,38.18,Shot Against,False
+131354,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,32,29,32,41,0.00;25.57;4.50,105.00;42.43;4.50,75.77,26.67,84.99,29.75,Pass,False
+131354,11,GERMANIA,8755.0,ANTONIO RUDIGER,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,40,36,40,48,0.00;27.72;0.19,105.00;40.28;0.19,99.20,39.85,105.00,40.28,Cross Against,False
+131354,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,41,21,41,33,0.00;36.67;6.50,105.00;31.33;6.50,92.65,43.75,105.00,31.33,"Offensive
+Action",False
+131354,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,42,34,42,46,0.00;24.97;2.70,105.00;43.03;2.70,81.47,33.63,105.00,43.03,Pass,False
+131354,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,4,50,5,2,105.00;33.72;1.02,105.00;33.72;1.02,86.53,42.49,100.16,34.52,Pass,True
+131354,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"Big Chance, Left, Off Target, From inside the Penalty Area",2,2t,4,52,5,4,105.00;25.81;0.04,105.00;25.81;0.04,89.59,35.84,105.00,25.81,Shot Against,False
+131354,11,GERMANIA,7487.0,TONI KROOS,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,9,2,9,14,105.00;27.38;0.30,105.00;27.38;0.30,82.84,31.42,105.00,27.38,Pass,False
+131354,11,GERMANIA,25117.0,DAVID RAUM,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,17,37,17,49,105.00;34.16;4.50,105.00;34.16;4.50,81.05,21.40,105.00,34.16,Pass,False
+131354,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,18,42,18,54,105.00;34.35;4.50,105.00;34.35;4.50,95.82,33.31,105.00,34.35,"Duel 
+Won",False
+131354,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,21,59,22,11,105.00;33.91;3.30,105.00;33.91;3.30,99.09,35.21,105.00,33.91,Cross,False
+131354,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,24,44,24,56,105.00;35.13;0.61,105.00;35.13;0.61,99.41,40.91,100.43,37.85,"Possession 
+Lost",True
+131354,418,SVIZZERA,52959.0,KWADWO DUAH,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,28,7,28,19,0.00;32.87;0.15,105.00;35.13;0.15,78.83,44.38,101.09,35.09,Shot Against,True
+131354,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,36,9,36,21,105.00;27.20;2.53,105.00;27.20;2.53,92.13,47.23,105.00,27.20,Set Pieces Against,False
+131354,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"Post, Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,39,33,39,45,105.00;32.11;2.44,105.00;32.11;2.44,98.25,34.69,105.00,32.11,Set Pieces,False
+131354,418,SVIZZERA,10018.0,GRANIT XHAKA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,42,47,42,59,0.00;37.18;1.58,105.00;30.82;1.58,77.67,30.05,102.15,33.43,Shot Against,True
+131354,11,GERMANIA,14216.0,NICLAS FULLKRUG,25,Goal,"Headed Shot, From inside the Penalty Area, Central Free Kick",2,2t,46,2,46,14,105.00;31.05;1.98,105.00;31.05;1.98,98.25,36.37,105.00,31.05,"Duel 
+Won",False
+131354,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Goal, Big Chance, Headed Shot, On Target, From inside the Penalty Area",2,2t,46,2,46,14,105.00;31.05;1.98,105.00;31.05;1.98,98.25,36.37,105.00,31.05,Goal,True

@@ -1,0 +1,29 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131362,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,6,25,6,37,105.00;34.05;0.12,105.00;34.05;0.12,94.72,25.01,100.43,28.26,Pass,True
+131362,577,UCRAINA,17326.0,ROMAN YAREMCHUK,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,19,47,19,59,0.00;31.12;1.58,105.00;36.88;1.58,76.02,38.38,101.75,34.63,Shot Against,True
+131362,577,UCRAINA,26396.0,ARTEM DOVBYK,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,20,23,20,35,0.00;25.57;0.13,105.00;42.43;0.13,81.84,28.25,105.00,42.43,Shot Against,False
+131362,428,BELGIO,26708.0,ARTHUR THEATE,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,22,50,23,2,105.00;44.40;2.82,105.00;44.40;2.82,81.77,16.46,105.00,44.40,Pass,False
+131362,577,UCRAINA,38393.0,VOLODYMYR BRAZHKO,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,25,52,26,4,0.00;34.14;0.35,105.00;33.86;0.35,75.95,45.21,81.88,42.56,"Possession 
+Lost",True
+131362,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,26,57,27,9,0.00;29.35;7.50,105.00;38.65;7.50,82.71,29.04,105.00,38.65,Shot Against,False
+131362,577,UCRAINA,17326.0,ROMAN YAREMCHUK,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,28,7,28,19,0.00;25.66;6.50,105.00;42.34;6.50,95.51,32.06,105.00,42.34,Shot Against,False
+131362,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,32,28,32,40,105.00;38.00;0.90,105.00;38.00;0.90,73.72,57.00,105.00,38.00,Foul,False
+131362,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,33,55,34,7,0.00;36.72;0.48,105.00;31.28;0.48,91.05,24.51,102.15,33.89,Shot Against,True
+131362,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,43,16,43,28,0.00;36.07;0.08,105.00;31.93;0.08,74.58,13.59,102.28,34.17,Set Pieces,True
+131362,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,45,1,45,13,105.00;30.87;0.76,105.00;30.87;0.76,87.31,19.34,102.15,32.16,Pass,True
+131362,428,BELGIO,13799.0,YOURI TIELEMANS,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,6,20,6,32,0.00;50.78;0.54,105.00;17.22;0.54,83.94,25.46,105.00,17.22,Pass,False
+131362,428,BELGIO,13799.0,YOURI TIELEMANS,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,6,58,7,10,0.00;20.06;3.11,105.00;47.94;3.11,83.14,40.73,105.00,47.94,Possession Phase,False
+131362,428,BELGIO,24564.0,JEREMY DOKU,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,9,54,10,6,0.00;30.75;0.15,105.00;37.25;0.15,86.26,37.75,90.43,37.50,Possession Phase,True
+131362,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,18,58,19,10,0.00;35.84;0.15,105.00;32.16;0.15,91.91,49.50,102.02,37.16,"Defensive
+Action",True
+131362,428,BELGIO,7407.0,YANNICK FERREIRA CARRASCO,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,27,32,27,44,0.00;35.47;0.82,105.00;32.53;0.82,89.01,28.69,102.02,34.29,Pass,True
+131362,428,BELGIO,24564.0,JEREMY DOKU,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,27,40,27,52,0.00;31.03;1.06,105.00;36.97;1.06,88.27,32.48,90.82,34.75,"Dribbling
+ Suffered",True
+131362,577,UCRAINA,26396.0,ARTEM DOVBYK,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,29,2,29,14,105.00;31.61;0.21,105.00;31.61;0.21,100.76,26.09,102.28,26.53,Shot Against,True
+131362,577,UCRAINA,26396.0,ARTEM DOVBYK,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,33,48,34,0,105.00;38.39;0.33,105.00;38.39;0.33,94.74,44.44,105.00,38.39,Shot Against,False
+131362,577,UCRAINA,14066.0,RUSLAN MALINOVSKYI,5,Shot,"On Target, GK Save, Left, Corner, From outside the Penalty Area",2,2t,37,9,37,21,105.00;36.97;0.58,105.00;36.97;0.58,104.33,67.18,102.42,34.00,Shot Against,True
+131362,577,UCRAINA,7747.0,TARAS STEPANENKO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,37,37,37,49,105.00;30.27;3.44,105.00;30.27;3.44,97.49,35.90,105.00,30.27,Shot Against,False
+131362,577,UCRAINA,7845.0,ANDRIY YARMOLENKO,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,39,42,39,54,105.00;31.74;0.18,105.00;31.74;0.18,80.46,43.10,82.94,40.49,Shot Against,True
+131362,428,BELGIO,32072.0,JOHAN BAKAYOKO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,41,50,42,2,0.00;43.11;1.42,105.00;24.89;1.42,90.05,39.83,105.00,24.89,Pass,False
+131362,577,UCRAINA,14066.0,RUSLAN MALINOVSKYI,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,42,36,42,48,105.00;34.12;0.92,105.00;34.12;0.92,84.25,36.79,96.45,34.17,Shot Against,True
+131362,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,45,35,45,47,105.00;34.25;0.18,105.00;34.25;0.18,91.76,38.35,102.28,34.29,Shot Against,True

@@ -1,0 +1,35 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131481,245,MESSICO,29854.0,URIEL ANTUNA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,0,14,0,26,105.00;21.21;0.04,105.00;21.21;0.04,91.05,44.20,105.00,21.21,Pass,False
+131481,245,MESSICO,36791.0,CARLOS RODRIGUEZ,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,9,18,9,30,105.00;26.55;0.13,105.00;26.55;0.13,93.09,28.22,105.00,26.55,"Duel 
+Won",False
+131481,781,VENEZUELA,20459.0,YEFERSON SOTELDO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,12,47,12,59,0.00;32.50;2.79,105.00;35.50;2.79,87.08,19.49,105.00,35.50,Shot Against,False
+131481,245,MESSICO,29854.0,URIEL ANTUNA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,14,32,14,44,105.00;34.44;0.28,105.00;34.44;0.28,83.91,42.95,86.32,41.29,"Possession 
+Lost",True
+131481,781,VENEZUELA,45521.0,EDUARD BELLO,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,18,0,18,12,0.00;32.23;0.99,105.00;35.77;0.99,81.64,50.77,84.60,45.60,"Possession 
+Lost",True
+131481,245,MESSICO,59252.0,SANTIAGO TOMAS GIMENEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,18,10,18,22,105.00;36.14;0.21,105.00;36.14;0.21,91.28,31.39,93.47,31.36,Pass,True
+131481,245,MESSICO,17870.0,GERARDO ARTEAGA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,20,37,20,49,105.00;38.12;8.50,105.00;38.12;8.50,90.49,37.06,105.00,38.12,Pass,False
+131481,245,MESSICO,36791.0,CARLOS RODRIGUEZ,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,23,56,24,8,105.00;32.48;1.71,105.00;32.48;1.71,96.50,33.66,103.08,32.39,Cross Against,True
+131481,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Post, Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,33,6,33,18,0.00;30.34;0.11,105.00;37.66;0.11,92.07,22.78,105.00,37.66,Shot Against,False
+131481,245,MESSICO,33523.0,LUIS CHAVEZ,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,35,17,35,29,105.00;34.30;0.35,105.00;34.30;0.35,86.18,24.71,87.38,25.73,"Possession 
+Lost",True
+131481,781,VENEZUELA,20459.0,YEFERSON SOTELDO,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,4,28,4,40,105.00;31.47;1.45,105.00;31.47;1.45,97.63,22.67,102.15,30.78,Shot Against,True
+131481,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,4,59,5,11,105.00;32.07;0.82,105.00;32.07;0.82,86.29,20.17,88.31,21.42,Shot Against,True
+131481,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",2,2t,7,12,7,24,105.00;38.00;0.07,105.00;38.00;0.07,88.44,31.51,91.22,31.36,Shot Against,False
+131481,781,VENEZUELA,32689.0,CRISTIAN SLEIKER CASSERES YEPES JR.,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,7,58,8,10,105.00;32.11;7.50,105.00;32.11;7.50,87.08,48.96,105.00,32.11,Shot Against,False
+131481,781,VENEZUELA,7958.0,SALOMON RONDON,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",2,2t,11,19,12,29,105.00;30.64;0.12,105.00;30.64;0.12,93.89,34.11,105.00,30.64,Set Pieces,False
+131481,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",2,2t,11,19,11,31,105.00;30.64;0.12,105.00;30.64;0.12,93.89,34.11,105.00,30.64,Goal,True
+131481,245,MESSICO,26673.0,JOHAN VASQUEZ,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,21,29,21,41,0.00;33.95;1.38,105.00;34.05;1.38,73.48,31.73,85.79,32.28,"Possession 
+Lost",True
+131481,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,30,46,30,58,105.00;56.25;0.16,105.00;56.25;0.16,78.47,35.02,86.98,33.77,Shot Against,False
+131481,245,MESSICO,33525.0,LUIS ROMO,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,31,43,31,55,0.00;29.27;3.30,105.00;38.73;3.30,91.85,48.17,105.00,38.73,Pass,False
+131481,781,VENEZUELA,32689.0,CRISTIAN SLEIKER CASSERES YEPES JR.,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,35,18,35,30,105.00;21.71;0.13,105.00;21.71;0.13,87.88,42.39,105.00,21.71,Shot Against,False
+131481,245,MESSICO,33521.0,JORGE SANCHEZ,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,37,16,37,28,0.00;31.68;1.38,105.00;36.32;1.38,95.13,39.67,98.57,40.15,"Decisive
+ Action",True
+131481,245,MESSICO,33526.0,ORBELIN PINEDA,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",2,2t,41,53,42,5,0.00;36.76;0.12,105.00;31.24;0.12,93.55,33.89,102.95,32.16,Set Pieces,True
+131481,245,MESSICO,20879.0,CESAR HUERTA,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,42,19,42,31,0.00;30.52;0.25,105.00;37.48;0.25,94.34,48.05,102.28,37.27,Possession Phase,True
+131481,245,MESSICO,45509.0,GUILLERMO MARTINEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,45,27,45,39,0.00;35.06;0.54,105.00;32.94;0.54,98.88,35.81,100.96,36.24,Cross Against,True
+131481,245,MESSICO,20879.0,CESAR HUERTA,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,45,28,45,40,0.00;31.17;0.28,105.00;36.83;0.28,93.77,41.37,100.16,37.62,"Possession 
+Lost",True
+131481,245,MESSICO,33525.0,LUIS ROMO,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,49,33,49,45,0.00;31.72;0.48,105.00;36.28;0.48,102.96,40.12,104.01,39.11,"Duel 
+Lost",True

@@ -1,0 +1,31 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131369,463,ALBANIA,16535.0,NEDIM BAJRAMI,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,0,20,0,32,105.00;37.29;1.55,105.00;37.29;1.55,98.43,44.66,105.00,37.29,Set Pieces Against,False
+131369,463,ALBANIA,16535.0,NEDIM BAJRAMI,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",1,1t,0,20,0,32,105.00;37.29;1.55,105.00;37.29;1.55,98.43,44.66,105.00,37.29,Goal,True
+131369,1,ITALIA,7227.0,LORENZO PELLEGRINI,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,1,52,2,4,0.00;28.32;1.71,105.00;39.68;1.71,91.59,36.37,105.00,39.68,"Defensive
+Action",False
+131369,1,ITALIA,11798.0,FEDERICO CHIESA,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,5,50,6,2,0.00;36.99;1.58,105.00;31.01;1.58,95.15,50.50,100.69,40.83,Pass,True
+131369,463,ALBANIA,46129.0,JASIR ASANI,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",1,1t,7,15,7,27,105.00;25.81;1.07,105.00;25.81;1.07,92.87,49.31,94.53,48.01,Shot Against,False
+131369,1,ITALIA,12940.0,ALESSANDRO BASTONI,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",1,1t,10,12,10,24,0.00;33.84;1.78,105.00;34.16;1.78,101.44,39.47,105.00,34.16,Cross Against,False
+131369,1,ITALIA,12940.0,ALESSANDRO BASTONI,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,10,12,10,24,0.00;33.84;1.78,105.00;34.16;1.78,101.44,39.47,105.00,34.16,Goal,True
+131369,1,ITALIA,6438.0,NICOLO' BARELLA,25,Goal,"Right, From outside the Penalty Area, Offensive Action",1,1t,15,26,16,1,0.00;37.08;1.09,105.00;30.92;1.09,87.39,30.72,105.00,30.92,Pass,False
+131369,1,ITALIA,14684.0,GIANLUCA SCAMACCA,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,15,47,15,59,0.00;58.69;0.01,105.00;9.31;0.01,91.13,45.49,92.68,44.28,Intercept,False
+131369,1,ITALIA,6438.0,NICOLO' BARELLA,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",1,1t,15,49,16,1,0.00;37.08;1.09,105.00;30.92;1.09,87.39,30.72,105.00,30.92,Shot Against,True
+131369,1,ITALIA,16122.0,RICCARDO CALAFIORI,5,Shot,"On Target, Blocked, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,20,29,20,41,0.00;33.29;1.19,105.00;34.71;1.19,100.99,31.90,101.62,32.62,"Duel 
+Won",True
+131369,1,ITALIA,11798.0,FEDERICO CHIESA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,20,32,20,44,0.00;34.78;0.54,105.00;33.22;0.54,81.56,26.98,84.46,27.45,"Possession 
+Lost",True
+131369,1,ITALIA,14083.0,DAVIDE FRATTESI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,32,50,33,2,0.00;32.09;1.35,105.00;35.91;1.35,98.02,43.73,101.22,40.60,Pass,True
+131369,1,ITALIA,14684.0,GIANLUCA SCAMACCA,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,39,15,39,27,0.00;36.03;0.12,105.00;31.97;0.12,100.47,43.19,101.89,40.03,"Duel 
+Lost",True
+131369,463,ALBANIA,46129.0,JASIR ASANI,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,43,46,43,58,105.00;28.95;3.08,105.00;28.95;3.08,82.53,44.19,105.00,28.95,Shot Against,False
+131369,1,ITALIA,7227.0,LORENZO PELLEGRINI,5,Shot,"Big Chance, Other, From inside the Penalty Area, Off Target",1,1t,46,12,46,24,0.00;41.27;0.70,105.00;26.73;0.70,94.67,30.79,105.00,26.73,Ball Line Out,False
+131369,1,ITALIA,14684.0,GIANLUCA SCAMACCA,5,Shot,"Off Target, Blocked, Right, From outside the Penalty Area",2,2t,2,35,2,47,105.00;29.05;0.07,105.00;29.05;0.07,85.16,39.12,92.15,34.52,Pass,False
+131369,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",2,2t,6,40,6,52,0.00;36.39;1.45,105.00;31.61;1.45,80.27,17.48,91.09,21.77,Shot Against,True
+131369,1,ITALIA,11798.0,FEDERICO CHIESA,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,13,59,14,11,105.00;29.32;1.39,105.00;29.32;1.39,89.60,44.82,105.00,29.32,Pass,False
+131369,1,ITALIA,14083.0,DAVIDE FRATTESI,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,18,28,18,40,105.00;40.11;2.99,105.00;40.11;2.99,104.00,45.82,105.00,40.11,Pass,False
+131369,1,ITALIA,10593.0,GIOVANNI DI LORENZO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target, Deflected",2,2t,21,4,21,16,105.00;30.59;4.50,105.00;30.59;4.50,101.19,25.81,102.15,27.68,Cross Against,False
+131369,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,23,51,24,3,0.00;19.41;0.96,105.00;48.59;0.96,84.16,37.03,105.00,48.59,GK Claim,False
+131369,1,ITALIA,7814.0,FEDERICO DIMARCO,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,34,7,34,19,105.00;35.22;1.88,105.00;35.22;1.88,84.25,16.93,101.75,32.62,"Defensive
+Action",True
+131369,463,ALBANIA,8717.0,REY MANAJ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,44,32,44,44,0.00;35.89;0.51,105.00;32.11;0.51,100.65,44.73,101.36,41.75,Shot Against,True
+131369,463,ALBANIA,36390.0,MARIO MITAJ,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,49,55,50,7,0.00;28.06;2.32,105.00;39.94;2.32,87.79,21.10,105.00,39.94,Shot Against,False

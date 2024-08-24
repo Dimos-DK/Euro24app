@@ -1,0 +1,37 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131370,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,2,11,2,23,0.00;33.84;0.66,105.00;34.16;0.66,98.09,33.48,102.28,34.00,Pass,True
+131370,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,6,0,6,14,105.00;37.57;0.12,105.00;37.57;0.12,102.10,23.38,105.00,37.57,"Offensive
+Action",False
+131370,475,SLOVACCHIA,6531.0,JURAJ KUCKA,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,6,1,6,13,105.00;32.71;1.02,105.00;32.71;1.02,92.30,27.54,101.62,32.05,Shot Against,True
+131370,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,6,2,6,14,105.00;37.57;0.12,105.00;37.57;0.12,102.10,23.38,105.00,37.57,"Goal 
+Provoked",True
+131370,428,BELGIO,24564.0,JEREMY DOKU,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,14,59,15,11,0.00;31.17;0.99,105.00;36.83;0.99,93.27,49.66,98.71,40.60,"Dribbling
+ Suffered",True
+131370,428,BELGIO,13125.0,LEANDRO TROSSARD,5,Shot,"Promising Action, Right, From outside the Penalty Area, Off Target",1,1t,20,3,20,15,0.00;30.02;3.15,105.00;37.98;3.15,81.61,23.31,105.00,37.98,GK Play,False
+131370,475,SLOVACCHIA,23166.0,ROBERT BOZENIK,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,22,31,22,43,105.00;37.25;0.31,105.00;37.25;0.31,90.00,42.17,93.87,40.83,Shot Against,True
+131370,475,SLOVACCHIA,23166.0,ROBERT BOZENIK,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,30,34,30,46,105.00;34.12;0.21,105.00;34.12;0.21,87.55,32.37,102.15,32.62,"Defensive
+Action",True
+131370,428,BELGIO,13125.0,LEANDRO TROSSARD,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,31,54,32,6,0.00;31.58;0.89,105.00;36.42;0.89,86.81,25.09,91.22,28.03,"Possession 
+Lost",True
+131370,428,BELGIO,27431.0,AMADOU ONANA,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,35,12,35,24,0.00;33.84;0.86,105.00;34.16;0.86,97.20,34.67,102.95,34.29,Set Pieces,True
+131370,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,39,16,39,28,105.00;36.28;0.96,105.00;36.28;0.96,90.07,32.81,102.15,33.20,Shot Against,True
+131370,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,41,12,41,24,0.00;40.99;0.16,105.00;27.01;0.16,96.39,34.07,105.00,27.01,"Duel 
+Lost",False
+131370,475,SLOVACCHIA,6531.0,JURAJ KUCKA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,47,20,47,32,105.00;40.88;2.88,105.00;40.88;2.88,102.25,41.13,105.00,40.88,Shot Against,False
+131370,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,1,39,1,51,0.00;26.60;1.25,105.00;41.40;1.25,86.58,20.34,105.00,41.40,Shot Against,False
+131370,475,SLOVACCHIA,15765.0,DENIS VAVRO,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,6,22,6,34,0.00;39.51;0.16,105.00;28.49;0.16,71.51,35.04,105.00,28.49,Shot Against,False
+131370,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,9,53,10,5,105.00;37.34;0.82,105.00;37.34;0.82,96.53,45.66,102.28,36.35,Pass,True
+131370,428,BELGIO,13125.0,LEANDRO TROSSARD,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,13,18,13,30,105.00;35.68;0.12,105.00;35.68;0.12,85.84,40.90,101.75,34.17,"Duel 
+Won",True
+131370,428,BELGIO,7407.0,YANNICK FERREIRA CARRASCO,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,15,32,15,44,105.00;34.00;0.18,105.00;34.00;0.18,95.27,33.63,98.31,32.85,"Possession 
+Lost",True
+131370,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,15,56,16,8,105.00;38.00;0.13,105.00;38.00;0.13,100.92,41.50,105.00,38.00,Ball Line Out,False
+131370,428,BELGIO,32072.0,JOHAN BAKAYOKO,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,16,46,16,58,105.00;33.68;0.15,105.00;33.68;0.15,97.50,34.15,102.81,33.89,Cross Against,True
+131370,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,21,14,21,26,105.00;32.94;0.66,105.00;32.94;0.66,87.55,44.84,92.02,41.87,Pass,True
+131370,475,SLOVACCHIA,27998.0,DAVID STRELEC,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,30,55,31,7,0.00;30.75;0.12,105.00;37.25;0.12,97.43,37.71,97.65,37.96,Pass,True
+131370,475,SLOVACCHIA,6531.0,JURAJ KUCKA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,32,49,33,1,0.00;44.45;0.13,105.00;23.55;0.13,83.84,46.55,105.00,23.55,Shot Against,False
+131370,428,BELGIO,7407.0,YANNICK FERREIRA CARRASCO,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,34,16,34,28,105.00;31.56;0.66,105.00;31.56;0.66,84.73,32.74,87.38,30.44,Pass,True
+131370,428,BELGIO,27431.0,AMADOU ONANA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,34,52,35,4,105.00;41.66;0.10,105.00;41.66;0.10,94.01,32.00,105.00,41.66,Set Pieces,False
+131370,428,BELGIO,32072.0,JOHAN BAKAYOKO,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,45,40,45,52,105.00;21.34;1.42,105.00;21.34;1.42,86.81,40.68,105.00,21.34,"Duel 
+Won",False
+131370,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,47,44,47,56,105.00;31.65;0.12,105.00;31.65;0.12,95.35,44.17,102.28,35.32,Pass,True

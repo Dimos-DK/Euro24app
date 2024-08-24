@@ -1,0 +1,29 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131479,421,ARGENTINA,11569.0,RODRIGO DE PAUL,5,Shot,"Off Target, Blocked, Right, From outside the Penalty Area",1,1t,11,50,12,2,105.00;29.51;2.85,105.00;29.51;2.85,74.40,35.62,80.03,37.16,Shot Against,False
+131479,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,21,10,21,22,105.00;30.82;0.21,105.00;30.82;0.21,97.14,30.07,102.15,31.13,Shot Against,True
+131479,421,ARGENTINA,11569.0,RODRIGO DE PAUL,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,25,20,25,32,105.00;33.82;4.50,105.00;33.82;4.50,89.46,50.38,105.00,33.82,Shot Against,False
+131479,421,ARGENTINA,11569.0,RODRIGO DE PAUL,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,26,34,26,46,105.00;30.78;0.82,105.00;30.78;0.82,86.47,39.13,87.38,38.42,"Offensive
+Action",True
+131479,421,ARGENTINA,35040.0,ENZO FERNANDEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,26,41,26,53,105.00;37.48;0.02,105.00;37.48;0.02,84.48,20.41,101.89,34.98,Shot Against,True
+131479,421,ARGENTINA,26456.0,NICOLAS GONZALEZ,5,Shot,"GK Save, Promising Action, Headed Shot, From outside the Penalty Area, Off Target",1,1t,29,27,29,39,105.00;48.07;0.07,105.00;48.07;0.07,87.37,31.96,97.25,34.63,"Offensive
+Action",False
+131479,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"Post, Left, From outside the Penalty Area, Off Target",1,1t,35,32,35,44,105.00;37.66;0.05,105.00;37.66;0.05,79.60,37.43,105.00,37.66,Shot Against,False
+131479,421,ARGENTINA,32684.0,ALEXIS MAC ALLISTER,5,Shot,"GK Save, Left, From outside the Penalty Area, Off Target, Deflected",1,1t,44,7,44,19,105.00;28.86;0.10,105.00;28.86;0.10,80.71,25.11,86.85,26.42,Shot Against,False
+131479,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,45,12,45,24,105.00;42.09;4.50,105.00;42.09;4.50,87.30,21.67,105.00,42.09,Shot Against,False
+131479,421,ARGENTINA,11569.0,RODRIGO DE PAUL,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,46,48,47,0,105.00;28.21;4.50,105.00;28.21;4.50,82.20,30.03,105.00,28.21,Shot Against,False
+131479,421,ARGENTINA,23982.0,NAHUEL MOLINA,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,3,59,4,11,0.00;34.92;1.52,105.00;33.08;1.52,94.79,43.80,102.28,36.70,Shot Against,True
+131479,421,ARGENTINA,21433.0,LISANDRO MARTINEZ,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",2,2t,4,55,5,7,0.00;40.71;0.13,105.00;27.29;0.13,91.08,25.85,94.14,28.49,Shot Against,False
+131479,421,ARGENTINA,32684.0,ALEXIS MAC ALLISTER,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,11,6,11,18,0.00;34.05;0.99,105.00;33.95;0.99,98.56,32.91,102.42,33.08,Shot Against,True
+131479,421,ARGENTINA,26456.0,NICOLAS GONZALEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,15,34,15,46,0.00;34.69;1.88,105.00;33.31;1.88,92.71,23.49,102.02,31.93,Shot Against,True
+131479,412,CILE,53502.0,RODRIGO EDUARDO ECHEVERRIA SAEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,26,39,26,51,105.00;34.44;0.08,105.00;34.44;0.08,85.23,34.72,102.15,34.17,Intercept,True
+131479,412,CILE,53502.0,RODRIGO EDUARDO ECHEVERRIA SAEZ,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area, Deflected",2,2t,30,10,30,22,105.00;32.02;0.15,105.00;32.02;0.15,91.22,33.92,93.74,32.28,"Offensive
+Action",True
+131479,412,CILE,26491.0,MARCELINO NUNEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,31,22,31,34,105.00;32.16;0.48,105.00;32.16;0.48,74.81,35.84,102.15,32.97,"Dribbling
+ Suffered",True
+131479,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",2,2t,32,53,33,5,0.00;25.74;0.39,105.00;42.26;0.39,93.24,42.79,94.93,42.67,Shot Against,False
+131479,421,ARGENTINA,17761.0,CRISTIAN ROMERO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,36,50,37,2,0.00;43.34;3.38,105.00;24.66;3.38,98.46,37.02,105.00,24.66,Set Pieces,False
+131479,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"On Target, GK Save, Left, Corner, From outside the Penalty Area",2,2t,41,47,41,59,0.00;33.06;2.31,105.00;34.94;2.31,103.95,66.74,102.95,34.75,Shot Against,True
+131479,421,ARGENTINA,14920.0,GIOVANI LO CELSO,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,42,7,42,19,0.00;34.23;0.12,105.00;33.77;0.12,102.73,34.62,102.68,34.29,Shot Against,True
+131479,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,25,Goal,"Right, From inside the Penalty Area, Corner",2,2t,42,8,43,38,0.00;36.58;1.62,105.00;31.42;1.62,97.58,28.13,105.00,31.42,Shot Against,False
+131479,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,42,8,42,20,0.00;36.58;1.62,105.00;31.42;1.62,97.58,28.13,105.00,31.42,Goal,True
+131479,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,49,40,49,52,0.00;33.84;1.12,105.00;34.16;1.12,96.87,31.19,101.09,32.51,Shot Against,True

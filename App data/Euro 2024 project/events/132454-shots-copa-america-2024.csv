@@ -1,0 +1,55 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132454,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,11,6,11,18,105.00;37.48;0.54,105.00;37.48;0.54,66.27,53.57,100.69,37.73,GK Claim,True
+132454,3914,CANADA,28652.0,CYLE LARIN,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,11,9,11,21,105.00;37.02;0.61,105.00;37.02;0.61,98.19,48.38,101.75,39.23,Shot Against,True
+132454,3914,CANADA,51325.0,JACOB SHAFFELBURG,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,12,34,12,51,105.00;37.34;0.28,105.00;37.34;0.28,98.70,38.93,105.00,37.34,Pass,False
+132454,3914,CANADA,51325.0,JACOB SHAFFELBURG,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",1,1t,12,39,12,51,105.00;37.34;0.28,105.00;37.34;0.28,98.70,38.93,105.00,37.34,Shot Against,True
+132454,3914,CANADA,36782.0,RICHIE LARYEA,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,13,54,14,6,105.00;51.15;0.25,105.00;51.15;0.25,84.47,46.55,91.22,41.06,Shot Against,False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,15,20,15,32,0.00;39.51;1.89,105.00;28.49;1.89,93.82,36.39,105.00,28.49,Cross,False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,17,3,17,15,0.00;22.68;0.22,105.00;45.32;0.22,76.03,37.10,105.00,45.32,"Defensive
+Action",False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,20,19,20,31,0.00;33.29;1.91,105.00;34.71;1.91,99.31,27.75,102.68,32.85,"Duel 
+Lost",True
+132454,781,VENEZUELA,20459.0,YEFERSON SOTELDO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,22,29,22,41,0.00;24.88;6.50,105.00;43.12;6.50,76.23,30.70,105.00,43.12,Ball Line Out,False
+132454,3914,CANADA,51325.0,JACOB SHAFFELBURG,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",1,1t,23,38,23,50,105.00;36.83;0.15,105.00;36.83;0.15,90.26,34.25,102.81,34.98,Shot Against,True
+132454,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,25,42,25,54,105.00;40.62;0.19,105.00;40.62;0.19,89.45,37.00,105.00,40.62,Shot Against,False
+132454,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,28,16,28,28,0.00;45.31;0.04,105.00;22.69;0.04,94.53,13.82,105.00,22.69,Ball Line Out,False
+132454,3914,CANADA,36782.0,RICHIE LARYEA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,30,8,30,20,105.00;27.75;0.07,105.00;27.75;0.07,95.55,47.26,105.00,27.75,Shot Against,False
+132454,781,VENEZUELA,20459.0,YEFERSON SOTELDO,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area, Deflected",1,1t,48,8,48,20,0.00;34.05;0.79,105.00;33.95;0.79,89.14,28.26,92.55,30.09,Pass,True
+132454,3914,CANADA,28652.0,CYLE LARIN,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,6,55,7,7,0.00;29.88;3.24,105.00;38.12;3.24,91.28,35.68,105.00,38.12,Shot Against,False
+132454,781,VENEZUELA,32688.0,JOSE' ANDRES MARTINEZ TORRES,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,8,35,8,47,105.00;38.17;4.50,105.00;38.17;4.50,96.36,45.33,105.00,38.17,"Decisive
+ Action",False
+132454,781,VENEZUELA,45521.0,EDUARD BELLO,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,12,13,12,25,105.00;30.78;2.18,105.00;30.78;2.18,102.66,20.13,102.68,30.44,Pass,True
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,25,Goal,"Right, From outside the Penalty Area, Offensive Action",2,2t,18,45,19,4,105.00;34.16;1.88,105.00;34.16;1.88,68.61,29.17,105.00,34.16,Set Pieces Against,False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",2,2t,18,52,19,4,105.00;34.16;1.88,105.00;34.16;1.88,68.61,29.17,105.00,34.16,"Duel 
+Lost",True
+132454,3914,CANADA,30927.0,LIAM MILLAR,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,20,42,20,54,0.00;36.30;0.21,105.00;31.70;0.21,92.50,21.85,102.42,32.62,Shot Against,True
+132454,3914,CANADA,30927.0,LIAM MILLAR,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,21,19,21,31,0.00;36.95;0.45,105.00;31.05;0.45,101.44,22.46,101.62,28.03,Shot Against,True
+132454,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,23,48,24,0,0.00;27.89;3.30,105.00;40.11;3.30,82.54,18.80,105.00,40.11,Ball Line Out,False
+132454,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,24,49,25,1,105.00;28.12;3.15,105.00;28.12;3.15,85.28,29.99,105.00,28.12,"Duel 
+Lost",False
+132454,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,31,10,31,22,0.00;38.17;4.50,105.00;29.83;4.50,90.46,20.84,105.00,29.83,Ball Line Out,False
+132454,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",2,2t,32,57,33,9,105.00;34.53;7.50,105.00;34.53;7.50,95.45,17.18,96.98,18.90,Possession Phase,False
+132454,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,34,58,35,10,0.00;37.36;2.88,105.00;30.64;2.88,96.06,42.89,105.00,30.64,Shot Against,False
+132454,781,VENEZUELA,32687.0,MIGUEL ANGEL NAVARRO ZARATE,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,37,28,37,40,105.00;30.29;5.50,105.00;30.29;5.50,94.23,19.31,105.00,30.29,Cross Against,False
+132454,3914,CANADA,36781.0,ALISTAIR JOHNSTON,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,40,34,40,46,0.00;31.03;1.95,105.00;36.97;1.95,97.48,51.23,102.95,37.16,Shot Against,True
+132454,3914,CANADA,47715.0,ALI AHMED,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,42,7,42,19,0.00;42.47;0.30,105.00;25.53;0.30,91.89,43.61,105.00,25.53,Shot Against,False
+132454,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,43,0,43,12,0.00;27.46;0.04,105.00;40.54;0.04,84.67,26.02,105.00,40.54,Shot Against,False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,6,0,59,0.00;31.12;0.28,0.00;31.12;0.28,11.38,34.46,0.00,31.12,Set Pieces,False
+132454,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,6,0,18,0.00;31.12;0.28,0.00;31.12;0.28,11.38,34.46,0.00,31.12,Goal,True
+132454,3914,CANADA,23346.0,JONATHAN DAVID,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,53,0,59,105.00;37.11;0.99,105.00;37.11;0.99,94.02,34.36,105.00,37.11,Set Pieces,False
+132454,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,53,1,5,105.00;37.11;0.99,105.00;37.11;0.99,94.02,34.36,105.00,37.11,Goal,True
+132454,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"Post, Right, Penalty, From inside the Penalty Area, Off Target",5,rigori,1,35,1,47,0.00;37.66;0.15,0.00;37.66;0.15,11.38,34.36,0.00,37.66,Set Pieces,False
+132454,3914,CANADA,30927.0,LIAM MILLAR,5,Shot,"Right, Penalty, From inside the Penalty Area, Off Target",5,rigori,2,15,2,27,105.00;36.74;3.35,105.00;36.74;3.35,93.92,34.15,105.00,36.74,Set Pieces,False
+132454,781,VENEZUELA,6528.0,TOMAS RINCON,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,3,1,3,7,0.00;35.15;1.06,0.00;35.15;1.06,11.59,34.05,0.00,35.15,Set Pieces,False
+132454,781,VENEZUELA,6528.0,TOMAS RINCON,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,3,1,3,13,0.00;35.15;1.06,0.00;35.15;1.06,11.59,34.05,0.00,35.15,Goal,True
+132454,3914,CANADA,49309.0,MOISE BOMBITO LUMPUNGU,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,4,14,4,20,105.00;36.92;0.28,105.00;36.92;0.28,93.92,34.15,105.00,36.92,Set Pieces,False
+132454,3914,CANADA,49309.0,MOISE BOMBITO LUMPUNGU,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,4,14,4,26,105.00;36.92;0.28,105.00;36.92;0.28,93.92,34.15,105.00,36.92,Goal,True
+132454,781,VENEZUELA,20457.0,JEFFERSON SAVARINO,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,5,6,5,18,0.00;36.67;1.12,0.00;36.67;1.12,11.26,34.33,1.39,33.83,Set Pieces,True
+132454,3914,CANADA,16511.0,STEPHEN ANTUNES EUSTAQUIO,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,6,0,6,12,105.00;35.40;0.66,105.00;35.40;0.66,93.74,34.11,103.34,34.29,Set Pieces,True
+132454,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,7,2,7,8,0.00;31.08;0.28,0.00;31.08;0.28,11.26,34.22,0.00,31.08,Set Pieces,False
+132454,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,7,2,7,14,0.00;31.08;0.28,0.00;31.08;0.28,11.26,34.22,0.00,31.08,Goal,True
+132454,3914,CANADA,22446.0,ALPHONSO DAVIES,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,7,56,8,2,105.00;36.92;2.11,105.00;36.92;2.11,93.96,34.44,105.00,36.92,Set Pieces,False
+132454,3914,CANADA,22446.0,ALPHONSO DAVIES,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,7,56,8,8,105.00;36.92;2.11,105.00;36.92;2.11,93.96,34.44,105.00,36.92,Goal,True
+132454,781,VENEZUELA,48528.0,WILKER JOSE' ANGEL ROMERO,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,8,40,8,52,0.00;31.54;0.79,0.00;31.54;0.79,11.26,34.22,1.52,34.00,Set Pieces,True
+132454,3914,CANADA,36785.0,ISMAEL KONE',25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,9,35,9,41,105.00;31.61;0.28,105.00;31.61;0.28,93.85,34.22,105.00,31.61,Set Pieces,False
+132454,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,9,35,9,47,105.00;31.61;0.28,105.00;31.61;0.28,93.85,34.22,105.00,31.61,Goal,True

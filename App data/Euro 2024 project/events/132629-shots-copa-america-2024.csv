@@ -1,0 +1,28 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132629,3914,CANADA,51325.0,JACOB SHAFFELBURG,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,4,26,4,38,105.00;30.29;3.50,105.00;30.29;3.50,94.18,20.64,105.00,30.29,Shot Against,False
+132629,3914,CANADA,51325.0,JACOB SHAFFELBURG,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,6,55,7,7,105.00;42.00;0.10,105.00;42.00;0.10,93.63,19.87,105.00,42.00,Shot Against,False
+132629,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,11,2,11,14,0.00;29.27;0.01,105.00;38.73;0.01,86.12,43.49,105.00,38.73,Pass,False
+132629,3914,CANADA,22446.0,ALPHONSO DAVIES,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,16,32,16,44,105.00;34.25;0.61,105.00;34.25;0.61,83.69,39.52,86.72,38.08,"Possession 
+Lost",True
+132629,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,16,40,16,52,0.00;16.59;0.16,105.00;51.41;0.16,43.94,46.25,105.00,51.41,Possession Phase,False
+132629,421,ARGENTINA,26457.0,JULIAN ALVAREZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,21,32,22,10,0.00;33.95;0.38,105.00;34.05;0.38,93.08,36.21,105.00,34.05,Pass,False
+132629,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,21,58,22,10,0.00;33.95;0.38,105.00;34.05;0.38,93.08,36.21,105.00,34.05,Pass,True
+132629,421,ARGENTINA,7512.0,ANGEL DI MARIA,5,Shot,"Promising Action, Right, From outside the Penalty Area, Off Target",1,1t,33,31,33,43,0.00;38.68;3.08,105.00;29.32;3.08,87.44,50.56,105.00,29.32,Set Pieces Against,False
+132629,421,ARGENTINA,15904.0,NICOLAS TAGLIAFICO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target, Deflected",1,1t,34,29,34,41,0.00;39.23;3.35,105.00;28.77;3.35,92.30,18.32,92.68,24.93,Pass,False
+132629,421,ARGENTINA,21433.0,LISANDRO MARTINEZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,35,15,35,27,0.00;29.82;3.44,105.00;38.18;3.44,94.95,42.83,105.00,38.18,Set Pieces Against,False
+132629,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,43,41,43,53,0.00;39.42;0.13,105.00;28.58;0.13,91.64,29.92,105.00,28.58,"Dribbling
+ Suffered",False
+132629,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,45,41,45,53,0.00;33.29;4.50,105.00;34.71;4.50,86.01,31.79,105.00,34.71,Pass,False
+132629,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,46,46,46,58,105.00;37.43;0.79,105.00;37.43;0.79,103.45,40.62,102.42,37.85,Shot Against,True
+132629,421,ARGENTINA,7421.0,LIONEL MESSI,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,5,8,5,30,105.00;37.25;0.41,105.00;37.25;0.41,99.26,36.21,105.00,37.25,"Offensive
+Action",False
+132629,421,ARGENTINA,7421.0,LIONEL MESSI,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,5,18,5,30,105.00;37.25;0.41,105.00;37.25;0.41,99.26,36.21,105.00,37.25,Pass,True
+132629,421,ARGENTINA,26457.0,JULIAN ALVAREZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,15,12,15,24,105.00;35.40;0.58,105.00;35.40;0.58,89.43,44.27,98.04,36.47,"Defensive
+Action",True
+132629,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,15,32,15,44,0.00;37.82;5.50,105.00;30.18;5.50,76.51,40.40,105.00,30.18,Shot Against,False
+132629,3914,CANADA,36785.0,ISMAEL KONE',5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,16,39,16,51,0.00;31.49;0.79,105.00;36.51;0.79,86.89,36.43,92.41,37.50,"Possession 
+Lost",True
+132629,3914,CANADA,36786.0,JONATHAN OSORIO,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,29,54,30,6,0.00;31.49;0.79,105.00;36.51;0.79,94.18,48.13,98.57,45.60,Possession Phase,True
+132629,3914,CANADA,30927.0,LIAM MILLAR,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,41,8,41,20,0.00;29.91;6.50,105.00;38.09;6.50,78.28,44.27,105.00,38.09,Shot Against,False
+132629,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,43,35,43,47,0.00;35.47;0.21,105.00;32.53;0.21,89.98,30.03,100.16,33.43,Shot Against,True
+132629,3914,CANADA,56002.0,TANITOLUWA OLUWATIMIKHIN OLUWASEYI,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,44,44,44,56,0.00;28.66;0.73,105.00;39.34;0.73,95.62,36.32,105.00,39.34,Ball Line Out,False

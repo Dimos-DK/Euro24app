@@ -1,0 +1,33 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,1,30,1,42,0.00;29.09;1.05,105.00;38.91;1.05,93.98,31.83,105.00,38.91,"Offensive
+Action",False
+131483,246,URUGUAY,36655.0,FACUNDO PELLISTRI,25,Goal,"Headed Shot, From inside the Penalty Area, Central Free Kick",1,1t,7,17,7,29,0.00;33.19;0.25,105.00;34.81;0.25,101.30,34.69,105.00,34.81,Possession Phase,False
+131483,246,URUGUAY,36655.0,FACUNDO PELLISTRI,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,7,17,7,29,0.00;33.19;0.25,105.00;34.81;0.25,101.30,34.69,105.00,34.81,Goal,True
+131483,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,9,57,10,9,0.00;34.28;0.54,105.00;33.72;0.54,91.76,30.16,92.28,31.82,Pass,True
+131483,246,URUGUAY,24553.0,RONALD ARAUJO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,10,4,10,16,0.00;26.00;0.28,105.00;42.00;0.28,69.81,40.71,105.00,42.00,Pass,False
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,11,15,11,27,0.00;34.60;0.28,105.00;33.40;0.28,91.76,27.57,97.65,31.93,Pass,True
+131483,246,URUGUAY,29661.0,MANUEL UGARTE,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,14,28,14,40,0.00;33.29;1.22,105.00;34.71;1.22,85.93,32.01,92.28,34.29,Cross Against,True
+131483,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,15,5,15,17,0.00;34.23;1.68,105.00;33.77;1.68,85.74,46.72,101.62,34.86,"Possession 
+Lost",True
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,18,25,18,37,0.00;33.33;0.31,105.00;34.67;0.31,93.89,44.59,101.22,39.00,Possession Phase,True
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,20,29,20,51,0.00;35.47;1.12,105.00;32.53;1.12,96.76,26.09,105.00,32.53,Pass,False
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",1,1t,20,39,20,51,0.00;35.47;1.12,105.00;32.53;1.12,96.76,26.09,105.00,32.53,Pass,True
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Post, Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,27,50,28,2,0.00;30.43;2.44,105.00;37.57;2.44,94.54,31.73,105.00,37.57,"Duel 
+Won",False
+131483,779,BOLIVIA,48446.0,CARMELO ALGARANAZ,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,29,52,30,4,105.00;34.16;1.15,105.00;34.16;1.15,95.37,16.84,102.42,31.93,Shot Against,True
+131483,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,35,43,35,55,0.00;34.09;1.52,105.00;33.91;1.52,96.85,21.74,101.62,32.39,"Duel 
+Won",True
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,36,45,36,57,0.00;28.06;5.50,105.00;39.94;5.50,93.06,24.61,105.00,39.94,"Dribbling
+ Suffered",False
+131483,779,BOLIVIA,48446.0,CARMELO ALGARANAZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,38,28,38,40,105.00;47.42;0.30,105.00;47.42;0.30,48.33,28.22,105.00,47.42,Shot Against,False
+131483,246,URUGUAY,24912.0,DARWIN NUNEZ,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,44,24,44,36,0.00;39.79;0.28,105.00;28.21;0.28,99.26,23.68,100.43,25.61,"Decisive
+ Action",False
+131483,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,26,6,26,18,105.00;35.68;0.96,105.00;35.68;0.96,94.63,24.15,101.75,31.36,"Dribbling
+ Suffered",True
+131483,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,31,16,31,36,105.00;35.68;0.08,105.00;35.68;0.08,95.00,40.06,105.00,35.68,Pass,False
+131483,246,URUGUAY,45313.0,MAXIMILIANO ARAUJO,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,31,24,31,36,105.00;35.68;0.08,105.00;35.68;0.08,95.00,40.06,105.00,35.68,Pass,True
+131483,246,URUGUAY,16801.0,FEDERICO VALVERDE,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,35,5,35,39,105.00;32.07;0.12,105.00;32.07;0.12,93.06,37.93,105.00,32.07,"Offensive
+Action",False
+131483,246,URUGUAY,16801.0,FEDERICO VALVERDE,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,35,27,35,39,105.00;32.07;0.12,105.00;32.07;0.12,93.06,37.93,105.00,32.07,Pass,True
+131483,246,URUGUAY,14080.0,RODRIGO BENTANCUR,25,Goal,"Headed Shot, From inside the Penalty Area, Lateral Free Kick",2,2t,43,38,43,50,105.00;34.58;1.02,105.00;34.58;1.02,101.94,40.06,105.00,34.58,Set Pieces Against,False
+131483,246,URUGUAY,14080.0,RODRIGO BENTANCUR,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,43,38,43,50,105.00;34.58;1.02,105.00;34.58;1.02,101.94,40.06,105.00,34.58,Goal,True

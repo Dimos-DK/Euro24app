@@ -1,0 +1,19 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131487,3914,CANADA,36779.0,DEREK CORNELIUS,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,9,9,9,21,105.00;34.12;0.69,105.00;34.12;0.69,93.95,41.58,96.06,35.90,Shot Against,True
+131487,3914,CANADA,28652.0,CYLE LARIN,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,17,8,17,20,105.00;36.56;2.01,105.00;36.56;2.01,98.27,35.86,102.68,35.44,Shot Against,True
+131487,412,CILE,32908.0,VICTOR DAVILA,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,20,50,21,2,0.00;28.15;0.04,105.00;39.85;0.04,91.74,26.82,105.00,39.85,Cross Against,False
+131487,412,CILE,32908.0,VICTOR DAVILA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,22,22,22,34,0.00;40.80;0.16,105.00;27.20;0.16,82.49,38.27,105.00,27.20,Pass,False
+131487,3914,CANADA,28652.0,CYLE LARIN,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,23,10,23,22,105.00;40.54;2.21,105.00;40.54;2.21,91.13,43.19,105.00,40.54,Shot Against,False
+131487,3914,CANADA,22446.0,ALPHONSO DAVIES,5,Shot,"Left, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",1,1t,28,15,28,27,105.00;50.49;0.22,105.00;50.49;0.22,88.62,58.26,94.40,48.59,Set Pieces,False
+131487,412,CILE,26491.0,MARCELINO NUNEZ,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,37,14,37,26,0.00;31.49;1.35,105.00;36.51;1.35,78.07,18.38,101.89,36.24,Set Pieces,True
+131487,3914,CANADA,23346.0,JONATHAN DAVID,5,Shot,"Promising Action, Right, From outside the Penalty Area, Off Target",1,1t,37,28,37,40,105.00;40.20;0.45,105.00;40.20;0.45,87.22,34.15,105.00,40.20,Shot Against,False
+131487,3914,CANADA,16511.0,STEPHEN ANTUNES EUSTAQUIO,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,41,5,41,17,105.00;34.00;0.69,105.00;34.00;0.69,90.23,30.64,94.00,32.39,Shot Against,True
+131487,412,CILE,20526.0,IGOR LICHNOVSKY,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,2,4,2,16,105.00;31.97;1.15,105.00;31.97;1.15,98.07,36.26,102.55,33.31,Set Pieces,True
+131487,3914,CANADA,36782.0,RICHIE LARYEA,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,7,13,7,25,0.00;31.21;0.99,105.00;36.79;0.99,91.13,48.61,95.46,48.36,Shot Against,True
+131487,412,CILE,53502.0,RODRIGO EDUARDO ECHEVERRIA SAEZ,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,9,33,9,45,105.00;34.05;2.01,105.00;34.05;2.01,96.16,33.95,102.68,33.77,Cross Against,True
+131487,3914,CANADA,30927.0,LIAM MILLAR,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,25,49,26,1,0.00;27.38;2.73,105.00;40.62;2.73,91.74,18.08,105.00,40.62,Ball Line Out,False
+131487,412,CILE,7720.0,ALEXIS ALEJANDRO SANCHEZ SANCHEZ,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area, Deflected",2,2t,28,23,28,35,105.00;32.62;1.98,105.00;32.62;1.98,94.05,50.42,94.27,48.93,"Defensive
+Action",True
+131487,3914,CANADA,35121.0,TAJON BUCHANAN,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,37,54,38,6,0.00;31.35;1.09,105.00;36.65;1.09,95.76,48.21,101.09,39.69,Shot Against,True
+131487,412,CILE,56577.0,CESAR IGNACIO PEREZ MALDONADO,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,49,50,50,2,105.00;34.05;0.73,105.00;34.05;0.73,73.25,44.90,85.13,42.90,"Possession 
+Lost",True

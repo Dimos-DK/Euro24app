@@ -1,0 +1,774 @@
+Player ID,First Name,Last Name,Known Name,Born Date,Shirt Number,Position,Position Detail,Citizenship,Height,Foot,Photo,Module Position,Age
+14945,MARCOS,ACUNA,ACUNA M.,1991-10-28,8,Defender,,Argentina,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ACUNA M._14945.png,0,32.7
+81594,CARLOS JONAS,ALCARAZ DURAN,ALCARAZ C.,2002-11-30,0,Midfielder,,Argentina,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALCARAZ C._81594.png,0,21.6
+36849,THIAGO EZEQUIEL,ALMADA,ALMADA T.,2001-04-26,0,Midfielder,,Argentina,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALMADA T._36849.png,0,23.2
+26457,JULIAN,ALVAREZ,ALVAREZ J.,2000-01-31,9,Striker,,Argentina,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALVAREZ J._26457.png,0,24.4
+16548,FRANCO,ARMANI,ARMANI F.,1986-10-16,1,Goalkeeper,,Argentina,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARMANI F._16548.png,0,37.7
+43576,LUCAS,BELTRAN,BELTRAN L.,2001-03-29,0,Striker,,Argentina,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELTRAN L._43576.png,0,23.3
+15539,WALTER,BENITEZ,BENITEZ W.,1993-01-19,0,Goalkeeper,,Argentina,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BENITEZ W._15539.png,0,31.4
+43200,FACUNDO,BUONANOTTE,BUONANOTTE F.,2004-12-23,0,Midfielder,,Argentina,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUONANOTTE F._43200.png,0,19.5
+26598,VALENTIN,CARBONI,CARBONI V.,2005-03-05,21,Striker,,Argentina,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARBONI V._26598.png,0,19.3
+10397,ANGEL,CORREA,CORREA A.,1995-03-09,0,Striker,,Argentina,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORREA A._10397.png,0,29.3
+11569,RODRIGO,DE PAUL,DE PAUL R.,1994-05-24,7,Midfielder,,Argentina,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE PAUL R._11569.png,0,30.1
+7512,ANGEL,DI MARIA,DI MARIA A.,1988-02-14,11,Striker,,Argentina,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DI MARIA A._7512.png,0,36.4
+6222,PAULO,DYBALA,DYBALA P.,1993-11-15,0,Striker,,Argentina,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DYBALA P._6222.png,0,30.6
+44083,LUCAS,ESQUIVEL,ESQUIVEL L.,2001-10-14,0,Defender,,Argentina,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESQUIVEL L._44083.png,0,22.7
+43850,FACUNDO,FARIAS,FARIAS F.,2002-08-28,0,Midfielder,,Argentina,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FARIAS F._43850.png,0,21.8
+35040,ENZO,FERNANDEZ,FERNANDEZ E.,2001-01-17,24,Midfielder,,Argentina,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDEZ E._35040.png,0,23.4
+15756,JUAN MARCOS,FOYTH,FOYTH J.,1998-01-12,0,Defender,,Argentina,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FOYTH J. M._15756.png,0,26.5
+36966,ALEJANDRO,GARNACHO,GARNACHO A.,2004-07-01,17,Striker,,Argentina,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARNACHO A._36966.png,0,20.0
+26456,NICOLAS,GONZALEZ,GONZALEZ N.,1998-04-06,15,Striker,,Argentina,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ N._26456.png,0,26.2
+14920,GIOVANI,LO CELSO,LO CELSO G.,1996-04-09,16,Midfielder,,Argentina,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LO CELSO G._14920.png,0,28.2
+32684,ALEXIS,MAC ALLISTER,MAC ALLISTER A.,1998-12-24,20,Midfielder,,Argentina,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAC ALLISTER A._32684.png,0,25.5
+14030,PABLO CARMINE,MAFFEO BECERRA,MAFFEO P.,1997-07-12,0,Defender,,Argentina,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAFFEO P._14030.png,0,27.0
+8278,DAMIAN EMILIANO,MARTINEZ,MARTINEZ E.,1992-09-02,23,Goalkeeper,,Argentina,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ E._8278_TMP.png,0,31.8
+16755,LAUTARO JAVIER,MARTINEZ,LAUTARO MARTINEZ,1997-08-22,22,Striker,,Argentina,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAUTARO MARTINEZ_16755.png,0,26.9
+21433,LISANDRO,MARTINEZ,LISANDRO MARTINEZ,1998-01-18,25,Defender,,Argentina,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LISANDRO MARTINEZ_21433.png,0,26.4
+24458,LUCAS,MARTINEZ QUARTA,MARTINEZ QUARTA L.,1996-05-10,2,Defender,,Argentina,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ QUARTA L._24458.png,0,28.1
+32815,FACUNDO,MEDINA,MEDINA F.,1999-05-28,0,Defender,,Argentina,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEDINA F._32815.png,0,25.1
+7421,LIONEL,MESSI,MESSI L.,1987-06-24,10,Striker,,Argentina,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MESSI L._7421.png,0,37.0
+23982,NAHUEL,MOLINA,MOLINA N.,1998-04-06,26,Defender,,Argentina,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOLINA N._23982.png,0,26.2
+26455,GONZALO,MONTIEL,MONTIEL G.,1997-01-01,4,Defender,,Argentina,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MONTIEL G._26455.png,0,27.5
+16872,JUAN,MUSSO,MUSSO J.,1994-05-06,0,Goalkeeper,,Argentina,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUSSO J._16872.png,0,30.2
+8065,LUCAS,OCAMPOS,OCAMPOS L.,1994-07-11,0,Striker,,Argentina,187.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OCAMPOS L._8065.png,0,30.0
+43613,FRANCISCO,ORTEGA,ORTEGA F.,1999-03-19,0,Defender,,Argentina,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORTEGA F._43613.png,0,25.3
+7507,NICOLAS,OTAMENDI,OTAMENDI N.,1988-02-12,19,Defender,,Argentina,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OTAMENDI N._7507.png,0,36.4
+23829,EXEQUIEL,PALACIOS,PALACIOS E.,1998-10-05,14,Midfielder,,Argentina,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PALACIOS E._23829.png,0,25.7
+6972,LEANDRO,PAREDES,PAREDES L.,1994-06-29,5,Midfielder,,Argentina,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAREDES L._6972.png,0,30.0
+44121,MARCO,PELLEGRINO,PELLEGRINO M.,2002-07-18,0,Defender,,Argentina,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PELLEGRINO_M_44121.png,0,22.0
+14368,GERMAN,PEZZELLA,PEZZELLA G.,1991-06-27,6,Defender,,Argentina,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEZZELLA_14368.png,0,33.0
+20464,GUIDO,RODRIGUEZ,RODRIGUEZ G.,1994-04-12,18,Midfielder,,Argentina,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ G._20464.png,0,30.2
+17761,CRISTIAN,ROMERO,ROMERO C.,1998-04-27,13,Defender,,Argentina,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMERO C._17761.png,0,26.2
+15115,GERONIMO,RULLI,RULLI G.,1992-05-20,12,Goalkeeper,,Argentina,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RULLI G._15115.png,0,32.1
+22768,MARCOS NICOLAS,SENESI BARON,SENESI M.,1997-05-10,0,Defender,,Argentina,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SENESI M._22768.png,0,27.1
+15904,NICOLAS,TAGLIAFICO,TAGLIAFICO N.,1992-08-31,3,Defender,,Argentina,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TAGLIAFICO N._15904.png,0,31.8
+55759,ALAN AGUSTIN,VELASCO,VELASCO A.,2002-07-27,0,Striker,,Argentina,167.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VELASCO A._55759.png,0,21.9
+38269,BRUNO,ZAPELLI,ZAPELLI B.,2002-05-16,0,Midfielder,,Argentina,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAPELLI B._38269.png,0,22.1
+55843,CARLOS  MATEO,ABASTOFLOR AGUILERA,ABASTOFLOR C.,2002-04-09,0,Midfielder,,Bolivia,170.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ABASTOFLOR C._55843.png,0,22.2
+55883,VICTOR ALONSO,ABREGO AGUILERA,ABREGO V.,1997-02-11,0,Striker,,Bolivia,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ABREGO V._55883.png,0,27.4
+55513,CARLOS MAURICIO,ADORNO PATINO,ADORNO C.,2001-04-03,0,Goalkeeper,,Bolivia,181.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADORNO C._55513.png,0,23.2
+48446,CARMELO,ALGARANAZ,ALGARANAZ C.,1996-01-27,11,Striker,,Bolivia,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALGARANAZ C._48446.png,0,28.4
+55881,JOSE ANDRES,ALIPAZ,ALIPAZ J.,2003-04-06,0,Midfielder,,Bolivia,,,,0,21.2
+55889,GUSTAVO JAVIER,ALMADA GONZALES,ALMADA G.,1994-04-29,12,Goalkeeper,,Paraguay,182.0,right,,0,30.2
+55025,EDUARDO MAURICIO,ALVAREZ VARGAS,ALVAREZ E.,2003-04-09,0,Defender,,Bolivia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALVAREZ E._55025.png,0,21.2
+48444,JAIME,ARRASCAITA,ARRASCAITA J.,1993-09-02,0,Midfielder,,Bolivia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARRASCAITA J._48444.png,0,30.8
+11171,DIEGO,BEJARANO IBANEZ,BEJARANO D.,1991-08-24,0,Defender,,Bolivia,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BEJARANO D._11171.png,0,32.9
+26507,DANNY BRAYHAN,BEJARANO YANEZ,BEJARANO D. B.,1994-01-03,0,Midfielder,,Bolivia,,,,0,30.5
+55145,JOSE' MIGUEL,BRICENO MERCADO,BRICENO J.,2002-01-20,0,Striker,,Bolivia,,,,0,22.4
+20852,BORIS,CESPEDES,CESPEDES B.,1995-06-19,16,Midfielder,,Bolivia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CESPEDES B._20852.png,0,29.0
+48443,LUCAS,CHAVEZ,CHAVEZ L.,2003-04-17,13,Midfielder,,Bolivia,170.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAVEZ L._48443.png,0,21.2
+26511,JEYSON,CHURA,CHURA J.,2002-02-03,0,Midfielder,,Bolivia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHURA J._26511.png,0,22.4
+26501,RUBEN,CORDANO JUSTINIANO,CORDANO R.,1998-10-16,0,Goalkeeper,,Bolivia,184.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORDANO R._26501.png,0,25.7
+26512,JAUME ALBERT,CUELLAR MENDOZA,CUELLAR J. A.,2001-08-23,8,Midfielder,,Bolivia,180.0,both,,0,22.9
+54469,HECTOR MANUEL,CUELLAR ROSALES,CUELLAR H.,2000-08-16,22,Midfielder,,Bolivia,180.0,,,0,23.9
+55049,DENILSON,DURAN ZABALA,DURAN D.,2003-03-24,0,Defender,,Bolivia,175.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DURAN D._55049.png,0,21.3
+20503,ROBERTO,FERNANDEZ,FERNANDEZ ROBERTO,1999-07-12,17,Defender,,Bolivia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDEZ R._20503.png,0,25.0
+20448,LUIS FERNANDO,HAQUIN LOPEZ,HAQUIN L.,1997-11-15,4,Defender,,Bolivia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HAQUIN L._20448.png,0,26.6
+54501,JULIO HECTOR,HERRERA FAREL,HERRERA J.,1999-02-11,0,Midfielder,,Bolivia,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERRERA J._54501.png,0,25.4
+20447,ADRIAN,JUSINO,JUSINO A.,1992-07-09,5,Defender,,Bolivia,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JUSINO A._20447.png,0,32.0
+20450,LEONEL,JUSTINIANO ARAUZ,JUSTINIANO L.,1992-07-02,6,Midfielder,,Bolivia,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JUSTINIANO L._20450.png,0,32.0
+11159,CARLOS,LAMPE,LAMPE C.,1987-03-17,1,Goalkeeper,,Bolivia,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAMPE C._11159.png,0,37.3
+54489,JOSE' CARLOS,MARTINEZ GARZON,MARTINEZ J.,2002-09-18,0,Midfielder,,Bolivia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ J._54489.png,0,21.8
+20452,MARCELO,MARTINS MORENO,MORENO M.,1987-06-18,0,Striker,,Bolivia,183.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORENO M._20452.png,0,37.0
+48440,DIEGO DANIEL,MEDINA,MEDINA D.,2002-01-13,3,Defender,,Bolivia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEDINA D._48440.png,0,22.5
+55032,CESAR ALEJANDRO,MENACHO CLAROS,MENACHO C.,1999-08-09,9,Striker,,Bolivia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MENACHO C._55032.png,0,24.9
+54994,BRUNO,MIRANDA VILLAGOMEZ,MIRANDA B.,1998-02-10,19,Striker,,Bolivia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIRANDA B._54994.png,0,26.4
+86206,ENZO,MONTEIRO,MONTEIRO E.,2004-05-27,0,Striker,,Bolivia,,,,0,20.1
+55798,EFRAIN ANDRES,MORALES BADILLO,MORALES E.,2004-03-04,0,Defender,,Bolivia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORALES E._55798.png,0,20.3
+55001,ANDRES,MORENO MORENO,MORENO A.,2002-10-09,0,Midfielder,,Bolivia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORENO A._55001.png,0,21.7
+65533,FERNANDO,NAVA ORTEGA,NAVA F.,2004-06-08,0,Striker,,Bolivia,184.0,right,,0,20.1
+54480,FABIAN,PEREIRA PEREZ,PEREIRA F.,2006-05-16,0,Goalkeeper,,Bolivia,181.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEREIRA F._54480.png,0,18.1
+55279,BRUNO RODRIGO,POVEDA ZEBALLOS,POVEDA B.,2003-10-22,0,Goalkeeper,,Bolivia,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POVEDA B._55279.png,0,20.7
+55115,FABRICIO DOMENICO,QUAGLIO FRANCO,QUAGLIO F.,2003-07-30,0,Striker,,Bolivia,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUAGLIO F._55115.png,0,20.9
+26502,JAIRO,QUINTEROS,QUINTEROS J.,2001-02-07,0,Defender,,Bolivia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINTEROS J._26502.png,0,23.4
+11313,RODRIGO LUIS,RAMALLO CORNEJO,RAMALLO R.,1990-10-19,18,Striker,,Bolivia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMALLO R._11313.png,0,33.7
+55477,JAIR ALEXANDER,REINOSO MORENO,REINOSO J.,1985-06-07,0,Striker,,Colombia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REINOSO J._55477.png,0,39.1
+48521,CARLOS DANIEL,ROCA,ROCA C.,1997-05-11,0,Defender,,Bolivia,,left,,0,27.1
+55380,YOMAR RENE,ROCHA RODRIGUEZ,ROCHA Y.,2003-06-21,25,Defender,,Bolivia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROCHA Y._55380.png,0,21.0
+55034,CESAR BENJAMIN,ROMERO ORTIZ,ROMERO C.,2001-08-03,0,Defender,,Bolivia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMERO C._55034.png,0,22.9
+26505,JESUS MANUEL,SAGREDO CHAVEZ,SAGREDO JESUS,1994-03-10,21,Defender,,Bolivia,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAGREDO J. M._26505.png,0,30.3
+66316,JOSE',SAGREDO CHAVEZ,SAGREDO JOSE',1994-03-10,2,Defender,,Bolivia,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAGREDO J._66316.png,0,30.3
+54465,MARCO ANTONIO,SALAZAR ANTELO,SALAZAR M.,2004-10-14,0,Midfielder,,Bolivia,171.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SALAZAR M._54465.png,0,19.7
+54988,KEVIN FRANCISCO,SALVATIERRA FLORES,SALVATIERRA K.,2001-08-05,0,Midfielder,,Bolivia,165.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SALVATIERRA K._54988.png,0,22.9
+11311,FERNANDO JAVIER,SAUCEDO PEREYRA,SAUCEDO F.,1990-03-15,20,Midfielder,,Bolivia,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAUCEDO F._11311.png,0,34.3
+55464,CARLOS LEONARDO,SEJAS ALBIS,SEJAS C.,2004-01-10,0,Defender,,Bolivia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEJAS C._55464.png,0,20.5
+55036,SAUL WILFREDO,SEVERICHE CUELLAR,SEVERICHE S.,2002-05-17,0,Defender,,Bolivia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEVERICHE S._55036.png,0,22.1
+48439,MARCELO SEBASTIAN,SUAREZ,SUAREZ M.,2001-12-20,24,Defender,,Bolivia,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUAREZ M._48439.png,0,22.5
+48445,MIGUEL ANGEL,TERCEROS ACUNA,MIGUELITO,2004-04-25,0,Midfielder,,Bolivia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIGUELITO_48445.png,0,20.2
+48445,MIGUEL ANGEL,TERCEROS ACUNA,MIGUELITO,2004-04-25,7,Midfielder,,Bolivia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIGUELITO_48445.png,0,20.2
+54475,ADALID,TERRAZAS ABASTO,TERRAZAS A.,2000-08-25,26,Midfielder,,Bolivia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TERRAZAS A._54475.png,0,23.8
+54499,ROBSON MATHEUS,TOME' DE ARAUJO BENEGAS,ROBSON MATHEUS,2002-05-18,14,Midfielder,,Bolivia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATHEUS R._54499.png,0,22.1
+55058,BRAULIO,URAEZANA CUNAENDI,URAEZANA B.,1995-03-26,0,Goalkeeper,,Bolivia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/URAEZANA B._55058.png,0,29.3
+48442,LUCIANO,URSINO,URSINO L.,1988-10-31,0,Midfielder,,Bolivia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/URSINO L._48442.png,0,35.7
+55362,JAVIER,UZEDA ALDERETE,UZEDA J.,2002-07-31,0,Midfielder,,Bolivia,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UZEDA J._55362.png,0,21.9
+26510,HENRY,VACA,VACA H.,1998-01-27,0,Midfielder,,Bolivia,165.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VACA H._26510.png,0,26.4
+20453,RAMIRO,VACA,VACA R.,1999-07-01,10,Midfielder,,Bolivia,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VACA R._20453.png,0,25.0
+54487,PABLO DELMAR,VACA JUSTINIANO,VACA P.,2002-05-31,0,Striker,,Bolivia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VACA P._54487.png,0,22.1
+55379,ERVIN,VACA MORENO,VACA E.,2004-03-18,0,Striker,,Bolivia,176.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VACA E._55379.png,0,20.3
+55363,JHON JAIRO,VELASCO CHAVEZ,VELASCO J.,2004-03-08,0,Defender,,Bolivia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VELASCO J._55363.png,0,20.3
+48441,GABRIEL ALEJANDRO,VILLAMIL,VILLAMIL G.,2001-06-28,15,Midfielder,,Bolivia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLAMIL G._48441.png,0,23.0
+26509,MOISES,VILLARROEL ANGULO,VILLARROEL MO.,1998-09-07,0,Midfielder,,Bolivia,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLARROEL MO._26509.png,0,25.8
+55359,MIGUEL ANGEL,VILLARROEL TARDIO,VILLARROEL MI.,2003-01-10,0,Midfielder,,Bolivia,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLARROEL MI._55359.png,0,21.5
+48438,GUILLERMO,VISCARRA,VISCARRA G.,1993-02-07,23,Goalkeeper,,Bolivia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VISCARRA G._48438.png,0,31.4
+7431,MARCOS,AOAS CORREA,MARQUINHOS,1994-05-14,4,Defender,,Brazil,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARQUINHOS_7431.png,0,30.1
+13161,JOELINTON CASSIO,APOLINARIO DE LIRA,JOELINTON,1996-08-14,0,Midfielder,,Brazil,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOELINTON_13161.png,0,27.9
+28083,EDUARDO GABRIEL,AQUINO COSSA,PEPE',1997-02-24,26,Striker,,Brazil,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEPE_28083.png,0,27.3
+18557,GUILHERME ANTONIO,ARANA LOPES,GUILHERME ARANA,1997-04-14,16,Defender,,Brazil,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUILHERME ARANA_64984.png,0,27.2
+31731,YAN,BUENO COUTO,COUTO Y.,2002-06-03,13,Defender,,Brazil,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COUTO Y._31731.png,0,22.1
+17432,MATHEUS SANTOS,CARNEIRO DA CUNHA,CUNHA M.,1999-05-27,0,Striker,,Brazil,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUNHA M._17432.png,0,25.1
+7464,CARLOS HENRIQUE,CASIMIRO,CASEMIRO,1992-02-23,0,Midfielder,,Brazil,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASEMIRO_7464.png,0,32.4
+52238,RAPHAEL,CAVALCANTE VEIGA,RAPHAEL VEIGA,1995-06-19,0,Midfielder,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAPHAEL VEIGA_52238.png,0,29.0
+7674,DANILO LUIZ,DA SILVA,DANILO,1991-07-15,2,Defender,,Brazil,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DANILO_7674.png,0,33.0
+7422,NEYMAR,DA SILVA SANTOS JUNIOR,NEYMAR,1992-02-05,0,Striker,,Brazil,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEYMAR_7422.png,0,32.4
+17869,RICHARLISON,DE ANDRADE,RICHARLISON,1997-05-10,0,Striker,,Brazil,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RICHARLISON_17869.png,0,27.1
+14944,GABRIEL FERNANDO,DE JESUS,GABRIEL JESUS,1997-04-03,0,Striker,,Brazil,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GABRIEL JESUS_14944.png,0,27.2
+24577,FRANCISCO EVANILSON,DE LIMA BARBOSA,EVANILSON,1999-10-06,21,Striker,,Brazil,183.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EVANILSON_24577.png,0,24.7
+31758,VANDERSON,DE OLIVEIRA CAMPOS,VANDERSON,2001-06-21,0,Defender,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VANDERSON_31758.png,0,23.0
+21572,RAPHAEL,DIAS BELLOLI,RAPHINHA,1996-12-14,11,Striker,,Brazil,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAPHINHA_21572.png,0,27.5
+30828,EDERSON JOSE',DOS SANTOS LOURENCO DA SILVA,EDERSON,1999-07-07,24,Midfielder,,Brazil,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EDERSON_30828.png,0,25.0
+21435,GABRIEL,DOS SANTOS MAGALHAES,GABRIEL MAGALHAES,1997-12-19,14,Defender,,Brazil,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GABRIEL MAGALHAES_21435.png,0,26.5
+60159,LUCAS,ESTELLA PERRI,LUCAS PERRI,1997-12-10,0,Goalkeeper,,Brazil,197.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUCAS PERRI_60159.png,0,26.6
+58498,JOAO VICTOR,GOMES DA SILVA,JOAO GOMES,2001-02-12,15,Midfielder,,Brazil,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO GOMES_58498.png,0,23.4
+23388,BRUNO,GUIMARAES RODRIGUEZ MOURA,GUIMARAES B.,1997-11-16,5,Midfielder,,Brazil,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUIMARAES B._23388.png,0,26.6
+16927,ANDREAS HUGO,HOELGEBAUM PEREIRA,PEREIRA A.,1996-01-01,19,Midfielder,,Brazil,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEREIRA A._16927.png,0,28.5
+19678,ROGER,IBANEZ DA SILVA,IBANEZ R.,1998-11-23,0,Defender,,Brazil,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/IBANEZ R._19678.png,0,25.6
+58409,JOAO PEDRO,JUNQUEIRA DE JESUS,JOAO PEDRO,2001-09-26,0,Striker,,Brazil,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO PEDRO_58409.png,0,22.8
+65532,BENTO MATHEUS,KREPSKI,BENTO,1999-06-10,12,Goalkeeper,,Brazil,191.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BENTO_65532.png,0,25.1
+19249,EMERSON APARECIDO,LEITE DE SOUZA JUNIOR,EMERSON ROYAL,1999-01-14,0,Defender,,Brazil,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EMERSON ROYAL_19249.png,0,25.5
+60167,ADRYELSON SHAWANN,LIMA SILVA,ADRYELSON,1998-03-23,0,Defender,,Brazil,183.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADRYELSON_60167.png,0,26.3
+21465,RENAN AUGUSTO,LODI DOS SANTOS,LODI R.,1998-04-08,0,Defender,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LODI R._21465.png,0,26.2
+62416,LUCAS,LOPES BERALDO,LUCAS BERALDO,2003-11-24,17,Defender,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUCAS BERALDO_62416.png,0,20.6
+21828,GABRIEL TEODORO,MARTINELLI SILVA,MARTINELLI G.,2001-06-18,22,Striker,,Brazil,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINELLI G._21828.png,0,23.0
+17393,EDER GABRIEL,MILITAO,MILITAO E.,1998-01-18,3,Defender,,Brazil,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILITAO E._17393.png,0,26.4
+37123,SAVIO,MOREIRA DE OLIVEIRA,SAVIO,2004-04-10,20,Striker,,Brazil,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAVIO_37123.png,0,20.2
+65030,ENDRICK FELIPE,MOREIRA DE SOUSA,ENDRICK,2006-07-21,9,Striker,,Brazil,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ENDRICK_65030.png,0,17.9
+65464,MARCILIO FLORENCIO,MOTA FILHO,NINO,1997-04-10,0,Defender,,Brazil,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NINO_65464.png,0,27.2
+7683,WENDELL,NASCIMENTO BORGES,WENDELL,1993-07-20,6,Defender,,Brazil,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WENDELL_7683.png,0,31.0
+13576,DAVID,NERES CAMPOS,NERES D.,1997-03-03,0,Striker,,Brazil,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NERES D._13576.png,0,27.3
+30849,CAIO HENRIQUE,OLIVEIRA SILVA,CAIO HENRIQUE,1997-07-31,0,Defender,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAIO HENRIQUE_30849.png,0,26.9
+16802,VINICIUS JOSE',PAIXAO DE OLIVEIRA JUNIOR,VINICIUS JUNIOR,2000-07-12,7,Striker,,Brazil,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VINICIUS JUNIOR_16802.png,0,24.0
+62406,RAFAEL,PIRES MONTEIRO,RAFAEL,1989-06-23,23,Goalkeeper,,Brazil,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAFAEL_62406.png,0,35.0
+58428,ALISSON,RAMSES BECKER,ALISSON,1992-10-02,1,Goalkeeper,,Brazil,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BECKER A._58428.png,0,31.7
+21771,PAULO HENRIQUE,SAMPAIO FILHO,PAULINHO,2000-07-15,0,Striker,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAULINHO_21771.png,0,24.0
+10893,EDERSON,SANTANA DE MORAES,EDERSON SANTANA,1993-08-17,0,Goalkeeper,,Brazil,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EDERSON_10893.png,0,30.9
+11386,GERSON,SANTOS DA SILVA,GERSON,1997-05-20,0,Midfielder,,Brazil,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GERSON_11386.png,0,27.1
+20860,RODRYGO,SILVA DE GOES,RODRYGO,2001-01-09,10,Striker,,Brazil,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRYGO_20860.png,0,23.5
+16870,GLEISON BREMER,SILVA NASCIMENTO,BREMER G.,1997-03-18,25,Defender,,Brazil,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BREMER G._16870.png,0,27.3
+50916,DOUGLAS LUIZ,SOARES DE PAULO,DOUGLAS LUIZ,1998-05-09,18,Midfielder,,Brazil,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOUGLAS LUIZ_50916.png,0,26.1
+17876,LUCAS,TOLENTINO COELHO DE LIMA,PAQUETA' L.,1997-08-27,8,Midfielder,,Brazil,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAQUETA' L._17876.png,0,26.8
+65486,ANDRE',TRINDADE DA COSTA NETO,ANDRE',2001-07-16,0,Midfielder,,Brazil,176.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDRE'_65486.png,0,23.0
+24005,CARLOS AUGUSTO,ZOPOLATO NEVES,CARLOS AUGUSTO,1999-01-07,0,Defender,,Brazil,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AUGUSTO C._24005.png,0,25.5
+36274,SAM,ADEKUGBE,ADEKUGBE S.,1995-01-16,0,Defender,,Canada,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADEKUGBE S._36274.png,0,29.5
+47715,ALI,AHMED,AHMED A.,2000-10-10,20,Midfielder,,Canada,180.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AHMED A._47715.png,0,23.7
+16511,STEPHEN,ANTUNES EUSTAQUIO,EUSTAQUIO S.,1996-12-21,7,Midfielder,,Canada,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EUSTAQUIO S._16511.png,0,27.5
+84841,THELONIUS,BAIR,BAIR T.,1999-08-27,11,Striker,,Canada,191.0,,,0,24.8
+8041,MILAN,BORJAN,BORJAN M.,1987-10-23,0,Goalkeeper,,Canada,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BORJAN M._8041.png,0,36.7
+55840,ZACHARY BICHOTTE PAUL,BRAULT-GUILLARD,BRAULT-GUILLARD Z.,1998-12-30,0,Defender,,Canada,171.0,right,,0,25.5
+59197,CHARLES-ANDREAS,BRYM,BRYM C.,1998-08-08,0,Striker,,Canada,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRYM C._59197.png,0,25.9
+35121,TAJON,BUCHANAN,BUCHANAN T.,1999-02-08,17,Striker,,Canada,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUCHANAN T._35121.png,0,25.4
+36790,LUCAS,CAVALLINI,CAVALLINI L.,1992-12-28,0,Striker,,Canada,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAVALLINI L._36790.png,0,31.5
+11695,MATHIEU,CHOINIERE,CHOINIERE M.,1999-02-07,24,Midfielder,,Canada,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHOINIERE M._11695.png,0,25.4
+36779,DEREK,CORNELIUS,CORNELIUS D.,1997-11-25,13,Defender,,Canada,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORNELIUS D._36779.png,0,26.6
+51059,MAXIME,CREPEAU,CREPEAU M.,1994-05-11,16,Goalkeeper,,Canada,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CREPEAU M._51059.png,0,30.1
+23346,JONATHAN,DAVID,DAVID J.,2000-01-14,10,Striker,,Canada,177.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAVID J._23346.png,0,24.5
+22446,ALPHONSO,DAVIES,DAVIES A.,2000-11-02,19,Defender,,Canada,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAVIES A._22446.png,0,23.7
+56853,SCOTT,FITZGERALD KENNEDY,KENNEDY S.,1997-03-31,0,Defender,,Canada,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KENNEDY S._56853.png,0,27.3
+36784,LIAM,FRASER,FRASER L.,1998-02-13,0,Midfielder,,Canada,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRASER L._36784.png,0,26.4
+54664,KYLE,HIEBERT,HIEBERT K.,1997-07-30,26,Defender,,Canada,183.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HIEBERT K._54664.png,0,26.9
+36789,JUNIOR,HOILETT,HOILETT J.,1990-06-05,0,Striker,,Canada,174.0,right,,0,34.1
+36781,ALISTAIR,JOHNSTON,JOHNSTON A.,1998-10-08,2,Defender,,Canada,180.0,right,,0,25.7
+36785,ISMAEL,KONE',KONE' I.,2002-06-16,8,Midfielder,,Canada,188.0,,,0,22.0
+28652,CYLE,LARIN,LARIN C.,1995-04-17,9,Striker,,Canada,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LARIN C._28652.png,0,29.2
+36782,RICHIE,LARYEA,LARYEA R.,1995-01-07,22,Defender,,Canada,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LARYEA R._36782.png,0,29.5
+98336,VICTOR,LOKAI LOTURI,LOTURI V.,2001-05-21,0,Midfielder,,Canada,183.0,right,,0,23.1
+49309,MOISE BOMBITO,LUMPUNGU,BOMBITO M.,2000-03-30,15,Defender,,Canada,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOMBITO M._49309.png,0,24.3
+43193,TOM,MCGILL,MCGILL T.,2000-03-25,18,Goalkeeper,,Canada,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCGILL T._43193.png,0,24.3
+55962,ZACHERY LEWIS,MCGRAW,MCGRAW Z.,1997-06-08,0,Defender,,Canada,193.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCGRAW Z._55962.png,0,27.1
+30927,LIAM,MILLAR,MILLAR L.,1999-09-27,23,Striker,,Canada,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILLAR L._30927.png,0,24.8
+36777,KAMAL,MILLER,MILLER K.,1997-05-16,4,Defender,,Canada,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILLER K._36777.png,0,27.1
+58768,JAYDEN,NELSON,NELSON J.,2002-09-26,0,Striker,,Canada,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NELSON J._58768.png,0,21.8
+56002,TANITOLUWA,OLUWATIMIKHIN OLUWASEYI,OLUWASEYI T.,2000-05-15,25,Striker,,Canada,188.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OLUWASEYI T._56002.png,0,24.1
+36786,JONATHAN,OSORIO,OSORIO J.,1992-06-12,21,Midfielder,,Canada,175.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OSORIO J._36786.png,0,32.1
+98334,HARRISON THEODORE,PATON,PATON H.,1998-05-23,0,Midfielder,,Canada,175.0,right,,0,26.1
+36783,SAMUEL,PIETTE,PIETTE S.,1994-11-12,6,Midfielder,,Canada,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIETTE S._36783.png,0,29.6
+58436,LUC,ROLLET DE FOUGEROLLES,DE FOUGEROLLES L.,2005-10-12,3,Defender,,Canada,180.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE FOUGEROLLES L._58436.png,0,18.7
+45804,JACEN,RUSSELL-ROWE,RUSSELL-ROWE J.,2002-09-13,12,Striker,,Canada,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUSSELL-ROWE J._45804.png,0,21.8
+51325,JACOB,SHAFFELBURG,SHAFFELBURG J.,1999-11-26,14,Striker,,Canada,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHAFFELBURG J._51325.png,0,24.6
+36775,DAYNE TRISTAN,ST. CLAIR,ST. CLAIR D.,1997-05-09,1,Goalkeeper,,Canada,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ST. CLAIR D._36775.png,0,27.1
+30366,IKE',UGBO,UGBO I.,1998-09-21,0,Striker,,Canada,184.0,right,,0,25.8
+36780,STEVEN,VITORIA,VITORIA S.,1987-01-11,0,Defender,,Canada,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VITORIA S._36780.png,0,37.5
+36778,JOEL,WATERMAN,WATERMAN J.,1996-01-24,5,Defender,,Canada,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WATERMAN J._36778.png,0,28.4
+36788,DAVID,WOTHERSPOON,WOTHERSPOON D.,1990-01-16,0,Midfielder,,Canada,172.0,left,,0,34.5
+59463,DOMINICK LUKASZ,ZATOR,ZATOR D.,1994-09-18,0,Defender,,Canada,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZATOR D._59463.png,0,29.8
+56397,TOMAS ALEJANDRO,AHUMADA OTEIZA,AHUMADA T.,2001-06-24,0,Goalkeeper,,Chile,181.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AHUMADA T._56397.png,0,23.0
+53497,WILLIAMS HE'CTOR,ALARCON CEPEDA,ALARCON W.,2000-11-29,0,Midfielder,,Chile,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALARCON W._53497.png,0,23.6
+56839,JULIAN ISRAEL,ALFARO GAETE,ALFARO J.,2001-09-02,0,Striker,,Chile,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALFARO J._56839.png,0,22.8
+53641,JAVIER ADOLFO,ALTAMIRANO ALTAMIRANO,ALTAMIRANO J.,1999-08-21,0,Midfielder,,Chile,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALTAMIRANO J._53641.png,0,24.9
+11317,CHARLES,ARANGUIZ,ARANGUIZ C.,1989-04-17,0,Midfielder,,Chile,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARANGUIZ C._11317.png,0,35.2
+48449,ALEXANDER,ARAVENA,ARAVENA A.,2002-09-06,0,Midfielder,,Chile,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAVENA A._48449.png,0,21.8
+16788,GABRIEL,ARIAS,ARIAS G.,1987-09-13,12,Goalkeeper,,Chile,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARIAS G._16788.png,0,36.8
+56625,LUCAS HUMBERTO,ASSADI REYGADAS,ASSADI L.,2004-01-08,0,Striker,,Chile,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ASSADI L._56625.png,0,20.5
+56464,MARCOS NIKOLAS,BOLADOS HIDALGO,BOLADOS M.,1996-02-28,19,Striker,,Chile,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOLADOS M._56464.png,0,28.3
+9825,CLAUDIO,BRAVO,BRAVO C.,1983-04-13,1,Goalkeeper,,Chile,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRAVO C._9825.png,0,41.2
+26497,BEN,BRERETON,BRERETON B.,1999-04-18,22,Striker,,Chile,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRERETON B._26497.png,0,25.2
+56644,CRISTOBAL ALEJANDRO,CAMPOS VELIZ,CAMPOS C.,1999-08-27,0,Goalkeeper,,Chile,185.0,,,0,24.8
+56823,ALFRED JEAFRAN,CANALES CESPEDES,CANALES A.,2000-04-27,0,Midfielder,,Chile,189.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CANALES A._56823.png,0,24.2
+56583,DIEGO ALBERTO,CARRENO PARADA,CARRENO D.,2002-04-26,0,Goalkeeper,,Chile,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARRENO D._56583.png,0,22.2
+43644,MATIAS EZEQUIEL,CATALAN,CATALAN M.,1992-08-19,21,Defender,,Chile,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CATALAN M._43644.png,0,31.9
+56543,FELIPE SEBASTIAN,CHAMORRO ASPE,CHAMORRO F.,2001-07-30,0,Midfielder,,Chile,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAMORRO F._56543.png,0,22.9
+32680,BRAYAN,CORTES,CORTES B.,1995-03-11,23,Goalkeeper,,Chile,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORTES B._32680.png,0,29.3
+32908,VICTOR,DAVILA,DAVILA V.,1997-11-04,9,Striker,,Chile,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAVILA V._32908.png,0,26.7
+56459,FERNANDO CARLOS,DE PAUL LANCIOTTI,DE PAUL F.,1991-04-25,0,Goalkeeper,,Chile,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE PAUL F._56459.png,0,33.2
+48447,JUAN ANTONIO,DELGADO,DELGADO J.,1993-03-05,0,Defender,,Chile,,,,0,31.3
+56597,ANTONIO ALEJANDRO,DIAZ CAMPOS,DIAZ A.,2000-04-26,0,Striker,,Chile,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIAZ A._56597.png,0,24.2
+14032,PAULO CESAR,DIAZ HUINCALES,DIAZ P.,1994-08-25,5,Defender,,Chile,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIAZ P._14032.png,0,29.9
+53502,RODRIGO EDUARDO,ECHEVERRIA SAEZ,ECHEVERRIA R.,1995-04-07,18,Midfielder,,Chile,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ECHEVERRIA R._53502.png,0,29.2
+61162,MATIAS IGNACIO,FERNANDEZ CORDERO,FERNANDEZ M.,1995-08-14,0,Defender,,Chile,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDEZ M._61162.png,0,28.9
+56399,NICOLAS ESTEBAN,FERNANDEZ MUNOZ,FERNANDEZ N.,1999-08-03,26,Defender,,Chile,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDEZ N._56399.png,0,24.9
+56612,JEISON JOAQUIN,FUENTEALBA VERGARA,FUENTEALBA J.,2003-01-10,0,Midfielder,,Chile,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FUENTEALBA J._56612.png,0,21.5
+56469,CESAR NICOLAS,FUENTES GONZALEZ,FUENTES C.,1993-04-12,0,Midfielder,,Chile,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FUENTES C._56469.png,0,31.2
+44070,THOMAS,GALDAMES,GALDAMES T.,1998-11-20,6,Defender,,Chile,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALDAMES T._44070.png,0,25.6
+56595,MOISES ALEJANDRO,GONZALEZ TORRES,GONZALEZ M.,2000-11-22,0,Defender,,Chile,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ M._56595.png,0,23.6
+75431,MAXIMILIANO GABRIEL,GUERRERO PENA,GUERRERO M.,2000-01-15,20,Striker,,Chile,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERRERO M._75431.png,0,24.5
+56445,DANIEL ADEMIR,GUTIERREZ ROJAS,GUTIERREZ D.,2003-02-16,0,Defender,,Chile,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUTIERREZ D._56445.png,0,21.4
+8631,MAURICIO ANIBAL,ISLA,ISLA M.,1988-06-12,4,Defender,,Chile,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ISLA M._8631.png,0,36.1
+29864,BENJAMIN,KUSCEVIC JARAMILLO,KUSCEVIC B.,1996-05-02,25,Defender,,Chile,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KUSCEVIC B._29864.png,0,28.2
+20526,IGOR,LICHNOVSKY,LICHNOVSKY I.,1994-03-07,16,Defender,,Chile,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LICHNOVSKY I._20526.png,0,30.3
+56804,FELIPE IGNACIO,LOYOLA OLEA,LOYOLA F.,2000-11-09,0,Midfielder,,Chile,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOYOLA F._56804.png,0,23.6
+16789,GUILLERMO,MARIPAN,MARIPAN G.,1994-05-06,3,Defender,,Chile,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARIPAN G._16789.png,0,30.2
+6107,GARY,MEDEL,MEDEL G.,1987-08-03,0,Midfielder,,Chile,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEDEL G._6107.png,0,36.9
+48448,NAYEL,MEHSSATOU,MEHSSATOU N.,2002-04-11,0,Defender,,Chile,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEHSSATOU N._48448.png,0,22.2
+29871,VICTOR FELIPE,MENDEZ,MENDEZ V.,1999-09-23,0,Midfielder,,Chile,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MENDEZ V._29871.png,0,24.8
+26495,CLEMENTE JOSE',MONTES BARROILHET,MONTES C.,2001-04-25,0,Striker,,Chile,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MONTES C._26495.png,0,23.2
+26498,FELIPE ANDRES,MORA ALIAGA,MORA F.,1993-08-02,0,Striker,,Chile,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORA F._26498.png,0,30.9
+26491,MARCELINO,NUNEZ,NUNEZ M.,2000-03-01,7,Midfielder,,Chile,,,,0,24.3
+56611,DARIO ESTEBAN,OSORIO OSORIO,OSORIO D.,2004-01-24,8,Striker,,Chile,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OSORIO D._56611.png,0,20.4
+20529,ESTEBAN ANDRES,PAVEZ SUAZO,PAVEZ E.,1990-05-01,17,Midfielder,,Chile,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAVEZ E._20529.png,0,34.2
+56577,CESAR IGNACIO,PEREZ MALDONADO,PEREZ C.,2002-11-29,24,Midfielder,,Chile,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEREZ C._56577.png,0,21.6
+56473,VICENTE TOMAS,PIZARRO DURCUDOY,PIZARRO V.,2002-11-05,0,Midfielder,,Chile,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIZARRO V._56473.png,0,21.6
+56449,DAMIAN NICOLAS,PIZARRO HUENUQUEO,PIZARRO D.,2005-03-28,0,Striker,,Chile,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIZARRO D._56449.png,0,19.3
+8679,ERICK,PULGAR,PULGAR E.,1994-01-15,13,Midfielder,,Chile,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PULGAR_8679.png,0,30.5
+48516,DIEGO IVAN,RUBIO KOSTNER,RUBIO D.,1993-05-15,0,Striker,,Chile,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUBIO D._48516.png,0,31.1
+7720,ALEXIS ALEJANDRO,SANCHEZ SANCHEZ,SANCHEZ A.,1988-12-19,10,Striker,,Chile,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCHEZ A._7720.png,0,35.5
+43735,GUILLERMO,SOTO,SOTO G.,1994-01-19,0,Defender,,Chile,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOTO G._43735.png,0,30.4
+29873,GABRIEL,SUAZO,SUAZO G.,1997-08-09,2,Defender,,Chile,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUAZO G._29873.png,0,26.9
+16793,DIEGO,VALDES,VALDES D.,1994-01-30,15,Midfielder,,Chile,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALDES D._16793.png,0,30.4
+11318,EDUARDO JESUS,VARGAS ROJAS,VARGAS E.,1989-11-20,11,Striker,,Chile,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGAS E._11318.png,0,34.6
+6119,ARTURO,VIDAL,VIDAL A.,1987-05-22,0,Midfielder,,Chile,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VIDAL A-_6119.png,0,37.1
+56408,JONATHAN GABRIEL,VILLAGRA BUSTAMANTE,VILLAGRA J.,2001-03-28,0,Midfielder,,Chile,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLAGRA J._56408.png,0,23.3
+56647,MATIAS EZEQUIEL,ZALDIVIA,ZALDIVIA M.,1991-01-22,0,Defender,,Chile,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZALDIVIA M._56647.png,0,33.4
+29876,CRISTIAN ALEXANDER,ZAVALA BRIONES,ZAVALA C.,1999-08-03,14,Striker,,Chile,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAVALA C._29876.png,0,24.9
+52201,JHON,ARIAS,ARIAS J.,1997-09-21,11,Midfielder,,Colombia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARIAS J._52201.png,0,26.8
+10386,SANTIAGO,ARIAS NARANJO,ARIAS S.,1992-01-13,4,Defender,,Colombia,177.0,right,,0,32.5
+39961,YASER,ASPRILLA,ASPRILLA Y.,2003-11-19,22,Midfielder,,Colombia,,,,0,20.6
+16560,WILMAR ENRIQUE,BARRIOS TERAN,BARRIOS W.,1993-10-16,0,Midfielder,,Colombia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARRIOS W._16560.png,0,30.7
+20521,CRISTIAN,BORJA,BORJA C.,1993-02-18,0,Defender,,Colombia,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BORJA C._20521.png,0,31.4
+16565,MIGUEL,BORJA,BORJA M.,1993-01-26,9,Striker,,Colombia,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BORJA M._16565.png,0,31.4
+61513,DIBER ARMANDO,CAMBINDO ABONIA,CAMBINDO D.,1996-02-17,0,Striker,,Colombia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMBINDO D._61513.png,0,28.4
+43918,JAMINTON,CAMPAZ,CAMPAZ J.,2000-05-24,0,Midfielder,,Colombia,165.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMPAZ J._43918.png,0,24.1
+35138,JORMAN,CAMPUZANO,CAMPUZANO J.,1996-04-30,0,Midfielder,,Colombia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMPUZANO J._35138.png,0,28.2
+31361,JORGE,CARRASCAL,CARRASCAL J.,1998-05-25,8,Striker,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARRASCAL J._31361.png,0,26.1
+13755,ZANDER MATEO,CASSIERRA CABEZAS,CASSIERRA M.,1997-04-13,0,Striker,,Colombia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASSIERRA M._13755.png,0,27.2
+56177,KEVIN DUVAN,CASTANO GIL,CASTANO K.,2000-09-29,5,Midfielder,,Colombia,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTANO K._56177.png,0,23.8
+56120,LEONARDO FABIO,CASTRO LOAIZA,CASTRO L.,1992-06-14,0,Striker,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTRO L._56120.png,0,32.0
+56099,DANIEL FELIPE,CATANO TORRES,CATANO D.,1992-01-17,0,Midfielder,,Colombia,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CATANO D._56099.png,0,32.5
+56273,JOSE' LUIS,CHUNGA VEGA,CHUNGA J.,1991-07-11,0,Goalkeeper,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHUNGA J._56273.png,0,33.0
+15095,JHON ANDRES,CORDOBA COPETE,CORDOBA J.,1993-05-11,24,Striker,,Colombia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORDOBA J._15095.png,0,31.1
+6048,JUAN GUILLERMO,CUADRADO BELLO,CUADRADO JU.,1988-05-26,0,Midfielder,,Colombia,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUADRADO JU._6048.png,0,36.1
+21776,CARLOS ECCEHOMO,CUESTA FIGUEROA,CUESTA C.,1999-03-09,2,Defender,,Colombia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUESTA C._21776.png,0,25.3
+20505,LUIS FERNANDO,DIAZ MARULANDA,DIAZ L. F.,1997-01-13,7,Striker,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIAZ L. F._20505.png,0,27.5
+43817,WILLER EMILIO,DITTA PE'REZ,DITTA W.,1998-01-23,0,Defender,,Colombia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DITTA W._43817.png,0,26.4
+50918,JHON JADER,DURAN PALACIO,DURAN J.,2003-12-13,14,Striker,,Colombia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DURAN J._50918.png,0,20.5
+11363,FRANK,FABRA,FABRA F.,1991-02-22,0,Defender,,Colombia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FABRA F._11363.png,0,33.4
+63282,JIMER ESTEBAN,FORY MEJIA,FORY J.,2002-05-24,0,Striker,,Colombia,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FORY J._63282.png,0,22.1
+47610,CARLOS ANDRES,GOMEZ HINESTROZA,GOMEZ A.,2002-09-12,0,Striker,,Colombia,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ A._47610.png,0,21.8
+63167,SEBASTIAN,GOMEZ LONDONO,GOMEZ S.,1996-06-03,0,Midfielder,,Colombia,172.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ S._63167.png,0,28.1
+45790,CUCHO,HERNANDEZ,HERNANDEZ C.,1999-04-20,0,Striker,,Colombia,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERNANDEZ C._45790.png,0,25.2
+16563,JEFFERSON ANDRES,LERMA SOLIS,LERMA J.,1994-10-25,16,Midfielder,,Colombia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LERMA J._16563.png,0,29.7
+56117,ANDRES,LLINAS MONTEJO,LLINAS A.,1997-07-23,0,Defender,,Colombia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LLINAS A._56117.png,0,26.9
+20520,JHON,LUCUMI,LUCUMI J.,1998-06-26,3,Defender,,Colombia,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUCUMI J._20520.png,0,26.0
+17902,DEIVER,MACHADO,MACHADO D.,1993-09-02,26,Defender,,Colombia,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MACHADO D._17902.png,0,30.8
+13448,ROGER BEYKER,MARTINEZ TOBINSON,MARTINEZ R. B.,1994-06-23,0,Striker,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ R. B._13448.png,0,30.0
+11361,STEFAN,MEDINA,MEDINA S.,1992-06-14,0,Defender,,Colombia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEDINA S._11361.png,0,32.0
+63154,KEVIN LEONARDO,MIER ROBLES,MIER K.,2000-05-18,0,Goalkeeper,,Colombia,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIER K._63154.png,0,24.1
+11346,YERRY,MINA,MINA Y.,1994-09-23,13,Defender,,Colombia,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MINA Y._11346.png,0,29.8
+16564,JOHAN,MOJICA,MOJICA J.,1992-08-21,17,Defender,,Colombia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOJICA J._16564.png,0,31.9
+20519,ALVARO,MONTERO,MONTERO A.,1995-03-29,25,Goalkeeper,,Colombia,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MONTERO A._20519.png,0,29.3
+47689,YERSON,MOSQUERA,MOSQUERA Y.,2001-05-02,0,Defender,,Colombia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOSQUERA Y._47689.png,0,23.2
+55949,JUAN DAVID,MOSQUERA LOPEZ,MOSQUERA J.,2002-09-05,0,Defender,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOSQUERA J._55949.png,0,21.8
+56249,HENRY DAVID,MOSQUERA SANCHEZ,MOSQUERA H.,2001-11-15,0,Midfielder,,Colombia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HENRY MOSQUERA_56249.png,0,22.6
+30367,DANIEL,MUNOZ,MUNOZ D.,1996-05-26,21,Defender,,Colombia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUNOZ D._30367.png,0,28.1
+7713,DAVID,OSPINA,OSPINA D.,1988-08-31,1,Goalkeeper,,Colombia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OSPINA D._7713.png,0,35.8
+81567,IAN CARLO,POVEDA-OCAMPO,POVEDA I.,2000-02-09,0,Striker,,England,165.0,left,,0,24.4
+63208,JADER ANDRES,QUINONES CAICEDO,QUINONES JA.,2000-12-12,0,Midfielder,,Colombia,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINONES JA._63208.png,0,23.5
+53534,JUAN FERNANDO,QUINTERO PANIAGUA,QUINTERO J.,1993-01-18,20,Midfielder,,Colombia,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINTERO J._53534.png,0,31.5
+47645,ANDRES,REYES,REYES A.,1999-09-08,0,Defender,,Colombia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REYES A._47645.png,0,24.8
+65047,RICHARD,RIOS MONTOYA,RIOS R.,2000-06-02,6,Midfielder,,Colombia,180.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIOS R._65047.png,0,24.1
+63203,ALEJANDRO,RODRIGUEZ BAHENA,RODRIGUEZ A.,2001-01-12,0,Goalkeeper,,Colombia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ A._63203.png,0,23.5
+7488,JAMES DAVID,RODRIGUEZ RUBIO,RODRIGUEZ J.,1991-07-12,10,Midfielder,,Colombia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ J._7488.png,0,33.0
+56129,DANIEL FELIPE,RUIZ RIVERA,RUIZ D.,2001-07-30,0,Striker,,Colombia,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUIZ D._56129.png,0,22.9
+14259,DAVINSON,SANCHEZ,SANCHEZ D.,1996-06-12,23,Defender,,Colombia,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCHEZ D._14259.png,0,28.1
+13302,RAFAEL,SANTOS BORRE' MAURY,BORRE' R.,1995-09-15,19,Striker,,Colombia,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BORRE' R._13302.png,0,28.8
+56119,DAVID MACKALISTER,SILVA MOSQUERA,SILVA D.,1986-12-13,0,Midfielder,,Colombia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SILVA D._56119.png,0,37.6
+21549,LUIS FERNANDO,SINISTERRA LUCUMI,SINISTERRA L.,1999-06-17,18,Striker,,Colombia,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SINISTERRA L._21549.png,0,25.0
+39956,DEVAN,TANTON,TANTON D.,2004-01-03,0,Defender,,Colombia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TANTON D._39956.png,0,20.5
+16562,MATEUS,URIBE,URIBE M.,1991-03-21,15,Midfielder,,Colombia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/URIBE M._16562.png,0,33.3
+32683,DIEGO,VALOYES,VALOYES D.,1996-09-22,0,Striker,,Colombia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALOYES D._32683.png,0,27.8
+16561,CAMILO,VARGAS,VARGAS C.,1989-03-09,12,Goalkeeper,,Colombia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGAS C._16561.png,0,35.3
+37231,DEVIS,VASQUEZ,VASQUEZ D.,1998-05-12,0,Goalkeeper,,Colombia,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VASQUEZ D._37231.png,0,26.1
+56365,SAMUEL,VELASQUEZ URIBE,VELASQUEZ S.,2003-05-29,0,Midfielder,,Colombia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VELASQUEZ S._56365.png,0,21.1
+20894,BRAYAN,VERA,VERA B.,1999-01-15,0,Defender,,Colombia,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VERA B._20894.png,0,25.5
+52026,SEBASTIAN,ACUNA,ACUNA S.,2002-06-25,0,Defender,Right-Back,Costa Rica,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ACUNA S._52026.png,0,22.0
+36601,BRANDON,AGUILERA,AGUILERA B.,2003-06-28,10,Midfielder,Attacking Midfield,Costa Rica,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AGUILERA B._36601.png,0,21.0
+49651,JOSIMAR,ALCOCER,ALCOCER J.,2004-07-07,20,Striker,,Costa Rica,,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALCOCER J._49651.png,0,20.0
+48477,JOSIMAR ANGELO,ALCÓCER MCCOOK,ALCÓCER J.,2004-07-07,0,Striker,,Costa Rica,,,,0,20.0
+48473,PABLO CESAR,ARBOINE,ARBOINE P.,1998-04-03,0,Defender,,Costa Rica,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARBOINE P._48473.png,0,26.2
+48472,WILMER JESUS,AZOFEIFA VALVERDE,AZOFEIFA W.,1994-06-04,0,Midfielder,,Costa Rica,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AZOFEIFA W._48472.png,0,30.1
+49365,CARLOS,BARAHONA,BARAHONA C.,2002-08-22,0,Defender,Right-Back,Costa Rica,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARAHONA C._49365.png,0,21.9
+36602,JEWISON,BENNETTE,BENNETTE J.,2004-06-15,0,Striker,Left Forward,Costa Rica,173.0,left,,0,20.0
+11197,CELSO,BORGES,BORGES C.,1988-05-27,0,Midfielder,,Costa Rica,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BORGES C._11197.png,0,36.1
+49573,ALEJANDRO,BRAN,BRAN A.,2001-03-05,16,Midfielder,Defensive Midfield,Costa Rica,175.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRAN A._49573.png,0,23.3
+49341,JEFFERSON,BRENES,BRENES J.,1997-04-13,13,Midfielder,,Costa Rica,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRENES J._49341.png,0,27.2
+11332,FRANCISCO,CALVO,CALVO F.,1992-07-08,15,Defender,Centre-Back,Costa Rica,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALVO F._11332.png,0,32.0
+8279,JOEL,CAMPBELL,CAMPBELL J.,1992-06-26,12,Striker,Right Winger,Costa Rica,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMPBELL J._8279.png,0,32.0
+48530,DIEGO,CAMPOS,CAMPOS D.,1995-10-01,0,Striker,,Costa Rica,,,,0,28.8
+53322,JULIO,CASCANTE,CASCANTE J.,1993-10-03,6,Defender,Centre-Back,Costa Rica,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASCANTE J._53322.png,0,30.7
+48470,KEVIN JOSE',CHAMORRO RODRIGUEZ,CHAMORRO K.,2000-04-08,1,Goalkeeper,Goalkeeper,Costa Rica,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAMORRO K._48470.png,0,24.2
+36604,ANTHONY,CONTRERAS,CONTRERAS A.,2000-01-29,7,Striker,Centre-Forward,Costa Rica,180.0,right,,0,24.4
+49582,AARON MOISES,CRUZ ESQUIVEL,CRUZ A. M.,1991-05-25,18,Goalkeeper,,Costa Rica,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CRUZ A. M._49582.png,0,33.1
+51988,JUSSEF NELSON,DELGADO LOPEZ,DELGADO J. N.,1994-01-27,0,Goalkeeper,,Costa Rica,186.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DELGADO J. N._51988.png,0,30.4
+49568,FERNAN,FAERRON,FAERRON F.,2000-08-22,5,Defender,,Costa Rica,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FAERRON F._49568.png,0,23.9
+36593,KEYSHER,FULLER,FULLER K.,1994-07-12,0,Defender,,Costa Rica,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FULLER K._36593.png,0,30.0
+49587,ORLANDO,GALO,GALO O.,2000-08-11,14,Midfielder,,Costa Rica,176.0,right,,0,23.9
+49654,ALEXIS,GAMBOA,GAMBOA A.,1999-03-20,0,Defender,Centre-Back,Costa Rica,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAMBOA A._49654.png,0,25.3
+16571,DAVID,GUZMAN,GUZMAN D.,1990-02-18,0,Midfielder,,Costa Rica,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUZMAN D._16571.png,0,34.4
+55842,ARIEL DANIEL,LASSITER ACUNA,LASSITER A.,1994-09-27,11,Striker,,Costa Rica,178.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LASSITER A._55842.png,0,29.8
+49657,IAN,LAWRENCE,LAWRENCE I.,2002-05-28,0,Defender,Left-Back,Costa Rica,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAWRENCE I._49657.png,0,22.1
+51337,RANDALL,LEAL,LEAL R.,1997-01-14,0,Striker,Left Forward,Costa Rica,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEAL R._51337.png,0,27.5
+49566,ALEXANDRE,LEZCANO,LEZCANO A.,2001-08-26,0,Goalkeeper,,Costa Rica,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEZCANO A._49566.png,0,22.8
+48476,WARREN,MADRIGAL,MADRIGAL W.,2004-07-24,17,Striker,,Costa Rica,,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MADRIGAL W._48476.png,0,19.9
+53320,JIMMY,MARIN,MARIN J.,1997-10-08,0,Striker,Left Forward,Costa Rica,170.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARIN J._53320.png,0,26.7
+36594,CARLOS,MARTINEZ,MARTINEZ C.,1999-03-30,0,Defender,,Costa Rica,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ C._36594.png,0,25.3
+11196,RONALD,MATARRITA,MATARRITA R.,1994-07-09,0,Defender,Left-Back,Costa Rica,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATARRITA R._11196.png,0,30.0
+51977,JEYLAND,MITCHELL,MITCHELL J.,2004-09-29,3,Defender,,Costa Rica,187.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MITCHELL J._51977.png,0,19.7
+52104,YEISON,MOLINA,MOLINA Y.,1996-01-25,25,Defender,,Costa Rica,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOLINA Y._52104.png,0,28.4
+49662,CARLOS,MORA,MORA C.,2001-03-18,0,Striker,,Costa Rica,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORA C._49662.png,0,23.3
+61758,JOSEPH MARTIN,MORA CORTEZ,MORA J.,1993-01-15,8,Defender,,Costa Rica,170.0,left,,0,31.5
+8309,KEYLOR,NAVAS,NAVAS K.,1986-12-15,0,Goalkeeper,Goalkeeper,Costa Rica,185.0,right,,0,37.6
+41230,CRISTOPHER,NUNEZ,NUNEZ C.,1997-12-08,0,Midfielder,Attacking Midfield,Costa Rica,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NUNEZ C._41230.png,0,26.6
+64866,RICARDO ALLEN,PENA GUTIERREZ,PENA R.,2004-07-15,0,Midfielder,,Costa Rica,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PENA R._64866.png,0,20.0
+49571,HAXZEL,QUIROS,QUIROS H.,1998-06-03,22,Defender,Right-Back,Costa Rica,,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUIROS H._49571.png,0,26.1
+52247,ANDY,ROJAS,ROJAS A.,2005-12-05,24,Striker,,Costa Rica,,,,0,18.6
+36597,YOUSTIN,SALAS,SALAS Y.,1996-06-17,0,Midfielder,Defensive Midfield,Costa Rica,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SALAS Y._36597.png,0,28.0
+49337,DOUGLAS,SEQUEIRA,SEQUEIRA D.,2003-09-16,26,Defender,,Costa Rica,,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEQUEIRA D._49337.png,0,20.8
+36591,PATRICK,SEQUEIRA,SEQUEIRA P.,1999-03-01,23,Goalkeeper,Goalkeeper,Costa Rica,190.0,right,,0,25.3
+49659,AARON,SUAREZ,SUAREZ A.,2002-06-27,0,Midfielder,,Costa Rica,165.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUAREZ A._49659.png,0,22.0
+49333,GERALD,TAYLOR,TAYLOR G.,2001-05-28,2,Defender,,Costa Rica,182.0,right,,0,23.1
+11198,YELTSIN,TEJEDA,TEJEDA Y.,1992-03-17,0,Midfielder,,Costa Rica,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TEJEDA Y._11198.png,0,32.3
+53321,MANFRED,UGALDE,UGALDE M.,2002-05-25,9,Striker,Centre-Forward,Costa Rica,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UGALDE M._53321.png,0,22.1
+48471,JEFRY ANTONIO,VALVERDE ROJAS,VALVERDE J.,1995-06-10,0,Midfielder,Left Midfield,Costa Rica,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALVERDE J._48471.png,0,29.1
+49601,KENNETH,VARGAS,VARGAS K.,2002-04-17,19,Striker,Centre-Forward,Costa Rica,,right,,0,22.2
+36592,JUAN PABLO,VARGAS CAMPOS,VARGAS J.,1995-06-06,4,Defender,,Costa Rica,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGAS J._36592.png,0,29.1
+11194,KENDALL,WASTON MANLEY,WASTON K.,1988-01-01,0,Defender,,Costa Rica,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WASTON K._11194.png,0,36.5
+36598,ROAN,WILSON,WILSON R.,2002-05-01,0,Midfielder,,Costa Rica,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WILSON R._36598.png,0,22.2
+36600,ALVARO,ZAMORA,ZAMORA A.,2002-03-09,21,Midfielder,,Costa Rica,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAMORA A._36600.png,0,22.3
+48474,SUHANDER MANUEL,ZÚNIGA CORDERO,ZÚNIGA S.,1997-01-15,0,Defender,,Costa Rica,,,,0,27.5
+61185,JORDY JOSE',ALCIVAR MACIAS,ALCIVAR J.,1999-08-05,0,Midfielder,,Ecuador,168.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALCIVAR J._61185.png,0,24.9
+20514,ROBERT,ARBOLEDA,ARBOLEDA R.,1991-10-22,0,Defender,,Ecuador,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARBOLEDA R._20514.png,0,32.7
+61218,JAVIER NICOLAS,BURRAI,BURRAI J.,1990-10-09,0,Goalkeeper,,Argentina,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BURRAI J._61218.png,0,33.7
+20484,BEDER,CAICEDO,CAICEDO B.,1992-05-13,0,Defender,,Ecuador,174.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAICEDO B._20484.png,0,32.1
+30956,JORDY,CAICEDO,CAICEDO J.,1997-11-18,19,Striker,,Ecuador,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAICEDO J._30956.png,0,26.6
+32674,MOISES,CAICEDO,CAICEDO M.,2001-11-02,23,Midfielder,,Ecuador,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAICEDO M._32674.png,0,22.7
+32676,LEONARDO,CAMPANA,CAMPANA L.,2000-07-24,0,Striker,,Ecuador,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMPANA L._32676.png,0,23.9
+45368,ANIBAL,CHALA,CHALA A.,1996-05-09,0,Defender,,Ecuador,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHALA A._45368.png,0,28.1
+61176,JHOANNER STALIN,CHAVEZ QUINTERO,CHAVEZ JH.,2002-04-25,0,Defender,,Ecuador,182.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAVEZ J._61176.png,0,22.2
+36815,JOSE',CIFUENTES,CIFUENTES J.,1999-03-12,5,Midfielder,,Ecuador,178.0,right,,0,25.3
+61202,JANNER HITCLER,COROZO ALMAN,COROZO J.,1995-09-08,20,Midfielder,,Ecuador,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COROZO J._61202.png,0,28.8
+11348,ALEXANDER,DOMINGUEZ,DOMINGUEZ A.,1987-06-05,22,Goalkeeper,,Ecuador,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOMINGUEZ A._11348.png,0,37.1
+27425,PERVIS,ESTUPINAN,ESTUPINAN P.,1998-01-21,0,Defender,,Ecuador,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESTUPINAN P._27425.png,0,26.4
+32673,ALAN,FRANCO,FRANCO A.,1998-08-21,21,Midfielder,,Ecuador,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRANCO A._32673.png,0,25.9
+32670,HERNAN,GALINDEZ,GALINDEZ H.,1987-03-30,1,Goalkeeper,,Ecuador,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALINDEZ H._32670.png,0,37.3
+11252,CARLOS,GRUEZO,GRUEZO C.,1995-04-19,8,Midfielder,,Ecuador,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRUEZO C._11252.png,0,29.2
+30855,PIERO,HINCAPIE',HINCAPIE' P.,2002-01-09,3,Defender,,Ecuador,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HINCAPIE' P._30855.png,0,22.5
+48518,JOSE' ANDRES,HURTADO CHEME,HURTADO J. A.,2001-12-23,24,Defender,,Ecuador,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HURTADO JO._48518.png,0,22.5
+60258,JHOJAN ESMAIDES,JULIO PALACIOS,JULIO J.,1998-02-11,0,Midfielder,,Ecuador,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JULIO J._60258.png,0,26.4
+61332,LAYAN MANUEL,LOOR REQUELME,LOOR L.,2001-05-23,7,Defender,,Ecuador,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOOR L._61332.png,0,23.1
+20486,ANGEL,MENA,MENA A.,1988-01-21,15,Midfielder,,Ecuador,168.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MENA A._20486.png,0,36.4
+63883,NORMAN ANDRES,MICOLTA ARROYO,MICOLTA A.,1999-06-06,26,Defender,,Ecuador,193.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MICOLTA A._63883.png,0,25.1
+57354,ALAN STEVE,MINDA GARCIA,MINDA A.,2003-05-14,14,Midfielder,,Ecuador,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MINDA A._57354.png,0,21.1
+61216,ALLEN ALDAIR,OBANDO AYOVI,OBANDO A.,2006-06-13,0,Striker,,Ecuador,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OBANDO A._61216.png,0,18.0
+35113,JOEL,ORDONEZ,ORDONEZ J.,2004-04-21,4,Defender,,Ecuador,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORDONEZ J._35113.png,0,20.2
+48519,JULIO JOAO,ORTIZ,ORTIZ J.,1996-05-01,18,Midfielder,,Ecuador,177.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORTIZ J._48519.png,0,28.2
+36812,WILLIAN JOEL,PACHO TENORIO,PACHO W.,2001-10-16,6,Defender,,Ecuador,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PACHO W._36812.png,0,22.7
+61155,RAY KENDRY,PAEZ ANDRADE,PAEZ K.,2007-05-04,10,Midfielder,,Ecuador,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAEZ K._61155.png,0,17.2
+32675,GONZALO,PLATA,PLATA G.,2000-11-01,0,Striker,,Ecuador,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PLATA G._32675.png,0,23.7
+36813,JACKSON,POROZO,POROZO J.,2000-08-04,25,Defender,,Ecuador,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POROZO J._36813.png,0,23.9
+30362,ANGELO,PRECIADO,PRECIADO AN.,1998-02-18,17,Defender,,Ecuador,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PRECIADO AN._30362.png,0,26.4
+60271,LEONEL ENRIQUE,QUINONEZ PADILLA,QUINONEZ L.,1993-07-03,0,Defender,,Ecuador,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINONEZ L._60271.png,0,31.0
+36810,MOISES,RAMIREZ,RAMIREZ M.,2000-09-09,12,Goalkeeper,,Ecuador,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMIREZ M._36810.png,0,23.8
+62355,LEONARDO JAVIER,REALPE MONTANO,REALPE L.,2001-02-26,0,Defender,,Ecuador,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REALPE L._62355.png,0,23.3
+36817,KEVIN,RODRIGUEZ,RODRIGUEZ K.,2000-03-04,11,Striker,,Ecuador,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ K._36817.png,0,24.3
+32693,JEREMY,SARMIENTO,SARMIENTO J.,2002-06-16,16,Midfielder,,Ecuador,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SARMIENTO J._32693.png,0,22.0
+57222,LUIS GEOVANNY,SEGOVIA VEGA,SEGOVIA L.,1997-10-26,0,Defender,,Ecuador,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEGOVIA L._57222.png,0,26.7
+61173,JUNIOR NAZARENO,SORNOZA MOREIRA,SORNOZA J.,1994-01-28,0,Midfielder,,Ecuador,166.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SORNOZA J._61173.png,0,30.4
+36811,FELIX,TORRES,TORRES F.,1997-01-11,2,Defender,,Ecuador,187.0,right,,0,27.5
+11255,ENNER,VALENCIA,VALENCIA E.,1989-11-04,13,Striker,,Ecuador,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALENCIA E._11255.png,0,34.7
+59457,JOHN,YEBOAH ZAMORA,YEBOAH J.,2000-06-23,9,Midfielder,,Germany,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YEBOAH J._59457.png,0,24.0
+60270,OSCAR STEVEN,ZAMBRANO PRECIADO,ZAMBRANO O.,2004-04-20,0,Midfielder,,Ecuador,176.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAMBRANO O._60270.png,0,20.2
+131149,KAROY,ANDERSON,ANDERSON K.,2004-10-01,16,Midfielder,,Jamaica,,,,0,19.7
+98287,JAHSHAUN MUSTAF,ANGLIN,ANGLIN J.,2001-05-06,0,Striker,,Jamaica,178.0,,,0,23.2
+11758,MICHAIL,ANTONIO,ANTONIO M.,1990-03-28,9,Striker,,Jamaica,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANTONIO M._11758.png,0,34.3
+13122,LEON,BAILEY,BAILEY L.,1997-08-09,26,Striker,,Jamaica,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAILEY L._13122.png,0,26.9
+58454,AMARI'I KYREN,BELL,BELL A.,1994-05-05,25,Defender,,Jamaica,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELL A._58454.png,0,30.2
+54666,JONATHAN,BELL,BELL J.,1997-08-26,21,Defender,,United States of America,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELL J._54666.png,0,26.8
+22757,DI'SHON JOEL,BERNARD,BERNARD D.,2000-10-14,6,Defender,,Jamaica,,,,0,23.7
+51297,ANDRE,BLAKE,BLAKE A.,1990-11-21,24,Goalkeeper,,Jamaica,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BLAKE A._51297.png,0,33.6
+98288,CONIAH CHRONICLES,BOYCE-CLARKE,BOYCE-CLARKE C.,2003-03-01,13,Goalkeeper,,Jamaica,183.0,right,,0,21.3
+47709,JAVAIN,BROWN,BROWN J.,1999-03-09,0,Defender,,Jamaica,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BROWN J._47709.png,0,25.3
+47671,CORY,BURKE,BURKE C.,1991-12-28,0,Striker,,Jamaica,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BURKE C._47671.png,0,32.5
+55173,RENALDO SHOWAYNE,CEPHAS,CEPHAS R.,1999-12-18,20,Striker,,Jamaica,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CEPHAS R._55173.png,0,24.5
+131147,SHAQUAN,DAVIS,DAVIS S.,2000-11-11,1,Goalkeeper,,Jamaica,,,,0,23.6
+58438,BOBBY ARMANI,DE CORDOVA-REID,DE CORDOVA-REID B.,1993-02-02,10,Striker,,Jamaica,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE CORDOVA-REID B._58438.png,0,31.4
+131151,KAHEIM,DIXON,DIXON K.,2004-10-04,8,Striker,,Jamaica,,,,0,19.7
+98292,KEMAR ROBERT,FOSTER,FOSTER K.,1992-08-30,0,Goalkeeper,,Jamaica,,,,0,31.8
+12817,DEMARAI,GRAY,GRAY D.,1996-06-28,7,Striker,,Jamaica,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRAY D._12817.png,0,28.0
+98753,WESLEY NATHAN HYLTON,HARDING,HARDING W.,1996-10-20,12,Defender,,Jamaica,181.0,right,,0,27.7
+98295,MICHAEL ANTHONY JAMES,HECTOR,HECTOR M.,1992-07-19,3,Defender,,Jamaica,193.0,right,,0,32.0
+98294,DANIEL ANTHONY,JOHNSON,JOHNSON D.,1992-10-08,0,Midfielder,,Jamaica,174.0,left,,0,31.7
+131148,RICHARD,KING,KING R.,2001-11-27,4,Defender,,Jamaica,,,,0,22.6
+61778,KEVON JAMAR,LAMBERT,LAMBERT K.,1997-03-22,19,Midfielder,,Jamaica,190.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAMBERT K._61778.png,0,27.3
+98296,JOEL OWEN,LATIBEAUDIERE,LATIBEAUDIERE J.,2000-01-06,15,Defender,,Jamaica,180.0,right,,0,24.5
+56007,KEMAR MICHAEL,LAWRENCE,LAWRENCE K.,1992-09-17,0,Defender,,Jamaica,178.0,left,,0,31.8
+98284,GREGORY ALEX,LEIGH,LEIGH G.,1994-09-30,22,Defender,,Jamaica,181.0,left,,0,29.8
+81731,DEXTER JOENG WOO,LEMBIKISA,LEMBIKISA D.,2003-11-04,2,Defender,,Jamaica,180.0,right,,0,20.7
+51308,DAMION,LOWE,LOWE D.,1993-05-05,17,Defender,,Jamaica,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOWE D._51308.png,0,31.2
+97261,ADRIAN JOSEPH,MARIAPPA,MARIAPPA A.,1986-10-03,0,Defender,,Jamaica,180.0,right,,0,37.8
+131150,ALEX,MARSHALL,MARSHALL A.,1998-02-24,18,Striker,,Jamaica,,,,0,26.3
+31131,SHAMAR AMARO,NICHOLSON,NICHOLSON S.,1997-03-16,11,Striker,,Jamaica,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NICHOLSON S._31131.png,0,27.3
+14171,KASEY REMEL,PALMER,PALMER K.,1996-11-09,14,Midfielder,,Jamaica,,,,0,27.6
+37142,KAHEEM,PARRIS,PARRIS K.,2000-01-06,0,Striker,,Jamaica,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PARRIS K._37142.png,0,24.5
+58385,ETHAN RUPERT,PINNOCK,PINNOCK E.,1993-05-29,5,Defender,,Jamaica,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PINNOCK E._58385.png,0,31.1
+98285,DEMARIO,RHOUL WRAYTON PHILLIPS,PHILLIPS D.,1998-11-10,0,Midfielder,,Jamaica,,both,,0,25.6
+98291,DUJUAN ODILE,RICHARDS,RICHARDS D.,2005-11-10,0,Striker,,Jamaica,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RICHARDS D._98291.png,0,18.6
+98286,JONATHAN EDWARD,RUSSELL,RUSSELL J.,2000-10-09,0,Midfielder,,Jamaica,195.0,right,,0,23.7
+98290,JAHMALI DANTE,WAITE,WAITE J.,1998-12-24,23,Goalkeeper,,Jamaica,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WAITE J._98290.png,0,25.5
+98289,ROMARIO GARFIELD,WILLIAMS,WILLIAMS R.,1994-08-15,0,Striker,,Jamaica,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WILLIAMS R._98289.png,0,29.9
+29846,CARLOS,ACEVEDO,ACEVEDO C.,1996-04-19,12,Goalkeeper,,Mexico,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ACEVEDO C._29846.png,0,28.2
+17877,ROBERTO,ALVARADO,ALVARADO R.,1998-09-07,25,Striker,,Mexico,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALVARADO R._17877.png,0,25.8
+16647,EDSON,ALVAREZ,ALVAREZ ED.,1997-10-24,4,Defender,,Mexico,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALVAREZ E._16647.png,0,26.7
+33522,KEVIN,ALVAREZ,ALVAREZ K.,1999-01-15,0,Defender,,Mexico,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALVAREZ K._33522.png,0,25.5
+17883,JESUS,ANGULO,ANGULO J. 98,1998-01-30,0,Defender,,Mexico,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANGULO J. 98_17883.png,0,26.4
+29854,URIEL,ANTUNA,ANTUNA U.,1997-08-21,15,Striker,,Mexico,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANTUNA U._29854.png,0,26.9
+29847,JULIAN,ARAUJO,ARAUJO J.,2001-08-13,0,Defender,,Mexico,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAUJO J._29847.png,0,22.9
+17870,GERARDO,ARTEAGA,ARTEAGA G.,1998-09-07,6,Defender,,Mexico,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARTEAGA G._17870.png,0,25.8
+33523,LUIS,CHAVEZ,CHAVEZ L.,1996-01-15,24,Midfielder,,Mexico,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAVEZ L._33523.png,0,28.5
+29856,SEBASTIAN,CORDOVA,CORDOVA S.,1997-06-12,0,Midfielder,,Mexico,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORDOVA S._29856.png,0,27.1
+45216,JORDI,CORTIZO,CORTIZO J.,1996-06-30,16,Striker,,Mexico,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORTIZO J._45216.png,0,28.0
+29858,MARCELO,FLORES DORRELL,FLORES M.,2003-10-01,18,Midfielder,,Mexico,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FLORES M._29858.png,0,20.7
+16648,JESUS,GALLARDO,GALLARDO J.,1994-08-15,0,Defender,,Mexico,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALLARDO J._16648.png,0,29.9
+45310,BRIAN,GARCIA,GARCIA B.,1997-10-31,20,Defender,,Mexico,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARCIA B._45310.png,0,26.7
+59252,SANTIAGO TOMAS,GIMENEZ,GIMENEZ S.,2001-04-18,11,Striker,,Mexico,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GIMENEZ S._59252.png,0,23.2
+45264,BRYAN,GONZALEZ,GONZALEZ B.,2003-04-10,26,Defender,,Mexico,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ B._45264.png,0,21.2
+45442,JULIO,GONZALEZ,GONZALEZ JU.,1991-04-23,1,Goalkeeper,,Mexico,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ JU._45442.png,0,33.2
+45218,VICTOR,GUZMAN,GUZMAN V.,2002-03-07,0,Defender,,Mexico,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUZMAN V._45218.png,0,22.3
+7469,HECTOR,HERRERA,HERRERA H.,1990-04-19,0,Midfielder,,Mexico,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERRERA H._7469.png,0,34.2
+45361,OZZIEL,HERRERA,HERRERA O.,2001-05-23,0,Striker,,Mexico,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERRERA O._45361.png,0,23.1
+20879,CESAR,HUERTA,HUERTA C.,2000-12-03,21,Striker,,Mexico,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HUERTA C._20879.png,0,23.6
+8310,RAUL,JIMENEZ,JIMENEZ R.,1991-05-05,0,Striker,,Mexico,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JIMENEZ R._8310.png,0,33.2
+17879,DIEGO,LAINEZ,LAINEZ D.,2000-06-09,0,Striker,,Mexico,167.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAINEZ D._17879.png,0,24.1
+11289,HIRVING,LOZANO,LOZANO H.,1995-07-30,0,Striker,,Mexico,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOZANO H._11289.png,0,28.9
+45202,LUIS,MALAGON,MALAGON L.,1997-03-02,0,Goalkeeper,,Mexico,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MALAGON L._45202.png,0,27.3
+33530,HENRY,MARTIN,MARTIN H.,1992-11-18,0,Striker,,Mexico,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTIN H._33530.png,0,31.6
+45509,GUILLERMO,MARTINEZ,MARTINEZ G.,1995-03-15,22,Striker,,Mexico,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ G._45509.png,0,29.3
+33519,CESAR,MONTES,MONTES C.,1997-02-24,3,Defender,,Mexico,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MONTES C._33519.png,0,27.3
+11352,GUILLERMO,OCHOA,OCHOA G.,1985-07-13,0,Goalkeeper,,Mexico,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OCHOA G._11352.png,0,39.0
+45236,JESUS GILBERTO,OROZCO CHIQUETE,OROZCO J.,2002-02-19,13,Defender,,Mexico,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OROZCO J._45236.png,0,22.4
+33526,ORBELIN,PINEDA,PINEDA O.,1996-03-24,17,Midfielder,,Mexico,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PINEDA O._33526.png,0,28.3
+45372,JULIAN,QUINONES,QUINONES J.,1997-03-24,9,Striker,,Colombia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINONES J._45372.png,0,27.3
+131152,RAUL,RANGEL,RANGEL R.,2000-02-25,23,Goalkeeper,,Mexico,,,,0,24.3
+29861,ISRAEL,REYES,REYES I.,2000-05-23,19,Defender,,Mexico,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REYES I._29861.png,0,24.1
+45400,ANTONIO,RODRIGUEZ,RODRIGUEZ A.,1992-07-04,0,Goalkeeper,,Mexico,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ A._45400.png,0,32.0
+36791,CARLOS,RODRIGUEZ,RODRIGUEZ C.,1997-01-03,8,Midfielder,,Mexico,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ C._36791.png,0,27.5
+33525,LUIS,ROMO,ROMO L.,1995-06-05,7,Midfielder,,Mexico,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMO L._33525.png,0,29.1
+45311,MARCEL,RUIZ,RUIZ M.,2000-10-26,0,Midfielder,,Mexico,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUIZ M._45311.png,0,23.7
+33524,ERICK,SANCHEZ,SANCHEZ E.,1999-09-27,14,Midfielder,,Mexico,167.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCHEZ E._33524.png,0,24.8
+33521,JORGE,SANCHEZ,SANCHEZ J.,1997-12-10,2,Defender,,Mexico,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCHEZ J._33521.png,0,26.6
+45246,GILBERTO,SEPULVEDA,SEPULVEDA G.,1999-02-04,0,Defender,,Mexico,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEPULVEDA G._45246.png,0,25.4
+26673,JOHAN,VASQUEZ,VASQUEZ J.,1998-10-22,5,Defender,,Mexico,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VASQUEZ J._26673.png,0,25.7
+33528,ALEXIS,VEGA,VEGA A.,1997-11-25,10,Striker,,Mexico,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VEGA A._33528.png,0,26.6
+52036,EDUARDO,ANDERSON,ANDERSON E.,2001-01-31,4,Defender,,Panama,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDERSON E._52036.png,0,23.4
+50446,IVAN,ANDERSON,ANDERSON I.,1997-11-24,19,Defender,,Panama,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDERSON I._50446.png,0,26.6
+23822,ANDRES ALBERTO,ANDRADE CEDENO,ANDRADE A.,1998-10-16,0,Defender,,Panama,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDRADE A._23822.png,0,25.7
+54430,ABDIEL ARMANDO,AYARZA BOCANEGRA,AYARZA A.,1992-09-12,5,Midfielder,,Panama,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AYARZA A._54430.png,0,31.8
+16678,EDGAR YOEL,BARCENAS HERRERA,BARCENAS Y.,1993-10-23,10,Striker,,Panama,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARCENAS Y._16678.png,0,30.7
+79338,ROLANDO MANRIQUE,BLACKBURN ORTEGA,BLACKBURN R.,1990-01-09,0,Striker,,Panama,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BLACKBURN R._79338.png,0,34.5
+64833,CESAR RODOLFO,BLACKMAN CAMARENA,BLACKMAN C.,1998-04-02,2,Defender,,Panama,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BLACKMAN C._64833.png,0,26.2
+55914,ADALBERTO ELIECER,CARRASQUILLA ALCAZAR,CARRASQUILLA A.,1998-11-28,8,Midfielder,,Panama,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARRASQUILLA A._55914.png,0,25.6
+52986,JOSE',CORDOBA,CORDOBA J.,2001-06-03,3,Defender,,Panama,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORDOBA J._52986.png,0,23.1
+11299,HAROLD OSHKALY,CUMMINGS SEGURA,CUMMINGS H.,1992-03-01,0,Defender,,Panama,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUMMINGS H._11299.png,0,32.3
+16682,ERIC JAVIER,DAVIS GRAJALES,DAVIS E.,1991-03-31,15,Defender,,Panama,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAVIS E._16682.png,0,33.3
+16680,ISMAEL,DIAZ DE LEON,DIAZ I.,1997-05-12,11,Striker,,Panama,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIAZ I._16680.png,0,27.1
+98297,ERICK MANUEL,DIAZ GONZALEZ,DIAZ E.,2006-03-04,0,Defender,,Panama,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIAZ E._98297.png,0,18.3
+16677,FIDEL,ESCOBAR,ESCOBAR F.,1995-01-09,0,Defender,,Panama,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESCOBAR F._16677.png,0,29.5
+54418,JOSE',FAJARDO NELSON,FAJARDO J.,1993-08-18,17,Striker,,Panama,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FAJARDO J._54418.png,0,30.9
+98301,EDGARDO ISAAC,FARINA WYNTER,FARINA E.,2001-09-21,24,Defender,,Panama,194.0,right,,0,22.8
+11303,ANIBAL,GODOY,GODOY A.,1990-02-10,20,Midfielder,,Panama,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GODOY A._11303.png,0,34.4
+49660,FREDDY,GONDOLA,GONDOLA F.,1995-09-18,13,Striker,,Panama,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONDOLA F._49660.png,0,28.8
+98305,IRVING JAHIR,GUDINO LOPEZ,GUDINO I.,2000-11-15,0,Midfielder,,Panama,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUDINO I._98305.png,0,23.6
+49871,JOSE',GUERRA,GUERRA J.,1994-09-12,0,Goalkeeper,,Panama,185.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERRA J._49871.png,0,29.8
+86392,EDUARDO ANTONIO,GUERRERO LOZCANO,GUERRERO E.,2000-02-21,9,Striker,,Panama,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERRERO E._86392.png,0,24.4
+72331,CARLOS MIGUEL,HARVEY CESNEROS,HARVEY C.,2000-02-03,16,Midfielder,,Panama,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HARVEY C._72331.png,0,24.4
+63247,KAHISER,LENIS NAVARRO,LENIS K.,2001-07-23,26,Striker,,Panama,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LENIS K._63247.png,0,22.9
+67586,AZARIAS EMMANUEL,LONDONO GONZALEZ,LONDONO A.,2001-06-21,0,Striker,,Panama,185.0,right,,0,23.0
+71450,CRISTIAN JESUS,MARTINEZ,MARTINEZ C.,1997-02-06,6,Midfielder,,Panama,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ C._71450.png,0,27.4
+56435,LUIS RICARDO,MEJIA CAJAR,MEJIA L.,1991-03-16,1,Goalkeeper,,Panama,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEJIA L._56435.png,0,33.3
+93497,RODERICK ALONSO,MILLER MOLINA,MILLER R.,1992-04-03,25,Defender,,Panama,190.0,left,,0,32.2
+50441,ORLANDO,MOSQUERA,MOSQUERA O.,1994-12-25,22,Goalkeeper,,Panama,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOSQUERA O._50441.png,0,29.5
+98306,KEVIN ABDIEL,MOSQUERA LIM,MOSQUERA K.,1999-10-07,0,Goalkeeper,,Panama,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOSQUERA K._98306.png,0,24.7
+16676,MICHAEL AMIR,MURILLO BERMUDEZ,MURILLO A.,1996-02-11,23,Defender,,Panama,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MURILLO M._16676.png,0,28.4
+98300,JOSE' MANUEL,MURILLO MORAN,MURILLO J.,1995-02-24,0,Midfielder,,Panama,167.0,left,,0,29.4
+54045,ANGEL GABRIEL,ORELIEN GONZALEZ,ORELIEN A.,2001-04-02,0,Striker,,Panama,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORELIEN A._54045.png,0,23.2
+98304,REYNIEL ANTONIO,PERDOMO WILLIS,PERDOMO R.,2001-04-28,0,Defender,,Panama,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PERDOMO R._98304.png,0,23.2
+79451,RICARDO ANTONIO,PHILLIPS HINDS,PHILLIPS R.,2001-05-06,0,Midfielder,,Panama,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PHILLIPS R._79451.png,0,23.2
+98303,DARWIN DARINEL,PINZON CAMANO,PINZON D.,1994-04-02,0,Midfielder,,Panama,167.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PINZON D._98303.png,0,30.2
+98298,CRISTIAN JOSUE',QUINTERO CARVAJAL,QUINTERO C.,1997-05-23,0,Striker,,Panama,170.0,right,,0,27.1
+11304,ALBERTO ABDIEL,QUINTERO MEDINA,QUINTERO A.,1987-12-18,0,Midfielder,,Panama,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUINTERO A._11304.png,0,36.5
+50489,JIOVANY,RAMOS,RAMOS J.,1997-01-26,0,Defender,,Panama,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMOS J._50489.png,0,27.4
+16685,JOSE' LUIS,RODRIGUEZ FRANCIS,PUMA,1998-06-19,7,Striker,,Panama,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PUMA_16685.png,0,26.0
+98302,CESAR JAIR,SAMUDIO MURILLO,SAMUDIO C.,1994-02-23,12,Goalkeeper,,Panama,188.0,left,,0,30.4
+54051,ALFREDO,STEPHENS,STEPHENS A.,1994-12-25,0,Striker,,Panama,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STEPHENS A._54051.png,0,29.5
+61731,OMAR JAVIER,VALENCIA ARAUZ,VALENCIA O.,2004-06-08,18,Defender,,Panama,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALENCIA O._61731.png,0,20.1
+98299,JAN CARLOS,VARGAS CAMPOS,VARGAS J.,1994-09-27,0,Defender,,Panama,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGAS J._98299.png,0,29.8
+56490,CECILIO ALFONSO,WATERMAN RUIZ,WATERMAN C.,1991-04-13,0,Striker,,Panama,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WATERMAN C._56490.png,0,33.2
+44468,JOVANI,WELCH,WELCH J.,1999-12-07,14,Midfielder,,Panama,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WELCH J._44468.png,0,24.6
+52031,CESAR,YANIS,YANIS C.,1996-01-28,21,Striker,,Panama,160.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YANIS C._52031.png,0,28.4
+26468,ALFREDO ARIEL,AGUILAR,AGUILAR A.,1988-07-18,12,Goalkeeper,,Paraguay,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AGUILAR A._26468.png,0,36.0
+23794,OMAR FEDERICO,ALDERETE FERNANDEZ,ALDERETE O.,1996-12-26,3,Defender,,Paraguay,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALDERETE O._23794.png,0,27.5
+11341,MIGUEL,ALMIRON,ALMIRON M.,1994-02-10,10,Striker,,Paraguay,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALMIRON M._11341.png,0,30.4
+20467,JUNIOR,ALONSO,ALONSO J.,1993-02-09,6,Defender,,Paraguay,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALONSO J._20467.png,0,31.4
+113190,ALEX,ARCE,ARCE A.,1995-06-16,18,Striker,,Paraguay,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARCE A._113190.png,0,29.0
+26484,GABRIEL,AVALOS STUMPFS,AVALOS G.,1990-10-12,0,Striker,,Paraguay,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AVALOS G._26484.png,0,33.7
+11339,FABIAN,BALBUENA,BALBUENA F.,1991-08-23,5,Defender,,Paraguay,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALBUENA F._11339.png,0,32.9
+43703,ADAM,BAREIRO,BAREIRO A.,1996-07-26,9,Striker,,Paraguay,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAREIRO A._43703.png,0,27.9
+68174,DAMIAN JOSUE',BOBADILLA BENITEZ,BOBADILLA D.,2001-07-11,8,Midfielder,,Paraguay,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOBADILLA D._68174.png,0,23.0
+60245,HERNESTO EZEQUIEL,CABALLERO BENITEZ,CABALLERO H.,1991-04-09,26,Midfielder,,Paraguay,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CABALLERO H._60245.png,0,33.2
+43747,JUAN JOSE,CACERES,CACERES J.,2000-06-01,0,Defender,,Paraguay,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CACERES J._43747.png,0,24.1
+48427,ALVARO,CAMPUZANO,CAMPUZANO A.,1995-06-12,0,Midfielder,,Paraguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMPUZANO A._48427.png,0,29.1
+8543,OSCAR RENE',CARDOZO MARIN,CARDOZO O.,1983-05-20,0,Striker,,Paraguay,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARDOZO O._8543.png,0,41.1
+22262,CARLOS MIGUEL,CORONEL,CORONEL C.,1996-12-29,1,Goalkeeper,,Paraguay,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORONEL C._22262.png,0,27.5
+13129,ADRIAN ANDRES,CUBAS,CUBAS A.,1996-05-22,14,Midfielder,,Paraguay,166.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUBAS A._13129.png,0,28.1
+26480,JULIO,ENCISO,ENCISO J.,2004-01-23,19,Striker,,Paraguay,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ENCISO J._26480.png,0,20.4
+26471,ALBERTO,ESPINOLA GIME'NEZ,ESPINOLA A.,1991-02-08,0,Defender,,Paraguay,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESPINOLA A._26471.png,0,33.4
+68330,JUAN ANGEL,ESPINOLA GONZALEZ,ESPINOLA J.,1994-11-02,0,Goalkeeper,,Paraguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESPINOLA J._68330.png,0,29.7
+60248,MATIAS DAVID,ESPINOZA ACOSTA,ESPINOZA M.,1997-09-19,4,Defender,,Paraguay,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ESPINOZA M._60248.png,0,26.8
+58948,MATÍAS,GALARZA FONDA,GALARZA M.,2002-02-11,0,Midfielder,,Paraguay,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALARZA M._58948.png,0,22.4
+48426,MATEO,GAMARRA,GAMARRA M.,2000-10-20,0,Defender,,Paraguay,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAMARRA M._48426.png,0,23.7
+26472,GASTON CLAUDIO,GIMENEZ,GIMENEZ G.,1991-07-27,0,Midfielder,,Paraguay,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GIMENEZ G._26472.png,0,32.9
+60230,NESTOR RAFAEL,GIMENEZ FLORENTIN,GIMENEZ N.,1997-07-24,13,Defender,,Paraguay,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GIMENEZ N._60230.png,0,26.9
+48428,DIEGO,GOMEZ,GOMEZ D.,2003-03-27,0,Midfielder,,Paraguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ D._48428.png,0,21.3
+11204,GUSTAVO,GOMEZ,GOMEZ G.,1993-05-06,15,Defender,,Paraguay,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ G._11204.png,0,31.2
+26483,CARLOS,GONZALEZ,GONZALEZ C.,1993-02-04,0,Striker,,Paraguay,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ C._26483.png,0,31.4
+7807,DERLIS ALBERTO,GONZALEZ GALEANO,GONZALEZ D.,1994-03-20,7,Striker,,Paraguay,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ D._7807.png,0,30.3
+43702,IVAN EZEQUIEL,LEGUIZAMON,LEGUIZAMON I.,2002-07-03,0,Striker,,Paraguay,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEGUIZAMON I._43702.png,0,22.0
+31134,JESUS,MEDINA,MEDINA J.,1997-04-30,0,Striker,,Chile,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEDINA J._31134.png,0,27.2
+48517,ROBERT OSMAR,MORALES BENITEZ,MORALES R.,1999-03-17,0,Striker,,Paraguay,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORALES R._48517.png,0,25.3
+60223,RODRIGO MARIO,MORINIGO ACOSTA,MORINIGO R.,1998-10-07,22,Goalkeeper,,Paraguay,188.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORINIGO R._60223.png,0,25.7
+26477,BRAIAN,OJEDA,OJEDA B.,2000-06-27,0,Midfielder,,Paraguay,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OJEDA B._26477.png,0,24.0
+68324,RICHARD,ORTIZ BUSTOS,ORTIZ RI.,1990-05-22,0,Midfielder,,Paraguay,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORTIZ RI._68324.png,0,34.1
+55956,CRISTHIAN FABIAN,PAREDES MACIEL,PAREDES C.,1998-05-18,0,Midfielder,,Paraguay,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAREDES C._55956.png,0,26.1
+68199,FABRIZIO JOSE',PERALTA RAMIREZ,PERALTA F.,2002-08-02,21,Midfielder,,Paraguay,176.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PERALTA F._68199.png,0,21.9
+6355,IVAN RODRIGO,PIRIS LEGUIZAMON,PIRIS I.,1989-03-10,0,Defender,,Paraguay,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIRIS I._6355.png,0,35.3
+60232,IVAN RODRIGO,RAMIREZ SEGOVIA,RAMIREZ I.,1994-12-08,2,Defender,,Paraguay,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMIREZ I._60232.png,0,29.6
+14956,BLAS MIGUEL,RIVEROS GALEANO,RIVEROS B.,1998-02-03,0,Defender,,Paraguay,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIVEROS B._14956.png,0,26.4
+20508,MATIAS,ROJAS,ROJAS M.,1995-11-03,16,Midfielder,,Paraguay,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROJAS M._20508.png,0,28.7
+26470,ROBERT,ROJAS,ROJAS R.,1996-04-30,0,Defender,,Paraguay,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROJAS R._26470.png,0,28.2
+43667,SANTIAGO,ROJAS,ROJAS S.,1996-04-05,0,Goalkeeper,,Paraguay,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROJAS S._43667.png,0,28.2
+26478,ALEJANDRO,ROMERO,ROMERO AL.,1995-01-11,0,Midfielder,,Paraguay,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMERO A._26478.png,0,29.5
+26481,ANGEL,ROMERO,ROMERO AN.,1992-07-04,11,Striker,,Paraguay,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMERO A._26481.png,0,32.0
+131294,ALEJANDRO SEBASTIAN,ROMERO GAMARRA,KAKU,1995-01-11,17,Midfielder,,Paraguay,,,,0,29.5
+6976,ANTONIO,SANABRIA,SANABRIA A.,1996-03-04,0,Striker,,Paraguay,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANABRIA A._6976.png,0,28.3
+20470,RICHARD,SANCHEZ,SANCHEZ R.,1996-03-29,20,Midfielder,,Paraguay,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCHEZ R._20470.png,0,28.3
+43664,RAMON,SOSA ACOSTA,SOSA R.,1999-08-31,24,Striker,,Paraguay,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOSA R._43664.png,0,24.8
+43831,GUSTAVO,VELAZQUEZ,VELAZQUEZ G.,1991-04-17,25,Defender,,Paraguay,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VELAZQUEZ G._43831.png,0,33.2
+60238,HECTOR DANIEL,VILLALBA,VILLALBA H.,1994-07-26,0,Striker,,Paraguay,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLALBA H._60238.png,0,29.9
+26474,MATHIAS,VILLASANTI,VILLASANTI M.,1997-01-24,23,Midfielder,,Paraguay,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLASANTI M._26474.png,0,27.4
+20461,LUIS,ABRAM,ABRAM L.,1996-02-27,2,Defender,,Peru,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ABRAM L._20461.png,0,28.3
+16695,LUIS JAN PIERS,ADVINCULA CASTRILLON,ADVINCULA L.,1990-03-02,17,Defender,,Peru,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADVINCULA L._16695.png,0,34.3
+54795,JOSTIN ALEXIS,ALARCON PAQUIYAURI,ALARCON J.,2002-07-12,0,Midfielder,,Peru,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALARCON J._54795.png,0,22.0
+13456,PEDRO,AQUINO,AQUINO P.,1995-04-13,0,Midfielder,,Peru,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AQUINO P._13456.png,0,29.2
+13455,MIGUEL,ARAUJO,ARAUJO M.,1994-10-24,15,Defender,,Peru,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAUJO M._13455.png,0,29.7
+54248,ALEXIS,ARIAS TUESTA,ARIAS A.,1995-12-13,0,Midfielder,,Peru,165.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARIAS A._54248.png,0,28.6
+54396,CARLOS ANTONIO,ASCUES AVILA,ASCUES C.,1992-06-19,0,Defender,,Peru,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ASCUES C._54396.png,0,32.0
+16692,CARLOS ALBERTO,CACEDA OLLAGUEZ,CACEDA C.,1991-09-27,12,Goalkeeper,,Peru,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CACEDA C._16692.png,0,32.8
+17907,ALEXANDER,CALLENS,CALLENS A.,1992-05-04,22,Defender,,Peru,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALLENS A._17907.png,0,32.2
+13035,ANDRE,CARRILLO,CARRILLO A.,1991-06-14,18,Striker,,Peru,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARRILLO A._13035.png,0,33.1
+15911,WILDER JOSE',CARTAGENA MENDOZA,CARTAGENA W.,1994-09-23,16,Midfielder,,Peru,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARTAGENA W._15911.png,0,29.8
+54792,JESUS ABDALLAH,CASTILLO MOLINA,CASTILLO J.,2001-06-11,13,Midfielder,,Peru,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTILLO J._54792.png,0,23.1
+54298,JAIRO JAIR,CONCHA GONZALES,CONCHA J.,1999-05-27,0,Midfielder,,Peru,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CONCHA J._54298.png,0,25.1
+11343,ALDO SEBASTIAN,CORZO CHAVEZ,CORZO A.,1989-05-20,3,Defender,,Peru,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORZO A._11343.png,0,35.1
+11234,CHRISTIAN ALBERTO,CUEVA BRAVO,CUEVA C.,1991-11-23,10,Midfielder,,Peru,,,,0,32.6
+54252,JHAMIR ADRIAN,DARRIGO HUANCA,DARRIGO J.,1999-11-15,0,Midfielder,,Peru,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DARRIGO J._54252.png,0,24.6
+54819,ALEJANDRO CRISTOPH,DUARTE PREUSS,DUARTE A.,1994-04-05,0,Goalkeeper,,Peru,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUARTE A._54819.png,0,30.2
+11235,EDISON MICHAEL,FLORES PERALTA,FLORES E.,1994-05-14,20,Striker,,Peru,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FLORES E._11235.png,0,30.1
+47614,PEDRO,GALLESE,GALLESE P.,1990-02-23,1,Goalkeeper,,Peru,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALLESE P._47614.png,0,34.4
+20462,CHRISTOFER,GONZALES CRESPO,GONZALES C.,1992-10-12,0,Midfielder,,Peru,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALES C._20462.png,0,31.7
+54814,JOAO ALBERTO,GRIMALDO UBIDIA,GRIMALDO J.,2003-02-20,25,Striker,,Peru,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRIMALDO J._54814.png,0,21.4
+11236,PAOLO,GUERRERO,GUERRERO P.,1984-01-01,9,Striker,,Peru,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERRERO P._11236.png,0,40.5
+8779,GIANLUCA,LAPADULA,LAPADULA G.,1990-02-07,14,Striker,,Peru,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAPADULA G._8779.png,0,34.4
+59257,MARCOS JOHAN,LOPEZ LANFRANCO,LOPEZ M.,1999-11-20,6,Defender,,Peru,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOPEZ M._59257.png,0,24.6
+52222,JHILMAR,LORA,LORA J.,2000-10-24,0,Defender,,Peru,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LORA J._52222.png,0,23.7
+16699,NILSON EVAIR,LOYOLA MORALES,LOYOLA N.,1994-10-26,0,Defender,,Peru,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOYOLA N._16699.png,0,29.7
+54009,ERIC,NORIEGA,NORIEGA E.,2005-06-27,0,Defender,,Venezuela,,,,0,19.0
+45399,SANTIAGO,ORMENO,ORMENO S.,1994-02-04,0,Striker,,Peru,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORMENO S._45399.png,0,30.4
+17908,SERGIO,PENA,PENA S.,1995-09-28,8,Midfielder,,Peru,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PENA S._17908.png,0,28.8
+11238,ANDY JORMAN,POLO ANDRADE,POLO A.,1994-09-29,7,Striker,,Peru,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POLO A._11238.png,0,29.8
+54906,PIERO ALDAIR,QUISPE CORDOVA,QUISPE P.,2001-08-14,23,Midfielder,,Peru,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUISPE P._54906.png,0,22.9
+52223,BRYAN,REYNA,REYNA B.,1998-08-23,11,Striker,,Peru,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REYNA B._52223.png,0,25.9
+54878,JOSE' DANIEL,RIVERA MARTINEZ,RIVERA J.,1997-05-08,24,Striker,,Peru,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIVERA J._54878.png,0,27.1
+54097,FABRIZIO FERNANDO,ROCA REYES,ROCA F.,2002-03-20,0,Striker,,Peru,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROCA F._54097.png,0,22.3
+54877,DIEGO ALONSO,ROMERO CACHAY,ROMERO D.,2001-08-17,21,Goalkeeper,,Peru,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMERO D._54877.png,0,22.9
+11345,RAUL MARIO,RUIDIAZ MISITICH,RUIDIAZ R.,1990-07-25,0,Striker,,Peru,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUIDIAZ R._11345.png,0,33.9
+16691,ANDERSON,SANTAMARIA,SANTAMARIA A.,1992-01-10,4,Defender,,Peru,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANTAMARIA A._16691.png,0,32.5
+54802,RENATO ALFREDO,SOLIS SALINAS,SOLIS R.,1998-01-28,0,Goalkeeper,,Peru,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOLIS R._54802.png,0,26.4
+37197,OLIVER,SONNE,SONNE O.,2000-11-10,19,Defender,,Denmark,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SONNE O._37197.png,0,23.6
+54160,JUAN MATIAS,SUCCAR CANOTE,SUCCAR M.,1999-02-16,0,Striker,,Peru,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUCCAR M._54160.png,0,25.4
+54240,WALTER ANGELLO,TANDAZO SILVA,TANDAZO W.,2000-06-14,0,Midfielder,,Peru,164.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TANDAZO W._54240.png,0,24.0
+11231,RENATO FABRIZIO,TAPIA CORTIJO,TAPIA R.,1995-07-28,0,Midfielder,,Peru,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TAPIA R._11231.png,0,28.9
+54813,GERALD MARTIN,TAVARA MOGOLLON,TAVARA G.,1999-03-25,0,Midfielder,,Peru,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TAVARA G._54813.png,0,25.3
+11230,MIGUEL,TRAUCO,TRAUCO M.,1992-08-25,0,Defender,,Peru,175.0,left,,0,31.9
+52246,ALEX EDUARDO,VALERA SANDOVAL,VALERA A.,1996-05-16,0,Striker,,Peru,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALERA A._52246.png,0,28.1
+11237,VICTOR YOSHIMAR,YOTUN FLORES,YOTUN Y.,1990-04-07,0,Midfielder,,Peru,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YOTUN Y._11237.png,0,34.2
+20460,CARLOS AUGUSTO,ZAMBRANO OCHANDARTE,ZAMBRANO C.,1989-07-10,5,Defender,,Peru,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAMBRANO C._20460.png,0,35.0
+54272,FRANCO,ZANELATTO TELLEZ,ZANELATTO F.,2000-05-09,26,Midfielder,,Peru,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZANELATTO F._54272.png,0,24.1
+26313,BRENDEN,AARONSON,AARONSON B.,2000-10-22,11,Midfielder,,United States of America,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AARONSON B._26313.png,0,23.7
+17799,TYLER,ADAMS,ADAMS T.,1999-02-14,4,Midfielder,,United States of America,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADAMS T._17799.png,0,25.4
+24860,FOLARIN,BALOGUN,BALOGUN F.,2001-07-03,20,Striker,,United States of America,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALOGUN F._24860.png,0,23.0
+26662,GIANLUCA,BUSIO,BUSIO G.,2002-05-28,0,Midfielder,,United States of America,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUSIO G._26662.png,0,22.1
+45749,DRAKE,CALLENDER,CALLENDER D.,1997-10-07,0,Goalkeeper,,United States of America,191.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALLENDER D._45749.png,0,26.7
+11486,CAMERON,CARTER-VICKERS,CARTER-VICKERS C.,1997-12-31,2,Defender,,United States of America,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARTER-VICKERS C._11486.png,0,26.5
+52320,CADE,COWELL,COWELL C.,2003-10-14,0,Striker,,United States of America,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COWELL C._52320.png,0,20.7
+36638,LUCA,DE LA TORRE,DE LA TORRE L.,1998-05-23,14,Midfielder,,United States of America,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE LA TORRE L._36638.png,0,26.1
+65577,JOAO LUCAS,DE SOUZA CARDOSO,CARDOSO J.,2001-09-20,15,Midfielder,,United States of America,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARDOSO J._65577.png,0,22.8
+21432,SERGINO,DEST,DEST S.,2000-11-03,0,Defender,,United States of America,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEST S._21432.png,0,23.7
+36640,JESUS,FERREIRA,FERREIRA J.,2000-12-24,0,Striker,,United States of America,175.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERREIRA J._36640.png,0,23.5
+47727,JULIAN,GRESSEL,GRESSEL J.,1993-12-16,0,Midfielder,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRESSEL J._47727.png,0,30.5
+10223,ETHAN,HORVATH,HORVATH E.,1995-06-09,18,Goalkeeper,,United States of America,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HORVATH E._10223.png,0,29.1
+36636,SEAN,JOHNSON,JOHNSON S.,1989-05-31,25,Goalkeeper,,United States of America,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOHNSON S._36636.png,0,35.1
+61049,DEJUAN,JONES,JONES D.,1997-06-24,0,Defender,,United States of America,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JONES D._61049.png,0,27.0
+17813,AARON,LONG,LONG A.,1992-10-12,0,Defender,,United States of America,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LONG A._17813.png,0,31.7
+38467,KRISTOFFER,LUND,LUND K.,2002-05-14,23,Defender,,United States of America,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUND K._38467.png,0,22.1
+17390,WESTON,MCKENNIE,MCKENNIE W.,1998-08-28,8,Midfielder,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCKENNIE W._17390.png,0,25.8
+26311,MARK IRWIN ROBERT ALEXANDER,MCKENZIE,MCKENZIE M.,1999-02-25,24,Defender,,United States of America,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCKENZIE M._26311.png,0,25.3
+14984,MATTHEW,MIAZGA,MIAZGA M.,1995-07-19,0,Defender,,United States of America,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIAZGA M._14984.png,0,29.0
+50885,DJORDJE,MIHAILOVIC,MIHAILOVIC D.,1998-11-10,0,Midfielder,,United States of America,178.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIHAILOVIC D._50885.png,0,25.6
+17806,SHAQ,MOORE,MOORE S.,1996-11-02,16,Defender,,United States of America,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOORE S._17806.png,0,27.7
+45799,AIDAN,MORRIS,MORRIS A.,2001-11-16,0,Midfielder,,United States of America,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORRIS A._45799.png,0,22.6
+36639,JORDAN,MORRIS,MORRIS J.,1994-10-26,0,Striker,,United States of America,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORRIS J._36639.png,0,29.7
+26315,YUNUS,MUSAH,MUSAH Y.,2002-11-29,6,Midfielder,,United States of America,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUSAH Y._26315.png,0,21.6
+47750,JALEN,NEAL,NEAL J.,2003-08-24,0,Defender,,United States of America,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEAL J._47750.png,0,20.8
+51004,KEVIN,PAREDES,PAREDES K.,2003-05-07,0,Midfielder,,United States of America,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAREDES K._51004.png,0,21.1
+59298,RICARDO DANIEL,PEPI,PEPI R.,2003-01-09,9,Striker,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEPI R._59298.png,0,21.5
+10444,CHRISTIAN,PULISIC,PULISIC C.,1998-09-18,10,Midfielder,,United States of America,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PULISIC C._10444.png,0,25.8
+26314,TIM,REAM,REAM T.,1987-10-05,13,Defender,,United States of America,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REAM T._26314.png,0,36.7
+23343,GIOVANNI,REYNA,REYNA G.,2002-11-13,7,Midfielder,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REYNA G._23343.png,0,21.6
+25419,BRYAN,REYNOLDS,REYNOLDS B.,2001-06-28,0,Defender,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REYNOLDS B._25419.png,0,23.0
+24935,CHRISTOPHER JEFFREY,RICHARDS,RICHARDS C.,2000-03-28,3,Defender,,United States of America,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RICHARDS C._24935.png,0,24.3
+17797,ANTONEE,ROBINSON,ROBINSON A.,1997-08-08,5,Defender,,United States of America,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROBINSON A._17797.png,0,26.9
+47773,MILES,ROBINSON,ROBINSON M.,1997-03-14,12,Defender,,United States of America,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROBINSON M._47773.png,0,27.3
+17802,CRISTIAN,ROLDAN,ROLDAN C.,1995-06-03,0,Midfielder,,United States of America,173.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROLDAN C._17802.png,0,29.1
+31727,JAMES,SANDS,SANDS J.,2000-07-06,0,Midfielder,,United States of America,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANDS J._31727.png,0,24.0
+17809,JOSH,SARGENT,SARGENT J.,2000-02-20,26,Striker,,United States of America,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SARGENT J._17809.png,0,24.4
+36637,JOE,SCALLY,SCALLY J.,2002-12-31,22,Defender,,United States of America,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCALLY J._36637.png,0,21.5
+50323,GABRIEL,SLONINA,SLONINA G.,2004-05-15,0,Goalkeeper,,United States of America,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SLONINA G._50323.png,0,20.1
+45395,ALAN,SONORA,SONORA A.,1998-08-03,0,Midfielder,,United States of America,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SONORA A._45395.png,0,25.9
+26526,TANNER,TESSMANN,TESSMANN T.,2001-09-24,0,Midfielder,,United States of America,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TESSMANN T._26526.png,0,22.8
+11419,MALIK,TILLMAN,TILLMAN M.,2002-05-28,17,Midfielder,,United States of America,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TILLMAN M._11419.png,0,22.1
+47661,JOHN,TOLKIN,TOLKIN J.,2002-07-31,0,Defender,,United States of America,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOLKIN J._47661.png,0,21.9
+36635,MATT,TURNER,TURNER M.,1994-06-24,1,Goalkeeper,,United States of America,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TURNER M._36635.png,0,30.0
+47699,BRANDON,VAZQUEZ,VAZQUEZ B.,1998-10-14,0,Striker,,United States of America,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VAZQUEZ B._47699.png,0,25.7
+17803,TIMOTHY,WEAH,WEAH T.,2000-02-22,21,Striker,,United States of America,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WEAH T._17803.png,0,24.4
+35497,HAJI,WRIGHT,WRIGHT H.,1998-03-27,19,Striker,,United States of America,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WRIGHT H._35497.png,0,26.3
+11174,DEANDRE,YEDLIN,YEDLIN D.,1993-07-09,0,Defender,,United States of America,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YEDLIN D._11174.png,0,31.0
+26312,JACKSON,YUEILL,YUEILL J.,1997-03-19,0,Midfielder,,United States of America,177.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YUEILL J._26312.png,0,27.3
+45205,ALEX,ZENDEJAS,ZENDEJAS A.,1998-02-07,0,Striker,,United States of America,167.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZENDEJAS A._45205.png,0,26.4
+45313,MAXIMILIANO,ARAUJO,ARAUJO M.,2000-02-15,20,Striker,,Uruguay,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAUJO M._45313.png,0,24.4
+24553,RONALD,ARAUJO,ARAUJO R.,1999-03-07,4,Defender,,Uruguay,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAUJO R._24553.png,0,25.3
+14080,RODRIGO,BENTANCUR,BENTANCUR R.,1997-06-25,6,Midfielder,,Uruguay,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BENTANCUR R._14080.png,0,27.0
+50274,SANTIAGO,BUENO,BUENO S.,1998-11-09,0,Defender,,Uruguay,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUENO S._50274.png,0,25.6
+45207,SEBASTIAN,CACERES,CACERES S.,1999-08-18,3,Defender,,Uruguay,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CACERES S._45207.png,0,24.9
+36654,AGUSTIN,CANOBBIO,CANOBBIO A.,1998-10-01,14,Striker,,Uruguay,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CANOBBIO A._36654.png,0,25.7
+65406,FELIPE IGNACIO,CARBALLO ARES,CARBALLO F.,1996-10-04,0,Midfielder,,Uruguay,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARBALLO F._65406.png,0,27.7
+13443,GIORGIAN,DE ARRASCAETA,DE ARRASCAETA G.,1994-06-01,10,Midfielder,,Uruguay,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE ARRASCAETA G._13443.png,0,30.1
+26462,NICOLAS,DE LA CRUZ,DE LA CRUZ N.,1997-06-01,7,Midfielder,,Uruguay,167.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE LA CRUZ N._26462.png,0,27.1
+7671,JOSE' MARIA,GIMENEZ,GIMENEZ J.,1995-01-20,2,Defender,,Uruguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GIMENEZ J._7671.png,0,29.4
+14270,MAXIMILIANO,GOMEZ,GOMEZ M.,1996-08-14,0,Striker,,Uruguay,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ M._14270.png,0,27.9
+24143,FRANCO,ISRAEL,ISRAEL F.,2000-04-22,12,Goalkeeper,,Uruguay,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ISRAEL F._24143.png,0,24.2
+70148,NICOLAS,MARICHAL PEREZ,MARICHAL N.,2001-03-17,22,Defender,,Uruguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARICHAL N._70148.png,0,23.3
+36908,EMILIANO,MARTINEZ,MARTINEZ E.,1999-08-17,21,Midfielder,,Uruguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ E._36908.png,0,24.9
+44080,SANTIAGO,MELE,MELE S.,1997-09-06,23,Goalkeeper,,Uruguay,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MELE S._44080.png,0,26.8
+62455,BRUNO,MENDEZ CITTADINI,MENDEZ B.,1999-09-10,0,Defender,,Uruguay,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MENDEZ B._62455.png,0,24.8
+13863,NAHITAN,NANDEZ,NANDEZ N.,1995-12-28,8,Midfielder,,Uruguay,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NANDEZ N._13863.png,0,28.5
+24912,DARWIN,NUNEZ,NUNEZ D.,1999-06-24,19,Striker,,Uruguay,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NUNEZ D._24912.png,0,25.0
+26465,BRIAN ALEXIS,OCAMPO FERREIRA,OCAMPO B.,1999-06-25,26,Striker,,Uruguay,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OCAMPO B._26465.png,0,25.0
+69991,LUCAS RENE',OLAZA CATROFE,OLAZA L.,1994-07-21,24,Defender,,Uruguay,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OLAZA L._69991.png,0,29.9
+51068,CRISTIAN,OLIVERA,OLIVERA C.,2002-04-17,25,Striker,,Uruguay,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OLIVERA C._51068.png,0,22.2
+23369,MATHIAS,OLIVERA MIRAMONTES,OLIVERA M.,1997-10-31,16,Defender,,Uruguay,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OLIVERA M._23369.png,0,26.7
+36655,FACUNDO,PELLISTRI,PELLISTRI F.,2001-12-20,11,Striker,,Uruguay,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PELLISTRI F._36655.png,0,22.5
+32678,JOAQUIN,PIQUEREZ,PIQUEREZ J.,1998-08-24,0,Defender,,Uruguay,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIQUEREZ J._32678.png,0,25.9
+26458,SERGIO,ROCHET,ROCHET S.,1993-03-23,1,Goalkeeper,,Uruguay,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROCHET S._26458.png,0,31.3
+26464,BRIAN,RODRIGUEZ,RODRIGUEZ BRIAN,2000-05-20,18,Striker,,Uruguay,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ BRIAN_26464.png,0,24.1
+36653,JOSE' LUIS,RODRIGUEZ BEBANZ,RODRIGUEZ J.,1997-03-14,0,Defender,,Uruguay,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ J. L._36653.png,0,27.3
+7420,LUIS,SUAREZ,SUAREZ L.,1987-01-24,9,Striker,,Uruguay,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUAREZ L._7420.png,0,37.4
+26463,FACUNDO,TORRES,TORRES F.,2000-04-13,0,Striker,,Uruguay,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TORRES F._26463.png,0,24.2
+29661,MANUEL,UGARTE,UGARTE M.,2001-04-11,5,Midfielder,,Uruguay,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UGARTE M._29661.png,0,23.2
+16801,FEDERICO,VALVERDE,VALVERDE F.,1998-07-22,15,Midfielder,,Uruguay,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALVERDE F._16801.png,0,25.9
+10466,GUILLERMO,VARELA,VARELA G.,1993-03-24,13,Defender,,Uruguay,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARELA G._10466.png,0,31.3
+6414,MATIAS,VECINO,VECINO M.,1991-08-24,0,Midfielder,,Uruguay,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VECINO M._6414.png,0,32.9
+26459,MATIAS,VINA,VINA M.,1997-11-09,17,Defender,,Uruguay,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VINA M._26459.png,0,26.6
+45210,FEDERICO,VINAS,VINAS F.,1998-06-30,0,Striker,,Uruguay,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VINAS F._45210.png,0,26.0
+53963,KERVIN MARIO,ANDRADE NAVARRO,ANDRADE K.,2005-04-13,24,Midfielder,,Venezuela,163.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDRADE K._53963.png,0,19.2
+48528,WILKER JOSE',ANGEL ROMERO,ANGEL W. J.,1993-03-18,20,Defender,,Venezuela,,,,0,31.3
+48466,JON MIKEL,ARAMBURU,ARAMBURU J.,2002-07-23,4,Defender,,Venezuela,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARAMBURU J._48466.png,0,21.9
+50530,ALAIN,BAROJA,BAROJA A.,1989-10-23,0,Goalkeeper,,Venezuela,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAROJA A._50530.png,0,34.7
+45521,EDUARD,BELLO,BELLO E.,1995-08-20,25,Striker,,Venezuela,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELLO E._45521.png,0,28.9
+71404,JOVANNY DAVID,BOLIVAR ALVARADO,BOLIVAR J.,2001-12-16,0,Striker,,Venezuela,176.0,right,,0,22.5
+51312,JESUS,BUENO,BUENO J.,1999-04-15,0,Midfielder,,Venezuela,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUENO J._51312.png,0,25.2
+60481,JHONDER LEONEL,CADIZ FERNANDEZ,CADIZ J.,1995-07-29,9,Striker,,Venezuela,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CADIZ J._60481.png,0,28.9
+32689,CRISTIAN SLEIKER,CASSERES YEPES JR.,CASSERES C.,2000-01-20,18,Midfielder,,Venezuela,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASSERES C._32689.png,0,24.4
+49539,EDSON,CASTILLO,CASTILLO E.,1994-05-18,0,Midfielder,,Venezuela,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTILLO E._49539.png,0,30.1
+15895,JHON,CHANCELLOR,CHANCELLOR J.,1992-01-02,5,Defender,,Venezuela,198.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHANCELLOR J._15895.png,0,32.5
+56202,JOSE' DAVID,CONTRERAS BERNARD,CONTRERAS J.,1994-10-20,12,Goalkeeper,,Venezuela,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CONTRERAS J._56202.png,0,29.7
+15899,SERGIO DUVAN,CORDOVA LEZAMA,CORDOVA S.,1997-08-09,0,Striker,,Venezuela,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CORDOVA S._15899.png,0,26.9
+20456,LUIS ENRIQUE,DEL PINO MAGO,DEL PINO L. E.,1994-09-15,0,Defender,,Venezuela,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEL PINO L._20456.png,0,29.8
+32685,NAHUEL ADOLFO,FERRARESI HERNANDEZ,FERRARESI N.,1998-11-19,2,Defender,,Venezuela,,,,0,25.6
+50549,ALEXANDER,GONZALEZ,GONZALEZ A.,1992-09-13,21,Defender,,Venezuela,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GONZALEZ A._50549.png,0,31.8
+41021,JOEL,GRATEROL,GRATEROL J.,1997-05-15,1,Goalkeeper,,Venezuela,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRATEROL J._41021.png,0,27.1
+15898,YANGEL,HERRERA,HERRERA Y.,1998-01-07,6,Midfielder,,Venezuela,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERRERA Y._15898.png,0,26.5
+43586,JAN,HURTADO,HURTADO JA.,2000-03-05,0,Striker,,Venezuela,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HURTADO JA._43586.png,0,24.3
+60661,MATIAS RAFAEL,LACAVA GONZALEZ,LACAVA M.,2002-10-24,17,Striker,,Venezuela,167.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LACAVA M._60661.png,0,21.7
+16748,DARWIN,MACHIS,MACHIS D.,1993-02-07,11,Striker,,Venezuela,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MACHIS D._16748.png,0,31.4
+32686,CHRISTIAN,MAKOUN,MAKOUN C.,2000-03-05,14,Defender,,Venezuela,185.0,left,,0,24.3
+23341,ALEJANDRO JOSE',MARQUES MENDEZ,MARQUES A.,2000-08-04,0,Striker,,Venezuela,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARQUES A._23341.png,0,23.9
+6327,JOSEF ALEXANDER,MARTINEZ MENCIA,MARTINEZ J.,1993-05-19,0,Striker,,Venezuela,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ J._6327.png,0,31.1
+32688,JOSE' ANDRES,MARTINEZ TORRES,MARTINEZ J. A.,1994-08-07,13,Midfielder,,Venezuela,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ J. A._32688.png,0,29.9
+15896,JUNIOR LEONARDO,MORENO BORRERO,MORENO J.,1993-07-20,0,Midfielder,,Venezuela,,,,0,31.0
+15897,JHON,MURILLO,MURILLO J.,1995-11-21,0,Striker,,Venezuela,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MURILLO J._15897.png,0,28.6
+32687,MIGUEL ANGEL,NAVARRO ZARATE,NAVARRO M.,1999-02-26,15,Defender,,Venezuela,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NAVARRO M._32687.png,0,25.3
+50551,BRYANT,ORTEGA,ORTEGA B.,2003-02-28,0,Midfielder,,Venezuela,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORTEGA B._50551.png,0,21.3
+20504,YORDAN,OSORIO,OSORIO Y.,1994-05-10,3,Defender,,Venezuela,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OSORIO Y._20504.png,0,30.1
+48468,ROMULO,OTERO VASQUEZ,OTERO R.,1992-11-09,0,Midfielder,,Venezuela,,,,0,31.6
+119731,ENRIQUE,PENA ZAUNER,PENA ZAUNER E.,2000-03-04,0,Striker,,Venezuela,,,,0,24.3
+48467,DANIEL,PEREIRA,PEREIRA D.,2000-07-14,26,Midfielder,,Venezuela,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEREIRA D._48467.png,0,24.0
+119730,TEO,QUINTERO,QUINTERO T.,1999-03-02,0,Midfielder,,Venezuela,,,,0,25.3
+29537,ERIC KLEYBEL,RAMIREZ MATHEUS,RAMIREZ E.,1998-11-20,19,Striker,,Venezuela,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMIREZ E._29537.png,0,25.6
+6528,TOMAS,RINCON,RINCON T.,1988-01-13,8,Midfielder,,Venezuela,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RINCON T._6528.png,0,36.5
+50534,RENNE ALEJANDRO,RIVAS ALEZONES,RIVAS ALEZONES R.,2003-03-21,0,Defender,,Venezuela,178.0,left,,0,21.3
+9018,RAFAEL,ROMO,ROMO R.,1990-02-25,22,Goalkeeper,,Venezuela,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMO R._9018.png,0,34.4
+7958,SALOMON,RONDON,RONDON S.,1989-09-16,23,Striker,,Venezuela,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RONDON S._7958.png,0,34.8
+11274,ROBERTO,ROSALES,ROSALES R.,1988-11-20,0,Defender,,Venezuela,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROSALES R._11274.png,0,35.6
+20457,JEFFERSON,SAVARINO,SAVARINO J.,1996-11-11,7,Striker,,Venezuela,169.0,right,,0,27.6
+39971,TELASCO JOSE',SEGOVIA PEREZ,SEGOVIA T.,2003-04-02,16,Midfielder,,Venezuela,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEGOVIA T._39971.png,0,21.2
+60140,SAMUEL ALEJANDRO,SOSA CORDERO,SOSA S.,1999-12-17,0,Striker,,Venezuela,177.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOSA S._60140.png,0,24.5
+20459,YEFERSON,SOTELDO,SOTELDO Y.,1997-06-30,10,Striker,,Venezuela,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOTELDO Y._20459.png,0,27.0
+14300,MIKEL,VILLANUEVA ALVAREZ,VILLANUEVA M.,1993-04-14,0,Defender,,Venezuela,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VILLANUEVA M._14300.png,0,31.2
+50475,CARLOS,VIVAS,VIVAS C.,2002-04-04,0,Defender,,Venezuela,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VIVAS C._50475.png,0,22.2

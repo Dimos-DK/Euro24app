@@ -1,0 +1,42 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132293,427,PORTOGALLO,16957.0,RUBEN DOS SANTOS GATO ALVES DIAS,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,4,4,4,16,0.00;27.80;0.28,105.00;40.20;0.28,96.77,45.44,105.00,40.20,Set Pieces Against,False
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,30,40,30,52,0.00;33.61;1.65,105.00;34.39;1.65,97.72,36.06,102.28,34.17,"Duel 
+Lost",True
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,33,30,33,42,0.00;31.17;2.88,105.00;36.83;2.88,84.63,28.68,105.00,36.83,Set Pieces,False
+132293,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,43,33,43,45,105.00;34.16;0.82,105.00;34.16;0.82,74.19,30.26,100.43,33.43,Shot Against,True
+132293,516,SLOVENIA,17403.0,JAKA BIJOL,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,44,55,45,7,105.00;26.27;2.27,105.00;26.27;2.27,100.67,23.93,105.00,26.27,Ball Line Out,False
+132293,427,PORTOGALLO,15421.0,JOAO MARIA LOBO ALVES PALHARES COSTA PALHINHA GONCALVES,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,47,3,47,13,0.00;37.98;0.10,105.00;30.02;0.10,85.16,34.47,105.00,30.02,Pass,False
+132293,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,1,40,1,52,105.00;29.14;5.50,105.00;29.14;5.50,92.86,41.43,105.00,29.14,Intercept,False
+132293,516,SLOVENIA,25095.0,TIMI MAX ELSNIK,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,3,0,3,12,0.00;38.40;1.02,105.00;29.60;1.02,94.97,22.35,105.00,29.60,Shot Against,False
+132293,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,6,34,6,46,105.00;34.62;0.79,105.00;34.62;0.79,77.56,18.98,85.79,26.42,"Possession 
+Lost",True
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",2,2t,9,45,9,57,105.00;33.86;1.09,105.00;33.86;1.09,84.63,39.85,102.02,33.43,Set Pieces,True
+132293,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,11,7,11,19,105.00;32.85;0.21,105.00;32.85;0.21,92.13,35.32,96.19,35.55,Pass,True
+132293,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",2,2t,12,54,13,6,105.00;28.21;1.39,105.00;28.21;1.39,86.64,33.53,93.61,30.21,Intercept,False
+132293,516,SLOVENIA,23908.0,ADAM GNEZDA CERIN,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,13,52,14,4,0.00;27.46;6.50,105.00;40.54;6.50,84.32,23.19,105.00,40.54,Shot Against,False
+132293,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,15,56,16,8,0.00;24.38;0.07,105.00;43.62;0.07,92.65,25.72,105.00,43.62,Shot Against,False
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,26,8,26,20,105.00;30.92;3.41,105.00;30.92;3.41,76.51,28.36,105.00,30.92,Set Pieces,False
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,43,51,44,3,105.00;34.12;0.58,105.00;34.12;0.58,94.76,22.88,100.43,32.39,"Defensive
+Action",True
+132293,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",3,1t sup,1,31,1,43,0.00;32.83;1.38,105.00;35.17;1.38,72.92,20.45,84.60,28.37,Possession Phase,True
+132293,516,SLOVENIA,12488.0,BENJAMIN VERBIC,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",3,1t sup,4,27,4,39,105.00;42.52;0.25,105.00;42.52;0.25,82.42,25.62,89.76,31.13,Shot Against,False
+132293,516,SLOVENIA,9347.0,JON GORENC STANKOVIC,5,Shot,"Left, From outside the Penalty Area, Off Target",3,1t sup,5,17,5,29,105.00;43.62;0.10,105.00;43.62;0.10,86.64,45.12,105.00,43.62,"Offensive
+Action",False
+132293,427,PORTOGALLO,13315.0,DIOGO JOSE' TEIXEIRA DA SILVA,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",3,1t sup,9,25,9,37,0.00;32.18;0.92,105.00;35.82;0.92,96.66,35.21,103.08,33.89,"Duel 
+Won",True
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",3,1t sup,14,47,14,59,0.00;30.75;0.76,105.00;37.25;0.76,93.50,33.84,103.21,33.77,Foul,True
+132293,427,PORTOGALLO,15421.0,JOAO MARIA LOBO ALVES PALHARES COSTA PALHINHA GONCALVES,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",4,2t sup,2,25,2,37,105.00;33.40;2.14,105.00;33.40;2.14,92.02,37.43,101.89,34.00,Set Pieces,True
+132293,516,SLOVENIA,6045.0,JOSIP ILICIC,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",4,2t sup,6,47,6,59,0.00;35.66;1.38,105.00;32.34;1.38,83.79,22.56,92.15,27.11,Shot Against,True
+132293,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",4,2t sup,9,27,9,39,0.00;31.72;0.12,105.00;36.28;0.12,84.11,27.52,92.28,31.70,Shot Against,True
+132293,516,SLOVENIA,19385.0,ZAN CELAR,5,Shot,"Right, From outside the Penalty Area, Off Target",4,2t sup,9,29,9,41,0.00;2.67;0.07,105.00;65.33;0.07,75.66,31.73,105.00,65.33,Shot Against,False
+132293,427,PORTOGALLO,7473.0,RUBEN DIOGO DA SILVA NEVES,5,Shot,"Right, From outside the Penalty Area, Off Target",4,2t sup,14,41,14,53,105.00;24.89;8.50,105.00;24.89;8.50,74.19,31.31,105.00,24.89,"Duel 
+Won",False
+132293,516,SLOVENIA,6045.0,JOSIP ILICIC,5,Shot,"On Target, GK Save, Left, Penalty, From inside the Penalty Area",5,rigori,0,18,0,30,105.00;36.65;0.38,105.00;36.65;0.38,94.03,34.26,103.34,34.17,Set Pieces,True
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,1,8,1,14,0.00;37.18;0.31,0.00;37.18;0.31,11.40,34.37,0.00,37.18,Set Pieces,False
+132293,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,1,8,1,20,0.00;37.18;0.31,0.00;37.18;0.31,11.40,34.37,0.00,37.18,Goal,True
+132293,516,SLOVENIA,15846.0,JURE BALKOVEC,5,Shot,"On Target, GK Save, Left, Penalty, From inside the Penalty Area",5,rigori,1,50,2,2,105.00;32.20;1.12,105.00;32.20;1.12,93.92,34.26,103.61,33.89,Set Pieces,True
+132293,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,2,44,2,50,0.00;36.35;0.12,0.00;36.35;0.12,11.40,34.26,0.00,36.35,Set Pieces,False
+132293,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,2,44,2,56,0.00;36.35;0.12,0.00;36.35;0.12,11.40,34.26,0.00,36.35,Goal,True
+132293,516,SLOVENIA,12488.0,BENJAMIN VERBIC,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",5,rigori,3,32,3,44,105.00;32.16;0.92,105.00;32.16;0.92,93.92,34.26,103.34,33.89,Set Pieces,True
+132293,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,4,24,4,30,0.00;30.62;0.73,0.00;30.62;0.73,11.50,34.37,0.00,30.62,Set Pieces,False
+132293,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,4,24,4,36,0.00;30.62;0.73,0.00;30.62;0.73,11.50,34.37,0.00,30.62,Goal,True

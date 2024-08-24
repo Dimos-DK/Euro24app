@@ -1,0 +1,32 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131357,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"GK Save, Left, On Target, From outside the Penalty Area",1,1t,6,20,6,32,105.00;36.79;0.15,105.00;36.79;0.15,84.73,41.50,102.69,36.31,"Defensive
+Action",True
+131357,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"GK Save, Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,14,12,14,19,105.00;40.02;0.13,105.00;40.02;0.13,92.30,43.35,101.62,35.67,Possession Phase,False
+131357,4,CROAZIA,8950.0,ANTE BUDIMIR,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,21,46,21,58,0.00;22.55;4.50,105.00;45.45;4.50,93.04,32.44,105.00,45.45,"Duel 
+Won",False
+131357,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,27,57,28,17,105.00;33.72;0.12,105.00;33.72;0.12,90.45,34.37,105.00,33.72,Pass,False
+131357,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",1,1t,28,5,28,17,105.00;33.72;0.12,105.00;33.72;0.12,90.45,34.37,105.00,33.72,Pass,True
+131357,4,CROAZIA,6101.0,MATEO KOVACIC,5,Shot,"GK Save, Left, On Target, From inside the Penalty Area",1,1t,29,50,30,2,0.00;30.80;0.12,105.00;37.20;0.12,90.15,33.93,102.02,34.40,Shot Against,True
+131357,2,SPAGNA,16756.0,FABIAN RUIZ,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,30,54,31,33,105.00;37.43;0.15,105.00;37.43;0.15,91.11,34.22,105.00,37.43,Pass,False
+131357,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",1,1t,31,21,31,33,105.00;37.43;0.15,105.00;37.43;0.15,91.11,34.22,105.00,37.43,Dribbling,True
+131357,4,CROAZIA,7092.0,MARCELO BROZOVIC,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,32,52,33,4,0.00;30.71;0.08,105.00;37.29;0.08,87.48,33.85,101.89,34.63,Shot Against,True
+131357,4,CROAZIA,19437.0,LOVRO MAJER,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,32,53,33,5,0.00;29.91;1.19,105.00;38.09;1.19,101.44,43.50,105.00,38.09,Shot Against,False
+131357,2,SPAGNA,24827.0,ROBIN AIME ROBERT LE NORMAND,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,35,8,35,20,105.00;30.27;5.50,105.00;30.27;5.50,98.54,33.18,105.00,30.27,Ball Line Out,False
+131357,4,CROAZIA,25074.0,JOSKO GVARDIOL,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,40,46,40,58,0.00;28.84;0.19,105.00;39.16;0.19,99.95,23.38,105.00,39.16,Shot Against,False
+131357,4,CROAZIA,7248.0,ANDREJ KRAMARIC,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,44,17,44,29,0.00;44.33;1.71,105.00;23.67;1.71,74.93,37.71,105.00,23.67,Shot Against,False
+131357,4,CROAZIA,6101.0,MATEO KOVACIC,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,45,29,45,41,0.00;22.68;2.76,105.00;45.32;2.76,80.72,25.83,105.00,45.32,Shot Against,False
+131357,2,SPAGNA,7486.0,DANIEL CARVAJAL RAMOS,25,Goal,"Right, From inside the Penalty Area, Corner",1,1t,46,51,47,3,105.00;35.08;0.12,105.00;35.08;0.12,98.39,35.48,105.00,35.08,Cross,False
+131357,2,SPAGNA,7486.0,DANIEL CARVAJAL RAMOS,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,46,51,47,3,105.00;35.08;0.12,105.00;35.08;0.12,98.39,35.48,105.00,35.08,Goal,True
+131357,4,CROAZIA,25074.0,JOSKO GVARDIOL,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,4,57,5,9,105.00;35.13;0.18,105.00;35.13;0.18,87.33,20.79,93.87,29.41,Shot Against,True
+131357,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,6,45,6,52,0.00;36.99;0.15,105.00;31.01;0.15,94.16,43.06,101.62,36.93,"Possession 
+Lost",True
+131357,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,7,59,8,11,0.00;2.21;0.19,105.00;65.79;0.19,102.03,27.47,105.00,65.79,Cross Against,False
+131357,4,CROAZIA,27428.0,JOSIP STANISIC,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,9,27,9,39,105.00;36.83;0.15,105.00;36.83;0.15,98.24,39.72,101.89,37.16,Shot Against,True
+131357,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",2,2t,12,15,12,27,0.00;31.26;0.99,105.00;36.74;0.99,77.38,38.83,87.51,37.16,Set Pieces,True
+131357,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",2,2t,28,13,28,20,0.00;36.07;0.15,105.00;31.93;0.15,79.53,32.29,82.41,32.16,Pass,True
+131357,4,CROAZIA,5965.0,BRUNO PETKOVIC,5,Shot,"On Target, GK Save, Right, Penalty, From inside the Penalty Area",2,2t,34,4,34,11,105.00;31.15;0.76,105.00;31.15;0.76,93.94,34.37,102.81,34.17,Set Pieces,True
+131357,4,CROAZIA,7244.0,IVAN PERISIC,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,38,43,38,55,105.00;31.24;0.21,105.00;31.24;0.21,88.22,23.53,91.22,25.96,Shot Against,True
+131357,4,CROAZIA,7244.0,IVAN PERISIC,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,38,51,39,3,105.00;30.92;0.61,105.00;30.92;0.61,74.48,23.31,101.89,32.16,Shot Against,True
+131357,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,42,50,43,2,0.00;35.66;0.12,105.00;32.34;0.12,95.64,49.96,96.72,48.59,Pass,True
+131357,4,CROAZIA,7244.0,IVAN PERISIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,46,46,46,58,105.00;27.38;0.16,105.00;27.38;0.16,94.23,25.61,105.00,27.38,"Duel 
+Won",False

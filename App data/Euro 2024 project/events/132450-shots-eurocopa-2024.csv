@@ -1,0 +1,53 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132450,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,0,48,1,0,0.00;32.64;0.05,105.00;35.36;0.05,87.65,33.22,102.02,34.40,Cross Against,True
+132450,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,11,40,11,52,0.00;41.27;0.04,105.00;26.73;0.04,80.69,24.12,105.00,26.73,Pass,False
+132450,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Left, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,14,0,14,12,0.00;28.32;0.13,105.00;39.68;0.13,85.42,42.42,105.00,39.68,Set Pieces,False
+132450,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,14,57,15,9,0.00;32.78;0.92,105.00;35.22;0.92,87.15,18.30,87.38,19.24,Pass,True
+132450,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,16,4,16,16,0.00;31.21;3.33,105.00;36.79;3.33,85.60,35.05,105.00,36.79,Ball Line Out,False
+132450,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,20,6,20,18,105.00;32.66;0.28,105.00;32.66;0.28,96.71,35.05,102.95,32.97,Shot Against,True
+132450,2,SPAGNA,7904.0,AYMERIC JEAN LOUIS GERARD ALPHONSE LAPORTE,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,22,5,22,17,0.00;34.37;0.21,105.00;33.63;0.21,82.14,19.39,102.02,33.08,Pass,True
+132450,11,GERMANIA,9565.0,JONATHAN TAH,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area, Deflected",1,1t,24,35,24,47,105.00;33.31;0.08,105.00;33.31;0.08,95.71,27.40,96.98,27.22,Shot Against,True
+132450,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,34,9,34,21,105.00;31.47;0.05,105.00;31.47;0.05,89.88,33.14,101.36,33.08,"Defensive
+Action",True
+132450,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,38,43,38,55,0.00;35.98;0.35,105.00;32.02;0.35,77.41,39.51,102.28,33.08,"Offensive
+Action",True
+132450,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,44,46,44,58,0.00;33.84;0.51,105.00;34.16;0.51,77.32,43.06,102.15,34.17,Pass,True
+132450,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,1,45,1,57,105.00;37.20;3.08,105.00;37.20;3.08,97.62,36.32,105.00,37.20,Ball Line Out,False
+132450,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,2,47,2,59,0.00;46.91;0.81,105.00;21.09;0.81,84.24,50.43,105.00,21.09,Shot Against,False
+132450,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,5,45,6,9,105.00;31.74;0.05,105.00;31.74;0.05,91.16,34.14,105.00,31.74,Killer Pass,False
+132450,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,5,57,6,9,105.00;31.74;0.05,105.00;31.74;0.05,91.16,34.14,105.00,31.74,Pass,True
+132450,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,9,19,9,31,0.00;47.03;0.10,105.00;20.97;0.10,85.42,38.05,86.98,37.50,Shot Against,False
+132450,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,14,40,14,52,0.00;27.38;0.39,105.00;40.62;0.39,80.05,33.23,87.78,36.24,Shot Against,False
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,18,4,18,16,0.00;37.91;2.99,105.00;30.09;2.99,95.98,40.51,105.00,30.09,Ball Line Out,False
+132450,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,23,58,24,10,0.00;31.12;0.61,105.00;36.88;0.61,87.15,37.96,102.28,35.32,Shot Against,True
+132450,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,25,59,26,11,0.00;36.49;0.25,105.00;31.51;0.25,94.80,28.58,96.32,30.78,Shot Against,True
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,26,38,26,50,0.00;26.00;0.48,105.00;42.00;0.48,96.35,33.14,105.00,42.00,Shot Against,False
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Post, Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,31,12,31,24,0.00;30.34;0.05,105.00;37.66;0.05,96.62,35.96,105.00,37.66,"Duel 
+Won",False
+132450,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,35,40,35,52,0.00;40.25;2.06,105.00;27.75;2.06,97.44,21.57,105.00,27.75,Ball Line Out,False
+132450,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"Promising Action, Left, From outside the Penalty Area, Off Target",2,2t,36,48,37,0,0.00;34.60;3.15,105.00;33.40;3.15,78.59,15.84,105.00,33.40,Ball Recovery,False
+132450,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,38,27,38,39,105.00;29.92;4.50,105.00;29.92;4.50,84.24,28.40,105.00,29.92,Pass,False
+132450,11,GERMANIA,15741.0,MAXIMILIAN MITTELSTADT,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,42,5,42,17,0.00;37.66;0.15,105.00;30.34;0.15,83.05,33.41,94.93,31.93,Shot Against,True
+132450,11,GERMANIA,23830.0,FLORIAN WIRTZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,42,47,43,30,0.00;37.50;0.66,105.00;30.50;0.66,97.81,39.42,105.00,30.50,Pass,False
+132450,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"On Target, Goal, Right, From inside the Penalty Area",2,2t,43,18,43,30,0.00;37.50;0.66,105.00;30.50;0.66,97.81,39.42,105.00,30.50,Shot Against,True
+132450,11,GERMANIA,7455.0,THOMAS MULLER,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,48,45,48,57,0.00;28.49;0.39,105.00;39.51;0.39,97.44,35.96,105.00,39.51,Cross,False
+132450,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",3,1t sup,0,21,0,33,0.00;11.28;0.07,105.00;56.72;0.07,91.98,37.87,105.00,56.72,"Duel 
+Won",False
+132450,2,SPAGNA,13414.0,MIKEL OYARZABAL UGARTE,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",3,1t sup,4,28,4,40,0.00;24.38;0.22,105.00;43.62;0.22,81.50,39.05,86.85,35.78,"Offensive
+Action",False
+132450,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",3,1t sup,6,5,6,17,0.00;32.73;0.18,105.00;35.27;0.18,90.07,19.48,92.02,19.47,Pass,True
+132450,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"Right, From outside the Penalty Area, Off Target",3,1t sup,10,23,10,35,105.00;32.43;8.50,105.00;32.43;8.50,87.79,42.24,105.00,32.43,"Offensive
+Action",False
+132450,2,SPAGNA,13414.0,MIKEL OYARZABAL UGARTE,5,Shot,"Left, From outside the Penalty Area, Off Target",3,1t sup,13,4,13,16,0.00;38.49;0.51,105.00;29.51;0.51,83.14,49.34,105.00,29.51,Pass,False
+132450,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",3,1t sup,15,0,15,12,105.00;38.18;0.01,105.00;38.18;0.01,89.25,30.13,105.00,38.18,Shot Against,False
+132450,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",4,2t sup,0,31,0,43,0.00;40.43;0.22,105.00;27.57;0.22,87.33,38.05,92.15,37.39,Shot Against,False
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",4,2t sup,3,1,3,13,0.00;42.84;2.82,105.00;25.16;2.82,91.61,23.94,105.00,25.16,Shot Against,False
+132450,2,SPAGNA,13414.0,MIKEL OYARZABAL UGARTE,5,Shot,"Left, From outside the Penalty Area, Off Target",4,2t sup,6,46,6,58,105.00;28.40;0.39,105.00;28.40;0.39,85.15,38.32,105.00,28.40,Possession Phase,False
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",4,2t sup,11,16,11,28,0.00;36.62;1.02,105.00;31.38;1.02,95.89,36.23,102.15,33.89,"Duel 
+Won",True
+132450,2,SPAGNA,13490.0,MIKEL MERINO ZAZON,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",4,2t sup,13,27,14,2,105.00;31.01;1.58,105.00;31.01;1.58,97.81,32.32,105.00,31.01,Pass,False
+132450,2,SPAGNA,13490.0,MIKEL MERINO ZAZON,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",4,2t sup,13,50,14,2,105.00;31.01;1.58,105.00;31.01;1.58,97.81,32.32,105.00,31.01,Cross Against,True
+132450,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",4,2t sup,16,34,16,46,0.00;34.46;1.42,105.00;33.54;1.42,85.88,38.41,94.40,36.81,"Possession 
+Lost",True
+132450,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",4,2t sup,16,52,17,4,105.00;26.00;0.07,105.00;26.00;0.07,96.99,44.33,105.00,26.00,Pass,False
+132450,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",4,2t sup,17,51,18,3,0.00;29.01;1.48,105.00;38.99;1.48,96.17,36.23,105.00,38.99,Cross,False

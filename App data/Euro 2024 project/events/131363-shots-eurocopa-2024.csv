@@ -1,0 +1,17 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131363,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,4,2,4,14,105.00;31.79;0.45,105.00;31.79;0.45,95.36,31.88,103.48,32.62,Shot Against,True
+131363,516,SLOVENIA,9064.0,ANDRAZ SPORAR,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,18,36,18,48,105.00;40.37;0.04,105.00;40.37;0.04,80.91,35.13,82.81,34.63,Shot Against,False
+131363,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,29,5,29,17,0.00;33.79;0.05,105.00;34.21;0.05,88.85,33.58,89.76,33.77,Pass,True
+131363,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,30,21,30,33,0.00;34.60;1.02,105.00;33.40;1.02,85.87,18.98,103.34,32.51,"Defensive
+Action",True
+131363,516,SLOVENIA,9064.0,ANDRAZ SPORAR,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,31,15,31,27,105.00;44.01;0.01,105.00;44.01;0.01,78.64,29.47,83.87,30.21,Shot Against,False
+131363,16,INGHILTERRA,15748.0,PHILIP WALTER FODEN,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",1,1t,34,22,34,34,0.00;31.03;2.11,105.00;36.97;2.11,79.35,44.62,103.48,36.35,Set Pieces Against,True
+131363,16,INGHILTERRA,7345.0,HARRY KANE,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,42,6,42,18,0.00;24.38;3.33,105.00;43.62;3.33,76.66,42.08,84.00,41.87,Pass,False
+131363,16,INGHILTERRA,15748.0,PHILIP WALTER FODEN,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,5,28,5,40,105.00;40.62;0.13,105.00;40.62;0.13,77.23,37.54,105.00,40.62,Possession Phase,False
+131363,16,INGHILTERRA,10024.0,JOHN STONES,5,Shot,"On Target, Blocked, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,12,1,12,13,105.00;30.78;0.48,105.00;30.78;0.48,96.69,34.35,102.42,31.36,"Duel 
+Won",True
+131363,516,SLOVENIA,23908.0,ADAM GNEZDA CERIN,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,17,54,18,6,0.00;48.38;0.07,105.00;19.62;0.07,78.68,45.15,105.00,19.62,Shot Against,False
+131363,16,INGHILTERRA,22931.0,DECLAN RICE,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,29,19,29,31,105.00;41.74;1.83,105.00;41.74;1.83,93.09,20.64,105.00,41.74,Ball Line Out,False
+131363,16,INGHILTERRA,15748.0,PHILIP WALTER FODEN,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,37,48,38,0,105.00;33.59;0.92,105.00;33.59;0.92,82.28,27.14,90.16,28.83,Pass,True
+131363,16,INGHILTERRA,24667.0,COLE PALMER,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,46,34,46,46,105.00;36.92;0.08,105.00;36.92;0.08,89.62,47.78,103.08,36.01,Pass,True
+131363,16,INGHILTERRA,11389.0,TRENT ALEXANDER-ARNOLD,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,48,13,48,25,105.00;35.31;3.08,105.00;35.31;3.08,77.99,36.29,105.00,35.31,Pass,False

@@ -1,0 +1,57 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132451,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,15,49,16,1,0.00;28.06;0.30,105.00;39.94;0.30,81.95,27.55,93.21,34.29,Shot Against,False
+132451,423,FRANCIA,15562.0,THEO BERNARD FRANCOIS HERNANDEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,19,30,19,42,105.00;34.05;0.51,105.00;34.05;0.51,80.80,22.24,101.62,32.51,Pass,True
+132451,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,27,30,27,42,105.00;31.24;1.75,105.00;31.24;1.75,86.10,52.67,91.35,44.51,Pass,True
+132451,423,FRANCIA,21574.0,EDUARDO CAMAVINGA,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,27,38,27,50,105.00;29.14;5.50,105.00;29.14;5.50,82.99,18.90,105.00,29.14,Intercept,False
+132451,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,41,30,41,42,0.00;38.01;2.73,105.00;29.99;2.73,81.83,20.75,105.00,29.99,Shot Against,False
+132451,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,4,3,4,15,0.00;34.41;0.89,105.00;33.59;0.89,86.82,23.05,102.81,33.77,Pass,True
+132451,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,5,26,5,38,0.00;36.26;0.96,105.00;31.74;0.96,80.57,26.34,84.99,30.78,"Possession 
+Lost",True
+132451,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,15,22,15,34,105.00;31.88;0.12,105.00;31.88;0.12,95.80,46.66,101.62,35.90,Ball Recovery,True
+132451,427,PORTOGALLO,9759.0,JOAO PEDRO CAVACO CANCELO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,15,33,15,45,105.00;29.60;2.88,105.00;29.60;2.88,92.16,46.09,105.00,29.60,Shot Against,False
+132451,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,16,59,17,11,0.00;7.09;2.59,105.00;60.91;2.59,81.59,19.64,105.00,60.91,Pass,False
+132451,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,17,33,17,45,105.00;31.93;0.82,105.00;31.93;0.82,96.93,31.79,102.68,31.47,Shot Against,True
+132451,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,17,36,17,48,105.00;37.02;0.21,105.00;37.02;0.21,103.07,39.73,102.95,36.93,"Offensive
+Action",True
+132451,423,FRANCIA,25704.0,RANDAL KOLO MUANI,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",2,2t,20,30,20,42,0.00;38.49;1.22,105.00;29.51;1.22,93.18,43.14,95.46,40.60,Pass,False
+132451,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Off Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,21,50,22,2,0.00;25.83;1.13,105.00;42.17;1.13,93.30,47.79,95.73,45.20,Possession Phase,False
+132451,423,FRANCIA,21574.0,EDUARDO CAMAVINGA,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,24,45,24,57,0.00;42.00;0.13,105.00;26.00;0.13,101.25,42.57,105.00,26.00,Pass,False
+132451,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,28,13,28,25,0.00;38.58;2.99,105.00;29.42;2.99,85.34,48.81,105.00,29.42,Pass,False
+132451,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",2,2t,39,53,40,5,105.00;37.02;1.88,105.00;37.02;1.88,86.25,52.79,93.61,45.83,Set Pieces,True
+132451,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,40,4,40,16,105.00;40.37;0.73,105.00;40.37;0.73,75.57,17.71,77.64,19.35,Shot Against,False
+132451,423,FRANCIA,11041.0,N'GOLO KANTE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,42,19,42,31,0.00;33.75;0.02,105.00;34.25;0.02,82.84,28.49,102.55,34.00,"Defensive
+Action",True
+132451,423,FRANCIA,11041.0,N'GOLO KANTE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,43,41,43,53,0.00;32.14;0.18,105.00;35.86;0.18,83.64,29.40,102.15,35.67,"Defensive
+Action",True
+132451,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,44,55,45,7,105.00;34.05;0.82,105.00;34.05;0.82,92.84,48.25,95.46,42.67,Shot Against,True
+132451,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,45,59,46,11,0.00;28.41;3.38,105.00;39.59;3.38,85.11,19.41,105.00,39.59,Possession Phase,False
+132451,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,47,42,47,54,0.00;31.63;2.21,105.00;36.37;2.21,86.36,31.56,103.08,35.67,Pass,True
+132451,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",3,1t sup,2,38,2,50,0.00;28.32;8.50,105.00;39.68;8.50,97.61,36.21,105.00,39.68,Shot Against,False
+132451,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",3,1t sup,6,26,6,38,105.00;33.45;0.99,105.00;33.45;0.99,92.95,27.93,93.74,28.60,"Dribbling
+ Suffered",True
+132451,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Left, From outside the Penalty Area, Off Target",3,1t sup,6,55,7,7,105.00;27.66;3.38,105.00;27.66;3.38,87.95,37.01,105.00,27.66,Pass,False
+132451,427,PORTOGALLO,20900.0,RAFAEL LEAO,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",3,1t sup,11,32,11,44,0.00;32.14;0.38,105.00;35.86;0.38,95.91,30.42,98.18,32.85,Shot Against,True
+132451,427,PORTOGALLO,25459.0,FRANCISCO FERNANDES DA CONCEICAO,5,Shot,"Left, From inside the Penalty Area, Off Target",3,1t sup,14,28,14,40,0.00;37.45;4.50,105.00;30.55;4.50,90.68,49.38,105.00,30.55,Shot Against,False
+132451,427,PORTOGALLO,16515.0,JOAO FELIX SEQUEIRA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",4,2t sup,2,21,2,33,105.00;28.03;1.92,105.00;28.03;1.92,101.36,26.22,105.00,28.03,Ball Line Out,False
+132451,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"Left, From outside the Penalty Area, Off Target",4,2t sup,6,26,6,38,0.00;37.50;4.50,105.00;30.50;4.50,86.82,40.07,105.00,30.50,"Dribbling
+ Suffered",False
+132451,423,FRANCIA,32536.0,BRADLEY BARCOLA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",4,2t sup,8,56,9,8,0.00;39.05;2.82,105.00;28.95;2.82,99.89,21.57,105.00,28.95,"Dribbling
+ Suffered",False
+132451,427,PORTOGALLO,25752.0,NUNO ALEXANDRE TAVARES MENDES,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",4,2t sup,14,50,15,2,105.00;30.96;0.08,105.00;30.96;0.08,90.34,32.01,102.95,31.47,Shot Against,True
+132451,423,FRANCIA,11048.0,OUSMANE DEMBELE',25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,2,1,4,105.00;36.79;0.15,105.00;36.79;0.15,94.20,34.40,105.00,36.79,Set Pieces,False
+132451,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,2,0,14,105.00;36.79;0.15,105.00;36.79;0.15,94.20,34.40,105.00,36.79,Goal,True
+132451,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,0,58,1,4,0.00;37.31;0.12,0.00;37.31;0.12,11.59,33.94,0.00,37.31,Set Pieces,False
+132451,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,0,58,1,10,0.00;37.31;0.12,0.00;37.31;0.12,11.59,33.94,0.00,37.31,Goal,True
+132451,423,FRANCIA,30850.0,YOUSSOUF FOFANA,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,1,51,1,57,105.00;34.05;0.15,105.00;34.05;0.15,93.86,34.06,105.00,34.05,Set Pieces,False
+132451,423,FRANCIA,30850.0,YOUSSOUF FOFANA,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,1,51,2,3,105.00;34.05;0.15,105.00;34.05;0.15,93.86,34.06,105.00,34.05,Goal,True
+132451,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,2,33,2,39,0.00;30.98;2.11,0.00;30.98;2.11,11.14,34.28,0.00,30.98,Set Pieces,False
+132451,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,2,33,2,45,0.00;30.98;2.11,0.00;30.98;2.11,11.14,34.28,0.00,30.98,Goal,True
+132451,423,FRANCIA,17928.0,JULES KOUNDE',25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,3,24,3,30,105.00;30.73;2.14,105.00;30.73;2.14,93.98,34.28,105.00,30.73,Set Pieces,False
+132451,423,FRANCIA,17928.0,JULES KOUNDE',5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,3,24,3,36,105.00;30.73;2.14,105.00;30.73;2.14,93.98,34.28,105.00,30.73,Goal,True
+132451,427,PORTOGALLO,16515.0,JOAO FELIX SEQUEIRA,5,Shot,"Post, Right, Penalty, From inside the Penalty Area, Off Target",5,rigori,4,19,4,31,0.00;37.66;0.02,0.00;37.66;0.02,11.25,34.51,0.00,37.66,Set Pieces,False
+132451,423,FRANCIA,32536.0,BRADLEY BARCOLA,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",5,rigori,5,21,5,27,105.00;31.47;1.02,105.00;31.47;1.02,94.09,34.06,105.00,31.47,Set Pieces,False
+132451,423,FRANCIA,32536.0,BRADLEY BARCOLA,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",5,rigori,5,21,5,33,105.00;31.47;1.02,105.00;31.47;1.02,94.09,34.06,105.00,31.47,Goal,True
+132451,427,PORTOGALLO,25752.0,NUNO ALEXANDRE TAVARES MENDES,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,6,21,6,27,0.00;30.71;2.14,0.00;30.71;2.14,11.25,34.51,0.00,30.71,Set Pieces,False
+132451,427,PORTOGALLO,25752.0,NUNO ALEXANDRE TAVARES MENDES,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,6,21,6,33,0.00;30.71;2.14,0.00;30.71;2.14,11.25,34.51,0.00,30.71,Goal,True
+132451,423,FRANCIA,15562.0,THEO BERNARD FRANCOIS HERNANDEZ,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",5,rigori,7,16,7,22,105.00;30.55;2.01,105.00;30.55;2.01,93.98,34.17,105.00,30.55,Set Pieces,False
+132451,423,FRANCIA,15562.0,THEO BERNARD FRANCOIS HERNANDEZ,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",5,rigori,7,16,7,28,105.00;30.55;2.01,105.00;30.55;2.01,93.98,34.17,105.00,30.55,Goal,True

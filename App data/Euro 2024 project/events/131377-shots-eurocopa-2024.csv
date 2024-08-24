@@ -1,0 +1,39 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131377,263,REPUBBLICA CECA,21422.0,LUKAS PROVOD,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,1,53,2,5,105.00;35.31;0.82,105.00;35.31;0.82,85.35,20.20,101.75,33.66,Possession Phase,True
+131377,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"Right, Off Target, From inside the Penalty Area, Deflected",1,1t,6,27,6,39,0.00;40.62;3.44,105.00;27.38;3.44,98.61,17.51,97.65,19.93,Shot Against,False
+131377,579,TURCHIA,34287.0,ARDA GULER,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,12,35,12,47,0.00;26.60;3.30,105.00;41.40;3.30,75.62,32.89,105.00,41.40,Shot Against,False
+131377,263,REPUBBLICA CECA,60731.0,DAVID JURASEK,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,14,12,14,24,105.00;34.62;1.06,105.00;34.62;1.06,70.71,24.18,102.55,34.00,"Offensive
+Action",True
+131377,263,REPUBBLICA CECA,42336.0,ROBIN HRANAC,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,16,18,16,30,105.00;31.70;4.50,105.00;31.70;4.50,97.31,33.26,105.00,31.70,Set Pieces Against,False
+131377,263,REPUBBLICA CECA,42336.0,ROBIN HRANAC,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,22,54,23,6,105.00;33.77;1.22,105.00;33.77;1.22,95.45,30.02,98.18,30.44,"Possession 
+Lost",True
+131377,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,26,26,26,38,0.00;34.18;1.32,105.00;33.82;1.32,97.12,21.03,98.57,23.32,Shot Against,True
+131377,579,TURCHIA,34265.0,SAMET AKAYDIN,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,27,1,27,13,0.00;41.54;1.37,105.00;26.46;1.37,97.59,28.72,105.00,26.46,Set Pieces,False
+131377,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,41,35,41,47,0.00;32.83;1.35,105.00;35.17;1.35,99.81,47.90,101.75,45.31,"Possession 
+Lost",True
+131377,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,42,26,42,38,0.00;32.69;4.50,105.00;35.31;4.50,83.59,50.49,105.00,35.31,Shot Against,False
+131377,263,REPUBBLICA CECA,60731.0,DAVID JURASEK,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,44,14,44,26,105.00;32.16;0.99,105.00;32.16;0.99,96.20,20.38,98.97,25.16,Pass,True
+131377,579,TURCHIA,34287.0,ARDA GULER,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,47,59,48,8,0.00;27.12;5.50,105.00;40.88;5.50,83.22,45.12,105.00,40.88,Shot Against,False
+131377,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,1,48,2,0,105.00;44.67;7.50,105.00;44.67;7.50,84.15,22.14,105.00,44.67,Shot Against,False
+131377,263,REPUBBLICA CECA,24782.0,ADAM HLOZEK,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area, Deflected",2,2t,4,49,5,1,0.00;32.46;1.75,105.00;35.54;1.75,83.13,41.13,87.91,39.23,"Defensive
+Action",True
+131377,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,5,38,5,50,105.00;33.13;0.18,105.00;33.13;0.18,92.86,31.78,95.06,32.51,Shot Against,True
+131377,579,TURCHIA,31264.0,KENAN YILDIZ,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,5,39,5,51,105.00;32.80;0.82,105.00;32.80;0.82,96.01,35.20,102.55,33.20,Shot Against,True
+131377,579,TURCHIA,7687.0,HAKAN CALHANOGLU,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,5,43,5,59,105.00;37.02;0.76,105.00;37.02;0.76,96.84,18.44,105.00,37.02,Killer Pass,False
+131377,579,TURCHIA,36107.0,ISMAIL YUKSEK,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,5,43,5,55,105.00;35.08;0.31,105.00;35.08;0.31,85.91,33.26,88.04,33.89,Goal,True
+131377,579,TURCHIA,7687.0,HAKAN CALHANOGLU,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,5,47,5,59,105.00;37.02;0.76,105.00;37.02;0.76,96.84,18.44,105.00,37.02,Shot Against,True
+131377,263,REPUBBLICA CECA,24777.0,LADISLAV KREJCI,5,Shot,"GK Save, Headed Shot, On Target, From inside the Penalty Area",2,2t,18,12,18,24,0.00;33.33;0.82,105.00;34.67;0.82,100.00,41.60,102.55,37.27,Ball Recovery,True
+131377,263,REPUBBLICA CECA,13592.0,TOMAS SOUCEK,25,Goal,"Throw-in, Right, From inside the Penalty Area",2,2t,20,17,20,36,0.00;32.64;1.65,105.00;35.36;1.65,98.98,35.57,105.00,35.36,Pass,False
+131377,263,REPUBBLICA CECA,13777.0,TOMAS CHORY,5,Shot,"On Target, Blocked, Big Chance, Right, From inside the Penalty Area",2,2t,20,22,20,34,0.00;32.78;0.61,105.00;35.22;0.61,100.74,34.74,102.55,34.98,"Decisive
+ Action",True
+131377,263,REPUBBLICA CECA,13592.0,TOMAS SOUCEK,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,20,24,20,36,0.00;32.64;1.65,105.00;35.36;1.65,98.98,35.57,105.00,35.36,"Goal 
+Provoked",True
+131377,263,REPUBBLICA CECA,24818.0,ONDREJ LINGR,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,34,53,35,5,0.00;48.51;1.95,105.00;19.49;1.95,95.73,27.89,105.00,19.49,"Duel 
+Won",False
+131377,579,TURCHIA,19519.0,OKAY YOKUSLU,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,41,6,41,18,105.00;36.92;4.50,105.00;36.92;4.50,80.16,34.46,105.00,36.92,Shot Against,False
+131377,263,REPUBBLICA CECA,36874.0,MATEJ JURASEK,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,44,59,45,11,0.00;35.75;0.82,105.00;32.25;0.82,85.82,23.44,86.85,25.27,"Dribbling
+ Suffered",True
+131377,579,TURCHIA,29786.0,BARIS ALPER YILMAZ,5,Shot,"On Target, GK Save, Promising Action, Left, From outside the Penalty Area",2,2t,46,49,47,1,105.00;34.16;0.08,105.00;34.16;0.08,87.30,38.08,102.55,34.17,"Defensive
+Action",True
+131377,579,TURCHIA,11145.0,CENK TOSUN,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,48,16,48,55,105.00;36.60;0.99,105.00;36.60;0.99,91.47,30.39,105.00,36.60,Dribbling,False
+131377,579,TURCHIA,11145.0,CENK TOSUN,5,Shot,"Goal, Right, On Target, From inside the Penalty Area",2,2t,48,44,48,56,105.00;36.60;0.99,105.00;36.60;0.99,91.47,30.39,105.00,36.60,Shot Against,True

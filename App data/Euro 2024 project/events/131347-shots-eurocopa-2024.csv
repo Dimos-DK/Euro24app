@@ -1,0 +1,34 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131347,487,UNGHERIA,15218.0,ATTILA ARPAD SZALAI,5,Shot,"GK Save, Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,1,19,1,26,105.00;27.29;0.19,105.00;27.29;0.19,95.71,23.45,102.55,30.67,Possession Phase,False
+131347,487,UNGHERIA,11810.0,ROLAND SALLAI,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,9,13,9,25,105.00;38.73;4.50,105.00;38.73;4.50,85.00,41.09,105.00,38.73,Shot Against,False
+131347,418,SVIZZERA,52959.0,KWADWO DUAH,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,10,33,12,4,0.00;35.61;0.15,105.00;32.39;0.15,95.51,35.48,105.00,32.39,"Offensive
+Action",False
+131347,418,SVIZZERA,52959.0,KWADWO DUAH,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,11,52,12,4,0.00;35.61;0.15,105.00;32.39;0.15,95.51,35.48,105.00,32.39,Pass,True
+131347,418,SVIZZERA,23932.0,RUBEN VARGAS,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,19,37,19,49,0.00;31.54;0.79,105.00;36.46;0.79,94.18,38.33,97.91,37.27,"Duel 
+Lost",True
+131347,418,SVIZZERA,7798.0,FABIAN SCHAR,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,21,26,21,38,0.00;31.95;0.58,105.00;36.05;0.58,80.10,42.92,84.46,43.71,"Possession 
+Lost",True
+131347,418,SVIZZERA,7798.0,FABIAN SCHAR,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,28,31,28,43,0.00;31.68;0.92,105.00;36.32;0.92,90.00,43.63,93.74,42.44,"Possession 
+Lost",True
+131347,487,UNGHERIA,14950.0,WILLI ORBAN,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,39,33,39,45,105.00;31.79;1.09,105.00;31.79;1.09,97.45,32.11,102.68,34.00,Shot Against,True
+131347,418,SVIZZERA,17412.0,MICHEL AEBISCHER,25,Goal,"Right, From outside the Penalty Area, Offensive Action",1,1t,44,34,44,51,0.00;30.71;0.21,105.00;37.29;0.21,82.35,29.06,105.00,37.29,"Offensive
+Action",False
+131347,418,SVIZZERA,17412.0,MICHEL AEBISCHER,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",1,1t,44,39,44,51,0.00;30.71;0.21,105.00;37.29;0.21,82.35,29.06,105.00,37.29,Possession Phase,True
+131347,418,SVIZZERA,52959.0,KWADWO DUAH,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,1,28,1,40,105.00;34.62;0.21,105.00;34.62;0.21,95.20,42.82,94.93,42.21,"Possession 
+Lost",True
+131347,418,SVIZZERA,52959.0,KWADWO DUAH,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,2,5,2,17,105.00;30.87;0.28,105.00;30.87;0.28,91.63,24.88,101.75,31.13,Pass,True
+131347,418,SVIZZERA,23932.0,RUBEN VARGAS,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,8,11,8,18,105.00;32.48;0.31,105.00;32.48;0.31,94.33,25.36,102.15,31.24,Pass,True
+131347,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,12,53,13,5,105.00;35.31;3.50,105.00;35.31;3.50,82.28,42.93,105.00,35.31,Possession Phase,False
+131347,487,UNGHERIA,46183.0,BARNABAS VARGA,5,Shot,"Big Chance, Headed Shot, Off Target, From inside the Penalty Area",2,2t,17,46,17,58,0.00;39.69;1.60,105.00;28.31;1.60,96.21,34.93,105.00,28.31,Ball Line Out,False
+131347,487,UNGHERIA,46183.0,BARNABAS VARGA,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",2,2t,20,22,20,34,0.00;31.68;0.96,105.00;36.32;0.96,101.07,35.16,105.00,36.32,Shot Against,False
+131347,487,UNGHERIA,46183.0,BARNABAS VARGA,5,Shot,"Goal, Big Chance, Headed Shot, On Target, From inside the Penalty Area",2,2t,20,22,20,34,0.00;31.68;0.96,105.00;36.32;0.96,101.07,35.16,105.00,36.32,Goal,True
+131347,487,UNGHERIA,11810.0,ROLAND SALLAI,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,23,5,23,17,0.00;32.18;0.31,105.00;35.82;0.31,91.58,30.11,92.15,32.74,Shot Against,True
+131347,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Right, On Target, From inside the Penalty Area, Deflected",2,2t,25,36,25,48,105.00;34.53;0.89,105.00;34.53;0.89,94.50,22.15,98.18,24.01,Possession Phase,True
+131347,418,SVIZZERA,7798.0,FABIAN SCHAR,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,26,31,26,43,105.00;39.25;0.19,105.00;39.25;0.19,98.39,36.82,105.00,39.25,Set Pieces,False
+131347,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,37,19,37,31,105.00;40.71;0.30,105.00;40.71;0.30,93.24,40.70,105.00,40.71,Pass,False
+131347,418,SVIZZERA,24664.0,VINCENT SIERRO,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,43,28,43,40,105.00;32.85;0.35,105.00;32.85;0.35,80.21,22.63,82.41,20.85,Pass,True
+131347,418,SVIZZERA,10018.0,GRANIT XHAKA,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",2,2t,44,12,44,19,105.00;35.31;1.15,105.00;35.31;1.15,102.18,40.12,101.89,34.52,Possession Phase,True
+131347,418,SVIZZERA,7809.0,BREEL EMBOLO,25,Goal,"Right, From inside the Penalty Area, Lateral Free Kick, Offensive Action",2,2t,47,30,47,49,105.00;32.62;1.65,105.00;32.62;1.65,92.46,37.40,105.00,32.62,"Offensive
+Action",False
+131347,418,SVIZZERA,7809.0,BREEL EMBOLO,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,47,37,47,49,105.00;32.62;1.65,105.00;32.62;1.65,92.46,37.40,105.00,32.62,"Decisive
+ Action",True

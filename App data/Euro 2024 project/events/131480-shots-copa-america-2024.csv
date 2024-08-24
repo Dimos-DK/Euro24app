@@ -1,0 +1,45 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,5,22,5,34,0.00;34.32;2.73,105.00;33.68;2.73,96.69,28.81,105.00,33.68,"Defensive
+Action",False
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,8,20,8,32,0.00;30.57;0.02,105.00;37.43;0.02,92.53,27.70,94.14,30.09,"Possession 
+Lost",True
+131480,419,ECUADOR,,,25,Goal,"Right, From outside the Penalty Area, Own Goal, Corner",1,1t,12,32,12,44,0.00;30.71;2.11,105.00;37.29;2.11,96.97,4.71,105.00,37.29,Cross,False
+131480,419,ECUADOR,30362.0,ANGELO PRECIADO,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",1,1t,14,32,14,44,0.00;27.38;1.66,105.00;40.62;1.66,89.21,47.50,91.22,47.21,Pass,False
+131480,820,GIAMAICA,22757.0,DI'SHON JOEL BERNARD,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,18,9,18,21,105.00;34.16;2.24,105.00;34.16;2.24,95.44,40.16,104.01,34.17,"Duel 
+Won",True
+131480,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,20,28,20,40,0.00;40.80;0.04,105.00;27.20;0.04,85.47,26.45,88.04,27.45,"Dribbling
+ Suffered",False
+131480,419,ECUADOR,32674.0,MOISES CAICEDO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",1,1t,22,15,22,27,0.00;32.37;0.08,105.00;35.63;0.08,82.01,33.93,85.66,34.00,Pass,True
+131480,820,GIAMAICA,81731.0,DEXTER JOENG WOO LEMBIKISA,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",1,1t,28,41,28,53,105.00;34.25;0.08,105.00;34.25;0.08,103.48,50.55,103.34,36.93,Shot Against,True
+131480,419,ECUADOR,59457.0,JOHN YEBOAH ZAMORA,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,30,25,30,37,0.00;25.57;0.19,105.00;42.43;0.19,99.18,45.98,100.03,45.31,Pass,False
+131480,419,ECUADOR,32673.0,ALAN FRANCO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,31,6,31,18,0.00;25.14;5.50,105.00;42.86;5.50,73.28,35.18,105.00,42.86,Set Pieces Against,False
+131480,820,GIAMAICA,58438.0,BOBBY ARMANI DE CORDOVA-REID,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,31,56,32,8,105.00;35.22;0.18,105.00;35.22;0.18,82.84,39.19,103.08,34.86,Shot Against,True
+131480,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,35,29,35,41,0.00;29.27;6.50,105.00;38.73;6.50,93.23,18.14,94.53,19.58,Pass,False
+131480,419,ECUADOR,36811.0,FELIX TORRES,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,36,7,36,19,0.00;33.65;2.90,105.00;34.35;2.90,92.53,25.90,105.00,34.35,Set Pieces,False
+131480,419,ECUADOR,36811.0,FELIX TORRES,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target, Deflected",1,1t,42,24,42,36,0.00;27.20;0.13,105.00;40.80;0.13,93.78,38.50,95.20,38.08,Set Pieces Against,False
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,25,Goal,"Left, Penalty, From inside the Penalty Area, Penalty",1,1t,48,13,49,28,0.00;31.03;0.02,105.00;36.97;0.02,93.64,33.52,105.00,36.97,Set Pieces,False
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"On Target, Goal, Left, Penalty, From inside the Penalty Area",1,1t,48,13,48,25,0.00;31.03;0.02,105.00;36.97;0.02,93.64,33.52,105.00,36.97,Goal,True
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,50,14,50,26,0.00;32.18;2.76,105.00;35.82;2.76,91.01,20.77,105.00,35.82,"Duel 
+Won",False
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Off Target, Blocked, Left, From outside the Penalty Area",2,2t,1,13,1,25,105.00;27.66;1.07,105.00;27.66;1.07,87.41,43.76,88.44,43.25,Pass,False
+131480,419,ECUADOR,36817.0,KEVIN RODRIGUEZ,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,4,6,4,18,105.00;31.61;0.12,105.00;31.61;0.12,91.29,32.41,92.28,32.28,"Possession 
+Lost",True
+131480,820,GIAMAICA,58385.0,ETHAN RUPERT PINNOCK,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,8,21,8,33,0.00;35.84;1.65,105.00;32.16;1.65,96.97,34.90,98.84,34.40,Shot Against,True
+131480,820,GIAMAICA,11758.0,MICHAIL ANTONIO,25,Goal,"Left, From inside the Penalty Area, Corner",2,2t,8,23,8,35,0.00;37.54;0.02,105.00;30.46;0.02,99.74,30.61,105.00,30.46,"Goal 
+Provoked",False
+131480,820,GIAMAICA,11758.0,MICHAIL ANTONIO,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,8,23,8,35,0.00;37.54;0.02,105.00;30.46;0.02,99.74,30.61,105.00,30.46,Goal,True
+131480,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,20,25,20,37,105.00;30.18;5.50,105.00;30.18;5.50,85.61,39.33,105.00,30.18,Pass,False
+131480,419,ECUADOR,30362.0,ANGELO PRECIADO,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,22,4,22,16,105.00;34.16;0.08,105.00;34.16;0.08,87.41,42.38,88.31,42.21,"Duel 
+Lost",True
+131480,419,ECUADOR,30362.0,ANGELO PRECIADO,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,22,6,22,18,105.00;34.25;0.61,105.00;34.25;0.61,90.59,39.19,91.88,37.62,Shot Against,True
+131480,820,GIAMAICA,31131.0,SHAMAR AMARO NICHOLSON,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,22,38,22,50,0.00;33.88;0.31,105.00;34.12;0.31,88.65,29.50,101.09,34.00,"Defensive
+Action",True
+131480,419,ECUADOR,36817.0,KEVIN RODRIGUEZ,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,23,9,23,21,105.00;29.14;0.19,105.00;29.14;0.19,89.90,17.31,105.00,29.14,GK Play,False
+131480,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,25,13,25,25,105.00;40.54;0.04,105.00;40.54;0.04,84.64,40.86,105.00,40.54,Pass,False
+131480,820,GIAMAICA,31131.0,SHAMAR AMARO NICHOLSON,5,Shot,"On Target, Blocked, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,26,32,26,44,0.00;30.48;0.45,105.00;37.52;0.45,99.46,27.01,103.08,35.09,Shot Against,True
+131480,419,ECUADOR,36817.0,KEVIN RODRIGUEZ,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,32,49,33,1,105.00;34.12;1.35,105.00;34.12;1.35,83.67,18.70,87.38,20.96,Possession Phase,True
+131480,419,ECUADOR,57354.0,ALAN STEVE MINDA GARCIA,25,Goal,"Right, From inside the Penalty Area, Corner, Offensive Action",2,2t,45,24,45,48,105.00;37.57;0.15,105.00;37.57;0.15,95.58,24.37,105.00,37.57,"Offensive
+Action",False
+131480,419,ECUADOR,57354.0,ALAN STEVE MINDA GARCIA,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,45,36,45,48,105.00;37.57;0.15,105.00;37.57;0.15,95.58,24.37,105.00,37.57,"Dribbling
+ Suffered",True
+131480,820,GIAMAICA,55173.0,RENALDO SHOWAYNE CEPHAS,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,47,53,48,5,0.00;33.84;0.08,105.00;34.16;0.08,83.53,50.00,94.40,43.59,Shot Against,True

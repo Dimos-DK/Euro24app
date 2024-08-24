@@ -1,0 +1,50 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131364,463,ALBANIA,26403.0,QAZIM LACI,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",1,1t,9,15,10,24,0.00;31.17;0.15,105.00;36.83;0.15,97.22,37.79,105.00,36.83,Pass,False
+131364,463,ALBANIA,26403.0,QAZIM LACI,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,10,12,10,24,0.00;31.17;0.15,105.00;36.83;0.15,97.22,37.79,105.00,36.83,Shot Against,True
+131364,463,ALBANIA,16535.0,NEDIM BAJRAMI,5,Shot,"GK Save, Right, From inside the Penalty Area, Off Target",1,1t,14,23,14,35,0.00;37.98;0.07,105.00;30.02;0.07,94.11,21.66,102.28,32.16,Shot Against,False
+131364,463,ALBANIA,6403.0,ELSEID HYSAJ,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,15,4,15,16,0.00;30.94;0.15,105.00;37.06;0.15,83.71,39.63,89.37,38.77,Shot Against,True
+131364,4,CROAZIA,6101.0,MATEO KOVACIC,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,19,31,19,43,105.00;31.15;0.28,105.00;31.15;0.28,80.89,24.19,85.26,26.42,Pass,True
+131364,4,CROAZIA,7092.0,MARCELO BROZOVIC,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,19,42,19,54,105.00;27.75;0.13,105.00;27.75;0.13,88.67,44.78,105.00,27.75,Pass,False
+131364,4,CROAZIA,5965.0,BRUNO PETKOVIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,25,53,26,5,105.00;38.91;3.15,105.00;38.91;3.15,98.46,34.69,105.00,38.91,"Duel 
+Won",False
+131364,463,ALBANIA,6403.0,ELSEID HYSAJ,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,28,43,28,55,0.00;40.06;4.50,105.00;27.94;4.50,89.53,36.38,105.00,27.94,Shot Against,False
+131364,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,30,25,30,37,0.00;35.10;0.25,105.00;32.90;0.25,93.10,28.05,99.37,33.66,Shot Against,True
+131364,4,CROAZIA,7092.0,MARCELO BROZOVIC,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,37,50,38,2,105.00;31.79;0.25,105.00;31.79;0.25,76.64,27.16,102.02,33.43,Pass,True
+131364,4,CROAZIA,19437.0,LOVRO MAJER,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,42,14,42,26,105.00;40.88;1.98,105.00;40.88;1.98,96.47,39.06,105.00,40.88,"Duel 
+Won",False
+131364,463,ALBANIA,8717.0,REY MANAJ,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,45,31,45,43,0.00;34.51;0.66,105.00;33.49;0.66,96.18,34.59,102.42,35.09,Shot Against,True
+131364,4,CROAZIA,24936.0,LUKA SUCIC,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,4,39,4,51,0.00;32.00;0.21,105.00;36.00;0.21,92.61,43.42,101.89,37.27,Pass,True
+131364,4,CROAZIA,9188.0,MARIO PASALIC,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,5,2,5,14,0.00;30.25;3.41,105.00;37.75;3.41,100.54,39.15,105.00,37.75,"Duel 
+Won",False
+131364,4,CROAZIA,6101.0,MATEO KOVACIC,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",2,2t,7,52,8,4,0.00;34.00;0.99,105.00;34.00;0.99,83.78,25.67,89.63,28.14,Pass,True
+131364,4,CROAZIA,9188.0,MARIO PASALIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,8,44,8,56,0.00;26.52;0.16,105.00;41.48;0.16,97.17,40.84,105.00,41.48,"Duel 
+Won",False
+131364,4,CROAZIA,5965.0,BRUNO PETKOVIC,5,Shot,"GK Save, Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,11,43,11,55,0.00;34.78;2.73,105.00;33.22;2.73,97.96,33.01,102.68,34.17,"Duel 
+Won",False
+131364,4,CROAZIA,30189.0,JOSIP SUTALO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,12,11,12,23,0.00;39.23;2.96,105.00;28.77;2.96,101.63,30.53,105.00,28.77,Set Pieces,False
+131364,4,CROAZIA,7243.0,LUKA MODRIC,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,13,52,14,4,0.00;32.27;0.25,105.00;35.73;0.25,81.90,43.91,89.76,39.92,Cross Against,True
+131364,4,CROAZIA,7244.0,IVAN PERISIC,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area, Deflected",2,2t,15,16,15,28,0.00;31.31;0.28,105.00;36.69;0.28,81.80,23.20,85.39,28.83,Possession Phase,True
+131364,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,17,45,17,57,105.00;34.85;0.21,105.00;34.85;0.21,85.27,27.56,102.28,33.54,Shot Against,True
+131364,463,ALBANIA,16535.0,NEDIM BAJRAMI,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,21,5,21,17,105.00;40.80;3.41,105.00;40.80;3.41,90.42,44.71,105.00,40.80,Shot Against,False
+131364,4,CROAZIA,9188.0,MARIO PASALIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,23,7,23,19,0.00;30.20;2.99,105.00;37.80;2.99,99.84,37.07,105.00,37.80,"Duel 
+Lost",False
+131364,4,CROAZIA,7248.0,ANDREJ KRAMARIC,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,27,52,28,29,0.00;35.98;0.21,105.00;32.02;0.21,94.09,28.75,105.00,32.02,"Defensive
+Action",False
+131364,463,ALBANIA,26406.0,TAULANT SEFERI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,27,52,28,4,105.00;31.38;0.28,105.00;31.38;0.28,80.01,29.54,101.62,32.74,Goal Suffered,True
+131364,4,CROAZIA,7248.0,ANDREJ KRAMARIC,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,28,17,28,29,0.00;35.98;0.21,105.00;32.02;0.21,94.09,28.75,105.00,32.02,Pass,True
+131364,4,CROAZIA,,,25,Goal,"Right, From inside the Penalty Area, Own Goal, Offensive Action",2,2t,30,30,30,54,0.00;36.26;1.29,105.00;31.74;1.29,97.66,32.12,105.00,31.74,"Offensive
+Action",False
+131364,4,CROAZIA,24936.0,LUKA SUCIC,5,Shot,"On Target, Blocked, Big Chance, Left, From inside the Penalty Area",2,2t,30,42,30,54,0.00;33.65;0.21,105.00;34.35;0.21,97.17,33.41,100.30,33.66,"Duel 
+Lost",True
+131364,4,CROAZIA,8950.0,ANTE BUDIMIR,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area, Deflected",2,2t,34,10,34,22,0.00;36.53;0.18,105.00;31.47;0.18,93.99,30.43,94.27,32.51,Intercept,True
+131364,4,CROAZIA,7243.0,LUKA MODRIC,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,42,37,42,49,0.00;38.86;0.07,105.00;29.14;0.07,79.92,40.64,105.00,29.14,Pass,False
+131364,4,CROAZIA,24936.0,LUKA SUCIC,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,43,18,43,30,0.00;33.52;0.18,105.00;34.48;0.18,98.06,19.03,102.28,31.70,"Defensive
+Action",True
+131364,463,ALBANIA,57447.0,ARBER HOXHA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,44,2,44,14,105.00;31.05;0.18,105.00;31.05;0.18,85.47,39.85,101.09,33.77,Shot Against,True
+131364,463,ALBANIA,70041.0,MIRLIND DAKU,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",2,2t,47,27,47,39,105.00;31.65;0.15,105.00;31.65;0.15,95.58,30.73,96.98,33.31,"Possession 
+Lost",True
+131364,463,ALBANIA,36090.0,KLAUS GJASULA,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,49,1,49,33,105.00;30.92;0.18,105.00;30.92;0.18,94.19,34.00,105.00,30.92,"Offensive
+Action",False
+131364,463,ALBANIA,36090.0,KLAUS GJASULA,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",2,2t,49,21,49,33,105.00;30.92;0.18,105.00;30.92;0.18,94.19,34.00,105.00,30.92,Shot Against,True
+131364,463,ALBANIA,36090.0,KLAUS GJASULA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,51,32,51,44,105.00;31.88;0.28,105.00;31.88;0.28,86.06,35.49,94.27,32.39,Shot Against,True
+131364,4,CROAZIA,6101.0,MATEO KOVACIC,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,52,57,53,6,0.00;32.78;0.89,105.00;35.22;0.89,91.12,27.06,100.83,33.43,Pass,True

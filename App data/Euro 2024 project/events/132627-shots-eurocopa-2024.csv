@@ -1,0 +1,22 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132627,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,4,47,4,59,105.00;32.94;3.30,105.00;32.94;3.30,101.02,32.06,105.00,32.94,Ball Line Out,False
+132627,423,FRANCIA,25704.0,RANDAL KOLO MUANI,25,Goal,"Headed Shot, From inside the Penalty Area, Central Free Kick",1,1t,7,41,8,10,0.00;30.62;1.48,105.00;37.38;1.48,99.76,35.49,105.00,37.38,Set Pieces,False
+132627,423,FRANCIA,25704.0,RANDAL KOLO MUANI,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,7,58,8,10,0.00;30.62;1.48,105.00;37.38;1.48,99.76,35.49,105.00,37.38,Cross,True
+132627,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",1,1t,15,40,15,52,0.00;31.31;1.06,105.00;36.69;1.06,76.08,37.66,87.11,37.50,Shot Against,True
+132627,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,18,13,18,25,0.00;37.04;0.25,105.00;30.96;0.25,89.82,24.38,96.32,31.13,Shot Against,True
+132627,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,25,Goal,"Left, From outside the Penalty Area, Offensive Action",1,1t,19,39,20,24,105.00;30.55;1.91,105.00;30.55;1.91,81.50,41.30,105.00,30.55,GK Play,False
+132627,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"On Target, Goal, Left, From outside the Penalty Area",1,1t,20,12,20,24,105.00;30.55;1.91,105.00;30.55;1.91,81.50,41.30,105.00,30.55,Pass,True
+132627,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,23,57,24,32,105.00;34.76;0.86,105.00;34.76;0.86,97.49,44.22,102.28,32.51,Pass,False
+132627,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Goal, Right, From inside the Penalty Area, Deflected",1,1t,24,20,24,32,105.00;34.76;0.86,105.00;34.76;0.86,97.49,44.22,102.28,32.51,"Dribbling
+ Suffered",True
+132627,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,35,32,35,44,105.00;27.84;1.54,105.00;27.84;1.54,87.15,33.59,91.09,33.20,Pass,False
+132627,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,39,56,40,8,105.00;23.18;0.30,105.00;23.18;0.30,86.25,43.01,86.05,41.87,Pass,False
+132627,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",2,2t,7,43,7,55,105.00;33.91;0.96,105.00;33.91;0.96,97.12,32.32,102.95,33.31,Shot Against,True
+132627,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,10,56,11,8,105.00;34.12;0.05,105.00;34.12;0.05,98.30,18.20,102.28,31.59,Shot Against,True
+132627,423,FRANCIA,14949.0,DAYOT UPAMECANO,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,17,22,17,34,105.00;39.51;2.82,105.00;39.51;2.82,100.47,39.03,105.00,39.51,Set Pieces,False
+132627,423,FRANCIA,15562.0,THEO BERNARD FRANCOIS HERNANDEZ,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,30,4,30,16,105.00;35.63;5.50,105.00;35.63;5.50,89.96,29.61,105.00,35.63,Shot Against,False
+132627,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,35,53,36,5,0.00;37.82;2.99,105.00;30.18;2.99,87.24,45.00,105.00,30.18,Pass,False
+132627,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,40,20,40,32,105.00;33.13;4.50,105.00;33.13;4.50,91.86,24.36,105.00,33.13,Shot Against,False
+132627,423,FRANCIA,14949.0,DAYOT UPAMECANO,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,45,46,45,58,105.00;22.07;1.80,105.00;22.07;1.80,96.30,21.64,105.00,22.07,Ball Line Out,False
+132627,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,49,36,49,48,105.00;34.81;3.35,105.00;34.81;3.35,95.49,40.20,105.00,34.81,"Duel 
+Won",False

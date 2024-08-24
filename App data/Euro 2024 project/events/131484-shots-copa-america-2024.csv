@@ -1,0 +1,22 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131484,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,5,53,6,5,0.00;31.26;3.18,105.00;36.74;3.18,93.10,30.78,105.00,36.74,Cross Against,False
+131484,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,19,49,20,1,0.00;31.40;0.18,105.00;36.60;0.18,91.70,27.98,102.55,34.17,Pass,True
+131484,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,23,16,23,28,0.00;41.08;0.30,105.00;26.92;0.30,96.32,33.72,105.00,26.92,Set Pieces,False
+131484,416,COSTA RICA,55842.0,ARIEL DANIEL LASSITER ACUNA,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",1,1t,26,7,26,19,105.00;34.16;0.12,105.00;34.16;0.12,77.28,20.29,83.74,24.12,Shot Against,True
+131484,416,COSTA RICA,48476.0,WARREN MADRIGAL,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,26,49,27,1,105.00;42.95;1.48,105.00;42.95;1.48,91.84,28.12,105.00,42.95,Shot Against,False
+131484,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",1,1t,30,6,31,32,0.00;30.98;1.98,105.00;37.02;1.98,94.00,34.00,105.00,37.02,Set Pieces,False
+131484,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",1,1t,30,6,30,18,0.00;30.98;1.98,105.00;37.02;1.98,94.00,34.00,105.00,37.02,Goal,True
+131484,416,COSTA RICA,49587.0,ORLANDO GALO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,31,36,31,48,105.00;35.22;6.50,105.00;35.22;6.50,77.98,41.14,105.00,35.22,Shot Against,False
+131484,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,32,31,32,43,0.00;34.05;0.21,105.00;33.95;0.21,76.86,47.99,86.19,43.59,Possession Phase,True
+131484,416,COSTA RICA,49587.0,ORLANDO GALO,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,2,5,2,17,0.00;27.80;0.19,105.00;40.20;0.19,79.80,38.90,105.00,40.20,"Offensive
+Action",False
+131484,414,COLOMBIA,14259.0,DAVINSON SANCHEZ,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",2,2t,13,43,13,55,105.00;36.92;1.25,105.00;36.92;1.25,95.90,34.84,105.00,36.92,Set Pieces Against,False
+131484,414,COLOMBIA,14259.0,DAVINSON SANCHEZ,5,Shot,"On Target, Goal, Headed Shot, From inside the Penalty Area",2,2t,13,43,13,55,105.00;36.92;1.25,105.00;36.92;1.25,95.90,34.84,105.00,36.92,Goal,True
+131484,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,16,40,17,4,105.00;31.24;1.29,105.00;31.24;1.29,98.42,45.19,105.00,31.24,Pass,False
+131484,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,16,52,17,4,105.00;31.24;1.29,105.00;31.24;1.29,98.42,45.19,105.00,31.24,Pass,True
+131484,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,27,14,27,26,105.00;34.05;1.15,105.00;34.05;1.15,73.64,26.58,83.87,29.98,Pass,True
+131484,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,27,29,27,41,105.00;34.16;0.69,105.00;34.16;0.69,89.32,33.72,90.16,32.28,Possession Phase,True
+131484,414,COLOMBIA,56177.0,KEVIN DUVAN CASTANO GIL,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,27,34,27,46,105.00;34.30;0.89,105.00;34.30;0.89,84.98,37.64,102.15,33.43,GK Position,True
+131484,414,COLOMBIA,39961.0,YASER ASPRILLA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,30,53,31,5,105.00;29.83;0.01,105.00;29.83;0.01,88.06,37.64,105.00,29.83,Pass,False
+131484,414,COLOMBIA,39961.0,YASER ASPRILLA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,36,7,36,19,105.00;34.35;0.96,105.00;34.35;0.96,78.26,34.84,87.11,36.01,Pass,True
+131484,416,COSTA RICA,49341.0,JEFFERSON BRENES,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,46,13,46,25,0.00;30.34;3.11,105.00;37.66;3.11,91.42,45.05,105.00,37.66,Shot Against,False

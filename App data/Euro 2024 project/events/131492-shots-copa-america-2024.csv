@@ -1,0 +1,24 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131492,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"Post, Left, Direct Free Kick, From outside the Penalty Area, Off Target",1,1t,7,38,7,50,0.00;31.77;2.44,105.00;36.23;2.44,76.09,49.16,105.00,36.23,Shot Against,False
+131492,243,BRASILE,23388.0,BRUNO GUIMARAES RODRIGUEZ MOURA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,8,45,8,57,105.00;31.19;0.58,105.00;31.19;0.58,83.69,32.62,95.20,30.09,Intercept,True
+131492,243,BRASILE,23388.0,BRUNO GUIMARAES RODRIGUEZ MOURA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,9,53,10,5,105.00;31.01;0.08,105.00;31.01;0.08,83.99,37.09,102.42,33.54,Pass,True
+131492,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,25,Goal,"Left, Direct Free Kick, From outside the Penalty Area",1,1t,11,38,13,24,105.00;37.34;1.81,105.00;37.34;1.81,79.66,44.17,105.00,37.34,Set Pieces,False
+131492,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,5,Shot,"On Target, Goal, Left, Direct Free Kick, From outside the Penalty Area",1,1t,11,38,11,50,105.00;37.34;1.81,105.00;37.34;1.81,79.66,44.17,105.00,37.34,Goal,True
+131492,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,15,40,15,52,0.00;36.26;3.11,105.00;31.74;3.11,96.06,24.06,105.00,31.74,Shot Against,False
+131492,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,29,37,29,49,0.00;31.54;0.18,105.00;36.46;0.18,78.55,40.96,102.68,34.75,Shot Against,True
+131492,414,COLOMBIA,7488.0,JAMES DAVID RODRIGUEZ RUBIO,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",1,1t,33,48,34,0,0.00;35.15;2.01,105.00;32.85;2.01,87.80,4.52,101.75,34.00,Shot Against,True
+131492,414,COLOMBIA,65047.0,RICHARD RIOS MONTOYA,5,Shot,"On Target, Right, From inside the Penalty Area, Deflected",1,1t,34,13,34,25,0.00;30.75;0.89,105.00;37.25;0.89,89.39,44.71,95.46,41.98,Shot Against,True
+131492,414,COLOMBIA,20505.0,LUIS FERNANDO DIAZ MARULANDA,5,Shot,"On Target, GK Save, Promising Action, Right, From outside the Penalty Area",1,1t,46,28,46,40,0.00;35.93;0.38,105.00;32.07;0.38,87.65,23.97,97.25,32.74,Shot Against,True
+131492,414,COLOMBIA,30367.0,DANIEL MUNOZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,46,36,47,2,0.00;30.62;1.52,105.00;37.38;1.52,94.59,41.92,105.00,37.38,Pass,False
+131492,414,COLOMBIA,30367.0,DANIEL MUNOZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,46,50,47,2,0.00;30.62;1.52,105.00;37.38;1.52,94.59,41.92,105.00,37.38,Shot Against,True
+131492,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,5,2,5,14,105.00;35.73;3.47,105.00;35.73;3.47,98.44,33.47,105.00,35.73,Ball Line Out,False
+131492,243,BRASILE,16802.0,VINICIUS JOSE' PAIXAO DE OLIVEIRA JUNIOR,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,5,34,5,46,0.00;27.03;7.50,105.00;40.97;7.50,83.43,49.68,105.00,40.97,Pass,False
+131492,243,BRASILE,17393.0,EDER GABRIEL MILITAO,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",2,2t,7,54,8,6,0.00;35.06;0.08,105.00;32.94;0.08,90.59,37.84,92.68,38.88,"Duel 
+Won",True
+131492,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,5,Shot,"Left, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,13,55,14,7,0.00;38.58;0.93,105.00;29.42;0.93,84.11,46.67,105.00,29.42,Foul,False
+131492,414,COLOMBIA,52201.0,JHON ARIAS,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,15,17,15,29,105.00;26.92;0.25,105.00;26.92;0.25,83.95,41.01,105.00,26.92,Shot Against,False
+131492,414,COLOMBIA,15095.0,JHON ANDRES CORDOBA COPETE,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,23,1,23,13,105.00;34.21;2.14,105.00;34.21;2.14,95.87,30.83,102.81,33.31,"Duel 
+Won",True
+131492,414,COLOMBIA,31361.0,JORGE CARRASCAL,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,38,6,38,18,105.00;33.40;0.08,105.00;33.40;0.08,92.33,46.36,102.02,34.86,Shot Against,True
+131492,414,COLOMBIA,13302.0,RAFAEL SANTOS BORRE' MAURY,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,38,36,38,48,105.00;34.48;2.90,105.00;34.48;2.90,97.46,39.28,105.00,34.48,Shot Against,False
+131492,243,BRASILE,16927.0,ANDREAS HUGO HOELGEBAUM PEREIRA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,49,15,49,27,0.00;34.28;2.04,105.00;33.72;2.04,83.05,35.73,102.15,34.98,Pass,True

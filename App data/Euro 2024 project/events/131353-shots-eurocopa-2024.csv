@@ -1,0 +1,27 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131353,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,1,23,1,35,105.00;33.82;2.11,105.00;33.82;2.11,98.43,33.45,102.95,33.54,Shot Against,True
+131353,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,9,42,9,54,105.00;38.91;1.37,105.00;38.91;1.37,97.88,36.10,105.00,38.91,Ball Line Out,False
+131353,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,14,1,14,13,105.00;32.11;0.82,105.00;32.11;0.82,88.03,24.34,90.56,30.67,Shot Against,True
+131353,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"GK Save, Right, From inside the Penalty Area, On Target",1,1t,23,21,23,33,105.00;32.02;0.25,105.00;32.02;0.25,100.89,43.37,101.75,38.19,"Duel 
+Won",True
+131353,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"GK Save, Left, From outside the Penalty Area, On Target",1,1t,24,23,24,35,105.00;35.91;2.14,105.00;35.91;2.14,77.79,34.13,102.68,36.01,Shot Against,True
+131353,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,26,18,26,30,105.00;27.94;0.13,105.00;27.94;0.13,72.80,32.27,105.00,27.94,Shot Against,False
+131353,2,SPAGNA,13354.0,RODRIGO HERNANDEZ CASCANTE,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,27,38,27,50,105.00;35.04;0.15,105.00;35.04;0.15,87.48,33.91,96.72,34.98,Ball Recovery,True
+131353,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,36,29,36,41,105.00;34.00;8.50,105.00;34.00;8.50,80.83,42.20,105.00,34.00,Shot Against,False
+131353,2,SPAGNA,16756.0,FABIAN RUIZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,40,54,41,6,105.00;33.49;0.21,105.00;33.49;0.21,83.38,37.10,102.42,33.43,Shot Against,True
+131353,1,ITALIA,11798.0,FEDERICO CHIESA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,44,58,45,10,0.00;27.38;3.27,105.00;40.62;3.27,90.22,50.04,105.00,40.62,Ball Line Out,False
+131353,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,6,23,6,35,0.00;38.58;0.36,105.00;29.42;0.36,96.06,29.26,105.00,29.42,Ball Line Out,False
+131353,2,SPAGNA,24662.0,PEDRO GONZALEZ LOPEZ,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,7,42,7,54,0.00;34.05;1.09,105.00;33.95;1.09,79.27,30.90,102.15,33.89,Shot Against,True
+131353,2,SPAGNA,,,25,Goal,"Left, From inside the Penalty Area, Own Goal, Offensive Action",2,2t,8,10,9,13,0.00;32.27;0.58,105.00;35.73;0.58,99.63,34.88,105.00,35.73,"Offensive
+Action",False
+131353,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,12,14,12,26,0.00;33.84;2.01,105.00;34.16;2.01,79.27,27.53,101.89,34.40,Shot Against,True
+131353,2,SPAGNA,24827.0,ROBIN AIME ROBERT LE NORMAND,5,Shot,"On Target, Blocked, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,12,55,13,7,0.00;37.04;0.45,105.00;30.96;0.45,97.61,35.91,102.68,31.36,Shot Against,True
+131353,2,SPAGNA,31404.0,LAMINE YAMAL NASRAOUI EBANA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,14,39,14,51,0.00;38.40;1.57,105.00;29.60;1.57,82.19,49.68,105.00,29.60,Shot Against,False
+131353,2,SPAGNA,35462.0,NICHOLAS WILLIAMS ARTHUER,5,Shot,"Post, Right, From inside the Penalty Area, Off Target",2,2t,24,56,25,8,0.00;30.71;2.44,105.00;37.29;2.44,91.04,17.96,105.00,37.29,Shot Against,False
+131353,1,ITALIA,7227.0,LORENZO PELLEGRINI,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,28,25,28,37,105.00;31.38;3.27,105.00;31.38;3.27,83.11,20.05,105.00,31.38,Set Pieces,False
+131353,2,SPAGNA,24795.0,AYOZE PEREZ GUTIERREZ,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target, Deflected",2,2t,35,11,35,23,0.00;44.82;0.04,105.00;23.18;0.04,95.51,23.61,96.85,24.47,Shot Against,False
+131353,2,SPAGNA,7904.0,AYMERIC JEAN LOUIS GERARD ALPHONSE LAPORTE,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,35,39,35,51,0.00;30.80;5.50,105.00;37.20;5.50,98.16,39.29,105.00,37.20,"Duel 
+Won",False
+131353,2,SPAGNA,24795.0,AYOZE PEREZ GUTIERREZ,5,Shot,"GK Save, Right, From inside the Penalty Area, On Target",2,2t,45,44,45,56,0.00;37.04;0.18,105.00;30.96;0.18,98.45,19.25,103.34,31.13,Shot Against,True
+131353,2,SPAGNA,24795.0,AYOZE PEREZ GUTIERREZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,46,38,46,50,0.00;31.49;0.05,105.00;36.51;0.05,92.14,23.43,98.57,32.62,Shot Against,True
+131353,1,ITALIA,16122.0,RICCARDO CALAFIORI,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,51,6,51,18,105.00;28.12;0.07,105.00;28.12;0.07,89.95,23.61,105.00,28.12,Intercept,False

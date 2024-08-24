@@ -1,0 +1,26 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132286,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,9,10,9,22,105.00;31.74;0.12,105.00;31.74;0.12,83.55,29.14,101.89,31.47,Pass,True
+132286,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",1,1t,13,50,14,2,105.00;38.30;5.50,105.00;38.30;5.50,93.39,21.32,95.59,25.04,Pass,False
+132286,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,17,1,17,13,105.00;43.23;2.76,105.00;43.23;2.76,98.01,44.43,105.00,43.23,Ball Line Out,False
+132286,423,FRANCIA,7437.0,ADRIEN RABIOT,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,19,6,19,18,105.00;34.39;6.50,105.00;34.39;6.50,77.27,26.66,105.00,34.39,Pass,False
+132286,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,23,29,23,41,0.00;34.18;0.35,105.00;33.82;0.35,86.51,11.73,102.81,33.77,Shot Against,True
+132286,428,BELGIO,7407.0,YANNICK FERREIRA CARRASCO,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,26,10,26,22,0.00;33.06;0.82,105.00;34.94;0.82,91.61,37.79,94.93,36.47,Shot Against,True
+132286,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,33,24,33,36,105.00;38.30;2.73,105.00;38.30;2.73,96.94,36.13,105.00,38.30,"Duel 
+Won",False
+132286,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,38,49,39,1,105.00;39.59;2.61,105.00;39.59;2.61,79.99,43.24,105.00,39.59,Pass,False
+132286,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,45,11,45,23,105.00;38.03;3.47,105.00;38.03;3.47,91.37,29.26,105.00,38.03,Intercept,False
+132286,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,3,21,3,33,0.00;30.71;0.41,105.00;37.29;0.41,82.72,28.67,102.42,36.70,Pass,True
+132286,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,4,1,4,13,0.00;35.93;0.41,105.00;32.07;0.41,97.42,20.97,97.25,22.46,Possession Phase,True
+132286,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,4,57,5,9,0.00;35.93;3.05,105.00;32.07;3.05,96.23,31.28,105.00,32.07,Ball Line Out,False
+132286,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,8,2,8,14,0.00;33.88;2.85,105.00;34.12;2.85,89.71,23.22,105.00,34.12,"Dribbling
+ Suffered",False
+132286,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,10,13,10,25,0.00;50.66;0.07,105.00;17.34;0.07,94.33,39.80,105.00,17.34,Pass,False
+132286,428,BELGIO,7407.0,YANNICK FERREIRA CARRASCO,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,15,21,15,33,105.00;35.91;0.18,105.00;35.91;0.18,96.59,45.85,96.85,44.74,Shot Against,True
+132286,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,19,21,19,33,0.00;27.29;0.90,105.00;40.71;0.90,83.08,39.92,105.00,40.71,Pass,False
+132286,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,23,12,23,24,0.00;30.08;3.27,105.00;37.92;3.27,82.01,38.38,105.00,37.92,Pass,False
+132286,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,25,0,25,12,105.00;35.08;0.25,105.00;35.08;0.25,97.30,19.07,101.36,31.01,Shot Against,True
+132286,423,FRANCIA,30184.0,WILLIAM SALIBA,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,28,39,28,51,0.00;29.27;1.92,105.00;38.73;1.92,92.56,47.39,105.00,38.73,"Dribbling
+ Suffered",False
+132286,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,32,48,33,0,0.00;30.52;3.21,105.00;37.48;3.21,90.78,40.87,105.00,37.48,Pass,False
+132286,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, GK Save, Promising Action, Right, From outside the Penalty Area",2,2t,37,7,37,19,105.00;35.73;0.25,105.00;35.73;0.25,86.99,26.30,100.56,32.62,Shot Against,True
+132286,423,FRANCIA,,,25,Goal,"Left, From inside the Penalty Area, Own Goal, Offensive Action",2,2t,38,50,39,38,0.00;33.15;0.69,105.00;34.85;0.69,95.87,43.71,105.00,34.85,Pass,False

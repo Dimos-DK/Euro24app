@@ -1,0 +1,30 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131474,819,STATI UNITI,10444.0,CHRISTIAN PULISIC,25,Goal,"Right, From inside the Penalty Area, Corner",1,1t,2,22,2,34,0.00;31.21;2.24,105.00;36.79;2.24,89.82,19.92,105.00,36.79,Shot Against,False
+131474,819,STATI UNITI,10444.0,CHRISTIAN PULISIC,5,Shot,"On Target, Goal, Right, From inside the Penalty Area",1,1t,2,22,2,34,0.00;31.21;2.24,105.00;36.79;2.24,89.82,19.92,105.00,36.79,Goal,True
+131474,779,BOLIVIA,11311.0,FERNANDO JAVIER SAUCEDO PEREYRA,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,4,42,4,54,105.00;31.28;0.18,105.00;31.28;0.18,88.69,3.82,102.55,33.08,Set Pieces,True
+131474,819,STATI UNITI,17803.0,TIMOTHY WEAH,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,7,7,7,19,0.00;31.31;0.12,105.00;36.69;0.12,100.15,44.06,102.15,36.47,Shot Against,True
+131474,779,BOLIVIA,48441.0,GABRIEL ALEJANDRO VILLAMIL,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,9,32,9,44,105.00;28.58;4.50,105.00;28.58;4.50,79.60,30.03,105.00,28.58,Pass,False
+131474,819,STATI UNITI,24860.0,FOLARIN BALOGUN,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,10,31,10,43,0.00;37.18;0.08,105.00;30.82;0.08,102.01,21.98,101.75,24.24,Shot Against,True
+131474,819,STATI UNITI,17390.0,WESTON MCKENNIE,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,11,0,11,12,0.00;40.25;5.50,105.00;27.75;5.50,98.60,28.17,105.00,27.75,Ball Line Out,False
+131474,819,STATI UNITI,24860.0,FOLARIN BALOGUN,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,30,36,30,48,0.00;36.85;0.58,105.00;31.15;0.58,90.38,35.03,92.02,34.52,Ball Recovery,True
+131474,819,STATI UNITI,24860.0,FOLARIN BALOGUN,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,42,52,43,14,0.00;30.89;0.12,105.00;37.11;0.12,91.16,24.63,105.00,37.11,Set Pieces Against,False
+131474,819,STATI UNITI,24860.0,FOLARIN BALOGUN,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",1,1t,43,2,43,14,0.00;30.89;0.12,105.00;37.11;0.12,91.16,24.63,105.00,37.11,Shot Against,True
+131474,819,STATI UNITI,10444.0,CHRISTIAN PULISIC,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,2,40,2,52,105.00;31.15;0.89,105.00;31.15;0.89,85.08,27.87,88.70,29.75,Shot Against,True
+131474,819,STATI UNITI,17803.0,TIMOTHY WEAH,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,4,38,4,50,105.00;19.06;0.10,105.00;19.06;0.10,97.35,49.16,105.00,19.06,Shot Against,False
+131474,779,BOLIVIA,20503.0,ROBERTO FERNANDEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,5,40,5,52,0.00;36.44;0.08,105.00;31.56;0.08,77.43,40.72,102.81,35.21,"Defensive
+Action",True
+131474,779,BOLIVIA,48445.0,MIGUEL ANGEL TERCEROS ACUNA,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",2,2t,8,57,9,9,0.00;26.17;0.45,105.00;41.83;0.45,81.94,38.17,84.99,38.77,"Duel 
+Lost",False
+131474,819,STATI UNITI,10444.0,CHRISTIAN PULISIC,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,14,16,14,28,105.00;32.30;1.81,105.00;32.30;1.81,90.57,29.14,102.15,32.16,Shot Against,True
+131474,819,STATI UNITI,59298.0,RICARDO DANIEL PEPI,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,20,54,21,6,105.00;41.66;0.10,105.00;41.66;0.10,97.54,34.25,105.00,41.66,Shot Against,False
+131474,819,STATI UNITI,10444.0,CHRISTIAN PULISIC,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,22,48,23,0,105.00;28.86;2.09,105.00;28.86;2.09,96.95,21.98,105.00,28.86,Ball Line Out,False
+131474,779,BOLIVIA,48445.0,MIGUEL ANGEL TERCEROS ACUNA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,27,43,27,55,0.00;33.95;0.08,105.00;34.05;0.08,81.35,33.95,103.48,34.17,Possession Phase,True
+131474,819,STATI UNITI,17803.0,TIMOTHY WEAH,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,30,27,30,39,105.00;29.32;2.88,105.00;29.32;2.88,91.26,31.40,105.00,29.32,Shot Against,False
+131474,819,STATI UNITI,59298.0,RICARDO DANIEL PEPI,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,33,35,33,47,105.00;32.39;1.12,105.00;32.39;1.12,90.08,32.09,102.55,32.85,Shot Against,True
+131474,819,STATI UNITI,59298.0,RICARDO DANIEL PEPI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,35,30,35,42,105.00;36.19;0.28,105.00;36.19;0.28,83.80,19.62,102.28,32.39,"Offensive
+Action",True
+131474,819,STATI UNITI,17797.0,ANTONEE ROBINSON,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,36,21,36,33,105.00;30.87;0.66,105.00;30.87;0.66,87.93,23.75,91.88,25.84,Shot Against,True
+131474,819,STATI UNITI,17797.0,ANTONEE ROBINSON,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,37,5,37,17,105.00;36.37;0.18,105.00;36.37;0.18,80.17,21.49,87.51,24.01,Shot Against,True
+131474,779,BOLIVIA,20453.0,RAMIRO VACA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,40,55,41,7,0.00;69.00;4.50,105.00;-1.00;4.50,80.27,23.84,105.00,0.00,"Defensive
+Action",False
+131474,819,STATI UNITI,59298.0,RICARDO DANIEL PEPI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,44,7,44,19,105.00;32.11;0.12,105.00;32.11;0.12,99.21,33.85,102.68,32.05,Cross,True

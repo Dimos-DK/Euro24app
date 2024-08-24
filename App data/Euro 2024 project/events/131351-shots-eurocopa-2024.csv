@@ -1,0 +1,39 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131351,487,UNGHERIA,11810.0,ROLAND SALLAI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,0,12,0,24,0.00;33.29;0.15,105.00;34.71;0.15,97.72,31.18,100.43,32.39,"Possession 
+Lost",True
+131351,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,4,4,4,11,105.00;35.22;0.12,105.00;35.22;0.12,88.14,43.58,102.28,34.17,Pass,True
+131351,487,UNGHERIA,25144.0,BENDEGUZ BOLLA,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",1,1t,5,54,6,6,0.00;36.72;0.15,105.00;31.28;0.15,93.86,48.77,97.65,43.71,Shot Against,True
+131351,11,GERMANIA,13310.0,KAI HAVERTZ,5,Shot,"GK Save, Big Chance, Left, On Target, From inside the Penalty Area",1,1t,10,47,10,59,105.00;32.07;1.06,105.00;32.07;1.06,100.84,41.13,101.62,37.73,"Duel 
+Lost",True
+131351,11,GERMANIA,30865.0,ROBERT ANDRICH,5,Shot,"On Target, Promising Action, Right, From inside the Penalty Area, Deflected",1,1t,11,32,11,44,105.00;31.56;0.92,105.00;31.56;0.92,95.42,43.35,100.96,34.52,Set Pieces,True
+131351,487,UNGHERIA,11810.0,ROLAND SALLAI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,14,21,14,33,0.00;36.30;0.25,105.00;31.70;0.25,87.77,33.33,93.74,31.70,"Possession 
+Lost",True
+131351,11,GERMANIA,24707.0,JAMAL MUSIALA,25,Goal,"Right, From inside the Penalty Area, Offensive Action",1,1t,21,42,21,54,105.00;31.42;2.11,105.00;31.42;2.11,97.43,32.37,102.15,32.28,Pass,False
+131351,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Goal, Big Chance, Right, On Target, From inside the Penalty Area, Deflected",1,1t,21,42,21,54,105.00;31.42;2.11,105.00;31.42;2.11,97.43,32.37,102.15,32.28,Goal,True
+131351,487,UNGHERIA,15226.0,DOMINIK SZOBOSZLAI,5,Shot,"GK Save, Right, Direct Free Kick, On Target, From outside the Penalty Area",1,1t,25,15,25,27,0.00;36.62;1.78,105.00;31.38;1.78,82.65,17.59,102.69,30.99,Set Pieces,True
+131351,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,26,39,26,51,105.00;34.12;0.18,105.00;34.12;0.18,90.89,36.30,92.41,34.40,"Possession 
+Lost",True
+131351,487,UNGHERIA,15226.0,DOMINIK SZOBOSZLAI,5,Shot,"On Target, Promising Action, Left, From inside the Penalty Area, Deflected",1,1t,28,25,28,37,0.00;31.21;0.31,105.00;36.79;0.31,92.15,27.84,94.80,29.41,Shot Against,True
+131351,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,35,29,35,41,105.00;29.05;6.50,105.00;29.05;6.50,98.24,36.15,105.00,29.05,"Duel 
+Lost",False
+131351,11,GERMANIA,15741.0,MAXIMILIAN MITTELSTADT,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,36,25,36,37,105.00;33.82;0.12,105.00;33.82;0.12,87.03,37.12,95.59,34.17,Possession Phase,True
+131351,11,GERMANIA,23830.0,FLORIAN WIRTZ,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,41,1,41,13,105.00;33.54;4.50,105.00;33.54;4.50,86.21,49.96,105.00,33.54,Pass,False
+131351,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,43,46,43,58,105.00;38.09;2.21,105.00;38.09;2.21,90.22,41.50,105.00,38.09,Pass,False
+131351,11,GERMANIA,8755.0,ANTONIO RUDIGER,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,0,53,1,5,0.00;36.72;0.28,105.00;31.28;0.28,75.52,50.33,96.98,35.90,Pass,True
+131351,11,GERMANIA,7487.0,TONI KROOS,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",2,2t,9,11,9,23,0.00;30.66;0.73,105.00;37.34;0.73,85.92,36.82,95.20,37.16,Intercept,True
+131351,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",2,2t,13,41,13,53,0.00;30.57;1.02,105.00;37.43;1.02,81.68,21.31,85.52,28.03,"Defensive
+Action",True
+131351,487,UNGHERIA,46183.0,BARNABAS VARGA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,14,5,14,17,105.00;30.02;2.90,105.00;30.02;2.90,97.87,34.59,105.00,30.02,Ball Line Out,False
+131351,11,GERMANIA,24707.0,JAMAL MUSIALA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,16,12,16,24,0.00;28.66;3.50,105.00;39.34;3.50,83.39,29.69,105.00,39.34,Pass,False
+131351,11,GERMANIA,7218.0,ILKAY GUNDOGAN,25,Goal,"Left, From inside the Penalty Area, Central Free Kick",2,2t,21,18,21,30,0.00;30.62;0.15,105.00;37.38;0.15,94.08,31.70,105.00,37.38,Pass,False
+131351,11,GERMANIA,7218.0,ILKAY GUNDOGAN,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",2,2t,21,18,21,30,0.00;30.62;0.15,105.00;37.38;0.15,94.08,31.70,105.00,37.38,Goal,True
+131351,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,23,47,23,59,0.00;39.97;0.48,105.00;28.03;0.48,97.72,50.93,105.00,28.03,Pass,False
+131351,11,GERMANIA,9831.0,JOSHUA KIMMICH,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,28,21,28,33,0.00;30.66;0.61,105.00;37.34;0.61,93.94,39.27,102.02,36.70,Pass,True
+131351,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,29,13,29,25,0.00;36.85;0.18,105.00;31.15;0.18,83.17,41.72,101.75,36.01,Pass,True
+131351,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"Left, Direct Free Kick, Off Target, From outside the Penalty Area",2,2t,31,41,31,53,0.00;37.89;7.50,105.00;30.11;7.50,77.48,35.39,105.00,30.11,Set Pieces,False
+131351,11,GERMANIA,58342.0,CHRIS JAN FUHRICH,5,Shot,"Right, Off Target, From inside the Penalty Area",2,2t,35,19,35,31,0.00;21.37;4.50,105.00;46.63;4.50,97.20,21.23,105.00,46.63,Pass,False
+131351,11,GERMANIA,14216.0,NICLAS FULLKRUG,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,41,4,41,16,0.00;40.71;0.16,105.00;27.29;0.16,97.57,33.78,105.00,27.29,"Duel 
+Won",False
+131351,11,GERMANIA,7766.0,LEROY SANE',5,Shot,"On Target, Promising Action, Left, From inside the Penalty Area, Deflected",2,2t,42,51,43,3,0.00;36.81;0.12,105.00;31.19;0.12,91.71,45.66,95.92,42.33,"Dribbling
+ Suffered",True
+131351,487,UNGHERIA,15225.0,DANIEL GAZDAG,5,Shot,"On Target, Blocked, Big Chance, Right, From inside the Penalty Area",2,2t,44,10,44,22,105.00;31.42;0.25,105.00;31.42;0.25,98.09,33.63,102.68,31.59,Side Balls,True

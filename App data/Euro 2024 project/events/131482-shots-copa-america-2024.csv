@@ -1,0 +1,25 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131482,821,PANAMA,16678.0,EDGAR YOEL BARCENAS HERRERA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,1,15,1,27,0.00;34.78;2.93,105.00;33.22;2.93,91.89,37.33,105.00,33.22,Shot Against,False
+131482,819,STATI UNITI,17390.0,WESTON MCKENNIE,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,4,35,4,47,105.00;36.19;1.88,105.00;36.19;1.88,96.44,34.11,103.74,33.89,Set Pieces,True
+131482,819,STATI UNITI,24860.0,FOLARIN BALOGUN,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,21,22,21,52,105.00;37.29;1.58,105.00;37.29;1.58,89.67,21.11,105.00,37.29,"Offensive
+Action",False
+131482,819,STATI UNITI,24860.0,FOLARIN BALOGUN,5,Shot,"On Target, Goal, Left, From inside the Penalty Area",1,1t,21,40,21,52,105.00;37.29;1.58,105.00;37.29;1.58,89.67,21.11,105.00,37.29,Pass,True
+131482,821,PANAMA,64833.0,CESAR RODOLFO BLACKMAN CAMARENA,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,24,58,25,26,0.00;36.85;0.12,105.00;31.15;0.12,89.00,32.33,105.00,31.15,"Offensive
+Action",False
+131482,821,PANAMA,64833.0,CESAR RODOLFO BLACKMAN CAMARENA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,25,12,25,24,0.00;34.23;0.25,105.00;33.77;0.25,86.56,36.44,87.64,37.62,Shot Against,True
+131482,821,PANAMA,64833.0,CESAR RODOLFO BLACKMAN CAMARENA,5,Shot,"On Target, Goal, Left, From inside the Penalty Area",1,1t,25,14,25,26,0.00;36.85;0.12,105.00;31.15;0.12,89.00,32.33,105.00,31.15,Shot Against,True
+131482,821,PANAMA,16678.0,EDGAR YOEL BARCENAS HERRERA,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,28,33,28,45,0.00;34.09;0.28,105.00;33.91;0.28,89.11,35.00,90.43,34.00,Shot Against,True
+131482,821,PANAMA,86392.0,EDUARDO ANTONIO GUERRERO LOZCANO,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,32,24,32,36,0.00;34.28;0.54,105.00;33.72;0.54,84.11,44.33,86.72,42.90,Shot Against,True
+131482,819,STATI UNITI,17390.0,WESTON MCKENNIE,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,37,21,37,33,105.00;19.49;0.10,105.00;19.49;0.10,98.44,33.44,105.00,19.49,Set Pieces,False
+131482,821,PANAMA,71450.0,CRISTIAN JESUS MARTINEZ,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,3,39,3,51,105.00;33.86;1.19,105.00;33.86;1.19,77.22,40.67,80.42,39.92,"Possession 
+Lost",True
+131482,821,PANAMA,98301.0,EDGARDO ISAAC FARINA WYNTER,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,5,35,5,47,105.00;33.86;1.71,105.00;33.86;1.71,77.00,40.78,101.89,33.89,Shot Against,True
+131482,819,STATI UNITI,24860.0,FOLARIN BALOGUN,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,24,56,25,8,0.00;27.89;1.19,105.00;40.11;1.19,96.67,18.89,105.00,40.11,Pass,False
+131482,821,PANAMA,16676.0,MICHAEL AMIR MURILLO BERMUDEZ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,27,57,28,9,105.00;34.81;0.25,105.00;34.81;0.25,94.22,44.56,102.15,35.09,Shot Against,True
+131482,819,STATI UNITI,59298.0,RICARDO DANIEL PEPI,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,35,46,35,58,0.00;35.47;0.15,105.00;32.53;0.15,101.00,29.00,102.42,34.29,"Defensive
+Action",True
+131482,821,PANAMA,54430.0,ABDIEL ARMANDO AYARZA BOCANEGRA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,36,2,36,14,105.00;20.11;0.10,105.00;20.11;0.10,73.78,25.22,105.00,20.11,Shot Against,False
+131482,821,PANAMA,54418.0,JOSE' FAJARDO NELSON,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,36,59,37,59,105.00;36.83;1.85,105.00;36.83;1.85,97.78,39.56,105.00,36.83,Ball Recovery,False
+131482,821,PANAMA,16678.0,EDGAR YOEL BARCENAS HERRERA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,37,34,37,46,105.00;32.94;1.35,105.00;32.94;1.35,82.33,47.33,92.81,39.69,Shot Against,True
+131482,821,PANAMA,54418.0,JOSE' FAJARDO NELSON,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,37,47,37,59,105.00;36.83;1.85,105.00;36.83;1.85,97.78,39.56,105.00,36.83,Shot Against,True
+131482,819,STATI UNITI,24935.0,CHRISTOPHER JEFFREY RICHARDS,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,48,2,48,14,0.00;34.87;4.50,105.00;33.13;4.50,100.78,28.67,105.00,33.13,Set Pieces Against,False

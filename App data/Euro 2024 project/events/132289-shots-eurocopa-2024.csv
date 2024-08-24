@@ -1,0 +1,36 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+132289,579,TURCHIA,19107.0,MERIH DEMIRAL,25,Goal,"Left, From inside the Penalty Area, Corner",1,1t,0,54,1,6,105.00;31.84;2.01,105.00;31.84;2.01,101.44,33.05,105.00,31.84,Shot Against,False
+132289,579,TURCHIA,19107.0,MERIH DEMIRAL,5,Shot,"On Target, Goal, Left, From inside the Penalty Area",1,1t,0,54,1,6,105.00;31.84;2.01,105.00;31.84;2.01,101.44,33.05,105.00,31.84,Goal,True
+132289,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,2,7,2,19,0.00;38.17;0.04,105.00;29.83;0.04,87.58,45.49,105.00,29.83,"Dribbling
+ Suffered",False
+132289,510,AUSTRIA,20287.0,PHILIPP LIENHART,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,6,36,6,48,0.00;36.58;2.93,105.00;31.42;2.93,100.14,38.15,105.00,31.42,Set Pieces,False
+132289,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,11,10,11,22,0.00;1.74;0.13,105.00;66.26;0.13,78.22,29.02,87.91,31.36,Foul,False
+132289,510,AUSTRIA,20287.0,PHILIPP LIENHART,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,11,48,12,0,0.00;34.14;0.79,105.00;33.86;0.79,90.07,28.91,92.28,31.24,Possession Phase,True
+132289,579,TURCHIA,34287.0,ARDA GULER,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,18,34,18,46,105.00;43.03;0.67,105.00;43.03;0.67,51.67,38.15,105.00,43.03,Shot Against,False
+132289,579,TURCHIA,19107.0,MERIH DEMIRAL,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,24,1,24,13,105.00;37.43;2.90,105.00;37.43;2.90,101.92,40.04,105.00,37.43,Ball Line Out,False
+132289,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,32,37,32,49,0.00;37.22;0.21,105.00;30.78;0.21,81.30,22.03,96.59,29.41,"Possession 
+Lost",True
+132289,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,45,54,46,6,0.00;29.52;0.22,105.00;38.48;0.22,97.06,37.79,105.00,38.48,Ball Line Out,False
+132289,510,AUSTRIA,19509.0,MICHAEL GREGORITSCH,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,4,30,4,42,105.00;25.90;0.48,105.00;25.90;0.48,93.15,27.96,105.00,25.90,"Duel 
+Won",False
+132289,510,AUSTRIA,10847.0,MARKO ARNAUTOVIC,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,5,30,5,42,105.00;36.56;0.25,105.00;36.56;0.25,95.52,37.67,97.38,36.35,Pass,True
+132289,510,AUSTRIA,15798.0,KONRAD LAIMER,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,7,22,7,34,105.00;26.55;0.22,105.00;26.55;0.22,91.49,31.04,105.00,26.55,"Dribbling
+ Suffered",False
+132289,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,8,36,8,48,105.00;37.15;0.28,105.00;37.15;0.28,94.57,45.97,99.10,38.19,Cross Against,True
+132289,579,TURCHIA,20912.0,FERDI KADIOGLU,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,11,12,11,24,0.00;33.29;0.92,105.00;34.71;0.92,95.28,20.49,97.38,23.89,"Possession 
+Lost",True
+132289,579,TURCHIA,19107.0,MERIH DEMIRAL,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",2,2t,13,49,14,1,0.00;34.09;1.58,105.00;33.91;1.58,101.68,37.91,105.00,33.91,"Duel 
+Won",False
+132289,579,TURCHIA,19107.0,MERIH DEMIRAL,5,Shot,"On Target, Goal, Headed Shot, From inside the Penalty Area",2,2t,13,49,14,1,0.00;34.09;1.58,105.00;33.91;1.58,101.68,37.91,105.00,33.91,Goal,True
+132289,510,AUSTRIA,19509.0,MICHAEL GREGORITSCH,25,Goal,"Left, From inside the Penalty Area, Corner",2,2t,20,50,21,2,105.00;31.38;2.28,105.00;31.38;2.28,101.80,30.80,105.00,31.38,Set Pieces Against,False
+132289,510,AUSTRIA,19509.0,MICHAEL GREGORITSCH,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,20,50,21,2,105.00;31.38;2.28,105.00;31.38;2.28,101.80,30.80,105.00,31.38,Goal,True
+132289,510,AUSTRIA,19509.0,MICHAEL GREGORITSCH,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,22,59,23,11,105.00;35.50;1.71,105.00;35.50;1.71,93.62,35.66,102.68,35.55,Pass,True
+132289,510,AUSTRIA,17396.0,FLORIAN GRILLITSCH,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,27,59,28,11,105.00;33.95;0.48,105.00;33.95;0.48,83.19,42.77,86.72,40.26,GK Claim,True
+132289,510,AUSTRIA,17396.0,FLORIAN GRILLITSCH,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,29,19,29,31,105.00;33.45;0.41,105.00;33.45;0.41,81.89,45.73,102.68,33.66,Cross Against,True
+132289,510,AUSTRIA,10847.0,MARKO ARNAUTOVIC,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,29,47,29,59,105.00;33.22;0.51,105.00;33.22;0.51,83.19,33.88,85.39,34.29,"Defensive
+Action",True
+132289,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,38,38,38,50,105.00;25.81;1.48,105.00;25.81;1.48,98.24,30.80,105.00,25.81,"Duel 
+Won",False
+132289,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,40,41,40,53,105.00;37.15;4.50,105.00;37.15;4.50,95.64,35.90,105.00,37.15,Set Pieces,False
+132289,579,TURCHIA,29786.0,BARIS ALPER YILMAZ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,48,10,48,22,0.00;30.75;0.21,105.00;37.25;0.21,89.95,31.39,97.78,35.67,Shot Against,True
+132289,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,48,58,49,10,105.00;33.59;1.22,105.00;33.59;1.22,97.30,36.37,102.95,35.09,Cross Against,True

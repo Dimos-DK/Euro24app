@@ -1,0 +1,22 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131471,780,PERU',13455.0,MIGUEL ARAUJO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,11,2,11,14,0.00;33.84;0.48,105.00;34.16;0.48,67.64,46.40,97.78,35.21,"Defensive
+Action",True
+131471,412,CILE,7720.0,ALEXIS ALEJANDRO SANCHEZ SANCHEZ,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,15,17,15,29,105.00;34.67;3.11,105.00;34.67;3.11,98.86,33.20,105.00,34.67,Cross Against,False
+131471,780,PERU',11235.0,EDISON MICHAEL FLORES PERALTA,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",1,1t,19,36,19,48,0.00;35.89;1.06,105.00;32.11;1.06,83.39,45.73,90.29,45.08,"Possession 
+Lost",True
+131471,412,CILE,32908.0,VICTOR DAVILA,5,Shot,"On Target, Promising Action, Left, From inside the Penalty Area, Deflected",1,1t,24,9,24,21,105.00;34.21;1.19,105.00;34.21;1.19,91.93,41.60,94.00,36.81,Pass,True
+131471,412,CILE,32908.0,VICTOR DAVILA,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,24,16,24,28,105.00;34.71;2.79,105.00;34.71;2.79,96.59,37.60,105.00,34.71,Cross Against,False
+131471,412,CILE,7720.0,ALEXIS ALEJANDRO SANCHEZ SANCHEZ,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,28,46,28,58,105.00;35.45;4.50,105.00;35.45;4.50,91.52,43.47,105.00,35.45,Pass,False
+131471,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,32,13,32,25,0.00;36.16;0.18,105.00;31.84;0.18,82.19,23.87,83.21,28.03,Shot Against,True
+131471,780,PERU',13455.0,MIGUEL ARAUJO,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,42,48,43,0,0.00;34.05;1.25,105.00;33.95;1.25,95.93,37.07,102.55,35.32,"Defensive
+Action",True
+131471,412,CILE,8679.0,ERICK PULGAR,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,1,27,1,39,0.00;33.84;0.21,105.00;34.16;0.21,85.52,49.73,90.56,44.85,"Possession 
+Lost",True
+131471,412,CILE,32908.0,VICTOR DAVILA,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,7,43,7,55,0.00;31.31;0.45,105.00;36.69;0.45,86.59,36.53,88.97,36.93,Pass,True
+131471,412,CILE,26491.0,MARCELINO NUNEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,15,53,16,5,0.00;33.65;0.12,105.00;34.35;0.12,78.58,29.73,98.04,34.52,Possession Phase,True
+131471,780,PERU',17908.0,SERGIO PENA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,20,0,20,12,105.00;25.53;0.64,105.00;25.53;0.64,68.58,51.47,105.00,25.53,Shot Against,False
+131471,412,CILE,26497.0,BEN BRERETON,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,21,48,22,0,0.00;33.75;0.12,105.00;34.25;0.12,86.99,31.87,89.76,33.66,Pass,True
+131471,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",2,2t,33,34,33,46,105.00;32.34;1.78,105.00;32.34;1.78,93.53,25.73,102.55,33.20,Set Pieces,True
+131471,412,CILE,26497.0,BEN BRERETON,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,40,17,40,29,0.00;30.89;2.90,105.00;37.11;2.90,92.63,26.24,105.00,37.11,"Duel 
+Won",False
+131471,412,CILE,20526.0,IGOR LICHNOVSKY,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,43,42,43,54,0.00;39.88;4.50,105.00;28.12;4.50,94.28,29.81,105.00,28.12,Set Pieces,False

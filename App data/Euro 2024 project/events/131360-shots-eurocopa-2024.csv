@@ -1,0 +1,31 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131360,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,9,32,9,44,105.00;31.74;0.21,105.00;31.74;0.21,93.86,21.15,102.42,30.90,"Dribbling
+ Suffered",True
+131360,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,9,59,10,11,105.00;36.00;1.09,105.00;36.00;1.09,101.47,42.21,102.28,35.90,Intercept,True
+131360,475,SLOVACCHIA,9297.0,ONDREJ DUDA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,11,20,11,32,105.00;28.21;0.13,105.00;28.21;0.13,85.69,17.53,105.00,28.21,Pass,False
+131360,577,UCRAINA,38393.0,VOLODYMYR BRAZHKO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,12,47,12,59,0.00;34.32;0.21,105.00;33.68;0.21,77.71,29.87,101.89,34.40,Shot Against,True
+131360,475,SLOVACCHIA,16819.0,DAVID HANCKO,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",1,1t,16,25,16,37,105.00;32.34;1.15,105.00;32.34;1.15,85.23,45.18,102.55,33.77,Foul,True
+131360,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",1,1t,16,49,17,5,105.00;33.36;1.32,105.00;33.36;1.32,97.20,39.80,105.00,33.36,Side Balls,False
+131360,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,16,53,17,5,105.00;33.36;1.32,105.00;33.36;1.32,97.20,39.80,105.00,33.36,"Duel 
+Won",True
+131360,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,21,58,22,10,0.00;33.95;6.50,105.00;34.05;6.50,77.98,38.41,105.00,34.05,Shot Against,False
+131360,577,UCRAINA,26396.0,ARTEM DOVBYK,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",1,1t,27,36,27,48,0.00;32.64;0.21,105.00;35.36;0.21,97.48,24.77,99.77,26.53,Shot Against,True
+131360,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,28,26,28,38,0.00;34.87;0.54,105.00;33.13;0.54,90.89,20.13,94.53,26.76,Shot Against,True
+131360,577,UCRAINA,7845.0,ANDRIY YARMOLENKO,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",1,1t,28,27,28,39,0.00;29.18;1.05,105.00;38.82;1.05,97.39,38.41,105.00,38.82,Shot Against,False
+131360,577,UCRAINA,25840.0,OLEKSANDR TYMCHYK,5,Shot,"Post, Right, From inside the Penalty Area, Off Target",1,1t,33,7,33,19,0.00;37.66;0.34,105.00;30.34;0.34,92.56,49.45,105.00,30.34,"Possession 
+Lost",False
+131360,577,UCRAINA,10072.0,OLEKSANDR ZINCHENKO,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",1,1t,42,7,42,19,0.00;33.95;1.15,105.00;34.05;1.15,91.35,59.84,102.42,35.32,Set Pieces,True
+131360,475,SLOVACCHIA,7089.0,LUKAS HARASLIN,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,43,9,43,21,105.00;36.51;0.08,105.00;36.51;0.08,86.90,24.21,101.89,32.05,Possession Phase,True
+131360,577,UCRAINA,16244.0,MYKOLA SHAPARENKO,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,7,37,8,17,105.00;31.28;0.76,105.00;31.28;0.76,93.32,30.85,105.00,31.28,Pass,False
+131360,577,UCRAINA,16244.0,MYKOLA SHAPARENKO,5,Shot,"On Target, Goal, Promising Action, Left, From inside the Penalty Area",2,2t,8,5,8,17,105.00;31.28;0.76,105.00;31.28;0.76,93.32,30.85,105.00,31.28,Shot Against,True
+131360,475,SLOVACCHIA,26390.0,IVAN SCHRANZ,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,12,40,12,52,0.00;35.43;0.73,105.00;32.57;0.73,79.05,53.36,87.25,47.09,"Possession 
+Lost",True
+131360,475,SLOVACCHIA,9912.0,PETER PEKARIK,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,28,20,28,32,0.00;33.01;0.25,105.00;34.99;0.25,80.26,49.56,93.08,39.46,Pass,True
+131360,577,UCRAINA,28011.0,MYKHAYLO MUDRYK,5,Shot,"Post, Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,28,41,28,53,105.00;30.34;0.31,105.00;30.34;0.31,96.84,22.33,105.00,30.34,Shot Against,False
+131360,577,UCRAINA,24582.0,GEORGIY SUDAKOV,5,Shot,"On Target, Left, From outside the Penalty Area, Deflected",2,2t,31,16,31,28,105.00;32.85;0.21,105.00;32.85;0.21,79.79,23.53,94.53,27.45,Shot Against,True
+131360,577,UCRAINA,17326.0,ROMAN YAREMCHUK,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,33,8,34,14,105.00;35.08;0.08,105.00;35.08;0.08,100.09,41.41,105.00,35.08,"Offensive
+Action",False
+131360,577,UCRAINA,17326.0,ROMAN YAREMCHUK,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,34,2,34,14,105.00;35.08;0.08,105.00;35.08;0.08,100.09,41.41,105.00,35.08,Shot Against,True
+131360,475,SLOVACCHIA,11865.0,LASZLO BENES,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,35,52,36,4,0.00;35.98;0.28,105.00;32.02;0.28,91.01,41.78,95.20,37.50,Pass,True
+131360,475,SLOVACCHIA,6531.0,JURAJ KUCKA,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target",2,2t,39,6,39,18,0.00;36.21;7.50,105.00;31.79;7.50,75.07,17.32,105.00,31.79,Foul,False
+131360,475,SLOVACCHIA,10918.0,MILAN SKRINIAR,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,49,14,49,26,0.00;33.95;0.58,105.00;34.05;0.58,68.30,25.94,77.38,33.20,Pass,True

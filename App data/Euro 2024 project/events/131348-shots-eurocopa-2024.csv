@@ -1,0 +1,28 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131348,2,SPAGNA,13490.0,MIKEL MERINO ZAZON,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",1,1t,11,7,11,19,0.00;34.14;0.21,105.00;33.86;0.21,92.64,25.69,102.68,34.17,Cross Against,True
+131348,2,SPAGNA,38941.0,JOSE' LUIS SANMARTIN MATO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,11,25,11,37,0.00;38.14;2.99,105.00;29.86;2.99,92.31,31.70,105.00,29.86,"Defensive
+Action",False
+131348,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,25,Goal,"Left, From inside the Penalty Area, Offensive Action",1,1t,12,12,12,42,0.00;37.22;0.21,105.00;30.78;0.21,92.42,44.28,105.00,30.78,Pass,False
+131348,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",1,1t,12,30,12,42,0.00;37.22;0.21,105.00;30.78;0.21,92.42,44.28,105.00,30.78,Pass,True
+131348,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,20,52,21,4,0.00;48.26;0.25,105.00;19.74;0.25,83.45,48.76,105.00,19.74,Pass,False
+131348,2,SPAGNA,17790.0,FERRAN TORRES GARCIA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,40,14,40,26,0.00;36.16;3.11,105.00;31.84;3.11,95.92,44.60,105.00,31.84,Cross Against,False
+131348,2,SPAGNA,13490.0,MIKEL MERINO ZAZON,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,43,34,43,46,0.00;36.58;7.50,105.00;31.42;7.50,92.86,28.32,105.00,31.42,Pass,False
+131348,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,44,37,44,49,105.00;36.69;1.06,105.00;36.69;1.06,82.69,32.80,101.62,36.13,"Defensive
+Action",True
+131348,2,SPAGNA,38941.0,JOSE' LUIS SANMARTIN MATO,5,Shot,"Right, Off Target, From inside the Penalty Area",1,1t,45,22,45,34,0.00;39.51;0.10,105.00;28.49;0.10,91.66,18.59,105.00,28.49,Pass,False
+131348,2,SPAGNA,38941.0,JOSE' LUIS SANMARTIN MATO,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,1,28,1,40,105.00;29.32;1.86,105.00;29.32;1.86,97.13,29.52,105.00,29.32,Cross,False
+131348,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,4,15,4,27,0.00;2.44;0.13,105.00;65.56;0.13,84.00,29.30,86.58,31.36,Shot Against,False
+131348,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,4,34,4,46,105.00;44.53;0.13,105.00;44.53;0.13,55.02,38.15,105.00,44.53,"Duel 
+Lost",False
+131348,463,ALBANIA,34988.0,ARMANDO BROJA,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,18,45,18,57,0.00;31.08;2.14,105.00;36.92;2.14,91.22,39.79,100.83,37.16,Set Pieces,True
+131348,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",2,2t,19,34,19,46,0.00;45.31;0.19,105.00;22.69;0.19,82.80,25.14,86.85,27.22,Shot Against,False
+131348,463,ALBANIA,46129.0,JASIR ASANI,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,23,49,24,1,0.00;31.49;0.15,105.00;36.51;0.15,82.36,51.93,102.28,36.93,"Defensive
+Action",True
+131348,2,SPAGNA,49237.0,FERMIN LOPEZ MARTIN,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,31,19,31,31,105.00;34.16;0.41,105.00;34.16;0.41,84.33,40.56,85.66,38.31,"Possession 
+Lost",True
+131348,463,ALBANIA,25333.0,KRISTJAN ASLLANI,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,31,41,31,53,0.00;28.66;0.33,105.00;39.34;0.33,84.55,18.04,105.00,39.34,Shot Against,False
+131348,463,ALBANIA,50302.0,MEDON BERISHA,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,32,53,33,5,0.00;40.34;0.16,105.00;27.66;0.16,80.83,40.56,92.02,35.32,Shot Against,False
+131348,2,SPAGNA,23839.0,DANIEL OLMO CARVAJAL,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,33,34,33,46,105.00;33.68;0.25,105.00;33.68;0.25,94.94,20.44,96.85,24.93,Pass,True
+131348,2,SPAGNA,6133.0,ALVARO BORJA MORATA MARTIN,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,34,16,34,28,105.00;31.65;2.85,105.00;31.65;2.85,98.11,27.88,105.00,31.65,Set Pieces,False
+131348,463,ALBANIA,57447.0,ARBER HOXHA,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,37,55,38,7,0.00;25.14;6.50,105.00;42.86;6.50,96.69,20.66,105.00,42.86,Shot Against,False
+131348,463,ALBANIA,34988.0,ARMANDO BROJA,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,46,23,46,35,0.00;37.13;1.22,105.00;30.87;1.22,96.03,34.77,102.68,31.36,Shot Against,True

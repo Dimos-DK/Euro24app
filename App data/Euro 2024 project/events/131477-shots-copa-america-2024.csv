@@ -1,0 +1,26 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131477,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,6,13,6,25,0.00;30.71;0.38,105.00;37.29;0.38,103.46,40.82,102.81,37.96,"Dribbling
+ Suffered",True
+131477,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,11,8,11,20,0.00;39.60;0.13,105.00;28.40;0.13,94.43,46.46,105.00,28.40,"Dribbling
+ Suffered",False
+131477,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,15,47,15,59,0.00;31.40;5.50,105.00;36.60;5.50,92.68,49.95,105.00,36.60,Intercept,False
+131477,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,21,7,21,19,0.00;40.43;0.10,105.00;27.57;0.10,86.42,36.10,105.00,27.57,Pass,False
+131477,243,BRASILE,21572.0,RAPHAEL DIAS BELLOLI,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,24,26,24,38,0.00;31.58;1.35,105.00;36.42;1.35,93.20,43.59,96.32,42.10,Pass,True
+131477,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,25,22,25,34,0.00;40.25;0.76,105.00;27.75;0.76,94.53,33.03,105.00,27.75,Cross Against,False
+131477,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,41,20,41,32,0.00;33.75;6.50,105.00;34.25;6.50,90.63,37.03,105.00,34.25,Cross Against,False
+131477,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,46,26,46,38,0.00;31.31;3.05,105.00;36.69;3.05,86.22,45.13,105.00,36.69,"Dribbling
+ Suffered",False
+131477,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,1,13,1,25,105.00;28.95;0.90,105.00;28.95;0.90,98.43,28.00,105.00,28.95,Set Pieces,False
+131477,243,BRASILE,20860.0,RODRYGO SILVA DE GOES,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,14,29,14,41,105.00;31.28;0.51,105.00;31.28;0.51,96.07,31.79,97.38,31.70,"Possession 
+Lost",True
+131477,243,BRASILE,17876.0,LUCAS TOLENTINO COELHO DE LIMA,5,Shot,"Post, Left, From outside the Penalty Area, Off Target",2,2t,17,32,17,44,105.00;37.66;1.90,105.00;37.66;1.90,81.29,48.10,105.00,37.66,Possession Phase,False
+131477,416,COSTA RICA,36600.0,ALVARO ZAMORA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,22,43,22,55,0.00;31.91;1.32,105.00;36.09;1.32,75.44,38.15,86.19,38.42,Shot Against,True
+131477,243,BRASILE,65030.0,ENDRICK FELIPE MOREIRA DE SOUSA,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,25,53,26,5,105.00;34.85;0.51,105.00;34.85;0.51,89.50,35.90,90.82,35.90,"Duel 
+Lost",True
+131477,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,27,4,27,16,105.00;38.30;4.50,105.00;38.30;4.50,98.43,51.38,105.00,38.30,Ball Line Out,False
+131477,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,31,29,31,41,105.00;3.43;0.04,105.00;3.43;0.04,97.82,47.90,105.00,3.43,"Dribbling
+ Suffered",False
+131477,243,BRASILE,18557.0,GUILHERME ANTONIO ARANA LOPES,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,33,12,33,24,105.00;31.01;1.15,105.00;31.01;1.15,88.06,29.23,102.55,32.51,Bad Ball Control,True
+131477,243,BRASILE,37123.0,SAVIO MOREIRA DE OLIVEIRA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,39,30,39,42,105.00;34.25;1.09,105.00;34.25;1.09,87.65,38.36,92.94,36.24,"Possession 
+Lost",True
+131477,243,BRASILE,23388.0,BRUNO GUIMARAES RODRIGUEZ MOURA,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,45,32,45,44,105.00;38.12;3.41,105.00;38.12;3.41,90.63,37.85,105.00,38.12,Pass,False

@@ -1,0 +1,24 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131375,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,7,55,8,7,105.00;30.64;0.05,105.00;30.64;0.05,94.76,22.04,102.81,30.21,Pass,True
+131375,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",1,1t,18,13,18,25,105.00;62.77;0.01,105.00;62.77;0.01,90.29,44.23,91.49,42.90,Possession Phase,False
+131375,510,AUSTRIA,15798.0,KONRAD LAIMER,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",1,1t,31,56,32,8,0.00;29.09;0.36,105.00;38.91;0.36,97.36,48.98,98.97,47.78,Shot Against,False
+131375,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,32,29,32,41,105.00;34.12;0.08,105.00;34.12;0.08,90.29,24.20,91.62,24.81,"Duel 
+Won",True
+131375,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,35,4,35,16,0.00;37.18;0.02,105.00;30.82;0.02,96.63,31.84,97.91,32.05,Shot Against,True
+131375,423,FRANCIA,,,25,Goal,"Headed Shot, From inside the Penalty Area, Own Goal, Offensive Action",1,1t,37,22,37,39,105.00;30.92;0.15,105.00;30.92;0.15,99.38,38.03,105.00,30.92,"Offensive
+Action",False
+131375,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,2,38,2,50,105.00;36.14;4.50,105.00;36.14;4.50,80.63,46.82,105.00,36.14,Shot Against,False
+131375,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,9,30,9,42,0.00;28.84;0.64,105.00;39.16;0.64,90.29,32.27,105.00,39.16,"Duel 
+Lost",False
+131375,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"Right, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",2,2t,10,46,10,58,105.00;17.34;0.07,105.00;17.34;0.07,89.28,10.52,100.30,30.09,Set Pieces,False
+131375,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,18,40,18,52,0.00;43.47;3.50,105.00;24.53;3.50,85.96,48.84,105.00,24.53,Possession Phase,False
+131375,423,FRANCIA,17928.0,JULES KOUNDE',5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,20,54,21,6,0.00;34.87;0.05,105.00;33.13;0.05,93.75,39.76,101.49,35.67,"Possession 
+Lost",True
+131375,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,21,50,22,2,0.00;36.90;0.15,105.00;31.10;0.15,96.92,44.81,102.42,36.58,Ball Recovery,True
+131375,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,27,13,27,25,0.00;20.19;4.50,105.00;47.81;4.50,90.14,23.92,105.00,47.81,"Duel 
+Lost",False
+131375,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,37,5,37,17,0.00;34.87;0.12,105.00;33.13;0.12,94.47,26.94,103.08,32.51,Pass,True
+131375,423,FRANCIA,11711.0,KYLIAN MBAPPE',5,Shot,"On Target, Blocked, Headed Shot, From inside the Penalty Area",2,2t,39,28,39,40,0.00;33.79;0.41,105.00;34.21;0.41,97.50,32.99,98.57,33.66,Set Pieces,True
+131375,510,AUSTRIA,36154.0,PATRICK WIMMER,5,Shot,"On Target, GK Save, Headed Shot, From inside the Penalty Area",2,2t,46,8,46,20,105.00;37.61;0.69,105.00;37.61;0.69,97.36,44.95,103.08,37.50,Set Pieces,True
+131375,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,49,32,49,44,0.00;33.88;0.05,105.00;34.12;0.05,87.12,22.19,89.50,22.97,"Possession 
+Lost",True

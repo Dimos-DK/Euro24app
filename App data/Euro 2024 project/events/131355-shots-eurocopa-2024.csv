@@ -1,0 +1,32 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131355,516,SLOVENIA,23908.0,ADAM GNEZDA CERIN,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,3,21,3,33,0.00;34.23;0.15,105.00;33.77;0.15,83.34,42.75,101.89,36.12,Shot Against,True
+131355,516,SLOVENIA,13500.0,JAN MLAKAR,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,7,3,7,15,0.00;35.89;0.25,105.00;32.11;0.25,94.61,44.93,102.02,39.92,Shot Against,True
+131355,516,SLOVENIA,25095.0,TIMI MAX ELSNIK,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,20,13,20,25,0.00;34.41;1.09,105.00;33.59;1.09,79.41,35.75,83.07,33.77,Shot Against,True
+131355,467,SERBIA,16827.0,DUSAN VLAHOVIC,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,26,47,26,59,105.00;31.15;0.66,105.00;31.15;0.66,96.91,30.17,103.34,31.59,Cross Against,True
+131355,516,SLOVENIA,25095.0,TIMI MAX ELSNIK,5,Shot,"Post, Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,37,0,37,12,0.00;30.34;1.02,105.00;37.66;1.02,92.20,44.28,105.00,37.66,Pass,False
+131355,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",1,1t,37,2,37,14,0.00;69.00;2.88,105.00;-1.00;2.88,96.36,30.61,105.00,0.00,Shot Against,False
+131355,467,SERBIA,16827.0,DUSAN VLAHOVIC,5,Shot,"On Target, Blocked, Left, Direct Free Kick, From outside the Penalty Area",1,1t,38,50,39,2,105.00;32.16;1.29,105.00;32.16;1.29,77.88,26.02,90.69,29.64,Set Pieces,True
+131355,467,SERBIA,16827.0,DUSAN VLAHOVIC,5,Shot,"Left, From outside the Penalty Area, Off Target, Deflected",1,1t,38,52,39,4,105.00;1.22;0.19,105.00;1.22;0.19,82.47,24.93,86.85,24.47,Shot Against,False
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,41,3,41,15,105.00;34.30;0.15,105.00;34.30;0.15,100.73,31.16,102.28,31.01,"Duel 
+Lost",True
+131355,467,SERBIA,11563.0,SASA LUKIC,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,42,48,43,0,105.00;30.50;0.25,105.00;30.50;0.25,90.34,29.52,100.16,30.55,"Possession 
+Lost",True
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,45,24,45,36,105.00;23.43;0.45,105.00;23.43;0.45,98.98,28.21,105.00,23.43,"Duel 
+Won",False
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,1,29,1,41,0.00;34.18;0.73,105.00;33.82;0.73,97.34,44.60,100.83,41.52,Pass,True
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target, Deflected",2,2t,4,46,4,58,0.00;30.16;2.93,105.00;37.84;2.93,95.37,31.49,96.32,32.28,"Duel 
+Won",False
+131355,516,SLOVENIA,27995.0,BENJAMIN SESKO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,12,49,13,1,105.00;34.81;2.24,105.00;34.81;2.24,84.11,18.04,102.15,33.31,Shot Against,True
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,19,31,19,43,0.00;30.02;3.21,105.00;37.98;3.21,90.12,44.60,105.00,37.98,Pass,False
+131355,516,SLOVENIA,30898.0,ZAN KARNICNIK,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,22,48,23,16,105.00;37.06;0.41,105.00;37.06;0.41,98.88,38.48,105.00,37.06,Dribbling,False
+131355,516,SLOVENIA,30898.0,ZAN KARNICNIK,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,23,4,23,16,105.00;37.06;0.41,105.00;37.06;0.41,98.88,38.48,105.00,37.06,Shot Against,True
+131355,467,SERBIA,7569.0,ALEKSANDAR MITROVIC,5,Shot,"Post, Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,26,4,26,16,0.00;30.98;2.44,105.00;37.02;2.44,98.11,32.03,105.00,37.02,"Duel 
+Won",False
+131355,467,SERBIA,8627.0,SERGEJ MILINKOVIC-SAVIC,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,29,47,29,59,0.00;29.52;1.86,105.00;38.48;1.86,98.11,31.81,105.00,38.48,Set Pieces,False
+131355,516,SLOVENIA,30898.0,ZAN KARNICNIK,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,33,41,33,53,105.00;28.86;0.10,105.00;28.86;0.10,85.20,51.05,105.00,28.86,Ball Line Out,False
+131355,467,SERBIA,26642.0,LAZAR SAMARDZIC,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,37,19,37,31,0.00;28.92;0.19,105.00;39.08;0.19,87.94,22.63,105.00,39.08,Pass,False
+131355,467,SERBIA,23948.0,IVAN ILIC,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,40,20,40,32,0.00;36.67;0.21,105.00;31.33;0.21,87.17,24.05,99.63,31.36,Set Pieces Against,True
+131355,467,SERBIA,12266.0,MIJAT GACINOVIC,5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",2,2t,49,35,49,47,0.00;26.00;4.50,105.00;42.00;4.50,91.55,37.06,94.53,38.65,Pass,False
+131355,467,SERBIA,9803.0,LUKA JOVIC,25,Goal,"Headed Shot, From inside the Penalty Area, Corner",2,2t,49,57,50,9,0.00;37.31;0.18,105.00;30.69;0.18,99.64,34.66,105.00,30.69,"Duel 
+Won",False
+131355,467,SERBIA,9803.0,LUKA JOVIC,5,Shot,"On Target, Goal, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,49,57,50,9,0.00;37.31;0.18,105.00;30.69;0.18,99.64,34.66,105.00,30.69,Goal,True

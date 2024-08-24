@@ -1,0 +1,32 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131372,411,OLANDA,24807.0,JEREMIE FRIMPONG,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,0,52,1,4,0.00;36.99;0.18,105.00;31.01;0.18,94.48,46.89,101.75,36.35,"Offensive
+Action",True
+131372,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,3,44,3,56,105.00;35.36;2.21,105.00;35.36;2.21,82.96,16.36,102.28,33.31,Shot Against,True
+131372,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,13,43,13,55,105.00;29.42;1.57,105.00;29.42;1.57,94.66,31.72,105.00,29.42,Shot Against,False
+131372,411,OLANDA,17859.0,CODY GAKPO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,15,53,16,5,0.00;31.35;0.21,105.00;36.65;0.21,86.57,23.86,102.42,35.32,Pass,True
+131372,411,OLANDA,17370.0,DENZEL DUMFRIES,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,23,6,23,18,0.00;25.23;2.56,105.00;42.77;2.56,100.34,48.99,105.00,42.77,Ball Line Out,False
+131372,411,OLANDA,24902.0,TIJJANI REIJNDERS,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,27,13,27,25,0.00;22.55;1.63,105.00;45.45;1.63,82.04,25.87,82.41,30.21,Pass,False
+131372,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,27,35,27,47,105.00;38.73;3.21,105.00;38.73;3.21,96.77,46.80,105.00,38.73,Shot Against,False
+131372,411,OLANDA,24807.0,JEREMIE FRIMPONG,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,34,23,34,35,0.00;31.68;0.05,105.00;36.32;0.05,92.10,42.23,93.47,42.33,"Possession 
+Lost",True
+131372,411,OLANDA,36670.0,XAVI SIMONS,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,35,2,35,14,0.00;32.69;0.12,105.00;35.31;0.12,82.77,25.23,101.49,34.86,"Offensive
+Action",True
+131372,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"Left, Direct Free Kick, From outside the Penalty Area, Off Target, Deflected",1,1t,40,31,40,43,105.00;40.97;7.50,105.00;40.97;7.50,86.98,47.25,92.55,44.63,Shot Against,False
+131372,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, GK Save, Big Chance, Headed Shot, From inside the Penalty Area",1,1t,42,17,42,29,105.00;32.20;0.58,105.00;32.20;0.58,91.92,30.25,102.42,32.74,Cross,True
+131372,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",2,2t,5,18,5,30,0.00;35.29;0.31,105.00;32.71;0.31,84.79,39.94,89.90,35.44,"Possession 
+Lost",True
+131372,423,FRANCIA,11041.0,N'GOLO KANTE',5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,6,55,7,7,0.00;30.80;5.50,105.00;37.20;5.50,81.59,50.54,105.00,37.20,Shot Against,False
+131372,411,OLANDA,10420.0,MEMPHIS DEPAY,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",2,2t,9,37,9,49,105.00;31.88;1.95,105.00;31.88;1.95,79.12,27.78,90.43,30.55,Set Pieces,True
+131372,423,FRANCIA,7437.0,ADRIEN RABIOT,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,11,33,11,45,0.00;18.16;8.50,105.00;49.84;8.50,95.12,29.89,105.00,49.84,Cross,False
+131372,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,13,30,13,42,0.00;1.28;0.78,105.00;66.72;0.78,78.11,28.79,80.69,30.90,Shot Against,False
+131372,423,FRANCIA,20214.0,MARCUS THURAM,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,14,44,14,56,0.00;39.60;0.04,105.00;28.40;0.04,85.79,34.37,105.00,28.40,Shot Against,False
+131372,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,17,10,17,22,0.00;32.50;2.96,105.00;35.50;2.96,94.39,32.90,105.00,35.50,"Duel 
+Won",False
+131372,423,FRANCIA,7617.0,ANTOINE GRIEZMANN,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,19,41,19,53,0.00;30.80;0.05,105.00;37.20;0.05,99.88,38.57,101.89,36.58,Shot Against,True
+131372,423,FRANCIA,17930.0,AURELIEN TCHOUAMENI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,20,34,20,46,0.00;32.73;0.15,105.00;35.27;0.15,83.23,16.73,91.88,24.12,"Possession 
+Lost",True
+131372,423,FRANCIA,11048.0,OUSMANE DEMBELE',5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,22,16,22,28,0.00;34.00;3.05,105.00;34.00;3.05,90.18,43.60,105.00,34.00,Shot Against,False
+131372,411,OLANDA,10420.0,MEMPHIS DEPAY,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,23,29,23,41,105.00;34.21;0.02,105.00;34.21;0.02,96.59,26.23,102.28,32.28,"Possession 
+Lost",True
+131372,411,OLANDA,36670.0,XAVI SIMONS,5,Shot,"On Target, Right, From inside the Penalty Area",2,2t,23,30,23,42,105.00;36.88;0.18,105.00;36.88;0.18,91.19,31.44,105.00,36.88,Shot Against,True
+131372,423,FRANCIA,11041.0,N'GOLO KANTE',5,Shot,"Right, From inside the Penalty Area, Off Target, Deflected",2,2t,45,27,45,39,0.00;20.45;4.50,105.00;47.55;4.50,92.20,46.16,93.47,45.95,Shot Against,False

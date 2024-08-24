@@ -1,0 +1,33 @@
+Player ID,First Name,Last Name,Known Name,Born Date,Shirt Number,Position,Position Detail,Citizenship,Height,Foot,Photo,Module Position,Age
+6345,BRUNO MIGUEL,BORGES FERNANDES,FERNANDES B.,1994-09-08,8,Midfielder,Attacking Midfield,Portugal,179,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDES B._6345.png,0,29.8
+13033,NELSON,CABRAL SEMEDO,SEMEDO N.,1993-11-16,2,Defender,Right-Back,Portugal,177,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEMEDO N._13033.png,0,30.6
+9759,JOAO PEDRO,CAVACO CANCELO,JOAO CANCELO,1994-05-27,20,Defender,Right-Back,Portugal,182,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO CANCELO_9759.png,0,30.1
+13771,RICARDO JORGE,DA LUZ HORTA,HORTA R.,1994-09-15,0,Striker,Left Forward,Portugal,173,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HORTA R._13771.png,0,29.8
+13366,OTAVIO EDMILSON,DA SILVA MONTEIRO,OTAVIO DA SILVA MONTEIRO,1995-02-09,0,Striker,Right Winger,Portugal,172,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OTAVIO_13366.png,0,29.4
+7473,RUBEN DIOGO,DA SILVA NEVES,NEVES R.,1997-03-13,18,Midfielder,Defensive Midfield,Portugal,180,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEVES R._7473.png,0,27.3
+16209,JOSE' DIOGO,DALOT TEIXEIRA,DALOT J.,1999-03-18,5,Defender,Right-Back,Portugal,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/diogo-dalot.png,0,25.3
+7483,KEPLER LAVERAN,DE LIMA FERREIRA,PEPE,1983-02-26,3,Defender,,Portugal,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEPE_7483.png,0,41.4
+7490,CRISTIANO RONALDO,DOS SANTOS AVEIRO,CRISTIANO RONALDO,1985-02-05,7,Striker,Centre-Forward,Portugal,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CRISTIANO RONALDO_7490.png,0,39.4
+16957,RUBEN,DOS SANTOS GATO ALVES DIAS,RUBEN DIAS,1997-05-14,4,Defender,Centre-Back,Portugal,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUBEN DIAS_16957.png,0,27.1
+7543,RUI PEDRO,DOS SANTOS PATRICIO,RUI PATRICIO,1988-02-15,1,Goalkeeper,Goalkeeper,Portugal,190,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUI PATRICIO_7543.png,0,36.4
+16515,JOAO,FELIX SEQUEIRA,JOAO FELIX,1999-11-10,11,Striker,Second Striker,Portugal,181,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO FELIX_16515.png,0,24.6
+25459,FRANCISCO,FERNANDES DA CONCEICAO,CONCEICAO F.,2002-12-14,26,Striker,,Portugal,170,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CONCEICAO F._25459.png,0,21.5
+53257,TOTE ANTONIO,GOMES,TOTI,1999-01-16,0,Defender,Centre-Back,Portugal,187,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOTI_53257.png,0,25.5
+37707,JOAO PEDRO,GONCALVES NEVES,NEVES J.,2004-09-27,15,Midfielder,,Portugal,174,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEVES J._37707.png,0,19.8
+7536,RAPHAEL ADELINO JOSE',GUERREIRO,GUERREIRO R.,1993-12-22,0,Defender,Left-Back,Portugal,170,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERREIRO R._7536.png,0,30.5
+28928,GONCALO BERNARDO,INACIO,INACIO G.,2001-08-25,14,Defender,Centre-Back,Portugal,186,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/INACIO G._28928.png,0,22.8
+20900,RAFAEL,LEAO,LEAO R.,1999-06-10,17,Striker,Left Forward,Portugal,188,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEAO R._20900.png,0,25.1
+15421,JOAO MARIA,LOBO ALVES PALHARES COSTA PALHINHA GONCALVES,PALHINHA J.,1995-07-09,6,Midfielder,Defensive Midfield,Portugal,190,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PALHINHA J._15421.png,0,29.0
+18841,PEDRO,LOMBA NETO,NETO P.,2000-03-09,25,Midfielder,Right Winger,Portugal,172,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NETO P._18841.png,0,24.3
+25136,VITOR,MACHADO FERREIRA,VITINHA,2000-02-13,23,Midfielder,Center Midfield,Portugal,172,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VITINHA_25136.png,0,24.4
+15504,JOSE' PEDRO,MALHEIRO DE SA,JOSE' SA',1993-01-17,12,Goalkeeper,Goalkeeper,Portugal,192,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOSE' SA'_15504.png,0,31.5
+25349,GONCALO,MATIAS RAMOS,RAMOS G.,2001-06-20,9,Striker,Centre-Forward,Portugal,185,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMOS G._25349.png,0,23.0
+16514,DIOGO,MEIRELES DA COSTA,DIOGO COSTA,1999-09-19,22,Goalkeeper,Goalkeeper,Portugal,186,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIOGO COSTA_16514.png,0,24.8
+7413,BERNARDO,MOTA VEIGA DE CARVALHO E SILVA,BERNARDO SILVA,1994-08-10,10,Midfielder,Attacking Midfield,Portugal,173,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERNARDO SILVA_7413.png,0,29.9
+24945,JOAO MARIO,NETO LOPES,JOAO MARIO,2000-01-03,0,Defender,,Portugal,178,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO MARIO_24945.png,0,24.5
+28929,MATHEUS LUIZ,NUNES,MATHEUS NUNES,1998-08-27,16,Midfielder,,Portugal,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATHEUS NUNES_28929.png,0,25.8
+11096,DANILO LUIS HELIO,PEREIRA,DANILO PEREIRA,1991-09-09,13,Midfielder,Defensive Midfield,Portugal,188,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DANILO PEREIRA_11096.png,0,32.8
+27212,ANTONIO JOAO,PEREIRA DE ALBUQUERQUE TAVARES DA SILVA,SILVA A.,2003-10-30,24,Defender,Centre-Back,Portugal,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SILVA A._27212.png,0,20.7
+25752,NUNO ALEXANDRE,TAVARES MENDES,NUNO MENDES,2002-06-19,19,Defender,,Portugal,183,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NUNO MENDES_25752.png,0,22.0
+13315,DIOGO JOSE',TEIXEIRA DA SILVA,JOTA D.,1996-12-04,21,Striker,Left Forward,Portugal,178,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOTA D._13315.png,0,27.6
+7990,ARMINDO,TUE' NA BANGNA,BRUMA,1994-10-24,0,Striker,,Portugal,173,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRUMA_7990.png,0,29.7

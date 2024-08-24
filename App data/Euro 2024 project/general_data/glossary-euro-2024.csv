@@ -1,0 +1,356 @@
+,ID,Code,Description,Extended Description,Percentage on Item ID
+0,1,playTime,Play Time,,
+1,1a,playTime_MEAN,Play Time average per game,,
+2,2,tiri,Shots,,
+3,2a,tiri_MEAN,Shots average per game,,
+4,3,tiriInPorta,Shots on Target,"A deliberate attempt to score that is on target. Includes all Goals being scored and shots on target saved by the Goalkeeper.
+It not includes shots on target that are Blocked by a defending player, preventing the ball from entering the Goal, even if by the last line defender. 
+A Blocked Shot is not classified as a Shot On Target.",2
+5,3a,tiriInPorta_MEAN,Shots on Target average per game,"A deliberate attempt to score that is on target. Includes all Goals being scored and shots on target saved by the Goalkeeper.
+It not includes shots on target that are Blocked by a defending player, preventing the ball from entering the Goal, even if by the last line defender. 
+A Blocked Shot is not classified as a Shot On Target.",2
+6,3p,tiriInPorta_PERC,Shots on Target percentage on total Shots,"A deliberate attempt to score that is on target. Includes all Goals being scored and shots on target saved by the Goalkeeper.
+It not includes shots on target that are Blocked by a defending player, preventing the ball from entering the Goal, even if by the last line defender. 
+A Blocked Shot is not classified as a Shot On Target.",2
+7,4,tiriDaArea,Shots from Inside the Box,,2
+8,4a,tiriDaArea_MEAN,Shots from Inside the Box average per game,,2
+9,4p,tiriDaArea_PERC,Shots from Inside the Box percentage on total Shots,,2
+10,5,tiriDaFuori,Shots from Outside the Box,,2
+11,5a,tiriDaFuori_MEAN,Shots from Outside the Box average per game,,2
+12,5p,tiriDaFuori_PERC,Shots from Outside the Box percentage on total Shots,,2
+13,6,tiriDiTesta,Head Shot,,2
+14,6a,tiriDiTesta_MEAN,Head Shot average per game,,2
+15,6p,tiriDiTesta_PERC,Head Shot percentage on total Shots,,2
+16,7,tiriDiRigore,Penalties,Penalty Shots,2
+17,7a,tiriDiRigore_MEAN,Penalties average per game,Penalty Shots,2
+18,7p,tiriDiRigore_PERC,Penalties percentage on total Shots,Penalty Shots,2
+19,8,passChiave,Killer Passes,The Killer Pass is a ball transmission that makes a significant contribution to the development of the offensive phase. Killer pass can be - Verticalization and Switch play.,
+20,8a,passChiave_MEAN,Killer Passes average per game,The Killer Pass is a ball transmission that makes a significant contribution to the development of the offensive phase. Killer pass can be - Verticalization and Switch play.,
+21,9,passChiaveInArea,Killer Passes in the Box,Killer pass that reach a teammate into the penalty Box,8
+22,9a,passChiaveInArea_MEAN,Killer Passes in the Box average per game,Killer pass that reach a teammate into the penalty Box,8
+23,9p,passChiaveInArea_PERC,Killer Passes in the Box percentage on total Killer Passes,Killer pass that reach a teammate into the penalty Box,8
+24,10,pass,Passes,,
+25,10a,pass_MEAN,Passes average per game,,
+26,11,passInArea,Passes in the Box,Pass that reach a player into the penalty box,10
+27,11a,passInArea_MEAN,Passes in the Box average per game,Pass that reach a player into the penalty box,10
+28,11p,passInArea_PERC,Passes in the Box percentage on total Passes,Pass that reach a player into the penalty box,10
+29,12,passRiusciti,Accurate Passes,"Every simple pass tath reacha teammate. Short or long passes on the ground, not difficult to be done. A velo pass (when a player intentionally leaves the ball pass through/near his leg) is considered as a pass. If after the velo pass there is a goal, we don't collect is as a simple pass, it’s a goal provoked 'Velo Assist'",10
+30,12a,passRiusciti_MEAN,Accurate Passes average per game,"Every simple pass tath reacha teammate. Short or long passes on the ground, not difficult to be done. A velo pass (when a player intentionally leaves the ball pass through/near his leg) is considered as a pass. If after the velo pass there is a goal, we don't collect is as a simple pass, it’s a goal provoked 'Velo Assist'",10
+31,12p,passRiusciti_PERC,Accurate Passes percentage on total Passes,"Every simple pass tath reacha teammate. Short or long passes on the ground, not difficult to be done. A velo pass (when a player intentionally leaves the ball pass through/near his leg) is considered as a pass. If after the velo pass there is a goal, we don't collect is as a simple pass, it’s a goal provoked 'Velo Assist'",10
+32,13,passInAreaRiusciti,Accurate Passes in the Box,,11
+33,13a,passInAreaRiusciti_MEAN,Accurate Passes in the Box average per game,,11
+34,13p,passInAreaRiusciti_PERC,Accurate Passes in the Box percentage on total Passes in the Box,,11
+35,14,passChiaveRicevuti,Killer Passes Received,,16
+36,14a,passChiaveRicevuti_MEAN,Killer Passes Received average per game,,16
+37,14p,passChiaveRicevuti_PERC,Killer Passes Received percentage on total Passes Received,,16
+38,15,passChiaveRicevutiInArea,Killer Passes Received in the Box,,14
+39,15a,passChiaveRicevutiInArea_MEAN,Killer Passes Received in the Box average per game,,14
+40,15p,passChiaveRicevutiInArea_PERC,Killer Passes Received in the Box percentage on total Killer Passes Received,,14
+41,16,passRicevuti,Passes Received,,
+42,16a,passRicevuti_MEAN,Passes Received average per game,,
+43,17,passRicevutiInArea,Passes Received in the Box,,16
+44,17a,passRicevutiInArea_MEAN,Passes Received in the Box average per game,,16
+45,17p,passRicevutiInArea_PERC,Passes Received in the Box percentage on total Passes Received,,16
+46,18,giochiPortiereRicevuti,Goalkeeper Plays Received,Every ball touch after a goalkeeper transmission of the ball,
+47,18a,giochiPortiereRicevuti_MEAN,Goalkeeper Plays Received average per game,Every ball touch after a goalkeeper transmission of the ball,
+48,19,giochiPortiereRicevutiMetaCampoAvversaria,Goalkeeper Plays Received in Offensive Half,Every ball touch after a goalkeeper transmission of the ball in the offensive half.,18
+49,19a,giochiPortiereRicevutiMetaCampoAvversaria_MEAN,Goalkeeper Plays Received in Offensive Half average per game,Every ball touch after a goalkeeper transmission of the ball in the offensive half.,18
+50,19p,giochiPortiereRicevutiMetaCampoAvversaria_PERC,Goalkeeper Plays Received in Offensive Half percentage on total Goalkeeper Plays Received,Every ball touch after a goalkeeper transmission of the ball in the offensive half.,18
+51,20,assist,Assists,Every pass before a shot,
+52,20a,assist_MEAN,Assists average per game,Every pass before a shot,
+53,21,assistVincenti,Goal Assists,Every pass before a goal,20
+54,21a,assistVincenti_MEAN,Goal Assists average per game,Every pass before a goal,20
+55,21p,assistVincenti_PERC,Goal Assists percentage on total Assists,Every pass before a goal,20
+56,22,assistInArea,Assists in the Box,,20
+57,22a,assistInArea_MEAN,Assists in the Box average per game,,20
+58,22p,assistInArea_PERC,Assists in the Box percentage on total Assists,,20
+59,23,assistVincentiInArea,Goal Assists in the Box,,22
+60,23a,assistVincentiInArea_MEAN,Goal Assists in the Box average per game,,22
+61,23p,assistVincentiInArea_PERC,Goal Assists in the Box percentage on total Assists in the Box,,22
+62,24,thirdPass,Third Passes,Every killer pass before an assist shot,
+63,24a,thirdPass_MEAN,Third Passes average per game,Every killer pass before an assist shot,
+64,25,thirdPassVincenti,Goal Third Passes,Every killer pass before a goal assist,24
+65,25a,thirdPassVincenti_MEAN,Goal Third Passes average per game,Every killer pass before a goal assist,24
+66,25p,thirdPassVincenti_PERC,Goal Third Passes percentage on total Third Passes,Every killer pass before a goal assist,24
+67,26,cross,Crosses,Passage made from the side area in the last 30 meters towards the penalty area.,
+68,26a,cross_MEAN,Crosses average per game,Passage made from the side area in the last 30 meters towards the penalty area.,
+69,28,crossRiusciti,Accurate Crosses,A cross that reach a teammate,26
+70,28a,crossRiusciti_MEAN,Accurate Crosses average per game,A cross that reach a teammate,26
+71,28p,crossRiusciti_PERC,Accurate Crosses percentage on total Crosses,A cross that reach a teammate,26
+72,29,crossVincenti,Goal Assist Crosses,Every cross when the next touch is a goal. (a Goal Assist but not from a pass),26
+73,29a,crossVincenti_MEAN,Goal Assist Crosses average per game,Every cross when the next touch is a goal. (a Goal Assist but not from a pass),26
+74,29p,crossVincenti_PERC,Goal Assist Crosses percentage on total Crosses,Every cross when the next touch is a goal. (a Goal Assist but not from a pass),26
+75,30,traversoni,Crosses behind the lines,"Side ball (can start both inside and outside the area) that passes or arrives behind the defensive line, between defensive line and goal (excluding the opponent who contrasts whoever makes the cross).",
+76,30a,traversoni_MEAN,Crosses behind the lines average per game,"Side ball (can start both inside and outside the area) that passes or arrives behind the defensive line, between defensive line and goal (excluding the opponent who contrasts whoever makes the cross).",
+77,31,traversoniRiusciti,Accurate crosses behind the lines,A Cross behind the lines that reach a teammate,30
+78,31a,traversoniRiusciti_MEAN,Accurate crosses behind the lines average per game,A Cross behind the lines that reach a teammate,30
+79,31p,traversoniRiusciti_PERC,Accurate crosses behind the lines percentage on total Crosses behind the lines,A Cross behind the lines that reach a teammate,30
+80,32,traversoniVincenti,Goal crosses behind the lines,Every Crosses behind the lines when the next touch is a goal. (a Goal Assist but not from a pass),30
+81,32a,traversoniVincenti_MEAN,Goal crosses behind the lines average per game,Every Crosses behind the lines when the next touch is a goal. (a Goal Assist but not from a pass),30
+82,32p,traversoniVincenti_PERC,Goal crosses behind the lines percentage on total Crosses behind the lines,Every Crosses behind the lines when the next touch is a goal. (a Goal Assist but not from a pass),30
+83,33,cutBack,Cut Back,Side ball that starts in the area included by the post and the space between the penalty area and the sideline. It is transmitted low (basically low to the ground) and backwards for a hypothetical companion that follows the action.,
+84,33a,cutBack_MEAN,Cut Back average per game,Side ball that starts in the area included by the post and the space between the penalty area and the sideline. It is transmitted low (basically low to the ground) and backwards for a hypothetical companion that follows the action.,
+85,34,cutBackRiusciti,Accurate Cut Back,A cut back that reach a teammate,33
+86,34a,cutBackRiusciti_MEAN,Accurate Cut Back average per game,A cut back that reach a teammate,33
+87,34p,cutBackRiusciti_PERC,Accurate Cut Back percentage on total Cut Back,A cut back that reach a teammate,33
+88,35,cutBackVincenti,Goal Cut Back,Every cut back when the next touch is a goal. (a Goal Assist but not from a pass),33
+89,35a,cutBackVincenti_MEAN,Goal Cut Back average per game,Every cut back when the next touch is a goal. (a Goal Assist but not from a pass),33
+90,35p,cutBackVincenti_PERC,Goal Cut Back percentage on total Cut Back,Every cut back when the next touch is a goal. (a Goal Assist but not from a pass),33
+91,36,palleLaterali,Side Balls,"A pass from the lateral side through the penalty area and arriving in the last 18 meters of the pitch. Side balls are only open play balls, not directly from a Set Piece. Accuracy of sideballs depends on the receiver of the pass (if it’s a duel - receiver who won the duel)",
+92,36a,palleLaterali_MEAN,Side Balls average per game,"A pass from the lateral side through the penalty area and arriving in the last 18 meters of the pitch. Side balls are only open play balls, not directly from a Set Piece. Accuracy of sideballs depends on the receiver of the pass (if it’s a duel - receiver who won the duel)",
+93,37,perdePalla,Lost Possessions,"When a team permanently (at least one pass, a ball carry, a shot,a dribbling) loses the possession of the ball",
+94,37a,perdePalla_MEAN,Lost Possessions average per game,"When a team permanently (at least one pass, a ball carry, a shot,a dribbling) loses the possession of the ball",
+95,38,triangolazione,Give and Go,"Exchange between two players (round-trip pass) that ""puts in the middle"" at least one opponent player. We can also call it Triangulation.",
+96,38a,triangolazione_MEAN,Give and Go average per game,"Exchange between two players (round-trip pass) that ""puts in the middle"" at least one opponent player. We can also call it Triangulation.",
+97,39,triFatta,Open Give and Go,The player who made the first pass in the Give and Go,38
+98,39a,triFatta_MEAN,Open Give and Go average per game,The player who made the first pass in the Give and Go,38
+99,39p,triFatta_PERC,Open Give and Go percentage on total Give and Go,The player who made the first pass in the Give and Go,38
+100,40,triChiusa,Closed Give and Go,The player who made the second pass in the Give and Go,38
+101,40a,triChiusa_MEAN,Closed Give and Go average per game,The player who made the second pass in the Give and Go,38
+102,40p,triChiusa_PERC,Closed Give and Go percentage on total Give and Go,The player who made the second pass in the Give and Go,38
+103,41,recuperaPalla,Ball Recoveries,"When a team permanently (at least one pass, a ball carry, a shot,a dribbling) gain the possession of the ball",
+104,41a,recuperaPalla_MEAN,Ball Recoveries average per game,"When a team permanently (at least one pass, a ball carry, a shot,a dribbling) gain the possession of the ball",
+105,42,perdeMetaCampoProria,Lost Possessions in Defensive Half,,37
+106,42a,perdeMetaCampoProria_MEAN,Lost Possessions in Defensive Half average per game,,37
+107,42p,perdeMetaCampoProria_PERC,Lost Possessions in Defensive Half percentage on total Lost Possessions,,37
+108,43,recuperaMetaCampoAvversaria,Ball Recoveries in Offensive Half,,41
+109,43a,recuperaMetaCampoAvversaria_MEAN,Ball Recoveries in Offensive Half average per game,,41
+110,43p,recuperaMetaCampoAvversaria_PERC,Ball Recoveries in Offensive Half percentage on total Ball Recoveries,,41
+111,44,dribbling,Dribbling,"Situation of 1 vs 1 when a player tries to create space for himself or find exit from this situation leaving his opponent behind. A dribbling will automatically generate a duel. It's important the idea, the attempt of the player to do it, doesn't matter if it is or not successful.",
+112,44a,dribbling_MEAN,Dribbling average per game,"Situation of 1 vs 1 when a player tries to create space for himself or find exit from this situation leaving his opponent behind. A dribbling will automatically generate a duel. It's important the idea, the attempt of the player to do it, doesn't matter if it is or not successful.",
+113,45,dribblingPositivo,Successful Dribbling,When the player who try to dribble can overtake his opponent,44
+114,45a,dribblingPositivo_MEAN,Successful Dribbling average per game,When the player who try to dribble can overtake his opponent,44
+115,45p,dribblingPositivo_PERC,Successful Dribbling percentage on total Dribbling,When the player who try to dribble can overtake his opponent,44
+116,46,dribblingSub,Suffered Dribbling,A defender who is involved in a dribbling,
+117,46a,dribblingSub_MEAN,Suffered Dribbling average per game,A defender who is involved in a dribbling,
+118,47,dribblingSubitoNegativo,Negative Suffered Dribbling,A defender who is overtaken in a dribbling,46
+119,47a,dribblingSubitoNegativo_MEAN,Negative Suffered Dribbling average per game,A defender who is overtaken in a dribbling,46
+120,47p,dribblingSubitoNegativo_PERC,Negative Suffered Dribbling percentage on total Suffered Dribbling,A defender who is overtaken in a dribbling,46
+121,48,duelli,Duels,Situation of 1 vs 1 with aerial or ground contrast. A duel is won when a competing player earns or keeps possession of the ball. All dribbles and fouls are also considered duels.,
+122,48a,duelli_MEAN,Duels average per game,Situation of 1 vs 1 with aerial or ground contrast. A duel is won when a competing player earns or keeps possession of the ball. All dribbles and fouls are also considered duels.,
+123,49,duelliFalliDiGioco,Duels Won on Foul,A player who suffered a foul,48
+124,49a,duelliFalliDiGioco_MEAN,Duels Won on Foul average per game,A player who suffered a foul,48
+125,49p,duelliFalliDiGioco_PERC,Duels Won on Foul percentage on total Duels,A player who suffered a foul,48
+126,50,duelliVinti,Duels Won,We count that player wins a duel if keep the ball for himself or makes a pass in a moment of duel or at least made a big influence on this duel.,48
+127,50a,duelliVinti_MEAN,Duels Won average per game,We count that player wins a duel if keep the ball for himself or makes a pass in a moment of duel or at least made a big influence on this duel.,48
+128,50p,duelliVinti_PERC,Duels Won percentage on total Duels,We count that player wins a duel if keep the ball for himself or makes a pass in a moment of duel or at least made a big influence on this duel.,48
+129,51,duelliVintiMetaCampo,Duels Won in the Offensive Half,,50
+130,51a,duelliVintiMetaCampo_MEAN,Duels Won in the Offensive Half average per game,,50
+131,51p,duelliVintiMetaCampo_PERC,Duels Won in the Offensive Half percentage on total Duels Won,,50
+132,52,duelliPersiMetaCampo,Duels Lost in the Offensive Half,,50
+133,52a,duelliPersiMetaCampo_MEAN,Duels Lost in the Offensive Half average per game,,50
+134,52p,duelliPersiMetaCampo_PERC,Duels Lost in the Offensive Half percentage on total Duels Won,,50
+135,53,duelliAerei,Aerial Duels,,48
+136,53a,duelliAerei_MEAN,Aerial Duels average per game,,48
+137,53p,duelliAerei_PERC,Aerial Duels percentage on total Duels,,48
+138,54,duelliAereiVinti,Aerial Duels Won,Aerial duel is won when a competing player earns or keeps possession of the ball,53
+139,54a,duelliAereiVinti_MEAN,Aerial Duels Won average per game,Aerial duel is won when a competing player earns or keeps possession of the ball,53
+140,54p,duelliAereiVinti_PERC,Aerial Duels Won percentage on total Aerial Duels,Aerial duel is won when a competing player earns or keeps possession of the ball,53
+141,55,duelliTackle,Tackles,,48
+142,55a,duelliTackle_MEAN,Tackles average per game,,48
+143,55p,duelliTackle_PERC,Tackles percentage on total Duels,,48
+144,56,duelliTackleVinti,Tackles Won,A tackle is won when a competing player earns or keeps possession of the ball,55
+145,56a,duelliTackleVinti_MEAN,Tackles Won average per game,A tackle is won when a competing player earns or keeps possession of the ball,55
+146,56p,duelliTackleVinti_PERC,Tackles Won percentage on total Tackles,A tackle is won when a competing player earns or keeps possession of the ball,55
+147,57,falliFatti,Fouls,,
+148,57a,falliFatti_MEAN,Fouls average per game,,
+149,58,falliSubiti,Fouls Suffered,,
+150,58a,falliSubiti_MEAN,Fouls Suffered average per game,,
+151,59,parate,Saves,"Movement of the goalkeeper to save a shot towards the goal. It could be by hand, leg (included feet) or body (chest or head). It could be Held, when the goalkeeper catches the ball (in one touch or two fast touches) or Rejected when he rejects the ball without holding it.",
+152,59a,parate_MEAN,Saves average per game,"Movement of the goalkeeper to save a shot towards the goal. It could be by hand, leg (included feet) or body (chest or head). It could be Held, when the goalkeeper catches the ball (in one touch or two fast touches) or Rejected when he rejects the ball without holding it.",
+153,60,uscite,Claims,"Movement made by the goalkeeper, who leaves the goal line goal and advances inside the penalty area or, not frequently, out of the same area with the aim of attempting to play the ball or to move closer to the ball.",
+154,60a,uscite_MEAN,Claims average per game,"Movement made by the goalkeeper, who leaves the goal line goal and advances inside the penalty area or, not frequently, out of the same area with the aim of attempting to play the ball or to move closer to the ball.",
+155,61,inFuorigioco,Offsides,"A player is in an offside position if: any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent.",
+156,61a,inFuorigioco_MEAN,Offsides average per game,"A player is in an offside position if: any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent.",
+157,62,tiriDaAreaPiccola,Shots from the Goal area,,2
+158,62a,tiriDaAreaPiccola_MEAN,Shots from the Goal area average per game,,2
+159,62p,tiriDaAreaPiccola_PERC,Shots from the Goal area percentage on total Shots,,2
+160,63,tiroGol,Shots Goal,,2
+161,63a,tiroGol_MEAN,Shots Goal average per game,,2
+162,63p,tiroGol_PERC,Shots Goal percentage on total Shots,,2
+163,64,tiroGolArea,Shots Goal from Inside The Box,,63
+164,64a,tiroGolArea_MEAN,Shots Goal from Inside The Box average per game,,63
+165,64p,tiroGolArea_PERC,Shots Goal from Inside The Box percentage on total Shots Goal,,63
+166,65,tiroGolAreaPiccola,Shots Goal from the Goal area,,63
+167,65a,tiroGolAreaPiccola_MEAN,Shots Goal from the Goal area average per game,,63
+168,65p,tiroGolAreaPiccola_PERC,Shots Goal from the Goal area percentage on total Shots Goal,,63
+169,66,tiroGolFuoriArea,Shots Goal from Outside The Box,,63
+170,66a,tiroGolFuoriArea_MEAN,Shots Goal from Outside The Box average per game,,63
+171,66p,tiroGolFuoriArea_PERC,Shots Goal from Outside The Box percentage on total Shots Goal,,63
+172,67,tiroGolRigore,Goals on Penalty,Shots Goal on Penalty (directly),63
+173,67a,tiroGolRigore_MEAN,Goals on Penalty average per game,Shots Goal on Penalty (directly),63
+174,67p,tiroGolRigore_PERC,Goals on Penalty percentage on total Shots Goal,Shots Goal on Penalty (directly),63
+175,68,tiroGolTesta,Head Goals,,63
+176,68a,tiroGolTesta_MEAN,Head Goals average per game,,63
+177,68p,tiroGolTesta_PERC,Head Goals percentage on total Shots Goal,,63
+178,69,tiroGolPiede,Foot Goals,,63
+179,69a,tiroGolPiede_MEAN,Foot Goals average per game,,63
+180,69p,tiroGolPiede_PERC,Foot Goals percentage on total Shots Goal,,63
+181,70,golSviluppoRigore,Goals on Penalty Action,Goal on penalty but not with the first shot. Goals after a save by goalkeeper or after the rebound on the post. Also a goal on penalty after a pass,
+182,70a,golSviluppoRigore_MEAN,Goals on Penalty Action average per game,Goal on penalty but not with the first shot. Goals after a save by goalkeeper or after the rebound on the post. Also a goal on penalty after a pass,
+183,71,tiriInPortaDaArea,Shots on Target from Inside the Box,,3
+184,71a,tiriInPortaDaArea_MEAN,Shots on Target from Inside the Box average per game,,3
+185,71p,tiriInPortaDaArea_PERC,Shots on Target from Inside the Box percentage on total Shots on Target,,3
+186,72,tiriInPortaDaFuori,Shots on Target from Outside the Box,,3
+187,72a,tiriInPortaDaFuori_MEAN,Shots on Target from Outside the Box average per game,,3
+188,72p,tiriInPortaDaFuori_PERC,Shots on Target from Outside the Box percentage on total Shots on Target,,3
+189,73,interventoPositivo,Decisive Actions Positive,A decisive action means an event carried out in the defensive phase related to a Big Chance or a Promising Action.  A decisive Action could be with 2 players involved (Tackle or Aerial Duel) or with a single player involved. It is positive if the defender PREVENTS the scoring of a goal in a Big Chance or Promising Action WITH: blocked the shot; win a duel which; make interception.,
+190,73a,interventoPositivo_MEAN,Decisive Actions Positive average per game,A decisive action means an event carried out in the defensive phase related to a Big Chance or a Promising Action.  A decisive Action could be with 2 players involved (Tackle or Aerial Duel) or with a single player involved. It is positive if the defender PREVENTS the scoring of a goal in a Big Chance or Promising Action WITH: blocked the shot; win a duel which; make interception.,
+191,74,interventoNegativo,Decisive Actions Negative,If the defender CREATES scoring opportunity(Big chance) or promising action for OPPONENTS TEAM WITH: bad pass; when he completely misses the ball(BBC) without any intervention by the opponent; Foul which lead to Penalty kick; Direct Red Card; Own goal.,
+192,74a,interventoNegativo_MEAN,Decisive Actions Negative average per game,If the defender CREATES scoring opportunity(Big chance) or promising action for OPPONENTS TEAM WITH: bad pass; when he completely misses the ball(BBC) without any intervention by the opponent; Foul which lead to Penalty kick; Direct Red Card; Own goal.,
+193,75,ammonizioni,Yellow Cards,,
+194,75a,ammonizioni_MEAN,Yellow Cards average per game,,
+195,76,espulsioni,Red Cards,,
+196,76a,espulsioni_MEAN,Red Cards average per game,,
+197,77,doppieAmm,Second Yellow Cards,,
+198,77a,doppieAmm_MEAN,Second Yellow Cards average per game,,
+199,78,reti,Goals,,
+200,78a,reti_MEAN,Goals average per game,,
+201,79,retiSub,Goals Conceded,,
+202,79a,retiSub_MEAN,Goals Conceded average per game,,
+203,80,tiriInPortaSubitiPortiere,Shots on Target Suffered,,
+204,80a,tiriInPortaSubitiPortiere_MEAN,Shots on Target Suffered average per game,,
+205,81,tiriInPortaSubitiParati,Shots on Target Saved,,80
+206,81a,tiriInPortaSubitiParati_MEAN,Shots on Target Saved average per game,,80
+207,81p,tiriInPortaSubitiParati_PERC,Shots on Target Saved percentage on total Shots on Target Suffered,,80
+208,82,tiriRigoreSubiti,Penalties Suffered,Penalty Kicks suffered,
+209,82a,tiriRigoreSubiti_MEAN,Penalties Suffered average per game,Penalty Kicks suffered,
+210,83,tiriRigoreParati,Penalties Saved,Penalty Kicks Saved,82
+211,83a,tiriRigoreParati_MEAN,Penalties Saved average per game,Penalty Kicks Saved,82
+212,83p,tiriRigoreParati_PERC,Penalties Saved percentage on total Penalties Suffered,Penalty Kicks Saved,82
+213,84,lanci,Throws,A pass longer than 40 meters,
+214,84a,lanci_MEAN,Throws average per game,A pass longer than 40 meters,
+215,85,passaggiPortiere,Goalkeeper Passes,Every pass made by goalkeeper,
+216,85a,passaggiPortiere_MEAN,Goalkeeper Passes average per game,Every pass made by goalkeeper,
+217,86,lanciPositivi,Successful Throws,A long pass that reach a teammate,84
+218,86a,lanciPositivi_MEAN,Successful Throws average per game,A long pass that reach a teammate,84
+219,86p,lanciPositivi_PERC,Successful Throws percentage on total Throws,A long pass that reach a teammate,84
+220,87,passaggiPortierePositivi,Successful Goalkeeper Passes,A pass made by goalkeeper that reach a temmate,85
+221,87a,passaggiPortierePositivi_MEAN,Successful Goalkeeper Passes average per game,A pass made by goalkeeper that reach a temmate,85
+222,87p,passaggiPortierePositivi_PERC,Successful Goalkeeper Passes percentage on total Goalkeeper Passes,A pass made by goalkeeper that reach a temmate,85
+223,88,golProcurati,Goals Provoked,"Particular situations in which a player contributes significantly to a goal of his team but he is not the one who scores the goal, and not the one who makes an assist. The game situations that determine a goal procured are the following: Velo-Assist, Shot, Personal Action, Own Goal, Penalty",
+224,88a,golProcurati_MEAN,Goals Provoked average per game,"Particular situations in which a player contributes significantly to a goal of his team but he is not the one who scores the goal, and not the one who makes an assist. The game situations that determine a goal procured are the following: Velo-Assist, Shot, Personal Action, Own Goal, Penalty",
+225,89,reteDaPunizioneDiretta,Goals on Direct FreeKick,,63
+226,89a,reteDaPunizioneDiretta_MEAN,Goals on Direct FreeKick average per game,,63
+227,89p,reteDaPunizioneDiretta_PERC,Goals on Direct FreeKick percentage on total Shots Goal,,63
+228,90,golSviluppoPunizioneDiretta,Goals on Open Play started from Direct FreeKick,,63
+229,90a,golSviluppoPunizioneDiretta_MEAN,Goals on Open Play started from Direct FreeKick average per game,,63
+230,90p,golSviluppoPunizioneDiretta_PERC,Goals on Open Play started from Direct FreeKick percentage on total Shots Goal,,63
+231,91,golSviluppoPunizioneCentrale,Goals on Open Play started from Central FreeKick,,63
+232,91a,golSviluppoPunizioneCentrale_MEAN,Goals on Open Play started from Central FreeKick average per game,,63
+233,91p,golSviluppoPunizioneCentrale_PERC,Goals on Open Play started from Central FreeKick percentage on total Shots Goal,,63
+234,92,golSviluppoPunizioneLaterale,Goals on Open Play started from Lateral FreeKick,,63
+235,92a,golSviluppoPunizioneLaterale_MEAN,Goals on Open Play started from Lateral FreeKick average per game,,63
+236,92p,golSviluppoPunizioneLaterale_PERC,Goals on Open Play started from Lateral FreeKick percentage on total Shots Goal,,63
+237,93,golSviluppoCorner,Goals on Open Play started from Corner,,63
+238,93a,golSviluppoCorner_MEAN,Goals on Open Play started from Corner average per game,,63
+239,93p,golSviluppoCorner_PERC,Goals on Open Play started from Corner percentage on total Shots Goal,,63
+240,94,golSviluppoRimessa,Goals on Open Play started from Throw In,,63
+241,94a,golSviluppoRimessa_MEAN,Goals on Open Play started from Throw In average per game,,63
+242,94p,golSviluppoRimessa_PERC,Goals on Open Play started from Throw In percentage on total Shots Goal,,63
+243,95,rinvio,GK Start,Goal Kicks + Throws by hand + Foot Kicks,
+244,95a,rinvio_MEAN,GK Start average per game,Goal Kicks + Throws by hand + Foot Kicks,
+245,96,rinvioMano,Throwns by Hand,When the goalkeeper passes the ball directly with his hands to a teammate,95
+246,96a,rinvioMano_MEAN,Throwns by Hand average per game,When the goalkeeper passes the ball directly with his hands to a teammate,95
+247,96p,rinvioMano_PERC,Throwns by Hand percentage on total GK Start,When the goalkeeper passes the ball directly with his hands to a teammate,95
+248,97,rinvioPiede,Foot Kicks,Foot Kick following a free kick/offside (auto) or following a kick with feet with ball in hands (manually),95
+249,97a,rinvioPiede_MEAN,Foot Kicks average per game,Foot Kick following a free kick/offside (auto) or following a kick with feet with ball in hands (manually),95
+250,97p,rinvioPiede_PERC,Foot Kicks percentage on total GK Start,Foot Kick following a free kick/offside (auto) or following a kick with feet with ball in hands (manually),95
+251,98,parataMano,Hand Saves,,59
+252,98a,parataMano_MEAN,Hand Saves average per game,,59
+253,98p,parataMano_PERC,Hand Saves percentage on total Saves,,59
+254,99,parataPiede,Foot Saves,,59
+255,99a,parataPiede_MEAN,Foot Saves average per game,,59
+256,99p,parataPiede_PERC,Foot Saves percentage on total Saves,,59
+257,100,autogol,Own Goals,,
+258,100a,autogol_MEAN,Own Goals average per game,,
+259,101,retiSubGK,Goals Suffered by Goalkeeper,,
+260,101a,retiSubGK_MEAN,Goals Suffered by Goalkeeper average per game,,
+261,102,rinvioDalFondo,Goal Kicks,"Every touch by a team, after the ball went out from the baseline",95
+262,102a,rinvioDalFondo_MEAN,Goal Kicks average per game,"Every touch by a team, after the ball went out from the baseline",95
+263,102p,rinvioDalFondo_PERC,Goal Kicks percentage on total GK Start,"Every touch by a team, after the ball went out from the baseline",95
+264,103,recuperaTerzoOffensivo,Ball Recoveries in Zone 3,Every ball recovered in the last 35 meters of the pitch (attacking zone),41
+265,103a,recuperaTerzoOffensivo_MEAN,Ball Recoveries in Zone 3 average per game,Every ball recovered in the last 35 meters of the pitch (attacking zone),41
+266,103p,recuperaTerzoOffensivo_PERC,Ball Recoveries in Zone 3 percentage on total Ball Recoveries,Every ball recovered in the last 35 meters of the pitch (attacking zone),41
+267,104,perdeTerzoDifensivo,Lost Possessions in Zone 1,Every ball possession lost in the first 35 meters (build up zone),37
+268,104a,perdeTerzoDifensivo_MEAN,Lost Possessions in Zone 1 average per game,Every ball possession lost in the first 35 meters (build up zone),37
+269,104p,perdeTerzoDifensivo_PERC,Lost Possessions in Zone 1 percentage on total Lost Possessions,Every ball possession lost in the first 35 meters (build up zone),37
+270,105,CentralFreeKick,Set Pieces: Central Free Kick,,
+271,105a,CentralFreeKick_MEAN,Set Pieces: Central Free Kick average per game,,
+272,106,LateralFreeKick,Set Pieces:  Lateral Free Kick,,
+273,106a,LateralFreeKick_MEAN,Set Pieces:  Lateral Free Kick average per game,,
+274,107,DirectFreeKick,Set Pieces: Direct Free Kick,,
+275,107a,DirectFreeKick_MEAN,Set Pieces: Direct Free Kick average per game,,
+276,108,Corner,Set Pieces: Corner,,
+277,108a,Corner_MEAN,Set Pieces: Corner average per game,,
+278,109,Penalty,Set Pieces: Penalty,,
+279,109a,Penalty_MEAN,Set Pieces: Penalty average per game,,
+280,110,ThrowIn,Set Pieces: Throw-in,,
+281,110a,ThrowIn_MEAN,Set Pieces: Throw-in average per game,,
+282,111,OffensiveKickOff,Set Pieces: Offensive Kick Off,,
+283,111a,OffensiveKickOff_MEAN,Set Pieces: Offensive Kick Off average per game,,
+284,112,CentralFreeKickConceded,Set Pieces Conceded: Central Free Kick,,
+285,112a,CentralFreeKickConceded_MEAN,Set Pieces Conceded: Central Free Kick average per game,,
+286,113,LateralFreeKickConceded,Set Pieces Conceded: Lateral Free Kick,,
+287,113a,LateralFreeKickConceded_MEAN,Set Pieces Conceded: Lateral Free Kick average per game,,
+288,114,DirectFreeKickConceded,Set Pieces Conceded: Direct Free Kick,,
+289,114a,DirectFreeKickConceded_MEAN,Set Pieces Conceded: Direct Free Kick average per game,,
+290,115,CornerConceded,Set Pieces Conceded: Corner,,
+291,115a,CornerConceded_MEAN,Set Pieces Conceded: Corner average per game,,
+292,116,PenaltyConceded,Set Pieces Conceded: Penalty conceded,,
+293,116a,PenaltyConceded_MEAN,Set Pieces Conceded: Penalty conceded average per game,,
+294,117,ThrowInConceded,Set Pieces Conceded: Throw-in,,
+295,117a,ThrowInConceded_MEAN,Set Pieces Conceded: Throw-in average per game,,
+296,118,DefensiveKickOff,Set Pieces Conceded: Defensive Kick Off,,
+297,118a,DefensiveKickOff_MEAN,Set Pieces Conceded: Defensive Kick Off average per game,,
+298,119,tiriBloccati,Shots blocked,"A Shot Blocked is defined as an attempt to score including:
+•        An attempt on target Blocked by an outfield player, where other defenders or a Goalkeeper are behind the Blocker.
+•        Shots Blocked unintentionally by the shooter’s own teammate.
+•        Clearances off the line by an opposition player (last line Blocks) 
+A Shot Blocked is not classified as a Shot On Target or a Shot Off Target, just like a Shot Blocked.",2
+299,119a,tiriBloccati_MEAN,Shots blocked average per game,"A Shot Blocked is defined as an attempt to score including:
+•        An attempt on target Blocked by an outfield player, where other defenders or a Goalkeeper are behind the Blocker.
+•        Shots Blocked unintentionally by the shooter’s own teammate.
+•        Clearances off the line by an opposition player (last line Blocks) 
+A Shot Blocked is not classified as a Shot On Target or a Shot Off Target, just like a Shot Blocked.",2
+300,119p,tiriBloccati_PERC,Shots blocked percentage on total Shots,"A Shot Blocked is defined as an attempt to score including:
+•        An attempt on target Blocked by an outfield player, where other defenders or a Goalkeeper are behind the Blocker.
+•        Shots Blocked unintentionally by the shooter’s own teammate.
+•        Clearances off the line by an opposition player (last line Blocks) 
+A Shot Blocked is not classified as a Shot On Target or a Shot Off Target, just like a Shot Blocked.",2
+301,1000,oi,Offensive Index,,
+302,1000a,oi_MEAN,Offensive Index average per game,,
+303,1001,di,Defensive Index,,
+304,1001a,di_MEAN,Defensive Index average per game,,
+305,1002,ballPoss,Ball possession,,
+306,1002a,ballPoss_MEAN,Ball possession average per game,,
+307,1003,xG,xG,"Expected Goals (xG) represent a statistical metric in football that measures the probability of a shot turning into a goal. This value, expressed in numbers between 0 and 1, is calculated based on many factors related to the shot and the type of action development. A high xG indicates a greater probability of scoring, reflecting the quality of the goal-scoring opportunity.",
+308,1003a,xG_MEAN,xG average per game,"Expected Goals (xG) represent a statistical metric in football that measures the probability of a shot turning into a goal. This value, expressed in numbers between 0 and 1, is calculated based on many factors related to the shot and the type of action development. A high xG indicates a greater probability of scoring, reflecting the quality of the goal-scoring opportunity.",
+309,1004,xGoT,xGOT,"The Expected Goal on Target (xGoT) is an advanced metric that defines the probability that a shot on goal will result in a goal. This value, expressed in numbers between 0 and 1, is calculated based on the position of the ball within the goal frame and the developments of the action. The xGoT provides a precise indication of the goal probability when a shot manages to threaten the opponent's goal frame.",
+310,1004a,xGoT_MEAN,xGOT average per game,"The Expected Goal on Target (xGoT) is an advanced metric that defines the probability that a shot on goal will result in a goal. This value, expressed in numbers between 0 and 1, is calculated based on the position of the ball within the goal frame and the developments of the action. The xGoT provides a precise indication of the goal probability when a shot manages to threaten the opponent's goal frame.",
+311,1005,xA,xA,"The Expected Assist (xA) is a football metric that measures the likelihood that a pass will become an assist, regardless of whether a shot actually follows the pass or not. This value is calculated by considering various factors, such as the position of the player making the pass, the type of pass, the position of the recipient, and other game contexts. The xA provides an assessment of the quality of passes that could lead to a goal, thus offering a more precise idea of a player's creative contribution, beyond the simple assists actually recorded.",
+312,1005a,xA_MEAN,xA average per game,"The Expected Assist (xA) is a football metric that measures the likelihood that a pass will become an assist, regardless of whether a shot actually follows the pass or not. This value is calculated by considering various factors, such as the position of the player making the pass, the type of pass, the position of the recipient, and other game contexts. The xA provides an assessment of the quality of passes that could lead to a goal, thus offering a more precise idea of a player's creative contribution, beyond the simple assists actually recorded.",
+313,1006,xAe,xA Exploited,"The Expected Assist Exploited (xAE) measures the probability that an assist is exploited and becomes a winning assist. This value is calculated by considering various factors, such as the position of the player making the pass, the type of pass, the position of the recipient, and other game contexts. The xAE provides an evaluation of the recipient's quality to exploit or not an assist that could lead to a score, thus offering a more precise idea of a footballer's ability to advantageously exploit an assist.",
+314,1006a,xAe_MEAN,xA Exploited average per game,"The Expected Assist Exploited (xAE) measures the probability that an assist is exploited and becomes a winning assist. This value is calculated by considering various factors, such as the position of the player making the pass, the type of pass, the position of the recipient, and other game contexts. The xAE provides an evaluation of the recipient's quality to exploit or not an assist that could lead to a score, thus offering a more precise idea of a footballer's ability to advantageously exploit an assist.",
+315,1007,xOvA,Expected Offensive Value Added,"The Expected Offensive Value Added (xOvA) is a metric that evaluates a player's offensive contribution on an individual basis. It is calculated by adding the Expected Goals (xG) and Expected Assists (xA) generated during regular play actions, and then subtracting the received Expected Assists (xA). This value provides a clear measure of the offensive value added by the player, avoiding the positional advantage of offensive roles.",
+316,1007a,xOvA_MEAN,Expected Offensive Value Added average per game,"The Expected Offensive Value Added (xOvA) is a metric that evaluates a player's offensive contribution on an individual basis. It is calculated by adding the Expected Goals (xG) and Expected Assists (xA) generated during regular play actions, and then subtracting the received Expected Assists (xA). This value provides a clear measure of the offensive value added by the player, avoiding the positional advantage of offensive roles.",
+317,1008,CxG,Conceded xG,Expected Goals (xG) conceded by the defending team.,
+318,1008a,CxG_MEAN,Conceded xG average per game,Expected Goals (xG) conceded by the defending team.,
+319,1009,shotQuality,Shot Quality,"The difference between Expected Goal on Target (xGoT) and Expected Goal (xG) provides a measure of a footballer's ability to influence the quality of a shot, either improving or decreasing the chances of scoring a goal. A negative value indicates that the player has reduced the quality of the shot, thus lowering the chances of scoring. Conversely, a positive value suggests that the player has increased the shot's success probability. This metric effectively reflects a player's skill in optimizing a shooting opportunity.",
+320,1009a,shotQuality_MEAN,Shot Quality average per game,"The difference between Expected Goal on Target (xGoT) and Expected Goal (xG) provides a measure of a footballer's ability to influence the quality of a shot, either improving or decreasing the chances of scoring a goal. A negative value indicates that the player has reduced the quality of the shot, thus lowering the chances of scoring. Conversely, a positive value suggests that the player has increased the shot's success probability. This metric effectively reflects a player's skill in optimizing a shooting opportunity.",
+321,1010,fieldTilt,Field Tilt,"""Field Tilt"" is a soccer metric that measures a team's territorial dominance during a match. Expressed as a percentage, it represents the number of ""touches"" by the attacking team in the opponent's final third compared to the total touches in the opponent's final third by both teams. A high value indicates that a team is exerting constant pressure with the potential and likelihood of becoming dangerous, suggesting tactical and territorial superiority.",
+322,1010a,fieldTilt_MEAN,Field Tilt average per game,"""Field Tilt"" is a soccer metric that measures a team's territorial dominance during a match. Expressed as a percentage, it represents the number of ""touches"" by the attacking team in the opponent's final third compared to the total touches in the opponent's final third by both teams. A high value indicates that a team is exerting constant pressure with the potential and likelihood of becoming dangerous, suggesting tactical and territorial superiority.",
+323,1011,PPDA,PPDA,"The PPDA is an index measuring a team's pressing intensity, calculated as the ratio of opponent passes in one's own half to defensive actions in the opponent's half without possession. A low value indicates intense pressing, limiting opponent passes, while a high value suggests less aggressive pressing. However, there's no universal assessment of ""positive"" or ""negative"". Interpretation is descriptive: low PPDA implies intense pressure, high PPDA implies less aggressive pressure.",
+324,1011a,PPDA_MEAN,PPDA average per game,"The PPDA is an index measuring a team's pressing intensity, calculated as the ratio of opponent passes in one's own half to defensive actions in the opponent's half without possession. A low value indicates intense pressing, limiting opponent passes, while a high value suggests less aggressive pressing. However, there's no universal assessment of ""positive"" or ""negative"". Interpretation is descriptive: low PPDA implies intense pressure, high PPDA implies less aggressive pressure.",
+325,1012,AxGoT,Against xGoT,Expected Goals on Target (xGoT) conceded by the defending team.,
+326,1012a,AxGoT_MEAN,Against xGoT average per game,Expected Goals on Target (xGoT) conceded by the defending team.,
+327,1013,FxGoT,Faced Expected Goals on Target,Expected Goals on Target (xGoT) conceded by the defending goalkeeper.,
+328,1013a,FxGoT_MEAN,Faced Expected Goals on Target average per game,Expected Goals on Target (xGoT) conceded by the defending goalkeeper.,
+329,1014,gkGP,GK Goals Prevented,"Subtracting the Expected Goals on Target faced by the goalkeeper (xGoT) from the Goals conceded provides a value which, if positive, indicates a positive effectiveness in preventing goals resulting from shots on target by opponents. Conversely, if negative, it suggests a lesser effectiveness of the goalkeeper in effectively intervening to avoid opponent scoring goals.",
+330,1014a,gkGP_MEAN,GK Goals Prevented average per game,"Subtracting the Expected Goals on Target faced by the goalkeeper (xGoT) from the Goals conceded provides a value which, if positive, indicates a positive effectiveness in preventing goals resulting from shots on target by opponents. Conversely, if negative, it suggests a lesser effectiveness of the goalkeeper in effectively intervening to avoid opponent scoring goals.",
+331,1015,np_xG,no-penalty xG,Expected Goal without penalty kick,
+332,1015a,np_xG_MEAN,no-penalty xG average per game,Expected Goal without penalty kick,
+333,1016,op_xG,open-play xG,Open Play Expected Goal,
+334,1016a,op_xG_MEAN,open-play xG average per game,Open Play Expected Goal,
+335,1017,oi-di,Offensive Index - Defensive Index,,
+336,1017a,oi-di_MEAN,Offensive Index - Defensive Index average per game,,

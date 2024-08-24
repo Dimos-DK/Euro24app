@@ -1,0 +1,46 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131361,428,BELGIO,13799.0,YOURI TIELEMANS,25,Goal,"Right, From outside the Penalty Area, Offensive Action",1,1t,0,58,1,24,105.00;32.20;0.08,105.00;32.20;0.08,87.60,38.09,105.00,32.20,Pass,False
+131361,428,BELGIO,13799.0,YOURI TIELEMANS,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",1,1t,1,12,1,24,105.00;32.20;0.08,105.00;32.20;0.08,87.60,38.09,105.00,32.20,Pass,True
+131361,486,ROMANIA,18555.0,RAZVAN MARIN,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,2,35,2,47,0.00;24.12;1.19,105.00;43.88;1.19,80.98,47.51,105.00,43.88,Shot Against,False
+131361,486,ROMANIA,23248.0,RADU DRAGUSIN,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,3,59,4,11,0.00;32.87;2.28,105.00;35.13;2.28,97.65,34.05,103.48,34.00,Shot Against,True
+131361,428,BELGIO,13799.0,YOURI TIELEMANS,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,10,55,11,7,105.00;32.20;0.66,105.00;32.20;0.66,83.25,32.40,87.78,31.70,Pass,True
+131361,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,12,57,13,9,105.00;36.28;0.28,105.00;36.28;0.28,96.09,32.50,97.78,33.31,"Duel 
+Lost",True
+131361,428,BELGIO,27431.0,AMADOU ONANA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,17,16,17,28,105.00;42.43;1.63,105.00;42.43;1.63,82.22,36.54,105.00,42.43,Possession Phase,False
+131361,428,BELGIO,17694.0,DODI LUKEBAKIO,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,17,55,18,7,105.00;31.51;1.29,105.00;31.51;1.29,92.57,40.37,102.02,34.52,"Dribbling
+ Suffered",True
+131361,428,BELGIO,8549.0,JAN VERTONGHEN,5,Shot,"Left, From inside the Penalty Area, Off Target",1,1t,18,27,18,39,105.00;29.76;2.90,105.00;29.76;2.90,95.58,31.15,105.00,29.76,Ball Line Out,False
+131361,486,ROMANIA,24459.0,VALENTIN MIHAILA,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,20,41,20,53,0.00;24.77;4.50,105.00;43.23;4.50,83.67,28.88,105.00,43.23,Shot Against,False
+131361,486,ROMANIA,24459.0,VALENTIN MIHAILA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,23,43,23,55,0.00;31.21;0.18,105.00;36.79;0.18,85.43,22.67,88.70,25.84,Shot Against,True
+131361,428,BELGIO,24564.0,JEREMY DOKU,5,Shot,"GK Save, Left, On Target, From inside the Penalty Area",1,1t,30,13,30,25,105.00;30.87;1.81,105.00;30.87;1.81,101.69,21.94,103.48,30.78,Pass,True
+131361,428,BELGIO,17694.0,DODI LUKEBAKIO,5,Shot,"Left, From inside the Penalty Area, Off Target, Deflected",1,1t,32,54,33,6,105.00;35.96;3.24,105.00;35.96;3.24,90.50,48.13,92.15,45.31,Pass,False
+131361,486,ROMANIA,16004.0,DENNIS MAN,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,36,1,36,13,0.00;30.48;0.08,105.00;37.52;0.08,89.78,48.13,102.42,36.12,"Defensive
+Action",True
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"GK Save, Big Chance, Promising Action, Right, On Target, From inside the Penalty Area",1,1t,42,5,42,17,105.00;30.92;0.12,105.00;30.92;0.12,90.50,44.61,100.69,34.98,"Offensive
+Action",True
+131361,486,ROMANIA,21539.0,ANDREI BURCA,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,44,51,45,3,0.00;29.83;5.50,105.00;38.17;5.50,97.44,33.74,105.00,38.17,"Duel 
+Won",False
+131361,486,ROMANIA,16004.0,DENNIS MAN,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,0,41,0,53,105.00;36.09;0.18,105.00;36.09;0.18,83.67,47.09,102.28,34.63,Shot Against,True
+131361,486,ROMANIA,24459.0,VALENTIN MIHAILA,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,2,18,2,30,105.00;29.92;2.93,105.00;29.92;2.93,93.40,23.08,105.00,29.92,Ball Line Out,False
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,6,35,6,47,0.00;28.84;0.84,105.00;39.16;0.84,86.57,20.60,105.00,39.16,Pass,False
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,9,40,9,52,0.00;31.63;0.15,105.00;36.37;0.15,87.09,34.36,101.89,34.29,"Dribbling
+ Suffered",True
+131361,486,ROMANIA,24459.0,VALENTIN MIHAILA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,11,11,11,23,105.00;43.88;5.50,105.00;43.88;5.50,83.36,25.46,105.00,43.88,Shot Against,False
+131361,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,12,13,12,25,0.00;31.44;0.21,105.00;36.56;0.21,91.43,43.06,95.59,39.23,Pass,True
+131361,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,13,0,13,12,0.00;31.21;0.15,105.00;36.79;0.15,96.30,36.54,102.55,36.01,"Defensive
+Action",True
+131361,428,BELGIO,24564.0,JEREMY DOKU,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",2,2t,17,0,17,12,0.00;38.17;2.21,105.00;29.83;2.21,97.34,21.94,105.00,29.83,"Dribbling
+ Suffered",False
+131361,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"GK Save, Right, On Target, From inside the Penalty Area",2,2t,20,38,20,50,0.00;31.58;1.02,105.00;36.42;1.02,94.54,35.71,102.15,35.55,"Dribbling
+ Suffered",True
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,21,28,21,40,0.00;30.71;3.44,105.00;37.29;3.44,83.25,24.01,105.00,37.29,Pass,False
+131361,486,ROMANIA,16004.0,DENNIS MAN,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,22,38,22,50,105.00;36.97;0.76,105.00;36.97;0.76,94.23,38.40,97.12,36.58,Shot Against,True
+131361,486,ROMANIA,18555.0,RAZVAN MARIN,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,28,59,29,11,105.00;43.23;1.31,105.00;43.23;1.31,72.28,26.39,105.00,43.23,Shot Against,False
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,25,Goal,"Central Free Kick, Right, From inside the Penalty Area",2,2t,33,56,34,11,0.00;31.12;0.08,105.00;36.88;0.08,92.16,36.95,105.00,36.88,GK Play,False
+131361,428,BELGIO,8589.0,KEVIN DE BRUYNE,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,33,58,34,10,0.00;31.12;0.08,105.00;36.88;0.08,92.16,36.95,105.00,36.88,"Duel 
+Lost",True
+131361,486,ROMANIA,9542.0,DENIS ALIBEC,5,Shot,"On Target, Blocked, Big Chance, Left, From inside the Penalty Area",2,2t,39,19,39,31,105.00;37.06;0.15,105.00;37.06;0.15,92.16,31.15,103.21,36.24,Shot Against,True
+131361,428,BELGIO,13125.0,LEANDRO TROSSARD,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",2,2t,40,24,40,36,0.00;36.95;0.15,105.00;31.05;0.15,94.64,46.68,96.72,45.83,Pass,True
+131361,428,BELGIO,9406.0,ROMELU LUKAKU,5,Shot,"GK Save, Right, On Target, From inside the Penalty Area",2,2t,43,28,43,40,0.00;33.65;0.18,105.00;34.35;0.18,99.41,46.16,103.21,37.85,"Dribbling
+ Suffered",True
+131361,486,ROMANIA,23248.0,RADU DRAGUSIN,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",2,2t,46,45,46,57,105.00;34.21;3.24,105.00;34.21;3.24,77.25,42.64,84.60,37.73,Shot Against,False

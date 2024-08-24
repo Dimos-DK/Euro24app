@@ -1,0 +1,27 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131371,462,SCOZIA,15495.0,SCOTT MCTOMINAY,25,Goal,"Left, From inside the Penalty Area, Corner, Offensive Action",1,1t,12,22,12,48,105.00;31.19;1.91,105.00;31.19;1.91,91.33,27.89,100.69,32.74,"Offensive
+Action",False
+131371,462,SCOZIA,15495.0,SCOTT MCTOMINAY,5,Shot,"On Target, Goal, Left, From inside the Penalty Area, Deflected",1,1t,12,36,12,48,105.00;31.19;1.91,105.00;31.19;1.91,91.33,27.89,100.69,32.74,Shot Against,True
+131371,418,SVIZZERA,8585.0,RICARDO RODRIGUEZ,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,15,33,15,45,0.00;27.03;0.13,105.00;40.97;0.13,87.00,33.22,105.00,40.97,Possession Phase,False
+131371,418,SVIZZERA,7037.0,XHERDAN SHAQIRI,25,Goal,"Left, From outside the Penalty Area, Offensive Action",1,1t,25,32,25,44,0.00;36.85;1.95,105.00;31.15;1.95,85.89,24.56,105.00,31.15,"Offensive
+Action",False
+131371,418,SVIZZERA,7037.0,XHERDAN SHAQIRI,5,Shot,"On Target, Goal, Left, From outside the Penalty Area",1,1t,25,32,25,44,0.00;36.85;1.95,105.00;31.15;1.95,85.89,24.56,105.00,31.15,Goal,True
+131371,418,SVIZZERA,6351.0,SILVAN WIDMER,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,27,56,28,8,0.00;27.20;3.02,105.00;40.80;3.02,91.00,46.22,105.00,40.80,Intercept,False
+131371,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Off Target, Blocked, Right, From inside the Penalty Area",1,1t,29,27,29,39,0.00;26.60;0.13,105.00;41.40;0.13,96.67,28.44,97.78,29.41,Pass,False
+131371,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,31,42,31,54,0.00;32.64;1.09,105.00;35.36;1.09,97.44,22.44,101.89,33.31,Dribbling,True
+131371,462,SCOZIA,26385.0,CHE' ADAMS,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",1,1t,40,42,40,54,105.00;37.34;0.28,105.00;37.34;0.28,102.22,40.56,101.75,35.32,"Defensive
+Action",True
+131371,418,SVIZZERA,10018.0,GRANIT XHAKA,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,41,26,41,38,0.00;32.69;1.29,105.00;35.31;1.29,89.89,20.11,101.89,33.43,Pass,True
+131371,418,SVIZZERA,23932.0,RUBEN VARGAS,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,10,43,10,55,105.00;31.42;0.15,105.00;31.42;0.15,90.78,20.11,102.55,32.51,Cross Against,True
+131371,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",2,2t,12,56,13,8,105.00;28.77;0.07,105.00;28.77;0.07,90.11,34.11,105.00,28.77,"Dribbling
+ Suffered",False
+131371,418,SVIZZERA,23932.0,RUBEN VARGAS,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,18,24,18,36,105.00;42.60;3.15,105.00;42.60;3.15,93.11,23.00,105.00,42.60,Pass,False
+131371,462,SCOZIA,24959.0,BILLY GILMOUR,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,19,29,19,41,0.00;34.28;1.19,105.00;33.72;1.19,76.67,38.44,86.19,39.34,Shot Against,True
+131371,462,SCOZIA,9863.0,GRANT HANLEY,5,Shot,"Post, Promising Action, Headed Shot, From inside the Penalty Area, Off Target",2,2t,21,12,21,24,0.00;37.66;0.61,105.00;30.34;0.61,100.33,30.78,105.00,30.34,Set Pieces,False
+131371,462,SCOZIA,26381.0,SCOTT MCKENNA,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,28,14,28,26,0.00;28.15;5.50,105.00;39.85;5.50,91.78,31.67,105.00,39.85,Shot Against,False
+131371,418,SVIZZERA,24817.0,DAN NDOYE,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,32,19,32,31,105.00;36.92;4.50,105.00;36.92;4.50,95.11,19.22,105.00,36.92,Pass,False
+131371,462,SCOZIA,15495.0,SCOTT MCTOMINAY,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,35,44,35,56,0.00;34.28;1.19,105.00;33.72;1.19,93.00,39.33,97.51,37.85,"Possession 
+Lost",True
+131371,462,SCOZIA,26453.0,KENNY MCLEAN,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,41,10,41,22,0.00;31.17;0.12,105.00;36.83;0.12,83.11,49.56,102.02,34.98,Shot Against,True
+131371,418,SVIZZERA,26326.0,ZEKI AMDOUNI,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,44,9,44,21,105.00;28.49;0.01,105.00;28.49;0.01,97.33,31.33,105.00,28.49,Set Pieces,False
+131371,462,SCOZIA,10171.0,CALLUM MCGREGOR,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,45,51,46,3,0.00;43.47;6.50,105.00;24.53;6.50,86.22,26.67,105.00,24.53,Shot Against,False

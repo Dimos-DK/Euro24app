@@ -1,0 +1,41 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131352,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area, Deflected",1,1t,0,55,1,7,0.00;32.41;1.58,105.00;35.59;1.58,70.62,39.34,78.04,37.96,Shot Against,True
+131352,510,AUSTRIA,23809.0,GERNOT TRAUNER,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",1,1t,8,33,8,52,0.00;36.16;1.71,105.00;31.84;1.71,100.02,30.07,105.00,31.84,Pass,False
+131352,510,AUSTRIA,23809.0,GERNOT TRAUNER,5,Shot,"On Target, Goal, Promising Action, Headed Shot, From inside the Penalty Area",1,1t,8,40,8,52,0.00;36.16;1.71,105.00;31.84;1.71,100.02,30.07,105.00,31.84,Cross,True
+131352,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,9,52,10,4,0.00;36.67;0.21,105.00;31.33;0.21,93.79,37.56,96.72,39.46,"Possession 
+Lost",True
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area, Deflected",1,1t,16,29,16,41,105.00;36.37;0.86,105.00;36.37;0.86,91.63,36.90,94.00,36.93,"Dribbling
+ Suffered",True
+131352,488,POLONIA,26256.0,NICOLA ZALEWSKI,5,Shot,"Big Chance, Right, From inside the Penalty Area, Off Target",1,1t,17,53,18,5,105.00;44.67;4.50,105.00;44.67;4.50,94.08,23.68,105.00,44.67,Cross Against,False
+131352,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,22,34,22,46,0.00;31.63;0.18,105.00;36.37;0.18,87.48,31.10,91.09,32.05,Shot Against,True
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,23,25,23,37,105.00;36.60;0.12,105.00;36.60;0.12,85.62,41.72,93.74,37.27,"Possession 
+Lost",True
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,26,43,26,55,105.00;36.37;0.92,105.00;36.37;0.92,87.10,34.67,95.59,36.81,"Duel 
+Lost",True
+131352,488,POLONIA,13395.0,JAN BEDNAREK,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,29,30,29,42,105.00;34.35;0.69,105.00;34.35;0.69,95.05,34.22,98.84,34.40,Pass,True
+131352,488,POLONIA,13404.0,KRZYSZTOF PIATEK,25,Goal,"Right, From inside the Penalty Area, Corner",1,1t,29,32,29,44,105.00;37.29;0.15,105.00;37.29;0.15,99.13,36.52,105.00,37.29,"Goal 
+Provoked",False
+131352,488,POLONIA,13404.0,KRZYSZTOF PIATEK,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",1,1t,29,32,29,44,105.00;37.29;0.15,105.00;37.29;0.15,99.13,36.52,105.00,37.29,Goal,True
+131352,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,38,20,38,32,0.00;32.92;0.82,105.00;35.08;0.82,92.60,28.06,96.32,32.39,Shot Against,True
+131352,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,41,24,41,36,0.00;38.68;0.28,105.00;29.32;0.28,78.64,26.65,105.00,29.32,Shot Against,False
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,45,36,45,48,105.00;37.34;0.79,105.00;37.34;0.79,81.01,41.65,102.28,32.97,Foul,True
+131352,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,3,55,4,7,105.00;33.91;0.82,105.00;33.91;0.82,81.61,43.21,84.60,40.26,Shot Against,True
+131352,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,5,46,5,58,105.00;31.97;1.95,105.00;31.97;1.95,96.91,31.33,102.55,33.31,"Duel 
+Won",True
+131352,488,POLONIA,13404.0,KRZYSZTOF PIATEK,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,6,23,6,35,0.00;35.47;6.50,105.00;32.53;6.50,81.83,36.08,105.00,32.53,Pass,False
+131352,510,AUSTRIA,10852.0,MARCEL SABITZER,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,9,1,9,13,105.00;36.92;0.54,105.00;36.92;0.54,90.67,19.00,93.87,24.81,Shot Against,True
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,14,34,14,46,0.00;36.72;1.25,105.00;31.28;1.25,85.32,20.86,91.09,24.81,"Offensive
+Action",True
+131352,488,POLONIA,13396.0,PAWEL DAWIDOWICZ,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",2,2t,15,17,15,29,0.00;28.06;6.50,105.00;39.94;6.50,98.02,41.79,105.00,39.94,Set Pieces,False
+131352,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,20,35,21,9,105.00;36.46;0.18,105.00;36.46;0.18,90.15,31.10,105.00,36.46,Pass,False
+131352,510,AUSTRIA,20289.0,CHRISTOPH BAUMGARTNER,5,Shot,"On Target, Goal, Promising Action, Right, From inside the Penalty Area",2,2t,20,57,21,9,105.00;36.46;0.18,105.00;36.46;0.18,90.15,31.10,105.00,36.46,Shot Against,True
+131352,488,POLONIA,20285.0,KAROL SWIDERSKI,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,23,33,23,45,0.00;33.65;0.69,105.00;34.35;0.69,86.51,27.62,101.75,34.17,"Dribbling
+ Suffered",True
+131352,510,AUSTRIA,36154.0,PATRICK WIMMER,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,29,13,29,25,105.00;32.62;0.12,105.00;32.62;0.12,90.59,37.56,101.62,34.17,Shot Against,True
+131352,510,AUSTRIA,36154.0,PATRICK WIMMER,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,30,33,30,45,105.00;33.68;0.69,105.00;33.68;0.69,81.68,31.40,102.02,32.85,Shot Against,True
+131352,510,AUSTRIA,10847.0,MARKO ARNAUTOVIC,25,Goal,"Right, Penalty, From inside the Penalty Area, Penalty",2,2t,32,48,34,17,105.00;37.15;0.05,105.00;37.15;0.05,93.94,34.37,105.00,37.15,Set Pieces,False
+131352,510,AUSTRIA,10847.0,MARKO ARNAUTOVIC,5,Shot,"On Target, Goal, Right, Penalty, From inside the Penalty Area",2,2t,32,48,33,0,105.00;37.15;0.05,105.00;37.15;0.05,93.94,34.37,105.00,37.15,Goal,True
+131352,510,AUSTRIA,17397.0,STEFAN POSCH,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,37,57,38,9,105.00;30.69;0.99,105.00;30.69;0.99,85.84,43.65,102.02,34.00,Shot Against,True
+131352,510,AUSTRIA,15798.0,KONRAD LAIMER,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,39,45,39,57,105.00;39.08;0.07,105.00;39.08;0.07,101.96,22.72,105.00,39.08,Shot Against,False
+131352,488,POLONIA,6420.0,PIOTR ZIELINSKI,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,40,58,41,10,0.00;29.91;4.50,105.00;38.09;4.50,74.93,43.06,105.00,38.09,Set Pieces Against,False
+131352,488,POLONIA,10121.0,KAMIL GROSICKI,5,Shot,"Big Chance, Left, From inside the Penalty Area, Off Target",2,2t,47,18,47,30,0.00;38.77;0.73,105.00;29.23;0.73,97.87,29.69,105.00,29.23,Cross Against,False

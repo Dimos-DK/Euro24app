@@ -1,0 +1,30 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131343,263,REPUBBLICA CECA,25068.0,PAVEL SULC,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,3,36,3,48,105.00;31.79;0.12,105.00;31.79;0.12,90.46,28.62,91.88,30.09,"Possession 
+Lost",True
+131343,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,7,27,7,39,0.00;40.43;0.30,105.00;27.57;0.30,95.39,33.68,105.00,27.57,Shot Against,False
+131343,427,PORTOGALLO,25752.0,NUNO ALEXANDRE TAVARES MENDES,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,16,6,16,18,0.00;27.46;2.90,105.00;40.54;2.90,78.27,21.69,105.00,40.54,Shot Against,False
+131343,427,PORTOGALLO,16957.0,RUBEN DOS SANTOS GATO ALVES DIAS,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,21,15,21,27,0.00;24.12;1.31,105.00;43.88;1.31,86.60,47.32,90.16,45.08,Shot Against,False
+131343,427,PORTOGALLO,9759.0,JOAO PEDRO CAVACO CANCELO,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",1,1t,22,52,23,4,0.00;36.49;0.18,105.00;31.51;0.18,91.18,21.14,93.08,21.88,Shot Against,True
+131343,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"Right, From outside the Penalty Area, Off Target, Deflected",1,1t,23,13,23,25,0.00;36.30;2.88,105.00;31.70;2.88,80.37,16.11,82.81,18.09,Shot Against,False
+131343,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",1,1t,31,11,31,23,0.00;31.21;0.08,105.00;36.79;0.08,95.85,30.75,98.57,32.62,Shot Against,True
+131343,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,31,14,31,26,0.00;31.77;0.66,105.00;36.23;0.66,83.58,26.27,102.55,35.67,Shot Against,True
+131343,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target, Deflected",1,1t,32,33,32,45,0.00;40.53;0.01,105.00;27.47;0.01,92.28,29.56,93.87,29.64,Shot Against,False
+131343,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Left, From inside the Penalty Area",1,1t,44,59,45,11,0.00;33.24;0.89,105.00;34.76;0.89,94.20,46.49,102.15,35.44,Shot Against,True
+131343,427,PORTOGALLO,16209.0,JOSE' DIOGO DALOT TEIXEIRA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,0,55,1,7,105.00;32.90;4.50,105.00;32.90;4.50,87.61,46.49,105.00,32.90,Ball Line Out,False
+131343,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"Left, From inside the Penalty Area, Off Target",2,2t,6,18,6,30,105.00;24.41;5.50,105.00;24.41;5.50,88.71,47.32,105.00,24.41,Shot Against,False
+131343,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target, Deflected",2,2t,9,20,9,32,105.00;34.53;5.50,105.00;34.53;5.50,96.76,34.69,98.18,34.00,Shot Against,False
+131343,427,PORTOGALLO,7490.0,CRISTIANO RONALDO DOS SANTOS AVEIRO,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",2,2t,12,39,12,51,105.00;32.76;1.45,105.00;32.76;1.45,79.92,33.04,102.81,33.08,Set Pieces,True
+131343,427,PORTOGALLO,20900.0,RAFAEL LEAO,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,14,6,14,18,105.00;34.39;1.85,105.00;34.39;1.85,94.75,17.66,97.12,19.70,Shot Against,True
+131343,263,REPUBBLICA CECA,21422.0,LUKAS PROVOD,25,Goal,"Right, From outside the Penalty Area, Offensive Action",2,2t,16,5,16,40,0.00;37.41;0.99,105.00;30.59;0.99,84.13,41.28,105.00,30.59,Pass,False
+131343,263,REPUBBLICA CECA,21422.0,LUKAS PROVOD,5,Shot,"On Target, Goal, Right, From outside the Penalty Area",2,2t,16,28,16,40,0.00;37.41;0.99,105.00;30.59;0.99,84.13,41.28,105.00,30.59,Pass,True
+131343,427,PORTOGALLO,,,25,Goal,"Left, From inside the Penalty Area, Own Goal, Offensive Action",2,2t,22,43,24,0,105.00;32.80;1.65,105.00;32.80;1.65,102.16,32.86,105.00,32.80,Pass,False
+131343,427,PORTOGALLO,25752.0,NUNO ALEXANDRE TAVARES MENDES,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,23,47,23,59,105.00;33.77;0.31,105.00;33.77;0.31,99.97,26.27,102.55,31.93,"Duel 
+Won",True
+131343,427,PORTOGALLO,7413.0,BERNARDO MOTA VEIGA DE CARVALHO E SILVA,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",2,2t,26,50,27,2,105.00;32.07;1.35,105.00;32.07;1.35,95.30,19.95,102.42,31.47,Shot Against,True
+131343,427,PORTOGALLO,25136.0,VITOR MACHADO FERREIRA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,32,30,32,42,105.00;31.56;0.45,105.00;31.56;0.45,78.45,27.64,102.55,32.39,Shot Against,True
+131343,427,PORTOGALLO,6345.0,BRUNO MIGUEL BORGES FERNANDES,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,35,2,35,14,105.00;32.66;0.15,105.00;32.66;0.15,94.66,12.81,98.84,23.20,"Possession 
+Lost",True
+131343,263,REPUBBLICA CECA,13147.0,PETR SEVCIK,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,35,53,36,5,0.00;31.03;0.08,105.00;36.97;0.08,91.63,36.43,94.93,36.12,Possession Phase,True
+131343,263,REPUBBLICA CECA,13592.0,TOMAS SOUCEK,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,35,55,36,7,0.00;28.66;0.13,105.00;39.34;0.13,87.24,37.62,105.00,39.34,Shot Against,False
+131343,427,PORTOGALLO,25459.0,FRANCISCO FERNANDES DA CONCEICAO,25,Goal,"Left, From inside the Penalty Area, Offensive Action",2,2t,45,54,46,20,105.00;32.11;0.05,105.00;32.11;0.05,101.43,31.12,105.00,32.11,GK Play,False
+131343,427,PORTOGALLO,25459.0,FRANCISCO FERNANDES DA CONCEICAO,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,46,8,46,20,105.00;32.11;0.05,105.00;32.11;0.05,101.43,31.12,105.00,32.11,Shot Against,True

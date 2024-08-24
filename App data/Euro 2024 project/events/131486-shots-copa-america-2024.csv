@@ -1,0 +1,27 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131486,421,ARGENTINA,36966.0,ALEJANDRO GARNACHO,5,Shot,"On Target, Right, From inside the Penalty Area, Deflected",1,1t,10,56,11,8,0.00;33.61;1.15,105.00;34.39;1.15,91.14,22.11,91.75,29.86,"Possession 
+Lost",True
+131486,780,PERU',20460.0,CARLOS AUGUSTO ZAMBRANO OCHANDARTE,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,20,31,20,43,105.00;38.07;3.47,105.00;38.07;3.47,94.22,47.71,105.00,38.07,Shot Against,False
+131486,421,ARGENTINA,6972.0,LEANDRO PAREDES,5,Shot,"On Target, GK Save, Right, Direct Free Kick, From outside the Penalty Area",1,1t,25,42,25,54,0.00;36.62;2.04,105.00;31.38;2.04,77.98,25.19,102.68,34.40,Foul,True
+131486,421,ARGENTINA,14368.0,GERMAN PEZZELLA,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,35,58,36,10,0.00;41.73;0.16,105.00;26.27;0.16,92.96,31.90,105.00,26.27,Pass,False
+131486,780,PERU',15911.0,WILDER JOSE' CARTAGENA MENDOZA,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,39,28,39,40,105.00;31.51;0.12,105.00;31.51;0.12,83.30,48.69,91.22,37.62,Shot Against,True
+131486,421,ARGENTINA,7512.0,ANGEL DI MARIA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,39,59,40,11,0.00;33.38;0.51,105.00;34.62;0.51,84.14,49.81,102.15,35.78,"Defensive
+Action",True
+131486,421,ARGENTINA,14920.0,GIOVANI LO CELSO,5,Shot,"On Target, GK Save, Promising Action, Left, From inside the Penalty Area",1,1t,43,38,43,50,0.00;33.65;0.12,105.00;34.35;0.12,93.24,34.28,102.68,34.40,Pass,True
+131486,421,ARGENTINA,36966.0,ALEJANDRO GARNACHO,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,43,41,43,53,0.00;30.89;3.11,105.00;37.11;3.11,91.86,22.85,105.00,37.11,Shot Against,False
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,0,17,1,23,105.00;34.16;0.25,105.00;34.16;0.25,94.08,41.28,105.00,34.16,"Offensive
+Action",False
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,1,11,1,23,105.00;34.16;0.25,105.00;34.16;0.25,94.08,41.28,105.00,34.16,Pass,True
+131486,780,PERU',59257.0,MARCOS JOHAN LOPEZ LANFRANCO,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,20,57,21,9,0.00;36.16;1.62,105.00;31.84;1.62,74.62,23.65,102.02,33.31,Shot Against,True
+131486,421,ARGENTINA,6972.0,LEANDRO PAREDES,5,Shot,"Post, Right, Penalty, From inside the Penalty Area, Off Target",2,2t,26,6,26,18,105.00;37.66;1.24,105.00;37.66;1.24,94.00,34.00,105.00,37.66,Assist,False
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, Blocked, Right, From inside the Penalty Area",2,2t,26,9,26,21,105.00;34.16;0.54,105.00;34.16;0.54,94.22,39.04,94.14,35.78,Set Pieces,True
+131486,421,ARGENTINA,35040.0,ENZO FERNANDEZ,5,Shot,"Promising Action, Right, From inside the Penalty Area, Off Target",2,2t,28,28,28,40,105.00;29.14;1.16,105.00;29.14;1.16,91.56,22.67,105.00,29.14,Pass,False
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, GK Save, Big Chance, Left, From inside the Penalty Area",2,2t,37,52,38,4,105.00;32.94;1.19,105.00;32.94;1.19,94.78,24.35,102.15,32.39,"Dribbling
+ Suffered",True
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,25,Goal,"Right, From inside the Penalty Area, Central Free Kick, Offensive Action",2,2t,40,32,40,51,105.00;34.05;0.69,105.00;34.05;0.69,92.40,27.42,105.00,34.05,"Offensive
+Action",False
+131486,421,ARGENTINA,16755.0,LAUTARO JAVIER MARTINEZ,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,40,39,40,51,105.00;34.05;0.69,105.00;34.05;0.69,92.40,27.42,105.00,34.05,"Duel 
+Lost",True
+131486,780,PERU',54272.0,FRANCO ZANELATTO TELLEZ,5,Shot,"Post, Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,43,33,43,45,0.00;37.66;0.69,105.00;30.34;0.69,94.08,28.68,105.00,30.34,Shot Against,False
+131486,780,PERU',8779.0,GIANLUCA LAPADULA,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,44,41,44,53,0.00;40.06;4.50,105.00;27.94;4.50,56.00,30.08,105.00,27.94,Shot Against,False
+131486,780,PERU',54792.0,JESUS ABDALLAH CASTILLO MOLINA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,47,16,47,28,0.00;37.54;5.50,105.00;30.46;5.50,82.74,25.19,105.00,30.46,Shot Against,False

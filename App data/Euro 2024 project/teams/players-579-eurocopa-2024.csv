@@ -1,0 +1,36 @@
+Player ID,First Name,Last Name,Known Name,Born Date,Shirt Number,Position,Position Detail,Citizenship,Height,Foot,Photo,Module Position,Age
+34265,SAMET,AKAYDIN,AKAYDIN S.,1994-03-13,4,Defender,Centre-Back,Turkey,190,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKAYDIN S._34265.png,0,30.3
+17517,YUNUS,AKGUN,AKGUN Y.,2000-07-07,25,Striker,Right Winger,Turkey,173,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKGUN Y._17517.png,0,24.0
+26395,KEREM,AKTURKOGLU,AKTURKOGLU K.,1998-10-21,7,Striker,Left Forward,Turkey,173,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKTURKOGLU K._26395.png,0,25.7
+32117,DOGAN,ALEMDAR,ALEMDAR D.,2002-10-29,0,Goalkeeper,Goalkeeper,Turkey,192,right,,0,21.7
+34234,OGUZ,AYDIN,AYDIN O.,2000-10-27,0,Striker,Right Winger,Turkey,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AYDIN O._34234.png,0,23.7
+14828,KAAN,AYHAN,AYHAN K.,1994-11-10,22,Midfielder,Centre-Back,Turkey,185,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AYHAN K._14828.png,0,29.6
+35499,ABDULKERIM,BARDAKCI,BARDAKCI A.,1994-09-07,14,Defender,Centre-Back,Turkey,185,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARDAKCI A._35499.png,0,29.8
+20908,ALTAY,BAYINDIR,BAYINDIR A.,1998-04-14,12,Goalkeeper,Goalkeeper,Turkey,198,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAYINDIR A._20908.png,0,26.2
+25577,UGURCAN,CAKIR,CAKIR U.,1996-04-05,23,Goalkeeper,Goalkeeper,Turkey,191,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAKIR U._25577.png,0,28.2
+7687,HAKAN,CALHANOGLU,CALHANOGLU H.,1994-02-08,10,Midfielder,Defensive Midfield,Turkey,178,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALHANOGLU H._7687.png,0,30.4
+21437,MEHMET ZEKI,CELIK,CELIK M. Z.,1997-02-17,2,Defender,Right-Back,Turkey,180,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CELIK M. Z._21437.png,0,27.4
+19107,MERIH,DEMIRAL,DEMIRAL M.,1998-03-05,3,Defender,Centre-Back,Turkey,190,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEMIRAL M._19107.png,0,26.3
+34287,ARDA,GULER,GULER A.,2005-02-25,8,Striker,Attacking Midfield,Turkey,175,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GULER A._34287.png,0,19.3
+21530,MERT,GUNOK,GUNOK M.,1989-03-01,1,Goalkeeper,Goalkeeper,Turkey,196,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUNOK M._21530.png,0,35.3
+17863,OZAN MUHAMMED,KABAK,KABAK O.,2000-03-25,0,Defender,Centre-Back,Turkey,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KABAK O._17863.png,0,24.3
+20912,FERDI,KADIOGLU,KADIOGLU F.,1999-10-07,20,Defender,Left-Back,Turkey,174,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KADIOGLU F._20912.png,0,24.7
+21531,IRFAN CAN,KAHVECI,KAHVECI I.,1995-07-15,17,Striker,Right Winger,Turkey,176,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAHVECI I._21531.png,0,29.0
+35084,AHMETCAN,KAPLAN,KAPLAN A.,2003-01-16,13,Defender,Centre-Back,Turkey,189,left,,0,21.5
+55250,SEMIH,KILICSOY,KILICSOY S.,2005-08-15,24,Striker,Centre-Forward,Turkey,178,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KILICSOY S._55250.png,0,18.9
+21550,ORKUN,KOKCU,KOKCU O.,2000-12-29,6,Midfielder,Center Midfield,Turkey,175,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOKCU O._21550.png,0,23.5
+17563,MERT,MULDUR,MULDUR M.,1999-04-03,18,Defender,Right-Back,Turkey,184,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MULDUR M._17563.png,0,25.2
+23132,ABDULKADIR,OMUR,OMUR A.,1999-06-25,0,Striker,Attacking Midfield,Turkey,168,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OMUR A._23132.png,0,25.0
+15792,SALIH,OZCAN,OZCAN S.,1998-01-11,15,Midfielder,Defensive Midfield,Turkey,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZCAN S._15792.png,0,26.5
+29762,BERAT,OZDEMIR,OZDEMIR B.,1998-05-23,0,Midfielder,Defensive Midfield,Turkey,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZDEMIR B._29762.png,0,26.1
+68741,CENK,OZKACAR,OZKACAR C.,2000-10-06,0,Defender,Centre-Back,Turkey,190,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZKACAR C._68741.png,0,23.7
+14830,CAGLAR,SOYUNCU,SOYUNCU C.,1996-05-23,0,Defender,,Turkey,185,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOYUNCU C._14830.png,0,28.1
+11145,CENK,TOSUN,TOSUN C.,1991-06-07,9,Striker,Centre-Forward,Turkey,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOSUN C._11145.png,0,33.1
+14832,ENES,UNAL,UNAL E.,1997-05-10,0,Striker,Centre-Forward,Turkey,187,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UNAL E._14832.png,0,27.1
+129428,CAN,UZUN,UZUN C.,2005-11-11,0,Midfielder,Attacking Midfield,Turkey,186,right,,0,18.6
+21439,YUSUF,YAZICI,YAZICI Y.,1997-01-29,11,Striker,Attacking Midfield,Turkey,184,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YAZICI Y._21439.png,0,27.4
+36272,BERTUG,YILDIRIM,YILDIRIM B.,2002-07-12,26,Striker,,Turkey,191,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YILDIRIM B._36272.png,0,22.0
+31264,KENAN,YILDIZ,YILDIZ K.,2005-05-04,19,Striker,Second Striker,Turkey,187,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YILDIZ_K_31264.png,0,19.2
+29786,BARIS ALPER,YILMAZ,BARIS YILMAZ,2000-05-23,21,Striker,Right Winger,Turkey,186,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARIS YILMAZ_29786.png,0,24.1
+19519,OKAY,YOKUSLU,YOKUSLU O.,1994-03-09,5,Midfielder,Defensive Midfield,Turkey,191,right,,0,30.3
+36107,ISMAIL,YUKSEK,YUKSEK I.,1999-01-26,16,Midfielder,Defensive Midfield,Turkey,183,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YUKSEK I._36107.png,0,25.4

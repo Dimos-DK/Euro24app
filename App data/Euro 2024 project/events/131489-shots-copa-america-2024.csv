@@ -1,0 +1,32 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131489,245,MESSICO,33526.0,ORBELIN PINEDA,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,1,11,1,23,0.00;33.88;0.54,105.00;34.12;0.54,80.22,50.79,86.19,47.09,Pass,True
+131489,245,MESSICO,20879.0,CESAR HUERTA,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,2,1,2,13,0.00;38.86;3.30,105.00;29.14;3.30,83.51,34.75,105.00,29.14,Possession Phase,False
+131489,245,MESSICO,33526.0,ORBELIN PINEDA,5,Shot,"On Target, Blocked, Promising Action, Right, From inside the Penalty Area",1,1t,3,19,3,31,0.00;32.87;0.31,105.00;35.13;0.31,89.26,48.57,90.29,49.39,"Defensive
+Action",True
+131489,419,ECUADOR,32674.0,MOISES CAICEDO,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",1,1t,6,47,6,59,105.00;32.80;1.06,105.00;32.80;1.06,82.69,25.31,91.35,30.44,Shot Against,True
+131489,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",1,1t,6,49,7,1,105.00;34.62;0.92,105.00;34.62;0.92,79.40,30.24,102.28,33.08,Shot Against,True
+131489,245,MESSICO,45372.0,JULIAN QUINONES,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,15,9,15,21,0.00;36.16;0.15,105.00;31.84;0.15,74.88,26.00,85.52,28.60,Pass,True
+131489,245,MESSICO,33523.0,LUIS CHAVEZ,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,15,12,15,24,0.00;33.88;0.08,105.00;34.12;0.08,90.35,21.34,92.02,27.91,Intercept,True
+131489,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"On Target, GK Save, Left, Direct Free Kick, From outside the Penalty Area",1,1t,18,30,18,42,105.00;36.88;1.06,105.00;36.88;1.06,96.24,64.03,102.55,34.40,Shot Against,True
+131489,419,ECUADOR,36811.0,FELIX TORRES,5,Shot,"Headed Shot, From inside the Penalty Area, Off Target",1,1t,18,58,19,10,105.00;29.90;5.50,105.00;29.90;5.50,95.14,27.91,105.00,29.90,"Duel 
+Won",False
+131489,245,MESSICO,20879.0,CESAR HUERTA,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,20,21,20,33,0.00;31.63;5.50,105.00;36.37;5.50,98.98,42.14,105.00,36.37,Cross Against,False
+131489,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"Promising Action, Right, From outside the Penalty Area, Off Target",1,1t,24,19,24,31,105.00;37.89;8.50,105.00;37.89;8.50,36.28,9.30,105.00,37.89,Shot Against,False
+131489,245,MESSICO,33525.0,LUIS ROMO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,30,15,30,27,0.00;41.36;0.10,105.00;26.64;0.10,78.31,42.41,105.00,26.64,Pass,False
+131489,245,MESSICO,59252.0,SANTIAGO TOMAS GIMENEZ,5,Shot,"On Target, Blocked, Left, From inside the Penalty Area",1,1t,34,41,34,53,0.00;33.88;0.21,105.00;34.12;0.21,90.76,32.29,90.69,33.89,"Possession 
+Lost",True
+131489,245,MESSICO,59252.0,SANTIAGO TOMAS GIMENEZ,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,45,51,46,3,0.00;34.09;2.85,105.00;33.91;2.85,96.10,33.11,105.00,33.91,"Duel 
+Won",False
+131489,245,MESSICO,59252.0,SANTIAGO TOMAS GIMENEZ,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,13,5,13,17,105.00;39.59;2.93,105.00;39.59;2.93,102.54,39.27,105.00,39.59,Possession Phase,False
+131489,245,MESSICO,33525.0,LUIS ROMO,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,19,0,19,12,105.00;34.12;1.12,105.00;34.12;1.12,83.23,32.43,102.42,33.43,"Defensive
+Action",True
+131489,245,MESSICO,45372.0,JULIAN QUINONES,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,19,47,19,59,105.00;36.74;0.96,105.00;36.74;0.96,80.22,23.40,101.49,33.08,Pass,True
+131489,245,MESSICO,59252.0,SANTIAGO TOMAS GIMENEZ,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",2,2t,19,49,20,1,105.00;36.92;1.29,105.00;36.92;1.29,102.40,42.82,102.28,36.81,Shot Against,True
+131489,419,ECUADOR,11255.0,ENNER VALENCIA,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,22,42,22,54,0.00;33.88;0.21,105.00;34.12;0.21,88.44,51.58,101.89,36.12,Shot Against,True
+131489,245,MESSICO,26673.0,JOHAN VASQUEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",2,2t,25,7,25,19,105.00;33.95;0.18,105.00;33.95;0.18,76.39,31.47,101.89,33.08,Pass,True
+131489,245,MESSICO,33521.0,JORGE SANCHEZ,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,30,48,31,0,105.00;27.38;2.27,105.00;27.38;2.27,85.01,45.42,105.00,27.38,"Duel 
+Lost",False
+131489,419,ECUADOR,11255.0,ENNER VALENCIA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,34,31,34,43,0.00;39.60;0.28,105.00;28.40;0.28,83.37,37.22,105.00,28.40,Shot Against,False
+131489,419,ECUADOR,11255.0,ENNER VALENCIA,5,Shot,"On Target, Blocked, Right, Direct Free Kick, From outside the Penalty Area",2,2t,37,27,37,39,0.00;33.56;0.79,105.00;34.44;0.79,80.77,48.57,92.55,43.59,Shot Against,True
+131489,245,MESSICO,45509.0,GUILLERMO MARTINEZ,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,54,37,54,49,105.00;36.37;0.25,105.00;36.37;0.25,95.96,38.17,99.50,36.47,"Possession 
+Lost",True

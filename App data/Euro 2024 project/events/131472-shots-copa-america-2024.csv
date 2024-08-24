@@ -1,0 +1,33 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131472,781,VENEZUELA,16748.0,DARWIN MACHIS,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,10,35,10,47,105.00;32.02;1.65,105.00;32.02;1.65,79.02,45.75,82.94,36.35,Shot Against,True
+131472,419,ECUADOR,59457.0,JOHN YEBOAH ZAMORA,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,11,6,11,18,0.00;32.09;0.12,105.00;35.91;0.12,84.80,24.86,101.89,33.89,"Defensive
+Action",True
+131472,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,12,16,12,28,105.00;30.20;5.50,105.00;30.20;5.50,81.50,40.11,105.00,30.20,Shot Against,False
+131472,419,ECUADOR,59457.0,JOHN YEBOAH ZAMORA,5,Shot,"On Target, Blocked, Left, From outside the Penalty Area",1,1t,14,50,15,2,0.00;35.34;0.12,105.00;32.66;0.12,87.41,34.62,92.55,32.51,Set Pieces,True
+131472,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,18,19,18,31,0.00;33.52;1.09,105.00;34.48;1.09,95.93,31.73,102.68,33.08,"Possession 
+Lost",True
+131472,781,VENEZUELA,20504.0,YORDAN OSORIO,5,Shot,"On Target, GK Save, Big Chance, Right, From inside the Penalty Area",1,1t,26,15,26,27,105.00;31.42;0.15,105.00;31.42;0.15,101.29,36.95,102.28,32.85,Shot Against,True
+131472,781,VENEZUELA,16748.0,DARWIN MACHIS,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,26,54,27,6,105.00;42.86;0.13,105.00;42.86;0.13,90.57,39.01,105.00,42.86,Set Pieces Against,False
+131472,419,ECUADOR,30362.0,ANGELO PRECIADO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,31,19,31,31,0.00;24.25;4.50,105.00;43.75;4.50,71.60,43.00,105.00,43.75,Possession Phase,False
+131472,781,VENEZUELA,16748.0,DARWIN MACHIS,5,Shot,"Left, From outside the Penalty Area, Off Target",1,1t,32,51,33,3,105.00;31.65;3.50,105.00;31.65;3.50,85.62,35.85,105.00,31.65,Shot Against,False
+131472,419,ECUADOR,61155.0,RAY KENDRY PAEZ ANDRADE,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,35,45,35,57,0.00;43.96;0.19,105.00;24.04;0.19,84.66,42.72,105.00,24.04,"Dribbling
+ Suffered",False
+131472,419,ECUADOR,32693.0,JEREMY SARMIENTO,25,Goal,"Right, From inside the Penalty Area, Central Free Kick",1,1t,39,6,39,18,0.00;31.58;0.08,105.00;36.42;0.08,91.12,33.79,105.00,36.42,Pass,False
+131472,419,ECUADOR,32693.0,JEREMY SARMIENTO,5,Shot,"On Target, Goal, Right, From inside the Penalty Area",1,1t,39,6,39,18,0.00;31.58;0.08,105.00;36.42;0.08,91.12,33.79,105.00,36.42,Goal,True
+131472,781,VENEZUELA,32688.0,JOSE' ANDRES MARTINEZ TORRES,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",1,1t,43,5,43,17,105.00;31.70;0.92,105.00;31.70;0.92,84.80,43.96,90.43,42.79,Shot Against,True
+131472,781,VENEZUELA,32688.0,JOSE' ANDRES MARTINEZ TORRES,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",1,1t,43,48,44,0,105.00;33.86;2.18,105.00;33.86;2.18,79.30,39.29,83.07,35.55,Shot Against,True
+131472,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,44,29,44,41,105.00;30.87;3.35,105.00;30.87;3.35,93.87,37.92,105.00,30.87,Shot Against,False
+131472,419,ECUADOR,30855.0,PIERO HINCAPIE',5,Shot,"GK Save, Left, From outside the Penalty Area, Off Target",1,1t,46,42,46,54,0.00;40.06;1.02,105.00;27.94;1.02,47.69,12.09,97.51,34.00,"Defensive
+Action",False
+131472,419,ECUADOR,32673.0,ALAN FRANCO,5,Shot,"On Target, GK Save, Right, From inside the Penalty Area",2,2t,14,1,14,13,105.00;35.13;0.76,105.00;35.13;0.76,91.53,27.89,102.68,33.77,"Possession 
+Lost",True
+131472,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,18,42,18,58,0.00;30.89;0.25,105.00;37.11;0.25,89.47,43.41,105.00,37.11,Killer Pass,False
+131472,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,5,Shot,"On Target, Goal, Right, From inside the Penalty Area",2,2t,18,46,18,58,0.00;30.89;0.25,105.00;37.11;0.25,89.47,43.41,105.00,37.11,Shot Against,True
+131472,781,VENEZUELA,45521.0,EDUARD BELLO,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,27,36,28,45,0.00;31.03;1.29,105.00;36.97;1.29,100.74,38.19,105.00,36.97,GK Play,False
+131472,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, GK Save, Promising Action, Headed Shot, From inside the Penalty Area",2,2t,28,32,28,44,0.00;31.58;0.15,105.00;36.42;0.15,95.52,31.87,102.81,35.78,Shot Against,True
+131472,781,VENEZUELA,45521.0,EDUARD BELLO,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,28,33,28,45,0.00;31.03;1.29,105.00;36.97;1.29,100.74,38.19,105.00,36.97,"Goal 
+Provoked",True
+131472,419,ECUADOR,36811.0,FELIX TORRES,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",2,2t,35,49,36,1,105.00;41.66;0.10,105.00;41.66;0.10,95.65,31.87,105.00,41.66,Pass,False
+131472,781,VENEZUELA,60481.0,JHONDER LEONEL CADIZ FERNANDEZ,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area, Deflected",2,2t,45,22,45,34,0.00;31.12;0.25,105.00;36.88;0.25,88.23,36.95,92.15,36.58,Shot Against,True
+131472,781,VENEZUELA,29537.0,ERIC KLEYBEL RAMIREZ MATHEUS,5,Shot,"On Target, GK Save, Right, From outside the Penalty Area",2,2t,49,57,50,9,0.00;33.47;1.15,105.00;34.53;1.15,86.17,46.43,100.69,34.75,"Offensive
+Action",True

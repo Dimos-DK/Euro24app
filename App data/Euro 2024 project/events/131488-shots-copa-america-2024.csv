@@ -1,0 +1,37 @@
+Match ID,Team ID,Team Name,Player From ID,Player From Name,Event ID,Event Description,Tags,Period ID,Period Description,Start Minute,Start Second,End Minute,End Second,Intersection Point,Intersection Point Norm,Start X,Start Y,End X,End Y,Next Event Description,Shot On Target
+131488,820,GIAMAICA,12817.0,DEMARAI GRAY,5,Shot,"Right, From inside the Penalty Area, Off Target",1,1t,6,17,6,29,0.00;23.73;6.50,105.00;44.27;6.50,93.42,24.71,105.00,44.27,Ball Line Out,False
+131488,781,VENEZUELA,16748.0,DARWIN MACHIS,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,15,8,15,20,105.00;42.09;1.22,105.00;42.09;1.22,85.66,13.73,105.00,42.09,Pass,False
+131488,781,VENEZUELA,39971.0,TELASCO JOSE' SEGOVIA PEREZ,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,15,55,16,7,105.00;37.06;5.50,105.00;37.06;5.50,79.98,41.43,105.00,37.06,Pass,False
+131488,820,GIAMAICA,55173.0,RENALDO SHOWAYNE CEPHAS,5,Shot,"Big Chance, Headed Shot, From inside the Penalty Area, Off Target",1,1t,20,36,20,48,0.00;37.78;7.50,105.00;30.22;7.50,99.47,34.26,105.00,30.22,Ball Line Out,False
+131488,820,GIAMAICA,51308.0,DAMION LOWE,5,Shot,"Promising Action, Headed Shot, From inside the Penalty Area, Off Target",1,1t,26,3,26,15,0.00;39.51;0.19,105.00;28.49;0.19,93.65,36.43,105.00,28.49,"Duel 
+Won",False
+131488,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"On Target, Right, From inside the Penalty Area, Deflected",1,1t,27,41,27,53,105.00;35.08;1.12,105.00;35.08;1.12,90.59,38.07,91.88,37.96,"Defensive
+Action",True
+131488,820,GIAMAICA,55173.0,RENALDO SHOWAYNE CEPHAS,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,33,23,33,35,0.00;40.62;0.19,105.00;27.38;0.19,86.26,38.22,105.00,27.38,Shot Against,False
+131488,781,VENEZUELA,48466.0,JON MIKEL ARAMBURU,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,36,23,36,35,105.00;36.92;7.50,105.00;36.92;7.50,86.03,43.37,105.00,36.92,"Offensive
+Action",False
+131488,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"Promising Action, Left, From inside the Penalty Area, Off Target",1,1t,37,21,37,33,105.00;31.65;4.50,105.00;31.65;4.50,90.62,34.60,105.00,31.65,Pass,False
+131488,820,GIAMAICA,11758.0,MICHAIL ANTONIO,5,Shot,"Right, From outside the Penalty Area, Off Target",1,1t,39,44,39,56,0.00;25.57;7.50,105.00;42.43;7.50,80.88,23.37,105.00,42.43,"Offensive
+Action",False
+131488,781,VENEZUELA,16748.0,DARWIN MACHIS,5,Shot,"On Target, GK Save, Left, From outside the Penalty Area",1,1t,40,42,40,54,105.00;30.64;2.24,105.00;30.64;2.24,86.65,61.11,102.15,33.31,Pass,True
+131488,781,VENEZUELA,45521.0,EDUARD BELLO,25,Goal,"Headed Shot, From inside the Penalty Area, Offensive Action",2,2t,2,55,3,20,0.00;30.66;1.25,105.00;37.34;1.25,100.13,36.62,105.00,37.34,Pass,False
+131488,781,VENEZUELA,45521.0,EDUARD BELLO,5,Shot,"On Target, Goal, Big Chance, Headed Shot, From inside the Penalty Area",2,2t,3,8,3,20,0.00;30.66;1.25,105.00;37.34;1.25,100.13,36.62,105.00,37.34,Cross Against,True
+131488,781,VENEZUELA,7958.0,SALOMON RONDON,25,Goal,"Left, From inside the Penalty Area, Corner, Offensive Action",2,2t,9,44,10,31,0.00;33.10;0.12,105.00;34.90;0.12,96.91,33.85,105.00,34.90,Pass,False
+131488,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Goal, Big Chance, Left, From inside the Penalty Area",2,2t,10,19,10,31,0.00;33.10;0.12,105.00;34.90;0.12,96.91,33.85,105.00,34.90,"Duel 
+Lost",True
+131488,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Right, From outside the Penalty Area, Deflected",2,2t,12,22,12,34,0.00;36.49;0.15,105.00;31.51;0.15,87.40,37.52,90.96,36.93,Pass,True
+131488,781,VENEZUELA,15898.0,YANGEL HERRERA,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,13,36,13,48,0.00;38.86;0.10,105.00;29.14;0.10,86.28,29.66,105.00,29.14,"Defensive
+Action",False
+131488,781,VENEZUELA,6528.0,TOMAS RINCON,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,18,50,19,2,0.00;30.00;6.50,105.00;38.00;6.50,84.25,36.70,105.00,38.00,"Duel 
+Won",False
+131488,781,VENEZUELA,7958.0,SALOMON RONDON,5,Shot,"On Target, Blocked, Promising Action, Left, From inside the Penalty Area",2,2t,27,8,27,20,0.00;30.94;0.12,105.00;37.06;0.12,93.69,28.46,94.67,28.26,"Possession 
+Lost",True
+131488,820,GIAMAICA,131151.0,KAHEIM DIXON,5,Shot,"On Target, GK Save, Promising Action, Right, From inside the Penalty Area",2,2t,31,0,31,12,105.00;31.28;0.12,105.00;31.28;0.12,94.96,49.05,102.15,35.90,Shot Against,True
+131488,781,VENEZUELA,53963.0,KERVIN MARIO ANDRADE NAVARRO,5,Shot,"On Target, Blocked, Right, From outside the Penalty Area",2,2t,36,55,37,7,0.00;30.75;1.42,105.00;37.25;1.42,79.46,54.15,88.17,49.62,Possession Phase,True
+131488,781,VENEZUELA,32688.0,JOSE' ANDRES MARTINEZ TORRES,5,Shot,"Right, From outside the Penalty Area, Off Target",2,2t,38,40,38,52,0.00;31.54;4.50,105.00;36.46;4.50,80.21,25.16,105.00,36.46,"Offensive
+Action",False
+131488,781,VENEZUELA,29537.0,ERIC KLEYBEL RAMIREZ MATHEUS,25,Goal,"Right, From inside the Penalty Area, Offensive Action",2,2t,39,12,39,31,0.00;30.98;0.12,105.00;37.02;0.12,89.87,33.78,105.00,37.02,"Duel 
+Won",False
+131488,781,VENEZUELA,29537.0,ERIC KLEYBEL RAMIREZ MATHEUS,5,Shot,"On Target, Goal, Big Chance, Right, From inside the Penalty Area",2,2t,39,19,39,31,0.00;30.98;0.12,105.00;37.02;0.12,89.87,33.78,105.00,37.02,Pass,True
+131488,820,GIAMAICA,131150.0,ALEX MARSHALL,5,Shot,"Left, From outside the Penalty Area, Off Target",2,2t,46,33,46,45,105.00;30.29;7.50,105.00;30.29;7.50,87.25,57.52,105.00,30.29,Shot Against,False
+131488,781,VENEZUELA,29537.0,ERIC KLEYBEL RAMIREZ MATHEUS,5,Shot,"Right, From inside the Penalty Area, Off Target",2,2t,47,26,47,38,0.00;26.86;2.24,105.00;41.14;2.24,88.60,23.44,105.00,41.14,Pass,False
