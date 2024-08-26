@@ -1,10 +1,19 @@
 ## CREATE WEB APP
+
+import streamlit as st
+
+# Set page configuration
+st.set_page_config(
+    page_title="Euro 24 Analytics Dashboard",
+    layout="centered",  # Use the full width of the page
+    initial_sidebar_state="expanded",  # Expand the sidebar by default
+)
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import glob
 import os
-import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
 from mplsoccer import Pitch, VerticalPitch
@@ -14,42 +23,50 @@ import matplotlib.patches as mpatches
 import base64
 # Load data
 
-# Define the directory containing the CSV files
-directory = 'App data/Euro 2024 project/events'
+@st.cache_data
+def load_events_data():
+    directory = 'App data/Euro 2024 project/events'
+    file_pattern = os.path.join(directory, '*events-eurocopa-2024.csv')
+    csv_files = glob.glob(file_pattern)
+    events_list = [pd.read_csv(file) for file in csv_files]
+    return pd.concat(events_list, ignore_index=True)
 
-# Find all files in the directory that end with 'events-eurocopa-2024.csv'
-file_pattern = os.path.join(directory, '*events-eurocopa-2024.csv')
-csv_files = glob.glob(file_pattern)
+@st.cache_data
+def load_shot_events_data():
+    directory = 'App data/Euro 2024 project/events'
+    file_pattern = os.path.join(directory, '*shots-eurocopa-2024.csv')
+    csv_files = glob.glob(file_pattern)
+    events_list = [pd.read_csv(file) for file in csv_files]
+    return pd.concat(events_list, ignore_index=True)
 
-# Read and concatenate all matching CSV files
-events_list = [pd.read_csv(file) for file in csv_files]
-events = pd.concat(events_list, ignore_index=True)
+@st.cache_data
+def load_players_data():
+    return pd.read_csv('App data/Euro 2024 project/general_data/all_players-eurocopa-2024.csv')
 
-# Define the directory containing the CSV files
-directory = 'App data/Euro 2024 project/events'
+@st.cache_data
+def load_shots_by_player_data():
+    return pd.read_csv('App data/Euro 2024 project/shots/euro24_shots_by_player.csv')
 
-# Find all files in the directory that end with 'events-eurocopa-2024.csv'
-file_pattern = os.path.join(directory, '*shots-eurocopa-2024.csv')
-csv_files = glob.glob(file_pattern)
+@st.cache_data
+def load_stats_data():
+    return pd.read_csv('App data/Euro 2024 project/stats/playersStatsSeason-eurocopa-2024.csv')
 
-# Read and concatenate all matching CSV files
-events_list = [pd.read_csv(file) for file in csv_files]
-shot_events = pd.concat(events_list, ignore_index=True)
+@st.cache_data
+def load_all_events_data():
+    return pd.read_csv('App data/Euro 2024 project/general_data/euro_events_transformed.csv')
 
-players = pd.read_csv(
-    'App data/Euro 2024 project/general_data/all_players-eurocopa-2024.csv')
+@st.cache_data
+def load_xg_shot_events_data():
+    return pd.read_csv('App data/Euro 2024 project/shots/euro24_xg_shots_splitted.csv')
 
-shots_by_player = pd.read_csv(
-    'App data/Euro 2024 project/shots/euro24_shots_by_player.csv')
-
-stats = pd.read_csv(
-    'App data/Euro 2024 project/stats/playersStatsSeason-eurocopa-2024.csv')
-
-all_events = pd.read_csv(
-    'App data/Euro 2024 project/general_data/euro_events_transformed.csv')
-
-xg_shot_events = pd.read_csv(
-    'App data/Euro 2024 project/shots/euro24_xg_shots_splitted.csv')
+# Load data using cached functions
+events = load_events_data()
+shot_events = load_shot_events_data()
+players = load_players_data()
+shots_by_player = load_shots_by_player_data()
+stats = load_stats_data()
+all_events = load_all_events_data()
+xg_shot_events = load_xg_shot_events_data()
 
 pd.set_option('display.max_columns', None)
 
@@ -1260,12 +1277,6 @@ def plot_conceded_team_shots(shot_events, team_name, match_id=None):
 ### APP DESIGN
 
 # Set the page configuration
-st.set_page_config(
-    page_title="Euro 24 Analytics Dashboard",
-    layout="centered",  # Use the full width of the page
-    initial_sidebar_state="expanded",  # Expand the sidebar by default
-)
-
 
 def get_image_base64(image_path):
     """Convert image to base64."""
