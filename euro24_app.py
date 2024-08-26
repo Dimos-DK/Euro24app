@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 import glob
 import os
 import streamlit as st
@@ -10,10 +9,8 @@ import plotly.graph_objects as go
 import plotly.express as px
 from mplsoccer import Pitch, VerticalPitch
 import matplotlib as mpl
-import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 import matplotlib.patches as mpatches
-from PIL import Image
 import base64
 # Load data
 
@@ -58,7 +55,6 @@ pd.set_option('display.max_columns', None)
 
 # Initial Transformations
 
-
 ## Create a 'GAME' Column for the xg_shot_events
 
 # Group by 'Match ID' and aggregate the 'Team Name' column
@@ -84,6 +80,7 @@ shot_events['Player From Name'] = shot_events['Player From Name'].apply(capitali
 stats['Known Name'] = stats['Known Name'].apply(capitalize_name)
 events['Player To Name'] = events['Player To Name'].apply(capitalize_name)
 
+# Create an English Team name dictionary
 team_names = {
     "GEORGIA": "Georgia",
     "ROMANIA": "Romania",
@@ -111,10 +108,10 @@ team_names = {
     "SCOZIA": "Scotland"
 }
 
+#Rename the Team names in the English versions
 events['Team Name'] = events['Team Name'].replace(team_names)
 
 # Import glossary to rename columns to english
-
 glossary = pd.read_csv(
     'App data/Euro 2024 project/general_data/glossary-euro-2024.csv')
 
@@ -125,24 +122,19 @@ rename_dict = dict(zip(glossary['Code'], glossary['Description']))
 stats.rename(columns=rename_dict, inplace=True)
 
 # Unify player stats with shots aggregates
-
 player_stats = pd.merge(stats, shots_by_player, left_on='Player ID', right_on='Player.id', how='left')
 
 # Calculate games played
-
 player_stats['matches'] = (player_stats['Play Time'] / player_stats['Play Time average per game']).fillna(0).astype(int)
 
 # Unify player data with player stats
-
 player_stats = player_stats.merge(players[['Player ID', 'Shirt Number', 'Position', 'Position Detail', 'Citizenship',
                                            'Height', 'Foot', 'Photo', 'Age']], on=['Player ID'], how='left')
 
 # Unify positions in one column
-
 player_stats['Position_sm'] = player_stats['Position Detail'].combine_first(player_stats['Position'])
 
 # Create a position dictionary
-
 positions = {'Center Midfield': 'CM', 'Centre-Back': 'CB', 'Striker': 'ST', 'Right Winger': 'Winger',
              'Left Winger': 'Winger',
              'Midfielder': 'CM', 'Goalkeeper': 'GK', 'Defender': 'CB', 'Defensive Midfield': 'CDM',
@@ -150,11 +142,9 @@ positions = {'Center Midfield': 'CM', 'Centre-Back': 'CB', 'Striker': 'ST', 'Rig
              'Attacking Midfield': 'CAM', 'Centre-Forward': 'ST', 'Left-Back': 'LB'}
 
 # Map positions with dictionary for unification
-
 player_stats['Position_sm'] = player_stats['Position_sm'].map(positions)
 
-# Drop unecessary columns
-
+# Drop unnecessary columns
 player_stats.drop(columns=['First Name', 'Last Name', 'Born Date', 'Season ID', 'Position', 'Position Detail'],
                   inplace=True)
 
@@ -166,7 +156,6 @@ player_stats = player_stats.rename(
 player_stats['Team'] = player_stats['Team'].replace('Kosovo', 'Albania')
 
 ## Create Team aggregated statistics
-
 team_stats = player_stats.groupby(['Team']).agg({
     'Killer Passes': 'sum',
     'Killer Passes in the Box': 'sum',
@@ -207,20 +196,19 @@ team_stats = player_stats.groupby(['Team']).agg({
 }
 ).reset_index()
 
-# Creating a new DataFrame for average values
+# Create a new DataFrame for average values
 team_stats_avg = team_stats.copy()
 
-# Dividing each column (except 'Team' and 'matches') by the 'matches' column and adding the suffix '_avg'
+# Divide each column (except 'Team' and 'matches') by the 'matches' column and adding the suffix '_avg'
 for column in team_stats.columns:
     if column not in ['Team', 'matches']:
         team_stats_avg[column + '_avg'] = team_stats[column] / team_stats['matches']
 
-# Dropping the original columns to keep only the average columns and 'Team'
+# Drop the original columns to keep only the average columns and 'Team'
 team_stats_avg = team_stats_avg[
     ['Team'] + [col + '_avg' for col in team_stats.columns if col not in ['Team', 'matches']]]
 
 # Create success rates
-
 team_stats_avg['Passing Accuracy'] = (team_stats_avg['Accurate Passes_avg'] / team_stats_avg['Passes_avg']) * 100
 team_stats_avg['Crossing Accuracy'] = (team_stats_avg['Accurate Crosses_avg'] / team_stats_avg['Crosses_avg']) * 100
 team_stats_avg['Passes in Box Accuracy'] = (team_stats_avg['Accurate Passes in the Box_avg'] / team_stats_avg[
@@ -238,16 +226,15 @@ team_stats_avg['Goals vs xGoals'] = (team_stats_avg['Goal_avg'] - team_stats_avg
 team_stats_avg['Discipline'] = (team_stats_avg['Yellow Cards_avg'] + team_stats_avg['Red Cards_avg'])
 
 # Round values
-
 team_stats_avg = team_stats_avg.round(1)
 
 team_stats_avg = team_stats_avg.drop(
     columns=['Passes_avg', 'Passes in the Box_avg', 'Dribbling_avg', 'Crosses_avg', 'Goalkeeper Passes_avg',
              'Cut Back_avg', 'Yellow Cards_avg', 'Red Cards_avg'])
 
-## Rank Teams
+### Rank Teams
 
-# Creating a new DataFrame for ranked values
+# Create a new DataFrame for ranked values
 team_stats_ranked = team_stats_avg.copy()
 
 # List of metrics that should be ranked in ascending order (inverted ranking)
@@ -264,24 +251,21 @@ for column in team_stats_ranked.columns:
             # Rank in descending order for normal ranking metrics
             team_stats_ranked[column] = team_stats_ranked[column].rank(method='min', ascending=False).astype(int)
 
-# Calculating the sum of ranks for each team
+# Calculate the sum of ranks for each team
 rank_columns = [col for col in team_stats_ranked.columns if col != 'Team']
 team_stats_ranked['sum_of_ranks'] = team_stats_ranked[rank_columns].sum(axis=1)
 
-# Ranking the sum_of_ranks in ascending order
+# Rank the sum_of_ranks in ascending order
 team_stats_ranked['overall_rank'] = team_stats_ranked['sum_of_ranks'].rank(method='min', ascending=True).astype(int)
 
 # Sort by overall rank
-
 team_stats_ranked = team_stats_ranked.sort_values(by='overall_rank', ascending=True).reset_index(drop=True)
 
 # Merge ranks with stats
-
 team_stats_full = pd.merge(team_stats_avg, team_stats_ranked, on='Team', suffixes=('', '_rank')).sort_values(
     by='overall_rank', ascending=True).reset_index(drop=True)
 
 # Create categories for the radar chart
-
 Passing = [
     'Killer Passes_avg_rank',
     'Killer Passes in the Box_avg_rank',
@@ -313,7 +297,6 @@ OnBall = [
 ]
 
 # Set team colors
-
 team_colors = {
     'Netherlands': 'darkorange',
     'Turkey': 'red',
@@ -420,7 +403,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
                 ticks='',
                 linewidth=0
             ),
-            bgcolor='rgba(255, 182, 193, 0.12)'  # Set a more transparent background color
+            bgcolor='rgba(255, 182, 193, 0.12)'
         ),
         showlegend=True,
         title=dict(
@@ -452,7 +435,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
         ]
     )
 
-    # Set background colors to 'rgba(0,0,0,0)' which is transparent
+    # Set background colors to 'rgba(0,0,0,0)' (transparent)
     fig.update_layout(
         plot_bgcolor='rgba(0,0,0,0)',  # No background color for the plot area
         paper_bgcolor='rgba(0,0,0,0)',  # No background color for the entire figure
@@ -491,9 +474,9 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
             theta=[categories[i]],
             mode='markers+text',
             text=[rank],
-            textposition='middle center',  # Position text inside the box
+            textposition='middle center',
             marker=dict(size=20, color=team_colors[team1_name], symbol='square', line=dict(color='white', width=1)),
-            textfont=dict(size=12, color='white'),  # Adjust font size and color for better readability
+            textfont=dict(size=12, color='white'),
             showlegend=False,
             hoverinfo='skip'
         ))
@@ -506,13 +489,14 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
                 theta=[categories[i]],
                 mode='markers+text',
                 text=[rank],
-                textposition='middle center',  # Position text inside the box
+                textposition='middle center',
                 marker=dict(size=20, color=team_colors[team2_name], symbol='square', line=dict(color='white', width=1)),
-                textfont=dict(size=12, color='white'),  # Adjust font size and color for better readability
+                textfont=dict(size=12, color='white'),
                 showlegend=False,
                 hoverinfo='skip'
             ))
-            # Add creator's mark
+
+    # Add My Mark
     fig.add_annotation(
         x=1,
         y=-0.15,
@@ -527,6 +511,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
 
     st.plotly_chart(fig)
 
+### Create Radar Chart
 
 def display_scatter_plot(df, x_metric, y_metric):
     # Replace the metric names with the descriptive names dynamically
@@ -575,20 +560,20 @@ def display_scatter_plot(df, x_metric, y_metric):
             showgrid=False,
             tickfont=dict(color='darkblue'),
             titlefont=dict(color='darkblue'),
-            range=[0, None]  # Start x-axis from 0
+            range=[0, None]
         ),
         yaxis=dict(
             showgrid=False,
             tickfont=dict(color='darkblue'),
             titlefont=dict(color='darkblue'),
-            range=[0, None]  # Start y-axis from 0
+            range=[0, None]
         ),
     )
 
-    # Set background colors to 'rgba(0,0,0,0)' which is transparent
+    # Set background colors to 'rgba(0,0,0,0)' (transparent)
     fig.update_layout(
-        plot_bgcolor='rgba(0,0,0,0)',  # No background color for the plot area
-        paper_bgcolor='rgba(0,0,0,0)',  # No background color for the entire figure
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
         title=dict(
             font=dict(size=24, color='darkred'),
         ),
@@ -606,7 +591,7 @@ def display_scatter_plot(df, x_metric, y_metric):
         line=dict(color='rgba(255, 0, 0, 0.5)', dash='dash', width=1)  # Thinner, semi-transparent mean line
     )
 
-    # Add creator's mark
+    # Add my Mark
     fig.add_annotation(
         x=1,
         y=-0.15,
@@ -621,6 +606,7 @@ def display_scatter_plot(df, x_metric, y_metric):
 
     st.plotly_chart(fig)
 
+### Create Bar Chart
 
 # Function to create and display bar chart for top 10 teams
 def display_bar_chart(df, metric):
@@ -644,10 +630,10 @@ def display_bar_chart(df, metric):
 
     # Set background colors
     fig.update_layout(
-        plot_bgcolor='rgba(0,0,0,0)',  # No background color for the plot area
-        paper_bgcolor='rgba(0,0,0,0)',  # No background color for the entire figure
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
         title=dict(
-            font=dict(size=28, color='darkred'),  # Increased title font size
+            font=dict(size=28, color='darkred'),
         ),
         bargap=0.6,
         barmode='overlay',
@@ -681,10 +667,16 @@ def display_bar_chart(df, metric):
 
     # Customize hover template to show only the metric value
     fig.update_traces(
-        hovertemplate='%{x:.2f}',  # Display the x value (metric value) only, formatted to 2 decimal places
+        hovertemplate='%{x:.1f}<extra></extra>',  # Display the x value formatted to 1 decimal places
         marker=dict(
             line=dict(width=1.5, color='black')
-        )
+        ),
+        hoverlabel=dict(
+            font_size=15,  # Increase the font size
+            font_family='Arial Black',  # Make the font bold
+            font_color='black'
+        ),
+        text=None
     )
 
     # Add annotations for y-axis labels
@@ -744,6 +736,7 @@ def display_team_rankings(df, team_name, metrics):
             </div>
             """, unsafe_allow_html=True)
 
+### Create Passing Networks
 
 def create_team_passing_network(passing_network_data, team_name):
     # Select Team
@@ -801,19 +794,19 @@ def plot_team_passing_network(events, players, team_name, match_id):
     def to_penalty_area(tags):
         return 1 if 'To Penalty Area' in tags else 0
 
-    # Filling NaN values in 'Tags' with empty strings
+    # Fill NaN values in 'Tags' with empty strings
     passes['Tags'] = passes['Tags'].fillna('')
 
-    # Splitting the Tags column into lists
+    # Split the Tags column into lists
     passes['Tags'] = passes['Tags'].str.split(', ')
 
-    # Creating the outcome column
+    # Create the outcome column
     passes['outcome'] = passes['Tags'].apply(get_outcome)
 
-    # Creating the 'To Penalty Area' column
+    # Create the 'To Penalty Area' column
     passes['To Penalty Area'] = passes['Tags'].apply(to_penalty_area)
 
-    # Creating a new column for accurate passes to penalty area
+    # Create a new column for accurate passes to penalty area
     passes['Accurate To Penalty Area'] = passes.apply(
         lambda x: 1 if x['outcome'] == '1' and x['To Penalty Area'] == 1 else 0, axis=1)
 
@@ -927,60 +920,60 @@ def plot_team_passing_network(events, players, team_name, match_id):
     )
 
     # Add colorbars for the colormaps
-    cbar_ax1 = fig.add_axes([0.055, 0.88, 0.2, 0.03])  # [left, bottom, width, height]
+    cbar_ax1 = fig.add_axes([0.055, 0.87, 0.2, 0.03])  # [left, bottom, width, height]
     cbar1 = mpl.colorbar.ColorbarBase(cbar_ax1, cmap='coolwarm', norm=norm, orientation='horizontal')
     cbar1.set_label('Passes Between')
 
-    cbar_ax2 = fig.add_axes([0.055, 0.15, 0.2, 0.03])  # Adjust position to stack on top of each other
+    cbar_ax2 = fig.add_axes([0.055, 0.17, 0.2, 0.03])
     cbar2 = mpl.colorbar.ColorbarBase(cbar_ax2, cmap='viridis', norm=count_norm, orientation='horizontal')
     cbar2.set_label('Player Passes')
 
-    # Add player numbers
+    # Add player numbers (annotations)
     for i, row in team_passing_network.iterrows():
-        pitch.annotate(row['Passer'], xy=(row['x'], row['y']), c='#E65100', fontweight='bold', ha='center', va='center',
-                       fontsize=12, ax=ax)
+        pitch.annotate(row['Passer'], xy=(row['x'], row['y']), c='#E65100', fontweight='bold', ha='center', va='center', fontsize=12, ax=ax)
 
-    # Add title
-    ax.annotate(f"Passing Network of {team_passing_network['Team Name'].iloc[0]}", xy=(0.5, 0.99), xytext=(0, 0),
-                fontsize=16, xycoords='axes fraction', textcoords='offset points',
+    # Add title annotation
+    ax.annotate(f"Passing Network of {team_passing_network['Team Name'].iloc[0]}", xy=(0.5, 0.99), xytext=(0, 0),fontsize=16, xycoords='axes fraction', textcoords='offset points',
                 va='top', ha='center', color='#FF4500', fontweight='bold')
 
     # Add a legend with player numbers and names
     handles = []
     for passer in team_passing_network['Passer'].unique():
         player_name = team_passing_network.loc[team_passing_network['Passer'] == passer, 'Player From Name'].values[0]
-        handles.append(plt.Line2D([0], [0], marker='o', color='w', label=f'{passer} - {player_name}',
-                                  markerfacecolor='#FF4500', markersize=11))
+        handles.append(plt.Line2D([0], [0], color='w', marker='o', label=f'{passer} - {player_name}',
+                                  markerfacecolor='#FF4500', markersize=11, linestyle='None'))
 
-    # Create the legend box
+    # Create a FancyBboxPatch for the legend box style
     legend_patch = mpatches.FancyBboxPatch(
-        (0, 0), 1, 1, boxstyle="round,pad=0.5",
-        facecolor='#E0FFFF', edgecolor='#696969', linewidth=2
+        (0, 0), 1, 1, boxstyle="round,pad=0.2",
+        facecolor='#E0FFFF', edgecolor='#696969', linewidth=2, alpha=0.8
     )
 
-    # Add the legend to the plot
+    # Add the legend to the plot with smaller font size
     ax.legend(handles=handles, loc='center left', title=f"{team_name} Players",
-              fontsize=10, title_fontsize='11', bbox_to_anchor=(0.77, 0.26),
-              fancybox=True, framealpha=1, shadow=False, frameon=True)
+              fontsize=10, title_fontsize='10', bbox_to_anchor=(0.81, 0.23),
+              fancybox=True, framealpha=0.8, shadow=False, frameon=True)  # Increased transparency with framealpha
 
     # Manually apply the box style to the legend
     legend = ax.get_legend()
     legend.get_frame().set_facecolor('#E0FFFF')
     legend.get_frame().set_edgecolor('#696969')
-    legend.get_frame().set_boxstyle("round,pad=0.5")
+    legend.get_frame().set_boxstyle("round,pad=0.2")
+    legend.get_frame().set_alpha(0.8)  # Set the transparency
 
     # Add statistics box
     ax.text(
-        0.96, 0.94, stats_text, fontsize=11, va='top', ha='right',
+        0.99, 0.98, stats_text, fontsize=11, va='top', ha='right',
         transform=ax.transAxes,  # Use Axes coordinates
-        bbox=dict(facecolor='#E0FFFF', edgecolor='#696969', linewidth=2, boxstyle='round,pad=0.5')
+        bbox=dict(facecolor='#E0FFFF', edgecolor='#696969', linewidth=2, boxstyle='round,pad=0.5', alpha=0.8)
     )
 
-    # Add my mark
-    fig.text(0.94, 0.05, 'Created by: #DKAnalytics', ha='right', fontsize=9, color='#FF4500')
+    # Add My Mark
+    fig.text(0.05, 0.06, 'Created by: #DKAnalytics', ha='left', fontsize=9, color='#FF4500')
 
     st.pyplot(fig)
 
+### Create Player Spotlight
 
 # The function for plotting player events
 def plot_player_events(all_events, player, match_id):
@@ -1033,9 +1026,9 @@ def plot_player_events(all_events, player, match_id):
 
     # Define shapes and colors for different events
     event_styles = {
-        'Duel \nWon': {'color': 'green', 'marker': 'o', 'size': 100},
+        'Duel Won': {'color': 'green', 'marker': 'o', 'size': 100},
         'Intercept': {'color': 'blue', 'marker': 'x', 'size': 100},
-        'Duel \nLost': {'color': 'red', 'marker': 'o', 'size': 100},
+        'Duel Lost': {'color': 'red', 'marker': 'o', 'size': 100},
         'Shot': {'color': 'blue', 'marker': 's', 'size': 100},
         'Goal': {'color': 'gold', 'marker': '*', 'size': 500},
     }
@@ -1071,20 +1064,30 @@ def plot_player_events(all_events, player, match_id):
     # Create a custom legend for the counts
     legend_elements = [
         plt.Line2D([0], [0], marker=style['marker'], color='w', label=f"{event}: {count}",
-                   markerfacecolor=style['color'], markersize=10, markeredgewidth=1, markeredgecolor='blue')
+                  markerfacecolor=style['color'], markersize=10, markeredgewidth=1, markeredgecolor='blue')
         for event, style, count in zip(event_styles.keys(), event_styles.values(), event_counts.values())
     ]
 
     # Add the pass count to the custom legend
-    legend_elements.append(plt.Line2D([0], [0], marker='o', color='w', label=f"Progressive \nPasses: {pass_count}",
-                                      markerfacecolor='none', markersize=10, markeredgewidth=1,
-                                      markeredgecolor='#FF4500'))
+    legend_elements.append(plt.Line2D([0], [0], marker='o', color='w', label=f"Progressive Passes: {pass_count}",
+                                      markerfacecolor='none', markersize=10, markeredgewidth=1, markeredgecolor='#FF4500'))
 
-    # Display the custom legend on the upper right side
-    ax.legend(handles=legend_elements, loc='lower left', fontsize=10)
+    # Display the custom legend as a line at the bottom of the plot
+    ax.legend(
+        handles=legend_elements,
+        loc='upper center',
+        fontsize=10,
+        ncol=len(legend_elements),
+        bbox_to_anchor=(0.4, 0.06),
+        fancybox=True,
+        frameon=False,
+        handletextpad=0.4,    # Reduce the space between the marker and the text
+        columnspacing=0.5,    # Reduce the space between columns
+        labelspacing=0.4      # Reduce the space between labels
+    )
 
-    # Add annotation below the graph on the right
-    fig.text(0.94, 0.05, 'Created by: #DKAnalytics', ha='right', fontsize=9, color='#FF4500')
+    # Add My Mark
+    fig.text(0.98, 0.08, 'Created by: #DKAnalytics', ha='right', fontsize=8.5, color='#FF4500')
 
     # Add title
     ax.annotate(f"Spotlight on {player_events['Player From Name'].iloc[0]} - {player_events['Game'].iloc[0]}",
@@ -1094,7 +1097,9 @@ def plot_player_events(all_events, player, match_id):
     # Show plot
     st.pyplot(fig)
 
+### Create Shot Maps
 
+# Function to create player shot map
 def plot_player_shots(shot_events, player_name, match_id=None):
     # Filter the data based on player name; if match_id is provided, filter further by match_id
     player_data = xg_shot_events[xg_shot_events['Player From Name'] == player_name]
@@ -1114,7 +1119,7 @@ def plot_player_shots(shot_events, player_name, match_id=None):
         'Off Target': {'color': 'red', 'marker': 'x'},
     }
 
-    # Set up the pitch with the specified padding
+    # Set up the Vertical pitch with padding
     v_pitch = VerticalPitch(half=True, pitch_type='custom', pitch_color='#f5f5dc', line_color='#696969',
                             pitch_length=105, pitch_width=68, pad_bottom=-15, pad_left=-2, pad_right=-2)
     fig, ax = v_pitch.draw(figsize=(8, 6))
@@ -1146,7 +1151,7 @@ def plot_player_shots(shot_events, player_name, match_id=None):
     # Show the plot
     st.pyplot(fig)
 
-
+# Function to create Team shot map
 def plot_team_shots(shot_events, team_name, match_id=None):
     # Filter the data based on player name; if match_id is provided, filter further by match_id
     team_data = xg_shot_events[xg_shot_events['Team Name'] == team_name]
@@ -1189,7 +1194,7 @@ def plot_team_shots(shot_events, team_name, match_id=None):
                                   markeredgecolor='red'))
 
     # Add the custom legend
-    fig.legend(handles=handles, loc='lower center', bbox_to_anchor=(0.5, 0.06), ncol=4, fontsize=10)
+    fig.legend(handles=handles, loc='lower center', bbox_to_anchor=(0.5, 0.08), ncol=4, fontsize=10)
 
     # Set Title
     ax.set_title(f"Shot Map of {team_name}", fontsize=18, fontweight='bold', color='red', pad=20, y=0.88)
@@ -1199,7 +1204,7 @@ def plot_team_shots(shot_events, team_name, match_id=None):
 
     st.pyplot(fig)
 
-
+# Function to create Team Conceded shot map
 def plot_conceded_team_shots(shot_events, team_name, match_id=None):
     # Filter the data based on player name; if match_id is provided, filter further by match_id
     conceded_data = xg_shot_events[xg_shot_events['opponent team name'] == team_name]
@@ -1353,6 +1358,7 @@ tabs = st.tabs(
     ["Passing Networks", "Team Head 2 Head", "Team Comparison", "Top 10", "Rankings Card", "Player Spotlight",
      "Shot Maps"])
 
+# Passing Networks Tab
 with tabs[0]:
     # HTML code for hover effect with tooltip and "i" help button
     hover_text = "Select a Team and Game, then press the button to display the Passing Network up to the first substitution (excluding subs in the 1st half). Node size and edge color represent successful passes, while line color and width indicate the number of passes between players (min 3)."
@@ -1367,7 +1373,7 @@ with tabs[0]:
            </div>
        """, unsafe_allow_html=True)
 
-    # Dropdowns for team selection with styling
+    # Dropdowns for team selection
     col1, col2 = st.columns(2)
     with col1:
         team_name = st.selectbox('Select Team:', options=sorted(all_events['Team Name'].unique()), key='pn_team_name',
@@ -1382,6 +1388,7 @@ with tabs[0]:
         match_id = all_events[all_events['Game'] == game]['Match ID'].unique()[0]
         plot_team_passing_network(all_events, players, team_name, match_id)
 
+# Head 2 Head Tab
 with tabs[1]:
     hover_text = "Choose teams and the metrics category. Radar shows team rankings per game in the tournament."
     st.markdown(f"""
@@ -1395,7 +1402,7 @@ with tabs[1]:
            </div>
        """, unsafe_allow_html=True)
 
-    # Dropdowns for team selection with styling
+    # Dropdowns for team selection
     col1, col2 = st.columns(2)
     with col1:
         team1 = st.selectbox('Select TeamA:', sorted(team_stats_full['Team'].unique()), key='radar_team1',
@@ -1405,7 +1412,7 @@ with tabs[1]:
         team2 = st.selectbox('Select TeamB (optional):', [''] + sorted(list(team_stats_full['Team'].unique())),
                              key='radar_team2', help='Select the second team (optional)')
 
-    # Dropdown for metrics selection with styling
+    # Dropdown for metrics selection
     metrics_option = st.selectbox('Select Category:', ['Passing', 'Finishing', 'OnBall'],
                                   help='Select the metrics category')
 
@@ -1415,14 +1422,15 @@ with tabs[1]:
         'OnBall': OnBall
     }
 
-    # Show Radar button with styling
+    # Show Radar button
     if st.button('Show Radar', key='radar_button'):
         create_radar_chart(team1, metrics_option, metrics_dict[metrics_option], team2 if team2 else None)
 
+# Team Comparison Tab
 with tabs[2]:
     st.markdown("<h2 style='text-align: center; color: darkblue;'>Performance Comparison</h2>", unsafe_allow_html=True)
 
-    # Dropdowns for scatter plot metric selection with styling
+    # Dropdowns for scatter plot metric selection
     scatter_col1, scatter_col2 = st.columns(2)
     with scatter_col1:
         scatter_x_metric = st.selectbox('Select X-axis Metric:', team_stats_avg.columns[1:], key='scatter_x_metric',
@@ -1431,25 +1439,33 @@ with tabs[2]:
         scatter_y_metric = st.selectbox('Select Y-axis Metric:', team_stats_avg.columns[1:], key='scatter_y_metric',
                                         help='Select the metric for the Y-axis')
 
-    # Show Scatter Plot button with styling
+    # Show Scatter Plot button
     if st.button('Show Scatter Plot', key='scatter_button'):
         display_scatter_plot(team_stats_avg, scatter_x_metric, scatter_y_metric)
 
+# Top 10 Tab
 with tabs[3]:
     st.markdown("<h2 style='text-align: center; color: darkblue;'>Top 10</h2>", unsafe_allow_html=True)
 
-    # Dropdown for bar chart metric selection
-    bar_metric = st.selectbox('Select Metric for Bar Chart:', [col for col in team_stats_avg.columns[1:]],
-                              key='bar_metric', help='Select the metric for the bar chart')
+    # Filter and format metric options
+    available_metrics = [col for col in team_stats_avg.columns[1:] if col != 'Goals vs xGoals']
+    formatted_metrics = {col: col.replace('_avg', '') for col in available_metrics}
+
+    # Sort the metrics by their formatted names
+    sorted_metrics = sorted(formatted_metrics.keys(), key=lambda x: formatted_metrics[x])
+
+    # Dropdown for bar chart metric selection with formatted names
+    bar_metric = st.selectbox('Select Metric for Bar Chart:', options=sorted_metrics, format_func=lambda x: formatted_metrics[x], key='bar_metric', help='Select the metric for the bar chart')
 
     # Show Bar Chart button
     if st.button('Show Bar Chart', key='bar_button'):
         display_bar_chart(team_stats_avg, bar_metric)
 
+# Rankings Card Tab
 with tabs[4]:
     st.markdown("<h2 style='text-align: center; color: darkblue;'>Team Rankings Card</h2>", unsafe_allow_html=True)
 
-    # Dropdowns for team selection with styling
+    # Dropdowns for team selection
     col1, col2 = st.columns(2)
     with col1:
         team_for_card = st.selectbox('Select Team for Rankings Card:', sorted(team_stats_full['Team'].unique()),
@@ -1459,10 +1475,11 @@ with tabs[4]:
         metrics_for_card = st.selectbox('Select Metrics for Rankings Card:', ['Passing', 'Finishing', 'OnBall'],
                                         help='Select the metrics category for the rankings card')
 
-    # Show Team Rankings button with styling
+    # Show Team Rankings button
     if st.button('Show Team Rankings', key='rankings_button'):
         display_team_rankings(team_stats_full, team_for_card, metrics_dict[metrics_for_card])
 
+# Player Spotlight Tab
 with tabs[5]:
     # HTML code for hover effect with tooltip and "i" help button
     hover_text = "Select the Team first, the Game and finally the Player to plot and press the button. The graph shows some key actions of the player."
@@ -1477,7 +1494,7 @@ with tabs[5]:
         </div>
     """, unsafe_allow_html=True)
 
-    # Dropdowns for team selection with styling
+    # Dropdowns for team selection
     col1, col2, col3 = st.columns(3)
 
     # First, select the team
@@ -1502,6 +1519,7 @@ with tabs[5]:
         match_id = all_events[all_events['Game'] == game]['Match ID'].unique()[0]
         plot_player_events(all_events, player_name, match_id)
 
+# Shot Maps Tab
 with tabs[6]:
     # HTML code for hover effect with tooltip and "i" help button
     hover_text = "Choose a team, game, and player. Buttons display shot maps: team shots, conceded shots, or individual player shots. Marker size reflects xG value."
