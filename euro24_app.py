@@ -1,14 +1,15 @@
-## CREATE WEB APP
+### CREATE Euro24 WEB APP
 
 import streamlit as st
 
-# Set page configuration
+## Set page configuration
 st.set_page_config(
     page_title="Euro 24 Analytics Dashboard",
     layout="centered",  # Use the full width of the page
     initial_sidebar_state="expanded",  # Expand the sidebar by default
 )
 
+## importing libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -21,7 +22,8 @@ import matplotlib as mpl
 import matplotlib.colors as mcolors
 import matplotlib.patches as mpatches
 import base64
-# Load data
+
+### Load data
 
 @st.cache_data
 def load_events_data():
@@ -70,7 +72,7 @@ xg_shot_events = load_xg_shot_events_data()
 
 pd.set_option('display.max_columns', None)
 
-# Initial Transformations
+### Initial Transformations
 
 ## Create a 'GAME' Column for the xg_shot_events
 
@@ -83,13 +85,11 @@ match_teams['Game'] = match_teams['Team Name'].apply(lambda x: ' vs '.join(sorte
 # Merge the new 'Game' column back into the original DataFrame
 xg_shot_events = xg_shot_events.merge(match_teams[['Match ID', 'Game']], on='Match ID', how='left')
 
-
 # Function to capitalize the first letter of each word in a name
 def capitalize_name(name):
     if isinstance(name, str):
         return ' '.join(word.capitalize() for word in name.split())
     return name
-
 
 # Apply the capitalization function
 events['Player From Name'] = events['Player From Name'].apply(capitalize_name)
@@ -169,7 +169,7 @@ player_stats.drop(columns=['First Name', 'Last Name', 'Born Date', 'Season ID', 
 player_stats = player_stats.rename(
     columns={'Citizenship': 'Team', 'Known Name': 'Player Name', 'Assists': 'Key Passes'})
 
-# Fix Kosovo Citizenship
+# Fix Kosovo Citizenship in Albania's roster
 player_stats['Team'] = player_stats['Team'].replace('Kosovo', 'Albania')
 
 ## Create Team aggregated statistics
@@ -341,6 +341,8 @@ team_colors = {
     'Slovenia': 'limegreen'
 }
 
+### Create the radar chart
+
 # Store original ranks
 original_ranks = team_stats_full.copy()
 
@@ -367,7 +369,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
     values1 = team1_data[metrics_list].values.flatten().tolist()
     original_ranks1 = original_team1_data[metrics_list].values.flatten().tolist()
     actuals1 = team1_data[[col.replace('_rank', '') for col in metrics_list]].values.flatten().tolist()
-    values1.append(values1[0])  # Repeat the first value to close the circle
+    values1.append(values1[0])
     original_ranks1.append(original_ranks1[0])
     actuals1.append(actuals1[0])
 
@@ -391,7 +393,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
         values2 = team2_data[metrics_list].values.flatten().tolist()
         original_ranks2 = original_team2_data[metrics_list].values.flatten().tolist()
         actuals2 = team2_data[[col.replace('_rank', '') for col in metrics_list]].values.flatten().tolist()
-        values2.append(values2[0])  # Repeat the first value to close the circle
+        values2.append(values2[0])
         original_ranks2.append(original_ranks2[0])
         actuals2.append(actuals2[0])
         fig.add_trace(go.Scatterpolar(
@@ -411,11 +413,11 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
                 visible=True,
                 showline=False,
                 range=[0, 24],
-                showticklabels=False  # Remove default ticks
+                showticklabels=False
             ),
             angularaxis=dict(
                 showline=False,
-                showticklabels=False,  # Remove default tick labels
+                showticklabels=False,
                 tickvals=[],
                 ticks='',
                 linewidth=0
@@ -452,10 +454,10 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
         ]
     )
 
-    # Set background colors to 'rgba(0,0,0,0)' (transparent)
+    # Set transparent background
     fig.update_layout(
-        plot_bgcolor='rgba(0,0,0,0)',  # No background color for the plot area
-        paper_bgcolor='rgba(0,0,0,0)',  # No background color for the entire figure
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
         title=dict(
             font=dict(size=24, color='darkred'),
         ),
@@ -500,7 +502,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
 
     # Add small squares with rank numbers for each metric for the second team, if provided
     if team2_name:
-        for i, (rank, value) in enumerate(zip(original_ranks2[:-1], values2[:-1])):  # Skip the repeated first value
+        for i, (rank, value) in enumerate(zip(original_ranks2[:-1], values2[:-1])):
             fig.add_trace(go.Scatterpolar(
                 r=[value],
                 theta=[categories[i]],
@@ -528,7 +530,7 @@ def create_radar_chart(team1_name, metrics_list_name, metrics_list, team2_name=N
 
     st.plotly_chart(fig)
 
-### Create Radar Chart
+### Create Scatter Plot
 
 def display_scatter_plot(df, x_metric, y_metric):
     # Replace the metric names with the descriptive names dynamically
@@ -587,7 +589,7 @@ def display_scatter_plot(df, x_metric, y_metric):
         ),
     )
 
-    # Set background colors to 'rgba(0,0,0,0)' (transparent)
+    # Set transparent background
     fig.update_layout(
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
@@ -600,12 +602,12 @@ def display_scatter_plot(df, x_metric, y_metric):
     fig.add_shape(
         type='line',
         x0=x_mean, y0=0, x1=x_mean, y1=df[y_metric].max(),
-        line=dict(color='rgba(255, 0, 0, 0.5)', dash='dash', width=1)  # Thinner, semi-transparent mean line
+        line=dict(color='rgba(255, 0, 0, 0.5)', dash='dash', width=1)
     )
     fig.add_shape(
         type='line',
         x0=0, y0=y_mean, x1=df[x_metric].max(), y1=y_mean,
-        line=dict(color='rgba(255, 0, 0, 0.5)', dash='dash', width=1)  # Thinner, semi-transparent mean line
+        line=dict(color='rgba(255, 0, 0, 0.5)', dash='dash', width=1)
     )
 
     # Add my Mark
@@ -641,11 +643,11 @@ def display_bar_chart(df, metric):
         color_discrete_map=team_colors,
         title=f'Top 10 Teams by {metric}',
         labels={metric: metric_display_name},
-        width=800,  # Increase the width of the plot
-        height=520  # Increase the height of the plot
+        width=800,
+        height=520
     )
 
-    # Set background colors
+    # # Set transparent background
     fig.update_layout(
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
@@ -670,7 +672,7 @@ def display_bar_chart(df, metric):
         yaxis_title=None,
         showlegend=False,
         yaxis=dict(
-            showticklabels=False  # Hide original tick labels
+            showticklabels=False
         ),
         xaxis=dict(
             tickfont=dict(
@@ -684,13 +686,13 @@ def display_bar_chart(df, metric):
 
     # Customize hover template to show only the metric value
     fig.update_traces(
-        hovertemplate='%{x:.1f}<extra></extra>',  # Display the x value formatted to 1 decimal places
+        hovertemplate='%{x:.1f}<extra></extra>',
         marker=dict(
             line=dict(width=1.5, color='black')
         ),
         hoverlabel=dict(
-            font_size=15,  # Increase the font size
-            font_family='Arial Black',  # Make the font bold
+            font_size=15,
+            font_family='Arial Black',
             font_color='black'
         ),
         text=None
@@ -705,7 +707,7 @@ def display_bar_chart(df, metric):
             showarrow=False,
             font=dict(
                 color=team_colors[team],
-                size=20  # Increased font size for team names
+                size=20
             ),
             xanchor='right',
             yanchor='middle'
@@ -733,7 +735,7 @@ def display_team_rankings(df, team_name, metrics):
         # Calculate the progress value (inverse scale from 24 to 1)
         progress_value = 25 - rank
 
-        # Calculate color based on rank (from red to green) with higher visibility on white background
+        # Calculate color based on rank
         red = min(255, int((1 - progress_value / 24) * 255))
         green = min(200, int((progress_value / 24) * 255))
         color = f"rgb({red}, {green}, 0)"
@@ -945,11 +947,11 @@ def plot_team_passing_network(events, players, team_name, match_id):
     cbar2 = mpl.colorbar.ColorbarBase(cbar_ax2, cmap='viridis', norm=count_norm, orientation='horizontal')
     cbar2.set_label('Player Passes')
 
-    # Add player numbers (annotations)
+    # Add player numbers
     for i, row in team_passing_network.iterrows():
         pitch.annotate(row['Passer'], xy=(row['x'], row['y']), c='#E65100', fontweight='bold', ha='center', va='center', fontsize=12, ax=ax)
 
-    # Add title annotation
+    # Add title
     ax.annotate(f"Passing Network of {team_passing_network['Team Name'].iloc[0]}", xy=(0.5, 0.99), xytext=(0, 0),fontsize=16, xycoords='axes fraction', textcoords='offset points',
                 va='top', ha='center', color='#FF4500', fontweight='bold')
 
@@ -997,7 +999,7 @@ def plot_player_events(all_events, player, match_id):
     # Filter events for the specified player and match
     player_events = all_events[(all_events['Player From Name'] == player) & (all_events['Match ID'] == match_id)]
 
-    # Add columns for specific event types and conditions
+    ## Add columns for specific event types and conditions
 
     # Fw passes
     player_events['fw_passes'] = np.where(
@@ -1069,7 +1071,7 @@ def plot_player_events(all_events, player, match_id):
                  fw_passes_data['End X'], 68 - fw_passes_data['End Y'],
                  color='green', ax=ax, width=1.3, headwidth=3, headlength=4)
 
-    # Add 'o' marker at the start of each pass
+    # Add marker at the start of each pass
     pitch.scatter(fw_passes_data['Start X'], 68 - fw_passes_data['Start Y'],
                   s=100, color='none', marker='o', edgecolors='#FF4500', ax=ax, label='FW Pass Start')
 
@@ -1098,9 +1100,9 @@ def plot_player_events(all_events, player, match_id):
         bbox_to_anchor=(0.4, 0.06),
         fancybox=True,
         frameon=False,
-        handletextpad=0.4,    # Reduce the space between the marker and the text
-        columnspacing=0.5,    # Reduce the space between columns
-        labelspacing=0.4      # Reduce the space between labels
+        handletextpad=0.4,
+        columnspacing=0.5,
+        labelspacing=0.4
     )
 
     # Add My Mark
@@ -1145,7 +1147,7 @@ def plot_player_shots(shot_events, player_name, match_id=None):
     for event, style in event_styles.items():
         event_data = player_data[player_data['Outcome'] == event]
         v_pitch.scatter(event_data['Start X'], 68 - event_data['Start Y'],
-                        s=event_data['xG'] * 1000,  # Adjust marker size based on xG
+                        s=event_data['xG'] * 1000,
                         color=style['color'], marker=style['marker'], edgecolors='black', ax=ax, label=event)
 
     # Create custom legend
@@ -1168,7 +1170,7 @@ def plot_player_shots(shot_events, player_name, match_id=None):
     # Show the plot
     st.pyplot(fig)
 
-# Function to create Team shot map
+## Function to create Team shot map
 def plot_team_shots(shot_events, team_name, match_id=None):
     # Filter the data based on player name; if match_id is provided, filter further by match_id
     team_data = xg_shot_events[xg_shot_events['Team Name'] == team_name]
@@ -1221,7 +1223,7 @@ def plot_team_shots(shot_events, team_name, match_id=None):
 
     st.pyplot(fig)
 
-# Function to create Team Conceded shot map
+## Function to create Team Conceded shot map
 def plot_conceded_team_shots(shot_events, team_name, match_id=None):
     # Filter the data based on player name; if match_id is provided, filter further by match_id
     conceded_data = xg_shot_events[xg_shot_events['opponent team name'] == team_name]
@@ -1276,7 +1278,7 @@ def plot_conceded_team_shots(shot_events, team_name, match_id=None):
 
 ### APP DESIGN
 
-# Set the page configuration
+## Set the page configuration
 
 def get_image_base64(image_path):
     """Convert image to base64."""
@@ -1296,7 +1298,7 @@ euro24_base64 = get_image_base64(euro24_logo_path)
 sics_base64 = get_image_base64(sics_logo_path)
 dk_logo_base64 = get_image_base64(dk_logo_path)
 
-# HTML for displaying logos with links and adjusting sizes
+# Display logos with links and adjusting sizes
 html_logos = f"""
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://sportsdatacampus.com/" target="_blank" style="margin-right: 120px;">
@@ -1371,7 +1373,7 @@ tabs = st.tabs(
 
 # Passing Networks Tab
 with tabs[0]:
-    # HTML code for hover effect with tooltip and "i" help button
+    # Hover effect with tooltip and "i" help button
     hover_text = "Select a Team and Game, then press the button to display the Passing Network up to the first substitution (excluding subs in the 1st half). Node size and edge color represent successful passes, while line color and width indicate the number of passes between players (min 3)."
     st.markdown(f"""
           <div style="display: flex; justify-content: center; align-items: center;">
@@ -1492,7 +1494,7 @@ with tabs[4]:
 
 # Player Spotlight Tab
 with tabs[5]:
-    # HTML code for hover effect with tooltip and "i" help button
+    # Hover effect with tooltip and "i" help button
     hover_text = "Select the Team first, the Game and finally the Player to plot and press the button. The graph shows some key actions of the player."
     st.markdown(f"""
         <div style="display: flex; justify-content: center; align-items: center;">
@@ -1508,17 +1510,17 @@ with tabs[5]:
     # Dropdowns for team selection
     col1, col2, col3 = st.columns(3)
 
-    # First, select the team
+    # Select the team
     with col1:
         team_name = st.selectbox('Select Team:', sorted(all_events['Team Name'].dropna().unique()), key='ps_team_name',
                                  help='Select the Team of interest')
 
-    # Then, select the game, filtered by the selected team
+    # Select the game, filtered by the selected team
     with col2:
         filtered_games = all_events[all_events['Team Name'] == team_name]['Game'].dropna().unique()
         game = st.selectbox('Select Game:', sorted(filtered_games), key='ps_game', help='Select the Game of interest')
 
-    # Finally, select the player, filtered by the selected team
+    # Select the player, filtered by the selected team
     with col3:
         filtered_players = all_events[(all_events['Team Name'] == team_name) & (all_events['Game'] == game)][
             'Player From Name'].dropna().unique()
@@ -1532,7 +1534,7 @@ with tabs[5]:
 
 # Shot Maps Tab
 with tabs[6]:
-    # HTML code for hover effect with tooltip and "i" help button
+    # Hover effect with tooltip and "i" help button
     hover_text = "Choose a team, game, and player. Buttons display shot maps: team shots, conceded shots, or individual player shots. Marker size reflects xG value."
     st.markdown(f"""
           <div style="display: flex; justify-content: center; align-items: center;">
@@ -1549,18 +1551,18 @@ with tabs[6]:
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        # First, select the team
+        # Select the team
         team_name = st.selectbox('Select Team:', options=sorted(xg_shot_events['Team Name'].unique()))
 
     with col2:
-        # Then, select the game with 'All' option and filter games by selected team
+        # Select the game with 'All' option and filter games by selected team
         if team_name:
             filtered_games = ['All'] + sorted(
                 xg_shot_events[xg_shot_events['Team Name'] == team_name]['Game'].unique().tolist())
             match_id = st.selectbox('Select Game:', options=filtered_games)
 
     with col3:
-        # Finally, select the player filtered by the selected team
+        # Select the player filtered by the selected team
         if team_name:
             filtered_players = xg_shot_events[xg_shot_events['Team Name'] == team_name]['Player From Name'].unique()
             player_name = st.selectbox('Select Player:', options=filtered_players)
