@@ -1,0 +1,818 @@
+Player ID,First Name,Last Name,Known Name,Born Date,Shirt Number,Position,Position Detail,Citizenship,Height,Foot,Photo,Module Position,Age
+7326,AMIR,ABRASHI,ABRASHI A.,1990-03-27,22,Midfielder,,Albania,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ABRASHI A._7326.png,0,34.3
+7332,ARLIND,AJETI,AJETI AR.,1993-09-25,5,Defender,,Albania,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AJETI AR._7332.png,0,30.8
+8210,NASER,ALIJI,ALIJI N.,1993-12-27,25,Defender,,Albania,,,,0,30.5
+46129,JASIR,ASANI,ASANI J.,1995-05-19,9,Striker,,Albania,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ASANI J._46129.png,0,29.1
+25333,KRISTJAN,ASLLANI,ASLLANI K.,2002-03-09,21,Midfielder,,Albania,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ASLLANI K._25333.png,0,22.3
+16535,NEDIM,BAJRAMI,BAJRAMI N.,1999-02-28,10,Midfielder,,Albania,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAJRAMI N._16535.png,0,25.3
+36088,IVAN,BALLIU,BALLIU I.,1992-01-01,2,Defender,,Albania,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALLIU I._36088.png,0,32.5
+6137,ETRIT,BERISHA,BERISHA E.,1989-03-10,1,Goalkeeper,,Albania,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERISHA E._6137.png,0,35.3
+50302,MEDON,BERISHA,BERISHA M.,2003-10-21,16,Striker,,Albania,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERISHA M._50302.png,0,20.7
+34988,ARMANDO,BROJA,BROJA A.,2001-09-10,11,Striker,,Albania,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BROJA A._34988.png,0,22.8
+70041,MIRLIND,DAKU,DAKU M.,1998-01-01,19,Striker,,Albania,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAKU M._70041.png,0,26.5
+10288,BERAT,DJIMSITI,DJIMSITI B.,1993-02-19,6,Defender,,Albania,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DJIMSITI B._10288.png,0,31.4
+36090,KLAUS,GJASULA,GJASULA K.,1989-12-14,8,Midfielder,,Albania,190.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GJASULA K._36090.png,0,34.6
+57447,ARBER,HOXHA,HOXHA A.,1998-10-06,26,Striker,,Kosovo,,,,0,25.7
+6403,ELSEID,HYSAJ,HYSAJ E.,1994-02-02,4,Defender,,Albania,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HYSAJ E._6403.png,0,30.4
+23945,ARDIAN,ISMAJLI,ISMAJLI A.,1996-09-30,18,Defender,,Albania,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ISMAJLI A._23945.png,0,27.8
+12581,ELHAN,KASTRATI,KASTRATI E.,1997-02-02,12,Goalkeeper,,Albania,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KASTRATI E._12581.png,0,27.4
+16966,MARASH,KUMBULLA,KUMBULLA M.,2000-02-08,24,Defender,,Albania,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KUMBULLA M._16966.png,0,24.4
+26403,QAZIM,LACI,LACI Q.,1996-01-19,14,Midfielder,,Albania,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LACI Q._26403.png,0,28.4
+8717,REY,MANAJ,MANAJ R.,1997-02-24,7,Striker,,Albania,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MANAJ R._8717.png,0,27.3
+36087,ENEA,MIHAJ,MIHAJ E.,1998-07-05,13,Defender,,Albania,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIHAJ E._36087.png,0,26.0
+36390,MARIO,MITAJ,MITAJ M.,2003-08-06,3,Defender,,Albania,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MITAJ M._36390.png,0,20.9
+29433,ERNEST,MUCI,MUCI E.,2001-03-19,17,Striker,,Albania,180.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUCI E._29433.png,0,23.3
+17004,YLBER,RAMADANI,RAMADANI Y.,1996-04-12,20,Midfielder,,Albania,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMADANI Y._17004.png,0,28.2
+26406,TAULANT,SEFERI,SEFERI T.,1996-11-15,15,Midfielder,,Albania,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEFERI T._26406.png,0,27.6
+6142,THOMAS,STRAKOSHA,STRAKOSHA T.,1995-03-19,23,Goalkeeper,,Albania,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STRAKOSHA T._6142.png,0,29.3
+10847,MARKO,ARNAUTOVIC,ARNAUTOVIC M.,1989-04-19,7,Striker,,Austria,190.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ARNAUTOVIC M._10847.png,0,35.2
+56850,THIERNO MAMADOU LAMARANA,BALLO,BALLO T.,2002-01-02,0,Striker,,Austria,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALLO T._56850.png,0,22.5
+20289,CHRISTOPH,BAUMGARTNER,BAUMGARTNER C.,1999-08-01,19,Midfielder,,Austria,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAUMGARTNER C._20289.png,0,24.9
+34759,FLAVIUS,DANILIUC,DANILIUC F.,2001-04-27,21,Defender,,Austria,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DANILIUC F._34759.png,0,23.2
+19406,KEVIN,DANSO,DANSO K.,1998-09-19,4,Defender,,Austria,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DANSO K._19406.png,0,25.8
+56907,MAXIMILIAN,ENTRUP,ENTRUP M.,1997-07-25,25,Striker,,Austria,186.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ENTRUP M._56907.png,0,26.9
+19509,MICHAEL,GREGORITSCH,GREGORITSCH M.,1994-04-18,11,Striker,,Austria,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GREGORITSCH M._19509.png,0,30.2
+17396,FLORIAN,GRILLITSCH,GRILLITSCH F.,1995-08-07,10,Midfielder,,Austria,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRILLITSCH F._17396.png,0,28.9
+51660,MARCO,GRULL,GRULL M.,1998-07-06,27,Midfielder,,Austria,182.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRULL M._51660.png,0,26.0
+36705,NIKLAS,HEDL,HEDL N.,2001-03-17,12,Goalkeeper,,Austria,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HEDL N._36705.png,0,23.3
+19508,FLORIAN,KAINZ,KAINZ F.,1992-10-24,17,Midfielder,,Austria,176.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAINZ F._19508.png,0,31.7
+15798,KONRAD,LAIMER,LAIMER K.,1997-05-27,20,Midfielder,,Austria,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAIMER K._15798.png,0,27.1
+16265,STEFAN,LAINER,LAINER S.,1992-08-27,0,Defender,,Austria,,,,0,31.8
+20287,PHILIPP,LIENHART,LIENHART P.,1996-07-11,15,Defender,,Austria,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LIENHART P._20287.png,0,28.0
+11029,HEINZ,LINDNER,LINDNER H.,1990-07-17,1,Goalkeeper,,Austria,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LINDNER H._11029.png,0,34.0
+16840,PHILLIPP,MWENE,MWENE P.,1994-01-29,16,Defender,,Austria,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MWENE P._16840.png,0,30.4
+56915,TOBIAS,OKIKI LAWAL,LAWAL T.,2000-06-07,0,Goalkeeper,,Austria,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAWAL T._56915.png,0,24.1
+15732,PATRICK,PENTZ,PENTZ P.,1997-01-02,13,Goalkeeper,,Austria,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PENTZ P._15732.png,0,27.5
+17397,STEFAN,POSCH,POSCH S.,1997-05-14,5,Defender,,Austria,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POSCH S._17397.png,0,27.1
+36706,ALEXANDER,PRASS,PRASS A.,2001-05-26,8,Midfielder,,Austria,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PRASS A._36706.png,0,23.1
+33832,LEOPOLD,QUERFELD,QUERFELD L.,2003-12-20,14,Defender,,Austria,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/QUERFELD L._33832.png,0,20.5
+10852,MARCEL,SABITZER,SABITZER M.,1994-03-17,9,Midfielder,,Austria,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SABITZER M._10852.png,0,30.3
+21566,ROMANO,SCHMID,SCHMID R.,2000-01-27,18,Midfielder,,Austria,168.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHMID R._21566.png,0,24.4
+51659,MATTHIAS,SEIDL,SEIDL M.,2001-01-24,22,Midfielder,,Austria,175.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEIDL M._51659.png,0,23.4
+27994,NICOLAS,SEIWALD,SEIWALD N.,2001-05-04,6,Midfielder,,Austria,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEIWALD N._27994.png,0,23.2
+23809,GERNOT,TRAUNER,TRAUNER G.,1992-03-25,3,Defender,,Austria,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TRAUNER G._23809.png,0,32.3
+36099,ANDREAS,WEIMANN,WEIMANN A.,1991-08-05,24,Striker,,Austria,,,,0,32.9
+36154,PATRICK,WIMMER,WIMMER P.,2001-05-30,23,Defender,,Austria,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIMMER P._36154.png,0,23.1
+13829,MAXIMILIAN,WOBER,WOBER M.,1998-02-04,2,Defender,,Austria,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WOBER M._13829.png,0,26.4
+42379,AMEEN,AL-DAKHIL,AL-DAKHIL A.,2002-03-06,0,Defender,Centre-Back,Belgium,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AL-DAKHIL A._42379.png,0,22.3
+32072,JOHAN,BAKAYOKO,BAKAYOKO J.,2003-04-20,19,Striker,Right Winger,Belgium,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAKAYOKO J._32072.png,0,21.2
+9792,MICHY,BATSHUAYI,BATSHUAYI M.,1993-10-02,0,Striker,Centre-Forward,Belgium,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BATSHUAYI M._9792.png,0,30.7
+23065,ARNAUD,BODART,BODART A.,1998-03-11,0,Goalkeeper,Goalkeeper,Belgium,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BODART A._23065.png,0,26.3
+13198,TIMOTHY,CASTAGNE,CASTAGNE T.,1995-12-05,21,Defender,Right-Back,Belgium,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTAGNE T._13198.png,0,28.6
+16557,KOEN,CASTEELS,CASTEELS K.,1992-06-25,1,Goalkeeper,Goalkeeper,Belgium,197.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASTEELS K._16557.png,0,32.0
+8589,KEVIN,DE BRUYNE,DE BRUYNE K.,1991-06-28,7,Midfielder,,Belgium,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE BRUYNE K._8589.png,0,33.0
+23365,MAXIM,DE CUYPER,DE CUYPER M.,2000-12-22,25,Midfielder,,Belgium,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE CUYPER M._23365.png,0,23.5
+22258,CHARLES,DE KETELAERE,DE KETELAERE C.,2001-03-10,17,Striker,Attacking Midfield,Belgium,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE KETELAERE C._22258.png,0,23.3
+36641,ZENO,DEBAST,DEBAST Z.,2003-10-24,2,Defender,Centre-Back,Belgium,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEBAST Z._36641.png,0,20.7
+42383,OLIVIER,DEMAN,DEMAN O.,2000-04-06,0,Midfielder,Left Midfield,Belgium,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEMAN O._42383.png,0,24.2
+24564,JEREMY,DOKU,DOKU J.,2002-05-27,22,Striker,Right Winger,Belgium,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOKU J._24564.png,0,22.1
+17687,WOUT,FAES,FAES W.,1998-04-03,4,Defender,Centre-Back,Belgium,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FAES W._17687.png,0,26.2
+7407,YANNICK,FERREIRA CARRASCO,CARRASCO Y.,1993-09-04,11,Striker,Left Forward,Belgium,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERREIRA CARRASCO Y._7407.png,0,30.8
+23345,THOMAS,KAMINSKI,KAMINSKI T.,1992-10-23,12,Goalkeeper,Goalkeeper,Belgium,190.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAMINSKI T._23345.png,0,31.7
+9406,ROMELU,LUKAKU,LUKAKU R.,1993-05-13,10,Striker,Centre-Forward,Belgium,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUKAKU R._9406.png,0,31.1
+17694,DODI,LUKEBAKIO,LUKEBAKIO D.,1997-09-24,14,Striker,Right Winger,Belgium,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUKEBAKIO D._17694.png,0,26.8
+17696,OREL,MANGALA,MANGALA O.,1998-03-18,18,Midfielder,Center Midfield,Belgium,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MANGALA O._17696.png,0,26.3
+8377,THOMAS,MEUNIER,MEUNIER T.,1991-09-12,15,Defender,,Belgium,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEUNIER T._8377.png,0,32.8
+27431,AMADOU,ONANA,ONANA A.,2001-08-16,24,Midfielder,Defensive Midfield,Belgium,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ONANA A._27431.png,0,22.9
+17378,LOIS,OPENDA,OPENDA L.,2000-02-16,20,Striker,Centre-Forward,Belgium,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OPENDA L._17378.png,0,24.4
+20258,ALEXIS,SAELEMAEKERS,SAELEMAEKERS A.,1999-06-27,0,Midfielder,,Belgium,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAELEMAEKERS A._20258.png,0,25.0
+14910,MATZ,SELS,SELS M.,1992-02-26,13,Goalkeeper,Goalkeeper,Belgium,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SELS M._14910.png,0,32.3
+42381,HUGO,SIQUET,SIQUET H.,2002-07-09,0,Defender,Right-Back,Belgium,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIQUET H._42381.png,0,22.0
+26708,ARTHUR,THEATE,THEATE A.,2000-05-25,3,Defender,Centre-Back,Belgium,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/THEATE A._26708.png,0,24.1
+13799,YOURI,TIELEMANS,TIELEMANS Y.,1997-05-07,8,Midfielder,Center Midfield,Belgium,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TIELEMANS Y._13799.png,0,27.2
+13125,LEANDRO,TROSSARD,TROSSARD L.,1994-12-04,9,Midfielder,Left Forward,Belgium,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TROSSARD L._13125.png,0,29.6
+27170,ARTHUR,VERMEEREN,VERMEEREN A.,2005-02-07,23,Midfielder,,Belgium,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VERMEEREN A._27170.png,0,19.4
+8549,JAN,VERTONGHEN,VERTONGHEN J.,1987-04-24,5,Defender,Centre-Back,Belgium,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VERTONGHEN J._8549.png,0,37.2
+29527,ASTER,VRANCKX,VRANCKX A.,2002-10-04,16,Midfielder,Center Midfield,Belgium,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VRANCKX A._29527.png,0,21.7
+7955,AXEL,WITSEL,WITSEL A.,1989-01-12,6,Midfielder,,Belgium,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WITSEL A._7955.png,0,35.5
+16959,BORNA,BARISIC,BARISIC B.,1992-11-10,0,Defender,Left-Back,Croatia,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARISIC B._16959.png,0,31.6
+30353,MARTIN,BATURINA,BATURINA M.,2003-02-16,26,Midfielder,,Croatia,172.0,right,,0,21.4
+7092,MARCELO,BROZOVIC,BROZOVIC M.,1992-11-16,11,Midfielder,Defensive Midfield,Croatia,181.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BROZOVIC M._7092.png,0,31.6
+8950,ANTE,BUDIMIR,BUDIMIR A.,1991-07-22,16,Striker,,Croatia,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUDIMIR A._8950.png,0,32.9
+9014,MARTIN,ERLIC,ERLIC M.,1998-01-24,5,Defender,Centre-Back,Croatia,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ERLIC M._9014.png,0,26.4
+24930,MATIJA,FRIGAN,FRIGAN M.,2003-02-11,0,Striker,Centre-Forward,Croatia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRIGAN M._24930.png,0,21.4
+25074,JOSKO,GVARDIOL,GVARDIOL J.,2002-01-23,4,Defender,Centre-Back,Croatia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GVARDIOL J._25074.png,0,22.4
+19436,LUKA,IVANUSEC,IVANUSEC L.,1998-11-26,18,Striker,Left Forward,Croatia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/IVANUSEC L._19436.png,0,25.6
+36100,IVICA,IVUSIC,IVUSIC I.,1995-02-01,23,Goalkeeper,Goalkeeper,Croatia,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/IVUSIC I._36100.png,0,29.4
+26365,JOSIP,JURANOVIC,JURANOVIC J.,1995-08-16,22,Defender,Right-Back,Croatia,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JURANOVIC J._26365.png,0,28.9
+6101,MATEO,KOVACIC,KOVACIC M.,1994-05-06,8,Midfielder,Center Midfield,Croatia,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOVACIC M._6101.png,0,30.2
+7248,ANDREJ,KRAMARIC,KRAMARIC A.,1991-06-19,9,Striker,Centre-Forward,Croatia,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRAMARIC A._7248.png,0,33.0
+40658,NEDILJKO,LABROVIC,LABROVIC N.,1999-10-10,12,Goalkeeper,Goalkeeper,Croatia,196.0,right,,0,24.7
+13072,DOMINIK,LIVAKOVIC,LIVAKOVIC D.,1995-01-09,1,Goalkeeper,Goalkeeper,Croatia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LIVAKOVIC D._13072.png,0,29.5
+19437,LOVRO,MAJER,MAJER L.,1998-01-17,7,Midfielder,Center Midfield,Croatia,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAJER L._19437.png,0,26.5
+7243,LUKA,MODRIC,MODRIC L.,1985-09-09,10,Midfielder,Center Midfield,Croatia,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MODRIC L._7243.png,0,38.8
+24404,PETAR,MUSA,MUSA P.,1998-03-04,0,Striker,Centre-Forward,Croatia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUSA P._24404.png,0,26.3
+57594,MARCO,PASALIC,PASALIC MARCO,2000-09-14,24,Striker,,Croatia,177.0,left,,0,23.8
+9188,MARIO,PASALIC,PASALIC MARIO,1995-02-09,15,Midfielder,Attacking Midfield,Croatia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PASALIC M._9188.png,0,29.4
+7244,IVAN,PERISIC,PERISIC I.,1989-02-02,14,Striker,Left Midfield,Croatia,186.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PERISIC I._7244.png,0,35.4
+5965,BRUNO,PETKOVIC,PETKOVIC B.,1994-09-16,17,Striker,Centre-Forward,Croatia,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PETKOVIC B._5965.png,0,29.8
+9095,MARKO,PJACA,PJACA M.,1995-05-06,20,Striker,,Croatia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PJACA M._9095.png,0,29.2
+16445,MARIN,PONGRACIC,PONGRACIC M.,1997-09-11,3,Defender,,Croatia,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PONGRACIC M._16445.png,0,26.8
+13987,BORNA,SOSA,SOSA B.,1998-01-21,19,Defender,Left-Back,Croatia,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOSA B._13987.png,0,26.4
+27428,JOSIP,STANISIC,STANISIC J.,2000-04-02,2,Defender,Right-Back,Croatia,187.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STANISIC J._27428.png,0,24.2
+24936,LUKA,SUCIC,SUCIC L.,2002-09-08,25,Midfielder,,Croatia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUCIC L._24936.png,0,21.8
+30189,JOSIP,SUTALO,SUTALO J.,2000-02-28,6,Defender,Centre-Back,Croatia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUTALO J._30189.png,0,24.3
+7241,DOMAGOJ,VIDA,VIDA D.,1989-04-29,21,Defender,Centre-Back,Croatia,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VIDA D._7241.png,0,35.2
+15023,NIKOLA,VLASIC,VLASIC N.,1997-10-04,13,Midfielder,Attacking Midfield,Croatia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VLASIC N._15023.png,0,26.7
+14686,JOACHIM,ANDERSEN,ANDERSEN J.,1996-05-31,2,Defender,Centre-Back,Denmark,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDERSEN J._14686.png,0,28.1
+25535,ALEXANDER,BAH,BAH A.,1997-12-09,18,Defender,Right-Back,Denmark,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAH A._25535.png,0,26.6
+16574,MARTIN,BRAITHWAITE,BRAITHWAITE M.,1991-06-05,0,Striker,Centre-Forward,Denmark,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRAITHWAITE M._16574.png,0,33.1
+17512,JACOB,BRUUN LARSEN,BRUUN LARSEN J.,1998-09-19,26,Midfielder,,Denmark,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRUUN LARSEN J._17512.png,0,25.8
+9556,ANDREAS,CHRISTENSEN,CHRISTENSEN A.,1996-04-10,6,Defender,Centre-Back,Denmark,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHRISTENSEN A._9556.png,0,28.2
+23953,MIKKEL,DAMSGAARD,DAMSGAARD M.,2000-07-03,14,Striker,Left Forward,Denmark,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAMSGAARD M._23953.png,0,24.0
+23813,MOHAMED,DARAMY,DARAMY M.,2002-01-07,0,Midfielder,,Denmark,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DARAMY M._23813.png,0,22.5
+8400,THOMAS,DELANEY,DELANEY T.,1991-09-03,8,Midfielder,Center Midfield,Denmark,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DELANEY T._8400.png,0,32.8
+13573,KASPER,DOLBERG,DOLBERG K.,1997-10-06,12,Striker,,Denmark,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOLBERG K._13573.png,0,26.7
+20255,ANDERS,DREYER,DREYER A.,1998-05-02,24,Midfielder,,Denmark,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DREYER A._20255.png,0,26.2
+7591,CHRISTIAN,ERIKSEN,ERIKSEN C.,1992-02-14,10,Midfielder,Attacking Midfield,Denmark,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ERIKSEN C._7591.png,0,32.4
+25706,MADS,HERMANSEN,HERMANSEN M.,2000-07-11,16,Goalkeeper,Goalkeeper,Denmark,187.0,right,,0,24.0
+25397,MORTEN,HJULMAND,HJULMAND M.,1999-06-25,21,Midfielder,Defensive Midfield,Denmark,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HJULMAND M._25397.png,0,25.0
+12791,PIERRE-EMILE,HOJBJERG,HOJBJERG P.,1995-08-05,23,Midfielder,Center Midfield,Denmark,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HOJBJERG P._12791.png,0,28.9
+34734,RASMUS,HOJLUND,HOJLUND R.,2003-02-04,9,Striker,Centre-Forward,Denmark,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HOJLUND R._34734.png,0,21.4
+24542,GUSTAV,ISAKSEN,ISAKSEN G.,2001-04-19,0,Striker,,Denmark,181.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ISAKSEN G._24542.png,0,23.2
+13873,MATHIAS,JATTAH-NJIE JORGENSEN,ZANKA,1990-04-23,13,Defender,,Denmark,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZANKA_13873.png,0,34.2
+35024,ELIAS,JELERT KRISTENSEN,JELERT KRISTENSEN E.,2003-06-12,0,Defender,,Denmark,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JELERT E._35024.png,0,21.0
+13923,MATHIAS,JENSEN,JENSEN M.,1996-01-01,7,Midfielder,Center Midfield,Denmark,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JENSEN M._13923.png,0,28.5
+7583,SIMON,KJAER,KJAER S.,1989-03-26,4,Defender,Centre-Back,Denmark,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KJAER S._7583.png,0,35.3
+35022,VICTOR,KRISTIANSEN,KRISTIANSEN V.,2002-12-16,17,Defender,Left-Back,Denmark,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRISTIANSEN V._35022.png,0,21.5
+25713,JESPER,LINDSTROM,LINDSTROM J.,2000-02-29,0,Midfielder,Attacking Midfield,Denmark,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LINDSTROM J._25713.png,0,24.3
+20250,JOAKIM,MAEHLE,MAEHLE J.,1997-05-20,5,Defender,Right-Back,Denmark,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAEHLE J._20250.png,0,27.1
+20247,VICTOR,NELSSON,NELSSON V.,1998-10-14,0,Defender,Centre-Back,Denmark,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NELSSON V._20247.png,0,25.7
+12830,RASMUS,NISSEN KRISTENSEN,KRISTENSEN R.,1997-07-11,25,Defender,Right-Back,Denmark,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRISTENSEN R. N._12830.png,0,27.0
+12824,CHRISTIAN,NORGAARD,NORGAARD C.,1994-03-10,15,Midfielder,Defensive Midfield,Denmark,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NORGAARD C._12824.png,0,30.3
+35063,MATT,O'RILEY,O'RILEY M.,2000-11-21,0,Midfielder,,Denmark,189.0,left,,0,23.6
+9960,YUSSUF,POULSEN,POULSEN Y.,1994-06-15,20,Striker,Centre-Forward,Denmark,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POULSEN Y._9960.png,0,30.0
+13890,JACOB,RASMUSSEN,RASMUSSEN J.,1997-05-28,0,Defender,,Denmark,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RASMUSSEN J._13890.png,0,27.1
+12793,FREDERIK,RONNOW,RONNOW F.,1992-08-04,22,Goalkeeper,Goalkeeper,Denmark,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RONNOW F._12793.png,0,31.9
+7580,KASPER,SCHMEICHEL,SCHMEICHEL K.,1986-11-05,1,Goalkeeper,Goalkeeper,Denmark,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHMEICHEL K._7580.png,0,37.7
+12832,ROBERT,SKOV,SKOV R.,1996-05-20,0,Midfielder,,Denmark,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SKOV R._12832.png,0,28.1
+20254,ANDREAS,SKOV OLSEN,SKOV OLSEN A.,1999-12-29,11,Striker,Right Winger,Denmark,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SKOV OLSEN A._20254.png,0,24.5
+12794,JENS,STRYGER LARSEN,STRYGER LARSEN J.,1991-02-21,0,Defender,Right-Back,Denmark,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LARSEN J._12794.png,0,33.4
+53906,NICOLAI,VALLYS,VALLYS N.,1996-09-04,0,Midfielder,Attacking Midfield,Denmark,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALLYS N._53906.png,0,27.8
+10793,JANNIK,VESTERGAARD,VESTERGAARD J.,1992-08-03,3,Defender,,Denmark,,,,0,31.9
+18562,JONAS,WIND,WIND J.,1999-02-07,19,Striker,Centre-Forward,Denmark,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIND J._18562.png,0,25.4
+10398,ALPHONSE,AREOLA,AREOLA A.,1993-02-27,23,Goalkeeper,Goalkeeper,France,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AREOLA A._10398.png,0,31.3
+32536,BRADLEY,BARCOLA,BARCOLA B.,2002-09-02,25,Striker,,France,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARCOLA B._32536.png,0,21.8
+21574,EDUARDO,CAMAVINGA,CAMAVINGA E.,2002-11-10,6,Midfielder,Center Midfield,France,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMAVINGA E._21574.png,0,21.6
+35129,JONATHAN,CLAUSS,CLAUSS J.,1992-09-25,21,Defender,,France,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CLAUSS J._35129.png,0,31.8
+6132,KINGSLEY,COMAN,COMAN K.,1996-06-13,20,Striker,Left Forward,France,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COMAN K._6132.png,0,28.0
+11048,OUSMANE,DEMBELE',DEMBELE' O.,1997-05-15,11,Striker,Right Winger,France,178.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEMBELE' O._11048.png,0,27.1
+30848,AXEL,DISASI,DISASI A.,1998-03-11,0,Defender,Centre-Back,France,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DISASI A._30848.png,0,26.3
+30850,YOUSSOUF,FOFANA,FOFANA Y.,1999-01-10,19,Midfielder,Center Midfield,France,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FOFANA Y._30850.png,0,25.5
+7723,OLIVIER,GIROUD,GIROUD O.,1986-09-30,9,Striker,Centre-Forward,France,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GIROUD O._7723.png,0,37.8
+7617,ANTOINE,GRIEZMANN,GRIEZMANN A.,1991-03-21,7,Striker,Centre-Forward,France,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRIEZMANN A._7617.png,0,33.3
+30392,MALO,GUSTO,GUSTO M.,2003-05-19,0,Defender,,France,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUSTO M._30392.png,0,21.1
+10795,LUCAS,HERNANDEZ,HERNANDEZ L.,1996-02-14,0,Defender,Centre-Back,France,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERNANDEZ L._10795.png,0,28.4
+15562,THEO BERNARD FRANCOIS,HERNANDEZ,HERNANDEZ T.,1997-10-06,22,Defender,Left-Back,France,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERNANDEZ T._15562.png,0,26.7
+16329,BOUBACAR,KAMARA,KAMARA B.,1999-11-23,0,Midfielder,Defensive Midfield,France,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAMARA B._16329.png,0,24.6
+11041,N'GOLO,KANTE',KANTE' N.,1991-03-29,13,Midfielder,,France,171.0,right,,0,33.3
+25704,RANDAL,KOLO MUANI,KOLO MUANI R.,1998-12-05,12,Striker,Centre-Forward,France,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOLO MUANI R._25704.png,0,25.6
+16128,IBRAHIMA,KONATE',KONATE' I.,1999-05-25,24,Defender,,France,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KONATE' I._16128.png,0,25.1
+17928,JULES,KOUNDE',KOUNDE' J.,1998-11-12,5,Defender,Centre-Back,France,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOUNDE' J._17928.png,0,25.6
+21438,MIKE,MAIGNAN,MAIGNAN M.,1995-07-03,16,Goalkeeper,Goalkeeper,France,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAIGNAN M._21438.png,0,29.0
+11711,KYLIAN,MBAPPE',MBAPPE' K.,1998-12-20,10,Striker,Centre-Forward,France,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MBAPPE' K._11711.png,0,25.5
+14970,FERLAND,MENDY,MENDY F.,1995-06-08,3,Defender,,France,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MENDY F._14970.png,0,29.1
+11045,BENJAMIN,PAVARD,PAVARD B.,1996-03-28,2,Defender,Centre-Back,France,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAVARD B._11045.png,0,28.3
+7437,ADRIEN,RABIOT,RABIOT A.,1995-04-03,14,Midfielder,Center Midfield,France,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RABIOT A._7437.png,0,29.2
+30184,WILLIAM,SALIBA,SALIBA W.,2001-03-24,17,Defender,Centre-Back,France,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SALIBA W._30184.png,0,23.3
+50346,BRICE,SAMBA,SAMBA B.,1994-04-25,1,Goalkeeper,Goalkeeper,France,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAMBA B._50346.png,0,30.2
+17930,AURELIEN,TCHOUAMENI,TCHOUAMENI A.,2000-01-27,8,Midfielder,Defensive Midfield,France,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TCHOUAMENI A._17930.png,0,24.4
+20214,MARCUS,THURAM,THURAM M.,1997-08-06,15,Striker,Centre-Forward,France,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/THURAM M._20214.png,0,26.9
+23036,JEAN-CLAIR,TODIBO,TODIBO J.,1999-12-30,0,Defender,Centre-Back,France,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TODIBO J._23036.png,0,24.5
+14949,DAYOT,UPAMECANO,UPAMECANO D.,1998-10-27,4,Defender,Centre-Back,France,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UPAMECANO D._14949.png,0,25.7
+29951,WARREN,ZAIRE EMERY,ZAIRE-EMERY W.,2006-03-08,18,Midfielder,,France,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAIRE-EMERY W._29951.png,0,18.3
+27388,GIORGI,ABURJANIA,ABURJANIA G.,1995-01-02,0,Midfielder,Defensive Midfield,Georgia,186.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ABURJANIA G._27388.png,0,29.5
+27392,SANDRO,ALTUNASHVILI,ALTUNASHVILI S.,1997-05-19,18,Midfielder,,Georgia,169.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALTUNASHVILI S._27392.png,0,27.1
+27389,IRAKLI,AZAROVI,AZAROVI I.,2002-02-21,0,Defender,Left-Back,Georgia,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AZAROVI I._27389.png,0,22.4
+23349,GIORGI,CHAKVETADZE,CHAKVETADZE G.,1999-08-29,10,Midfielder,Attacking Midfield,Georgia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHAKVETADZE G._23349.png,0,24.8
+27386,ZURIKO,DAVITASHVILI,DAVITASHVILI Z.,2001-02-15,9,Midfielder,Right Winger,Georgia,175.0,right,,0,23.4
+10079,LASHA,DVALI,DVALI L.,1995-05-14,3,Defender,Centre-Back,Georgia,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DVALI L._10079.png,0,29.1
+31655,LUKA,GAGNIDZE,GAGNIDZE L.,2003-02-28,0,Midfielder,Center Midfield,Georgia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAGNIDZE L._31655.png,0,21.3
+42397,GIORGI,GOCHOLEISHVILI,GOCHOLEISHVILI G.,2001-02-14,13,Defender,Right-Back,Georgia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOCHOLEISHVILI G._42397.png,0,23.4
+53253,LUKA,GUGESHASHVILI,GUGESHASHVILI L.,1999-04-29,12,Goalkeeper,Goalkeeper,Georgia,196.0,left,,0,25.2
+43099,GIORGI,GVELESIANI,GVELESIANI G.,1991-05-05,15,Defender,,Georgia,193.0,right,,0,33.2
+27391,OTAR,KAKABADZE,KAKABADZE O.,1995-06-27,2,Defender,,Georgia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAKABADZE O._27391.png,0,29.0
+42389,ALEKSANDRE,KALANDADZE,KALANDADZE A.,2001-05-09,0,Defender,Centre-Back,Georgia,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KALANDADZE A._42389.png,0,23.1
+8256,GURAM,KASHIA,KASHIA G.,1987-07-04,4,Defender,Centre-Back,Georgia,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KASHIA G._8256.png,0,37.0
+37089,OTAR,KITEISHVILI,KITEISHVILI O.,1996-03-26,17,Midfielder,Attacking Midfield,Georgia,173.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KITEISHVILI O._37089.png,0,28.3
+53252,GIORGI,KOCHORASHVILI,KOCHORASHVILI G.,1999-06-29,6,Midfielder,Center Midfield,Georgia,178.0,right,,0,25.0
+31347,KHVICHA,KVARATSKHELIA,KVARATSKHELIA K.,2001-02-12,7,Striker,Left Forward,Georgia,183.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KVARATSKHELIA K._31347.png,0,23.4
+10098,NIKA,KVEKVESKIRI,KVEKVESKIRI N.,1992-05-29,16,Midfielder,,Georgia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KVEKVESKIRI N._10098.png,0,32.1
+13180,GIORGI,KVILITAIA,KVILITAIA G.,1993-10-01,11,Striker,,Georgia,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KVILITAIA G._13180.png,0,30.8
+23029,SOLOMON,KVIRKVELIA,KVIRKVELIA S.,1992-02-06,5,Defender,Centre-Back,Georgia,196.0,right,,0,32.4
+36273,SABA,LOBJANIDZE,LOBJANIDZE S.,1994-12-18,23,Midfielder,Left Forward,Georgia,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOBJANIDZE S._36273.png,0,29.5
+25367,LUKA,LOCHOSHVILI,LOCHOSHVILI L.,1998-05-29,14,Defender,,Georgia,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOCHOSHVILI L._25367.png,0,26.1
+8252,GIORGI,LORIA,LORIA G.,1986-01-27,1,Goalkeeper,Goalkeeper,Georgia,197.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LORIA G._8252.png,0,38.4
+42387,GIORGI,MAMARDASHVILI,MAMARDASHVILI G.,2000-09-29,25,Goalkeeper,Goalkeeper,Georgia,197.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAMARDASHVILI G._42387.png,0,23.8
+27387,VLADIMER,MAMUCHASHVILI,MAMUCHASHVILI V.,1997-08-29,0,Midfielder,Defensive Midfield,Georgia,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAMUCHASHVILI V._27387.png,0,26.8
+42398,ANZOR,MEKVABISHVILI,MEKVABISHVILI A.,2001-06-05,20,Midfielder,Defensive Midfield,Georgia,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MEKVABISHVILI A._42398.png,0,23.1
+27393,GEORGES,MIKAUTADZE,MIKAUTADZE G.,2000-10-31,22,Striker,Centre-Forward,Georgia,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIKAUTADZE G._27393.png,0,23.7
+31549,SABA,SAZONOV,SAZONOV S.,2002-02-01,0,Defender,Centre-Back,Georgia,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAZONOV S._31549.png,0,22.4
+41029,LEVAN,SHENGELIA,SHENGELIA L.,1995-10-27,19,Midfielder,,Georgia,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHENGELIA L._41029.png,0,28.7
+32807,GABRIEL,SIGUA,SIGUA G.,2005-06-30,26,Midfielder,,Georgia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIGUA G._32807.png,0,19.0
+47937,JEMAL,TABIDZE,TABIDZE J.,1996-03-18,24,Defender,,Georgia,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TABIDZE J._47937.png,0,28.3
+39056,GEORGIY,TSITAISHVILI,TSITAISHVILI G.,2000-11-18,21,Midfielder,Right Winger,Georgia,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TSITAISHVILI G._39056.png,0,23.6
+45955,BUDU,ZIVZIVADZE,ZIVZIVADZE B.,1994-03-10,8,Striker,Centre-Forward,Georgia,189.0,both,,0,30.3
+30865,ROBERT,ANDRICH,ANDRICH R.,1994-09-22,23,Midfielder,,Germany,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDRICH R._30865.png,0,29.8
+17398,OLIVER,BAUMANN,BAUMANN O.,1990-06-02,12,Goalkeeper,Goalkeeper,Germany,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAUMANN O._17398.png,0,34.1
+38427,MAXIMILIAN,BEIER,BEIER M.,2002-10-17,14,Striker,,Germany,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BEIER M._38427.png,0,21.7
+7822,JULIAN,BRANDT,BRANDT J.,1996-05-02,0,Midfielder,Attacking Midfield,Germany,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRANDT J._7822.png,0,28.2
+8214,EMRE,CAN,EMRE CAN,1994-01-12,25,Midfielder,Defensive Midfield,Germany,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EMRE CAN_8214.png,0,30.5
+58342,CHRIS JAN,FUHRICH,FUHRICH C.,1998-01-09,11,Midfielder,,Germany,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FUHRICH C._58342.png,0,26.5
+14216,NICLAS,FULLKRUG,FULLKRUG N.,1993-02-09,9,Striker,,Germany,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FULLKRUG N._14216.png,0,31.4
+12834,SERGE,GNABRY,GNABRY S.,1995-07-14,0,Striker,Right Winger,Germany,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GNABRY S._12834.png,0,29.0
+14072,ROBIN,GOSENS,GOSENS R.,1994-07-05,0,Midfielder,Left Midfield,Germany,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOSENS R._14072.png,0,30.0
+43194,PASCAL,GROSS,GROSS P.,1991-06-15,5,Midfielder,Center Midfield,Germany,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GROSS P._43194.png,0,33.0
+7218,ILKAY,GUNDOGAN,GUNDOGAN I.,1990-10-24,21,Midfielder,Center Midfield,Germany,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUNDOGAN I._7218.png,0,33.7
+13310,KAI,HAVERTZ,HAVERTZ K.,1999-06-11,7,Striker,Attacking Midfield,Germany,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HAVERTZ K._13310.png,0,25.1
+10412,BENJAMIN,HENRICHS,HENRICHS B.,1997-02-23,20,Defender,Right-Back,Germany,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HENRICHS B._10412.png,0,27.4
+9581,JONAS,HOFMANN,HOFMANN J.,1992-07-14,0,Striker,Right Winger,Germany,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HOFMANN J._9581.png,0,32.0
+9831,JOSHUA,KIMMICH,KIMMICH J.,1995-02-08,6,Defender,Defensive Midfield,Germany,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KIMMICH J._9831.png,0,29.4
+18432,ROBIN LEON,KOCH,KOCH R.,1996-07-17,24,Defender,,Germany,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOCH R._18432.png,0,28.0
+7487,TONI,KROOS,KROOS T.,1990-01-04,8,Midfielder,,Germany,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KROOS T._7487.png,0,34.5
+15741,MAXIMILIAN,MITTELSTADT,MITTELSTADT M.,1997-03-18,18,Defender,,Germany,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MITTELSTADT M._15741.png,0,27.3
+7455,THOMAS,MULLER,MULLER T.,1989-09-13,13,Striker,Second Striker,Germany,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MULLER T._7455.png,0,34.8
+24707,JAMAL,MUSIALA,MUSIALA J.,2003-02-26,10,Midfielder,,Germany,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUSIALA J._24707.png,0,21.3
+7446,MANUEL,NEUER,NEUER M.,1986-03-27,1,Goalkeeper,,Germany,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEUER M._7446.png,0,38.3
+24709,FELIX,NMECHA,NMECHA F.,2000-10-10,0,Midfielder,Center Midfield,Germany,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NMECHA F._24709.png,0,23.7
+58307,ALEKSANDAR,PAVLOVIC,PAVLOVIC A.,2004-05-03,25,Midfielder,,Germany,188.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAVLOVIC A._58307.png,0,20.2
+25117,DAVID,RAUM,RAUM D.,1998-04-22,3,Defender,,Germany,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAUM D._25117.png,0,26.2
+14210,WALDEMAR,RIPTSOV ANTON,ANTON W.,1996-07-20,16,Defender,,Germany,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANTON W._14210.png,0,27.9
+8755,ANTONIO,RUDIGER,RUDIGER A.,1993-03-03,2,Defender,Centre-Back,Germany,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUDIGER A._8755.png,0,31.3
+7766,LEROY,SANE',SANE' L.,1996-01-11,19,Midfielder,Right Winger,Germany,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANE' L._7766.png,0,28.5
+36756,KEVIN,SCHADE,SCHADE K.,2001-11-27,0,Striker,Right Winger,Germany,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHADE K._36756.png,0,22.6
+20932,NICO,SCHLOTTERBECK,SCHLOTTERBECK N.,1999-12-01,15,Defender,Centre-Back,Germany,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHLOTTERBECK N._20932.png,0,24.6
+12750,NIKLAS,SULE,SULE N.,1995-09-03,0,Defender,Centre-Back,Germany,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SULE N._12750.png,0,28.8
+9565,JONATHAN,TAH,TAH J.,1996-02-11,4,Defender,Centre-Back,Germany,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TAH J._9565.png,0,28.4
+7414,MARC-ANDRE',TER STEGEN,TER STEGEN M.,1992-04-30,22,Goalkeeper,Goalkeeper,Germany,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TER STEGEN M._7414.png,0,32.2
+25666,MALICK,THIAW,THIAW M.,2001-08-08,0,Defender,Centre-Back,Germany,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/THIAW M._25666.png,0,22.9
+10379,KEVIN,TRAPP,TRAPP K.,1990-07-08,0,Goalkeeper,Goalkeeper,Germany,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TRAPP K._10379.png,0,34.0
+43196,DENIZ,UNDAV,UNDAV D.,1996-07-19,26,Striker,,Germany,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UNDAV D._43196.png,0,28.0
+23830,FLORIAN,WIRTZ,WIRTZ F.,2003-05-03,17,Midfielder,Attacking Midfield,Germany,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIRTZ F._23830.png,0,21.2
+11389,TRENT,ALEXANDER-ARNOLD,ALEXANDER-ARNOLD T.,1998-10-07,8,Defender,Right-Back,England,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ALEXANDER-ARNOLD T._11389.png,0,25.7
+24532,JUDE,BELLINGHAM,BELLINGHAM J.,2003-06-29,10,Midfielder,Center Midfield,England,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELLINGHAM J._24532.png,0,21.0
+30194,JARROD,BOWEN,BOWEN J.,1996-12-20,20,Striker,Right Winger,England,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOWEN J._30194.png,0,27.5
+37120,JARRAD,BRANTHWAITE,BRANTHWAITE J.,2002-06-27,14,Defender,,England,195.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRANTHWAITE J._37120.png,0,22.0
+13461,BEN,CHILWELL,CHILWELL B.,1996-12-21,0,Defender,Left-Back,England,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHILWELL B._13461.png,0,27.5
+29465,LEVI,COLWILL,COLWILL L.,2003-02-26,14,Defender,Centre-Back,England,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COLWILL L._29465.png,0,21.3
+11869,LEWIS,DUNK,DUNK L.,1991-11-21,15,Defender,Centre-Back,England,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUNK L._11869.png,0,32.6
+25678,EBERECHI,EZE,EZE E.,1998-06-29,21,Striker,Attacking Midfield,England,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EZE E._25678.png,0,26.0
+15748,PHILIP WALTER,FODEN,FODEN P.,2000-05-28,11,Midfielder,Left Forward,England,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FODEN P._15748.png,0,24.1
+25676,CONOR,GALLAGHER,GALLAGHER C.,2000-02-06,16,Midfielder,Center Midfield,England,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GALLAGHER C._25676.png,0,24.4
+9178,JOE,GOMEZ,GOMEZ J.,1997-05-23,22,Defender,,England,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GOMEZ J._9178.png,0,27.1
+35362,ANTHONY,GORDON,GORDON A.,2001-02-24,18,Striker,,England,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GORDON A._35362.png,0,23.3
+12816,JACK,GREALISH,GREALISH J.,1995-09-10,20,Striker,Left Forward,England,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GREALISH J._12816.png,0,28.8
+25673,MARC,GUEHI,GUEHI M.,2000-07-13,6,Defender,Centre-Back,England,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUEHI M._25673.png,0,24.0
+18217,DEAN,HENDERSON,HENDERSON D.,1997-03-12,23,Goalkeeper,,England,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HENDERSON D._18217.png,0,27.3
+7341,JORDAN,HENDERSON,HENDERSON J.,1990-06-17,8,Midfielder,Center Midfield,England,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HENDERSON J._7341.png,0,34.0
+26367,SAM,JOHNSTONE,JOHNSTONE S.,1993-03-25,13,Goalkeeper,Goalkeeper,England,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOHNSTONE S._26367.png,0,31.3
+7345,HARRY,KANE,KANE H.,1993-07-28,9,Striker,Centre-Forward,England,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KANE H._7345.png,0,30.9
+18222,EZRI,KONSA,KONSA E.,1997-10-23,14,Defender,,England,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KONSA E._18222.png,0,26.7
+16753,JAMES,MADDISON,MADDISON J.,1996-11-23,11,Midfielder,Attacking Midfield,England,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MADDISON J._16753.png,0,27.6
+15924,HARRY,MAGUIRE,MAGUIRE H.,1993-03-05,6,Defender,Centre-Back,England,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAGUIRE H._15924.png,0,31.3
+58426,KOBBIE BOATENG,MAINOO,MAINOO K.,2005-04-19,26,Midfielder,,England,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAINOO K._58426.png,0,19.2
+15547,EDWARD,NKETIAH,NKETIAH E.,1999-05-30,0,Striker,Centre-Forward,England,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NKETIAH E._15547.png,0,25.1
+24667,COLE,PALMER,PALMER C.,2002-05-06,24,Midfielder,,England,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PALMER C._24667.png,0,22.2
+20918,KALVIN,PHILLIPS,PHILLIPS K.,1995-12-02,16,Midfielder,Defensive Midfield,England,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PHILLIPS K._20918.png,0,28.6
+12802,JORDAN,PICKFORD,PICKFORD J.,1994-03-07,1,Goalkeeper,Goalkeeper,England,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PICKFORD J._12802.png,0,30.3
+25669,AARON,RAMSDALE,RAMSDALE A.,1998-05-14,13,Goalkeeper,Goalkeeper,England,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMSDALE A._25669.png,0,26.1
+10468,MARCUS,RASHFORD,RASHFORD M.,1997-10-31,11,Striker,Left Forward,England,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RASHFORD M._10468.png,0,26.7
+22931,DECLAN,RICE,RICE D.,1999-01-14,4,Midfielder,Defensive Midfield,England,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RICE D._22931.png,0,25.5
+18698,BUKAYO,SAKA,SAKA B.,2001-09-05,7,Striker,Right Winger,England,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAKA B._18698.png,0,22.8
+9879,LUKE,SHAW,SHAW L.,1995-07-12,3,Defender,,England,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHAW L._9879.png,0,29.0
+10024,JOHN,STONES,STONES J.,1994-05-28,5,Defender,Centre-Back,England,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STONES J._10024.png,0,30.1
+18218,FIKAYO,TOMORI,TOMORI F.,1997-12-19,0,Defender,Centre-Back,England,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOMORI F._18218.png,0,26.5
+35417,IVAN,TONEY,TONEY I.,1996-03-16,17,Striker,,England,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TONEY I._35417.png,0,28.3
+9271,KIERAN,TRIPPIER,TRIPPIER K.,1990-09-19,12,Defender,Right-Back,England,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TRIPPIER K._9271.png,0,33.8
+7348,KYLE,WALKER,WALKER K.,1990-05-28,2,Defender,Right-Back,England,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WALKER K._7348.png,0,34.1
+26454,OLLIE,WATKINS,WATKINS O.,1995-12-30,19,Striker,Centre-Forward,England,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WATKINS O._26454.png,0,28.5
+101718,ADAM,WHARTON,WHARTON A.,2004-02-06,25,Midfielder,,England,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WHARTON A._101718.png,0,20.4
+18359,CALLUM,WILSON,WILSON C.,1992-02-27,23,Striker,Centre-Forward,England,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WILSON C._18359.png,0,32.3
+6264,FRANCESCO,ACERBI,ACERBI F.,1988-02-10,15,Defender,,Italy,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ACERBI F._6264.png,0,36.4
+6438,NICOLO',BARELLA,BARELLA N.,1997-02-07,18,Midfielder,Center Midfield,Italy,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARELLA N._6438.png,0,27.4
+12940,ALESSANDRO,BASTONI,BASTONI A.,1999-04-13,23,Defender,Centre-Back,Italy,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BASTONI A._12940.png,0,25.2
+15991,RAOUL,BELLANOVA,BELLANOVA R.,2000-05-17,15,Defender,,Italy,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELLANOVA R._15991.png,0,24.1
+6252,DOMENICO,BERARDI,BERARDI D.,1994-08-01,11,Striker,,Italy,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERARDI D._6252.png,0,29.9
+6001,CRISTIANO,BIRAGHI,BIRAGHI C.,1992-09-01,4,Defender,Left-Back,Italy,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BIRAGHI C._6001.png,0,31.8
+6191,GIACOMO,BONAVENTURA,BONAVENTURA G.,1989-08-22,8,Midfielder,,Italy,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BONAVENTURA G._6191.png,0,34.9
+15985,ALESSANDRO,BUONGIORNO,BUONGIORNO A.,1999-06-06,4,Defender,,Italy,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUONGIORNO A._15985.png,0,25.1
+16122,RICCARDO,CALAFIORI,CALAFIORI R.,2002-05-19,5,Defender,,Italy,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALAFIORI_16122.png,0,22.1
+21320,ANDREA,CAMBIASO,CAMBIASO A.,2000-02-20,24,Defender,,Italy,182.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAMBIASO A._21320.png,0,24.4
+16073,MARCO,CARNESECCHI,CARNESECCHI M.,2000-07-01,0,Goalkeeper,,Italy,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARNESECCHI M._16073.png,0,24.0
+14235,NICOLO',CASALE,CASALE N.,1998-02-14,0,Defender,Centre-Back,Italy,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CASALE N._14235.png,0,26.4
+11798,FEDERICO,CHIESA,CHIESA F.,1997-10-25,14,Striker,Left Forward,Italy,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHIESA F._11798.png,0,26.7
+20996,ANDREA,COLPANI,COLPANI A.,1999-05-11,0,Midfielder,,Italy,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COLPANI A._20996.png,0,25.1
+8131,BRYAN,CRISTANTE,CRISTANTE B.,1995-03-03,16,Midfielder,Defensive Midfield,Italy,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CRISTANTE B._8131.png,0,29.3
+6314,MATTEO,DARMIAN,DARMIAN M.,1989-12-02,13,Defender,Right-Back,Italy,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DARMIAN M._6314.png,0,34.6
+10593,GIOVANNI,DI LORENZO,DI LORENZO G.,1993-08-04,2,Defender,Right-Back,Italy,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DI LORENZO G._10593.png,0,30.9
+7814,FEDERICO,DIMARCO,DIMARCO F.,1997-11-10,3,Defender,Left-Back,Italy,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIMARCO F._7814.png,0,26.6
+8715,GIANLUIGI,DONNARUMMA,DONNARUMMA G.,1999-02-25,1,Goalkeeper,Goalkeeper,Italy,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/gianluigi-donnarumma.png,0,25.3
+6167,STEPHAN,EL SHAARAWY,EL SHAARAWY S.,1992-10-27,22,Striker,,Italy,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EL SHAARAWY S._6167.png,0,31.7
+16063,NICOLO',FAGIOLI,FAGIOLI N.,2001-02-12,21,Midfielder,,Italy,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FAGIOLI N._16063.png,0,23.4
+14083,DAVIDE,FRATTESI,FRATTESI D.,1999-09-22,7,Midfielder,Center Midfield,Italy,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRATTESI D._14083.png,0,24.8
+6203,JORGE LUIZ,FRELLO FILHO,JORGINHO,1991-12-20,8,Midfielder,,Italy,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JORGINHO_6203.png,0,32.5
+24330,FEDERICO,GATTI,GATTI F.,1998-06-24,6,Defender,,Italy,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GATTI F._24330.png,0,26.0
+23584,WILFRIED,GNONTO,GNONTO W.,2003-11-05,20,Striker,Left Forward,Italy,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/Wilfried Gnonto.png,0,20.6
+14447,MICHAEL,IJEMUAN FOLORUNSHO,FOLORUNSHO M.,1998-02-07,25,Midfielder,,Italy,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FOLORUNSHO M._14447.png,0,26.4
+7237,CIRO,IMMOBILE,IMMOBILE C.,1990-02-20,17,Striker,Centre-Forward,Italy,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/IMMOBILE C._7237.png,0,34.4
+12837,MOISE,KEAN,KEAN M.,2000-02-28,7,Striker,,Italy,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KEAN M._12837.png,0,24.3
+10622,MANUEL,LAZZARI,LAZZARI M.,1993-11-29,0,Midfielder,,Italy,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAZZARI M._10622.png,0,30.6
+10917,MANUEL,LOCATELLI,LOCATELLI M.,1998-01-08,5,Midfielder,Defensive Midfield,Italy,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOCATELLI M._10917.png,0,26.5
+16301,LORENZO,LUCCA,LUCCA L.,2000-09-10,0,Striker,,Italy,201.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUCCA L._16301.png,0,23.8
+8834,GIANLUCA,MANCINI,MANCINI G.,1996-04-17,17,Defender,Centre-Back,Italy,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MANCINI G._8834.png,0,28.2
+6336,ALEX,MERET,MERET A.,1997-03-22,26,Goalkeeper,Goalkeeper,Italy,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MERET A._6336.png,0,27.3
+10752,RICCARDO,ORSOLINI,ORSOLINI R.,1997-01-24,20,Striker,,Italy,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORSOLINI R._10752.png,0,27.4
+7227,LORENZO,PELLEGRINI,PELLEGRINI LO.,1996-06-19,10,Midfielder,Attacking Midfield,Italy,186.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PELLEGRINI LO._7227.png,0,28.0
+12538,MATTEO,PESSINA,PESSINA M.,1997-04-21,0,Midfielder,Center Midfield,Italy,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PESSINA M._12538.png,0,27.2
+5822,MATTEO,POLITANO,POLITANO M.,1993-08-03,7,Striker,Right Winger,Italy,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POLITANO M._5822.png,0,30.9
+6770,IVAN,PROVEDEL,PROVEDEL I.,1994-03-17,0,Goalkeeper,Goalkeeper,Italy,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PROVEDEL I._6770.png,0,30.3
+19990,GIACOMO,RASPADORI,RASPADORI G.,2000-02-18,11,Striker,Second Striker,Italy,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RASPADORI G._19990.png,0,24.4
+38196,MATEO,RETEGUI,RETEGUI M.,1999-04-29,19,Striker,Centre-Forward,Italy,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RETEGUI M._38196.png,0,25.2
+16070,SAMUELE,RICCI,RICCI S.,2001-08-21,0,Midfielder,,Italy,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RICCI S._16070.png,0,22.9
+6302,ALESSIO,ROMAGNOLI,ROMAGNOLI A.,1995-01-12,0,Defender,Centre-Back,Italy,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMAGNOLI A._6302.png,0,29.5
+23599,GIORGIO,SCALVINI,SCALVINI G.,2003-12-11,15,Defender,Centre-Back,Italy,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCALVINI G._23599.png,0,20.6
+14684,GIANLUCA,SCAMACCA,SCAMACCA G.,1999-01-01,9,Striker,,Italy,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCAMACCA G._14684.png,0,25.5
+6470,LEONARDO,SPINAZZOLA,SPINAZZOLA L.,1993-03-25,4,Defender,Left-Back,Italy,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SPINAZZOLA L._6470.png,0,31.3
+14430,SANDRO,TONALI,TONALI S.,2000-05-08,8,Midfielder,Defensive Midfield,Italy,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TONALI S._14430.png,0,24.1
+23630,DESTINY,UDOGIE,UDOGIE D.,2002-11-28,6,Defender,,Italy,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UDOGIE D._23630.png,0,21.6
+12119,GUGLIELMO,VICARIO,VICARIO G.,1996-10-07,12,Goalkeeper,Goalkeeper,Italy,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VICARIO G._12119.png,0,27.7
+8666,MATTIA,ZACCAGNI,ZACCAGNI M.,1995-06-16,20,Striker,Left Forward,Italy,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZACCAGNI M._8666.png,0,29.0
+13362,NICOLO',ZANIOLO,ZANIOLO N.,1999-07-02,11,Midfielder,Attacking Midfield,Italy,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZANIOLO N._13362.png,0,25.0
+8284,NATHAN,AKE',AKE' N.,1995-02-18,5,Defender,Centre-Back,Netherlands,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKE' N._8284.png,0,29.4
+7374,STEVEN,BERGHUIS,BERGHUIS S.,1991-12-19,0,Midfielder,Attacking Midfield,Netherlands,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERGHUIS S._7374.png,0,32.5
+13858,STEVEN,BERGWIJN,BERGWIJN S.,1997-10-08,25,Striker,,Netherlands,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERGWIJN S._13858.png,0,26.7
+25640,JUSTIN,BIJLOW,BIJLOW J.,1998-01-22,13,Goalkeeper,,Netherlands,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BIJLOW J._25640.png,0,26.4
+7313,DALEY,BLIND,BLIND D.,1990-03-09,17,Defender,Left-Back,Netherlands,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BLIND D._7313.png,0,34.3
+24660,BRIAN,BROBBEY,BROBBEY B.,2002-02-01,19,Striker,,Netherlands,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BROBBEY B._24660.png,0,22.4
+13718,FRENKIE,DE JONG,DE JONG F.,1997-05-12,0,Midfielder,Center Midfield,Netherlands,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE JONG F._13718.png,0,27.1
+13574,MATTHIJS,DE LIGT,DE LIGT M.,1999-08-12,3,Defender,Centre-Back,Netherlands,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE LIGT M._13574.png,0,24.9
+8630,MARTEN,DE ROON,DE ROON M.,1991-03-29,0,Midfielder,Defensive Midfield,Netherlands,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE ROON M._8630.png,0,33.3
+6149,STEFAN,DE VRIJ,DE VRIJ S.,1992-02-05,6,Defender,Centre-Back,Netherlands,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE VRIJ S._6149.png,0,32.4
+10420,MEMPHIS,DEPAY,DEPAY M.,1994-02-13,10,Striker,,Netherlands,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEPAY M._10420.png,0,30.4
+17370,DENZEL,DUMFRIES,DUMFRIES D.,1996-04-18,22,Midfielder,Right Midfield,Netherlands,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUMFRIES D._17370.png,0,28.2
+32694,MARK,FLEKKEN,FLEKKEN M.,1993-06-13,23,Goalkeeper,Goalkeeper,Netherlands,195.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FLEKKEN M._32694.png,0,31.1
+24807,JEREMIE,FRIMPONG,FRIMPONG J.,2000-12-10,12,Striker,,Netherlands,171.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRIMPONG J._24807.png,0,23.6
+17859,CODY,GAKPO,GAKPO C.,1999-05-07,11,Striker,Left Forward,Netherlands,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAKPO C._17859.png,0,25.2
+22769,LUTSHAREL,GEERTRUIDA,GEERTRUIDA L.,2000-07-18,2,Defender,Right-Back,Netherlands,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GEERTRUIDA L._22769.png,0,24.0
+23416,RYAN,GRAVENBERCH,GRAVENBERCH R.,2002-05-16,26,Midfielder,,Netherlands,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRAVENBERCH R._23416.png,0,22.1
+36852,QUILINDSCHY,HARTMAN,HARTMAN Q.,2001-11-14,0,Defender,Left-Back,Netherlands,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HARTMAN Q._36852.png,0,22.6
+14256,TEUN,KOOPMEINERS,KOOPMEINERS T.,1998-02-28,0,Midfielder,Defensive Midfield,Netherlands,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOOPMEINERS T._14256.png,0,26.3
+21434,NOA,LANG,LANG N.,1999-06-17,0,Striker,Left Forward,Netherlands,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LANG N._21434.png,0,25.0
+28338,IAN,MAATSEN,MAATSEN I.,2002-03-10,20,Defender,Left-Back,Netherlands,167.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAATSEN I._28338.png,0,22.3
+17372,DONYELL,MALEN,MALEN D.,1999-01-19,18,Striker,Right Winger,Netherlands,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MALEN D._17372.png,0,25.4
+16437,ANDRIES,NOPPERT,NOPPERT A.,1994-04-07,0,Goalkeeper,Goalkeeper,Netherlands,203.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NOPPERT A._16437.png,0,30.2
+24902,TIJJANI,REIJNDERS,REIJNDERS T.,1998-07-29,14,Midfielder,Center Midfield,Netherlands,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REIJNDERS T._24902.png,0,25.9
+20888,JERDY,SCHOUTEN,SCHOUTEN J.,1997-01-12,24,Midfielder,,Netherlands,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHOUTEN J._20888.png,0,27.5
+36670,XAVI,SIMONS,SIMONS X.,2003-04-21,7,Striker,Right Winger,Netherlands,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIMONS X._36670.png,0,21.2
+28334,MICKY,VAN DE VEN,VAN DE VEN M.,2001-04-19,15,Defender,Centre-Back,Netherlands,193.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VAN DE VEN M._28334.png,0,23.2
+8564,VIRGIL,VAN DIJK,VAN DIJK V.,1991-07-08,4,Defender,Centre-Back,Netherlands,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VAN DIJK V._8564.png,0,33.0
+32408,JOEY,VEERMAN,VEERMAN J.,1998-11-19,16,Midfielder,Center Midfield,Netherlands,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VEERMAN J._32408.png,0,25.6
+28329,BART,VERBRUGGEN,VERBRUGGEN B.,2002-08-18,1,Goalkeeper,Goalkeeper,Netherlands,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VERBRUGGEN B._28329.png,0,21.9
+14245,WOUT,WEGHORST,WEGHORST W.,1992-08-07,9,Striker,Centre-Forward,Netherlands,197.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WEGHORST W._14245.png,0,31.9
+36854,MATS,WIEFFER,WIEFFER M.,1999-11-16,0,Midfielder,Defensive Midfield,Netherlands,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIEFFER M._36854.png,0,24.6
+7314,GEORGINIO,WIJNALDUM,WIJNALDUM G.,1990-11-11,8,Midfielder,,Netherlands,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIJNALDUM G._7314.png,0,33.6
+23032,JOSHUA,ZIRKZEE,ZIRKZEE J.,2001-05-22,21,Striker,,Netherlands,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZIRKZEE J._23032.png,0,23.1
+13395,JAN,BEDNAREK,BEDNAREK J.,1996-04-12,5,Defender,,Poland,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BEDNAREK J._13395.png,0,28.2
+9280,BARTOSZ,BERESZYNSKI,BERESZYNSKI B.,1992-07-12,18,Defender,,Poland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERESZYNSKI B._9280.png,0,32.0
+14193,PAWEL PIOTR,BOCHNIEWICZ,BOCHNIEWICZ P.,1996-01-30,0,Defender,,Poland,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOCHNIEWICZ P._14193.png,0,28.4
+13401,ADAM,BUKSA,BUKSA A.,1996-07-12,16,Striker,,Poland,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUKSA A._13401.png,0,28.0
+23528,MARCIN,BULKA,BULKA M.,1999-10-04,22,Goalkeeper,,Poland,199.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BULKA M._23528.png,0,24.7
+13396,PAWEL,DAWIDOWICZ,DAWIDOWICZ P.,1995-05-20,3,Defender,,Poland,189.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DAWIDOWICZ P._13396.png,0,29.1
+20276,PATRYK,DZICZEK,DZICZEK P.,1998-03-25,15,Midfielder,,Poland,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DZICZEK P._20276.png,0,26.3
+13402,PRZEMYSLAW,FRANKOWSKI,FRANKOWSKI P.,1995-04-12,19,Defender,,Poland,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FRANKOWSKI P._13402.png,0,29.2
+10121,KAMIL,GROSICKI,GROSICKI K.,1988-06-08,11,Midfielder,,Poland,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GROSICKI K._10121.png,0,36.1
+33602,JAKUB,KALUZINSKI,KALUZINSKI J.,2002-10-31,6,Midfielder,,Poland,184.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KALUZINSKI J._33602.png,0,21.7
+36650,JAKUB,KAMINSKI,KAMINSKI J.,2002-06-05,0,Striker,,Poland,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAMINSKI J._36650.png,0,22.1
+9583,TOMASZ,KEDZIORA,KEDZIORA T.,1994-06-11,0,Defender,,Poland,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KEDZIORA T._9583.png,0,30.1
+27368,JAKUB,KIWIOR,KIWIOR J.,2000-02-15,14,Defender,,Poland,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KIWIOR J._27368.png,0,24.4
+7449,ROBERT,LEWANDOWSKI,LEWANDOWSKI R.,1988-08-21,9,Striker,,Poland,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEWANDOWSKI R._7449.png,0,35.9
+33604,FILIP,MARCHWINSKI,MARCHWINSKI F.,2002-01-10,0,Midfielder,,Poland,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARCHWINSKI F._33604.png,0,22.5
+7900,ARKADIUSZ,MILIK,MILIK A.,1994-02-28,7,Striker,,Poland,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILIK A._7900.png,0,30.3
+23936,JAKUB,MODER,MODER J.,1999-04-07,8,Midfielder,,Poland,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MODER J._23936.png,0,25.2
+26541,PATRYK,PEDA,PEDA P.,2002-04-16,0,Defender,,Poland,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEDA_P_26541.png,0,22.2
+13404,KRZYSZTOF,PIATEK,PIATEK K.,1995-07-01,23,Striker,,Poland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIATEK K._13404.png,0,29.0
+20278,JAKUB,PIOTROWSKI,PIOTROWSKI J.,1997-10-04,6,Midfielder,,Poland,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIOTROWSKI J._20278.png,0,26.7
+26375,TYMOTEUSZ,PUCHACZ,PUCHACZ T.,1999-01-23,15,Defender,,Poland,180.0,left,,0,25.4
+59743,TARAS WIKTOROWYCZ,ROMANCZUK,ROMANCZUK T.,1991-11-14,13,Midfielder,,Poland,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROMANCZUK T._59743.png,0,32.6
+5825,BARTOSZ,SALAMON,SALAMON B.,1991-05-01,2,Defender,,Poland,,,,0,33.2
+36651,MICHAL,SKORAS,SKORAS M.,2000-02-15,25,Striker,,Poland,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SKORAS M._36651.png,0,24.4
+6966,LUKASZ,SKORUPSKI,SKORUPSKI L.,1991-05-05,12,Goalkeeper,,Poland,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SKORUPSKI L._6966.png,0,33.2
+29439,BARTOSZ PIOTR,SLISZ,SLISZ B.,1999-03-29,24,Midfielder,,Poland,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SLISZ B._29439.png,0,25.3
+20285,KAROL,SWIDERSKI,SWIDERSKI K.,1997-01-23,7,Striker,,Poland,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SWIDERSKI K._20285.png,0,27.4
+7968,WOJCIECH,SZCZESNY,SZCZESNY W.,1990-04-18,1,Goalkeeper,,Poland,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZCZESNY W._7968.png,0,34.2
+16965,DAMIAN,SZYMANSKI,SZYMANSKI D.,1995-06-16,17,Midfielder,,Poland,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZYMANSKI D._16965.png,0,29.0
+20280,SEBASTIAN,SZYMANSKI,SZYMANSKI S.,1999-05-10,20,Midfielder,,Poland,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZYMANSKI S._20280.png,0,25.1
+26263,KACPER,URBANSKI,URBANSKI K.,2004-09-07,26,Midfielder,,Poland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/URBANSKI K._26263.png,0,19.8
+20916,SEBASTIAN,WALUKIEWICZ,WALUKIEWICZ S.,2000-04-05,4,Defender,,Poland,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WALUKIEWICZ S._20916.png,0,24.2
+6299,PAWEL MAREK,WSZOLEK,WSZOLEK P.,1992-04-30,0,Midfielder,,Poland,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WSZOLEK P._6299.png,0,32.2
+26256,NICOLA,ZALEWSKI,ZALEWSKI N.,2002-01-23,21,Midfielder,,Poland,175.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZALEWSKI N._26256.png,0,22.4
+6420,PIOTR,ZIELINSKI,ZIELINSKI P.,1994-05-20,10,Midfielder,,Poland,180.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZIELINSKI P._6420.png,0,30.1
+6345,BRUNO MIGUEL,BORGES FERNANDES,FERNANDES B.,1994-09-08,8,Midfielder,Attacking Midfield,Portugal,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDES B._6345.png,0,29.8
+13033,NELSON,CABRAL SEMEDO,SEMEDO N.,1993-11-16,2,Defender,Right-Back,Portugal,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEMEDO N._13033.png,0,30.6
+9759,JOAO PEDRO,CAVACO CANCELO,JOAO CANCELO,1994-05-27,20,Defender,Right-Back,Portugal,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO CANCELO_9759.png,0,30.1
+13771,RICARDO JORGE,DA LUZ HORTA,HORTA R.,1994-09-15,0,Striker,Left Forward,Portugal,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HORTA R._13771.png,0,29.8
+13366,OTAVIO EDMILSON,DA SILVA MONTEIRO,OTAVIO DA SILVA MONTEIRO,1995-02-09,0,Striker,Right Winger,Portugal,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OTAVIO_13366.png,0,29.4
+7473,RUBEN DIOGO,DA SILVA NEVES,NEVES R.,1997-03-13,18,Midfielder,Defensive Midfield,Portugal,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEVES R._7473.png,0,27.3
+16209,JOSE' DIOGO,DALOT TEIXEIRA,DALOT J.,1999-03-18,5,Defender,Right-Back,Portugal,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/diogo-dalot.png,0,25.3
+7483,KEPLER LAVERAN,DE LIMA FERREIRA,PEPE,1983-02-26,3,Defender,,Portugal,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEPE_7483.png,0,41.4
+7490,CRISTIANO RONALDO,DOS SANTOS AVEIRO,CRISTIANO RONALDO,1985-02-05,7,Striker,Centre-Forward,Portugal,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CRISTIANO RONALDO_7490.png,0,39.4
+16957,RUBEN,DOS SANTOS GATO ALVES DIAS,RUBEN DIAS,1997-05-14,4,Defender,Centre-Back,Portugal,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUBEN DIAS_16957.png,0,27.1
+7543,RUI PEDRO,DOS SANTOS PATRICIO,RUI PATRICIO,1988-02-15,1,Goalkeeper,Goalkeeper,Portugal,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUI PATRICIO_7543.png,0,36.4
+16515,JOAO,FELIX SEQUEIRA,JOAO FELIX,1999-11-10,11,Striker,Second Striker,Portugal,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO FELIX_16515.png,0,24.6
+25459,FRANCISCO,FERNANDES DA CONCEICAO,CONCEICAO F.,2002-12-14,26,Striker,,Portugal,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CONCEICAO F._25459.png,0,21.5
+53257,TOTE ANTONIO,GOMES,TOTI,1999-01-16,0,Defender,Centre-Back,Portugal,187.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOTI_53257.png,0,25.5
+37707,JOAO PEDRO,GONCALVES NEVES,NEVES J.,2004-09-27,15,Midfielder,,Portugal,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEVES J._37707.png,0,19.8
+7536,RAPHAEL ADELINO JOSE',GUERREIRO,GUERREIRO R.,1993-12-22,0,Defender,Left-Back,Portugal,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUERREIRO R._7536.png,0,30.5
+28928,GONCALO BERNARDO,INACIO,INACIO G.,2001-08-25,14,Defender,Centre-Back,Portugal,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/INACIO G._28928.png,0,22.8
+20900,RAFAEL,LEAO,LEAO R.,1999-06-10,17,Striker,Left Forward,Portugal,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LEAO R._20900.png,0,25.1
+15421,JOAO MARIA,LOBO ALVES PALHARES COSTA PALHINHA GONCALVES,PALHINHA J.,1995-07-09,6,Midfielder,Defensive Midfield,Portugal,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PALHINHA J._15421.png,0,29.0
+18841,PEDRO,LOMBA NETO,NETO P.,2000-03-09,25,Midfielder,Right Winger,Portugal,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NETO P._18841.png,0,24.3
+25136,VITOR,MACHADO FERREIRA,VITINHA,2000-02-13,23,Midfielder,Center Midfield,Portugal,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VITINHA_25136.png,0,24.4
+15504,JOSE' PEDRO,MALHEIRO DE SA,JOSE' SA',1993-01-17,12,Goalkeeper,Goalkeeper,Portugal,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOSE' SA'_15504.png,0,31.5
+25349,GONCALO,MATIAS RAMOS,RAMOS G.,2001-06-20,9,Striker,Centre-Forward,Portugal,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAMOS G._25349.png,0,23.0
+16514,DIOGO,MEIRELES DA COSTA,DIOGO COSTA,1999-09-19,22,Goalkeeper,Goalkeeper,Portugal,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIOGO COSTA_16514.png,0,24.8
+7413,BERNARDO,MOTA VEIGA DE CARVALHO E SILVA,BERNARDO SILVA,1994-08-10,10,Midfielder,Attacking Midfield,Portugal,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERNARDO SILVA_7413.png,0,29.9
+24945,JOAO MARIO,NETO LOPES,JOAO MARIO,2000-01-03,0,Defender,,Portugal,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOAO MARIO_24945.png,0,24.5
+28929,MATHEUS LUIZ,NUNES,MATHEUS NUNES,1998-08-27,16,Midfielder,,Portugal,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATHEUS NUNES_28929.png,0,25.8
+11096,DANILO LUIS HELIO,PEREIRA,DANILO PEREIRA,1991-09-09,13,Midfielder,Defensive Midfield,Portugal,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DANILO PEREIRA_11096.png,0,32.8
+27212,ANTONIO JOAO,PEREIRA DE ALBUQUERQUE TAVARES DA SILVA,SILVA A.,2003-10-30,24,Defender,Centre-Back,Portugal,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SILVA A._27212.png,0,20.7
+25752,NUNO ALEXANDRE,TAVARES MENDES,NUNO MENDES,2002-06-19,19,Defender,,Portugal,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NUNO MENDES_25752.png,0,22.0
+13315,DIOGO JOSE',TEIXEIRA DA SILVA,JOTA D.,1996-12-04,21,Striker,Left Forward,Portugal,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOTA D._13315.png,0,27.6
+7990,ARMINDO,TUE' NA BANGNA,BRUMA,1994-10-24,0,Striker,,Portugal,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRUMA_7990.png,0,29.7
+13794,ANTONIN,BARAK,BARAK A.,1994-12-03,7,Midfielder,,Czech Republic,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARAK A._13794.png,0,29.6
+8350,JAKUB,BRABEC,BRABEC J.,1992-08-06,0,Defender,,Czech Republic,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRABEC J._8350.png,0,31.9
+10176,VACLAV,CERNY,CERNY V.,1997-10-17,17,Striker,,Czech Republic,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CERNY V._10176.png,0,26.7
+42345,LUKAS,CERV,CERV L.,2001-04-10,21,Midfielder,,Czech Republic,182.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CERV L._42345.png,0,23.2
+13777,TOMAS,CHORY,CHORY T.,1995-01-26,19,Striker,,Czech Republic,199.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHORY T._13777.png,0,29.4
+60006,MOJMIR,CHYTIL,CHYTIL M.,1999-04-29,13,Striker,,Czech Republic,187.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHYTIL M._60006.png,0,25.2
+13139,VLADIMIR,COUFAL,COUFAL V.,1992-08-22,5,Defender,,Czech Republic,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COUFAL V._13139.png,0,31.9
+58290,TOMAS,CVANCARA,CVANCARA T.,2000-08-13,0,Striker,,Czech Republic,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CVANCARA T._58290.png,0,23.9
+25094,DAVID,DOUDERA,DOUDERA D.,1998-05-31,12,Defender,,Czech Republic,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOUDERA D._25094.png,0,26.1
+24782,ADAM,HLOZEK,HLOZEK A.,2002-07-25,9,Striker,,Czech Republic,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HLOZEK A._24782.png,0,21.9
+24403,TOMAS,HOLES,HOLES T.,1993-03-31,3,Midfielder,,Czech Republic,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HOLES T._24403.png,0,31.3
+42336,ROBIN,HRANAC,HRANAC R.,2000-01-29,4,Defender,,Czech Republic,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HRANAC R._42336.png,0,24.4
+42335,VITEZSLAV,JAROS,JAROS V.,2001-07-23,23,Goalkeeper,,Czech Republic,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JAROS V._42335.png,0,22.9
+60731,DAVID,JURASEK,JURASEK D.,2000-08-07,15,Defender,,Czech Republic,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JURASEK D._60731.png,0,23.9
+36874,MATEJ,JURASEK,JURASEK M.,2003-08-30,26,Midfielder,,Czech Republic,181.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JURASEK M._36874.png,0,20.8
+33580,VACLAV,JURECKA,JURECKA V.,1994-06-26,0,Striker,,Czech Republic,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JURECKA V._33580.png,0,30.0
+25571,MATEJ,KOVAR,KOVAR M.,2000-05-17,16,Goalkeeper,,Czech Republic,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOVAR M._25571.png,0,24.1
+19373,ALEX,KRAL,KRAL A.,1998-05-19,0,Midfielder,,Czech Republic,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRAL A._19373.png,0,26.1
+24777,LADISLAV,KREJCI,KREJCI L. 99,1999-04-20,18,Defender,,Czech Republic,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KREJCI L. 99_24777.png,0,25.2
+24405,JAN,KUCHTA,KUCHTA J.,1997-01-08,11,Striker,,Czech Republic,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KUCHTA J._24405.png,0,27.5
+24818,ONDREJ,LINGR,LINGR O.,1998-10-07,20,Midfielder,,Czech Republic,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LINGR O._24818.png,0,25.7
+25622,ALES,MANDOUS,MANDOUS A.,1992-04-21,0,Goalkeeper,,Czech Republic,188.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MANDOUS A._25622.png,0,32.2
+19374,LUKAS,MASOPUST,MASOPUST L.,1993-02-12,0,Midfielder,,Czech Republic,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MASOPUST L._19374.png,0,31.4
+21422,LUKAS,PROVOD,PROVOD L.,1996-10-23,14,Midfielder,,Czech Republic,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PROVOD L._21422.png,0,27.7
+18671,MICHAL,SADILEK,SADILEK M.,1999-05-31,0,Midfielder,,Czech Republic,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SADILEK M._18671.png,0,25.1
+8359,PATRIK,SCHICK,SCHICK P.,1996-01-24,10,Striker,,Czech Republic,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHICK P._8359.png,0,28.4
+13147,PETR,SEVCIK,SEVCIK P.,1994-05-04,8,Midfielder,,Czech Republic,172.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SEVCIK P._13147.png,0,30.2
+13592,TOMAS,SOUCEK,SOUCEK T.,1995-02-27,22,Midfielder,,Czech Republic,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOUCEK T._13592.png,0,29.3
+27430,JINDRICH,STANEK,STANEK J.,1996-04-27,1,Goalkeeper,,Czech Republic,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STANEK J._27430.png,0,28.2
+25068,PAVEL,SULC,SULC P.,2000-12-29,25,Midfielder,,Czech Republic,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SULC P._25068.png,0,23.5
+24785,MARTIN,VITIK,VITIK M.,2003-01-21,6,Defender,,Czech Republic,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VITIK M._24785.png,0,21.4
+30104,TOMAS,VLCEK,VLCEK T.,2001-02-28,24,Defender,,Czech Republic,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VLCEK T._30104.png,0,23.3
+24596,DAVID,ZIMA,ZIMA D.,2000-11-08,2,Defender,,Czech Republic,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZIMA D._24596.png,0,23.6
+9542,DENIS,ALIBEC,ALIBEC D.,1991-01-05,7,Striker,,Romania,,,,0,33.5
+62227,ANDREI VIOREL,ARTEAN,ARTEAN A.,1993-08-14,0,Midfielder,,Romania,183.0,right,,0,30.9
+62173,NICUSOR SILVIU,BANCU,BANCU N.,1992-09-18,11,Defender,,Romania,178.0,left,,0,31.8
+23173,DANIEL,BIRLIGEA,BIRLIGEA D.,2000-04-19,25,Striker,,Romania,184.0,right,,0,24.2
+21539,ANDREI,BURCA,BURCA A.,1993-04-15,15,Defender,,Romania,188.0,right,,0,31.2
+20265,ALEXANDRU,CICALDAU,CICALDAU A.,1997-07-08,8,Midfielder,,Romania,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CICALDAU A._20265.png,0,27.0
+16006,FLORINEL,COMAN,COMAN F.,1998-04-10,17,Striker,,Romania,,,,0,26.2
+19571,DENIS,DRAGUS,DRAGUS D.,1999-07-06,19,Striker,,Romania,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DRAGUS D._19571.png,0,25.0
+23248,RADU,DRAGUSIN,DRAGUSIN R.,2002-02-03,3,Defender,,Romania,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DRAGUSIN R._23248.png,0,22.4
+29409,ANDRES,DUMITRESCU,DUMITRESCU A.,2001-03-11,0,Defender,,Romania,,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUMITRESCU A._29409.png,0,23.3
+11546,IANIS,HAGI,HAGI I.,1998-10-22,10,Midfielder,,Romania,182.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HAGI I._11546.png,0,25.7
+16004,DENNIS,MAN,MAN D.,1998-08-26,20,Striker,,Romania,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAN D._16004.png,0,25.8
+14394,MARIUS,MARIN,MARIN M.,1998-08-30,6,Midfielder,,Romania,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARIN M._14394.png,0,25.8
+18555,RAZVAN,MARIN,MARIN R.,1996-05-23,18,Midfielder,,Romania,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARIN R._18555.png,0,28.1
+24459,VALENTIN,MIHAILA,MIHAILA V.,2000-02-02,13,Striker,,Romania,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MIHAILA V._24459.png,0,24.4
+10238,VASILE,MOGOS,MOGOS V.,1992-10-31,22,Defender,,Romania,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOGOS V._10238.png,0,31.7
+41705,HORATIU,MOLDOVAN,MOLDOVAN H.,1998-01-20,12,Goalkeeper,,Romania,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MOLDOVAN H._41705.png,0,26.4
+25635,OLIMPIU,MORUTAN,MORUTAN O.,1999-04-25,0,Striker,,Romania,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORUTAN O._25635.png,0,25.2
+20261,IONUT,NEDELCEARU,NEDELCEARU I.,1996-04-25,5,Defender,,Romania,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEDELCEARU I._20261.png,0,28.2
+24910,FLORIN,NITA,NITA F.,1987-07-03,1,Goalkeeper,,Romania,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NITA F._24910.png,0,37.0
+19572,DARIUS,OLARU,OLARU D.,1998-03-03,14,Midfielder,,Romania,,,,0,26.3
+7093,GEORGE,PUSCAS,PUSCAS G.,1996-04-08,9,Striker,,Romania,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PUSCAS G._7093.png,0,28.2
+29474,BOGDAN,RACOVITAN,RACOVITAN B.,2000-06-06,24,Defender,,Romania,187.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RACOVITAN B._29474.png,0,24.1
+11017,IONUT ANDREI,RADU,RADU I.,1997-05-28,0,Goalkeeper,,Romania,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RADU I._11017.png,0,27.1
+19590,ANDREI,RATIU,RATIU A.,1998-06-20,2,Defender,,Romania,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RATIU A._19590.png,0,26.0
+19566,ADRIAN,RUS,RUS A.,1996-03-18,4,Defender,,Romania,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUS A._19566.png,0,28.3
+29412,VLADIMIR,SCRECIU,SCRECIU V.,2000-01-13,0,Midfielder,,Romania,181.0,right,,0,24.5
+29715,DEIAN,SORESCU,SORESCU D.,1997-08-29,23,Midfielder,,Romania,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SORESCU D._29715.png,0,26.8
+11106,NICOLAE,STANCIU,STANCIU N.,1993-05-07,21,Midfielder,,Romania,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STANCIU_11106.png,0,31.2
+41707,MARIUS,STEFANESCU,STEFANESCU M.,1998-08-14,0,Striker,,Romania,,,,0,25.9
+37176,ADRIAN,SUT,SUT A.,1999-04-30,26,Midfielder,,Romania,,,,0,25.2
+9844,FLORIN,TANASE,TANASE F.,1994-12-30,0,Midfielder,,Romania,185.0,right,,0,29.5
+29406,STEFAN,TARNOVANU,TARNOVANU S.,2000-05-09,16,Goalkeeper,,Romania,197.0,right,,0,24.1
+26385,CHE',ADAMS,ADAMS C.,1996-07-13,10,Striker,Centre-Forward,Scotland,179.0,right,,0,28.0
+50905,ELLIOT,ANDERSON,ANDERSON E.,2002-11-06,0,Midfielder,Attacking Midfield,Scotland,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANDERSON E._50905.png,0,21.6
+8569,STUART,ARMSTRONG,ARMSTRONG S.,1992-03-30,17,Midfielder,Center Midfield,Scotland,183.0,right,,0,32.3
+11723,RYAN,CHRISTIE,CHRISTIE R.,1995-02-22,11,Striker,Attacking Midfield,Scotland,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CHRISTIE R._11723.png,0,29.4
+37148,ZANDER,CLARK,CLARK Z.,1992-06-26,21,Goalkeeper,Goalkeeper,Scotland,191.0,right,,0,32.0
+131056,TOMMY,CONWAY,CONWAY T.,2002-08-06,19,Striker,,Scotland,,,,0,21.9
+20921,LIAM,COOPER,COOPER L.,1991-08-30,16,Defender,Centre-Back,Scotland,186.0,left,,0,32.8
+26386,LYNDON,DYKES,DYKES L.,1995-10-07,0,Striker,Centre-Forward,Scotland,188.0,right,,0,28.7
+25055,LEWIS,FERGUSON,FERGUSON L.,1999-08-24,0,Midfielder,Center Midfield,Scotland,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERGUSON L._25055.png,0,24.9
+8576,JAMES,FORREST,FORREST J.,1991-07-07,25,Midfielder,,Scotland,175.0,right,,0,33.0
+24959,BILLY,GILMOUR,GILMOUR B.,2001-06-11,14,Midfielder,Center Midfield,Scotland,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GILMOUR B._24959.png,0,23.1
+12803,ANGUS,GUNN,GUNN A.,1996-01-22,1,Goalkeeper,Goalkeeper,Scotland,196.0,right,,0,28.4
+9863,GRANT,HANLEY,HANLEY G.,1991-11-20,5,Defender,,Scotland,,,,0,32.6
+17885,JACK,HENDRY,HENDRY J.,1995-05-07,13,Defender,Centre-Back,Scotland,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HENDRY J._17885.png,0,29.2
+23978,AARON,HICKEY,HICKEY A.,2002-06-10,0,Defender,Right-Back,Scotland,185.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HICKEY A._23978.png,0,22.1
+55358,DOMINIC,HYAM,HYAM D.,1995-12-20,0,Defender,Centre-Back,Scotland,188.0,right,,0,28.5
+17897,RYAN,JACK,JACK R.,1992-02-27,20,Midfielder,Center Midfield,Scotland,182.0,right,,0,32.3
+55353,LIAM,KELLY,KELLY L.,1996-01-23,12,Goalkeeper,Goalkeeper,Scotland,184.0,right,,0,28.4
+17461,ROBBY,MCCRORIE,MCCRORIE ROB.,1998-03-18,0,Midfielder,Goalkeeper,Scotland,187.0,right,,0,26.3
+109691,ROSS,MCCRORIE,MCCRORIE ROSS,1998-03-18,22,Defender,,Scotland,191.0,right,,0,26.3
+10931,JOHN,MCGINN,MCGINN J.,1994-10-18,7,Midfielder,Center Midfield,Scotland,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCGINN J._10931.png,0,29.7
+10171,CALLUM,MCGREGOR,MCGREGOR C.,1993-06-14,8,Midfielder,Center Midfield,Scotland,178.0,left,,0,31.0
+26381,SCOTT,MCKENNA,MCKENNA S.,1996-11-12,26,Defender,Centre-Back,Scotland,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCKENNA S._26381.png,0,27.6
+26453,KENNY,MCLEAN,MCLEAN K.,1992-01-08,23,Midfielder,Center Midfield,Scotland,180.0,left,,0,32.5
+15495,SCOTT,MCTOMINAY,MCTOMINAY S.,1996-12-08,4,Midfielder,Defensive Midfield,Scotland,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MCTOMINAY S._15495.png,0,27.6
+17924,LEWIS,MORGAN,MORGAN L.,1996-09-30,18,Midfielder,,Scotland,178.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORGAN L._17924.png,0,27.8
+26387,KEVIN,NISBET,NISBET K.,1997-03-08,0,Striker,Centre-Forward,Scotland,180.0,right,,0,27.3
+23834,NATHAN,PATTERSON,PATTERSON N.,2001-10-16,0,Defender,Right-Back,Scotland,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PATTERSON N._23834.png,0,22.7
+25078,RYAN,PORTEOUS,PORTEOUS R.,1999-03-25,15,Defender,Centre-Back,Scotland,188.0,right,,0,25.3
+14917,ANTHONY,RALSTON,RALSTON A.,1998-11-16,2,Defender,Right-Back,Scotland,178.0,right,,0,25.6
+9864,ANDREW HENRY,ROBERTSON,ROBERTSON A.,1994-03-11,3,Defender,Left-Back,Scotland,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ROBERTSON A._9864.png,0,30.3
+37163,LAWRENCE,SHANKLAND,SHANKLAND L.,1995-08-10,9,Striker,Centre-Forward,Scotland,185.0,right,,0,28.9
+35088,JOHN,SOUTTAR,SOUTTAR J.,1996-09-25,0,Defender,Centre-Back,Scotland,186.0,right,,0,27.8
+22763,GREG,TAYLOR,TAYLOR G.,1997-11-05,24,Defender,Left-Back,Scotland,171.0,left,,0,26.7
+10929,KIERAN,TIERNEY,TIERNEY K.,1997-06-05,6,Defender,Left-Back,Scotland,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TIERNEY K._10929.png,0,27.1
+15526,SRDJAN,BABIC,BABIC S.,1996-04-22,15,Defender,,Serbia,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BABIC S._15526.png,0,28.2
+27419,VELJKO,BIRMANCEVIC,BIRMANCEVIC V.,1998-03-05,26,Midfielder,,Serbia,179.0,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BIRMANCEVIC V._27419.png,0,26.3
+7574,FILIP,DJURICIC,DJURICIC F.,1992-01-30,0,Midfielder,,Serbia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DJURICIC F._7574.png,0,32.4
+30055,STRAHINJA,ERAKOVIC,ERAKOVIC S.,2001-01-22,0,Defender,,Serbia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ERAKOVIC S._30055.png,0,23.4
+12266,MIJAT,GACINOVIC,GACINOVIC M.,1995-02-08,21,Midfielder,,Serbia,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GACINOVIC M._12266.png,0,29.4
+7373,NEMANJA,GUDELJ,GUDELJ N.,1991-11-16,6,Midfielder,,Serbia,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUDELJ N._7373.png,0,32.6
+23948,IVAN,ILIC,ILIC I.,2001-03-17,17,Midfielder,,Serbia,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ILIC I._23948.png,0,23.3
+9803,LUKA,JOVIC,JOVIC L.,1997-12-23,8,Striker,,Serbia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOVIC L._9803.png,0,26.5
+9103,FILIP,KOSTIC,KOSTIC F.,1992-11-01,11,Midfielder,,Serbia,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOSTIC F._9103.png,0,31.7
+11563,SASA,LUKIC,LUKIC S.,1996-08-13,22,Midfielder,,Serbia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUKIC S._11563.png,0,27.9
+9800,NEMANJA,MAKSIMOVIC,MAKSIMOVIC N.,1995-01-26,5,Midfielder,,Serbia,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAKSIMOVIC N._9800.png,0,29.4
+37115,SRDJAN,MIJAILOVIC,MIJAILOVIC S.,1993-11-10,16,Midfielder,,Serbia,178.0,right,,0,30.6
+14076,NIKOLA,MILENKOVIC,MILENKOVIC N.,1997-10-12,4,Defender,,Serbia,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILENKOVIC N._14076.png,0,26.7
+8627,SERGEJ,MILINKOVIC-SAVIC,MILINKOVIC-SAVIC S.,1995-02-27,20,Midfielder,,Serbia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILINKOVIC-SAVIC S._8627.png,0,29.3
+12261,VANJA,MILINKOVIC-SAVIC,MILINKOVIC-SAVIC V.,1997-02-20,23,Goalkeeper,,Serbia,202.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MILINKOVIC-SAVIC V._12261.png,0,27.4
+7569,ALEKSANDAR,MITROVIC,MITROVIC A.,1994-09-16,9,Striker,,Serbia,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MITROVIC A._7569.png,0,29.8
+8087,FILIP,MLADENOVIC,MLADENOVIC F.,1991-08-15,25,Defender,,Serbia,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MLADENOVIC F._8087.png,0,32.9
+22425,STRAHINJA,PAVLOVIC,PAVLOVIC S.,2001-05-24,2,Defender,,Serbia,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PAVLOVIC S._22425.png,0,23.1
+48416,DJORDJE,PETROVIC,PETROVIC D.,1999-10-08,12,Goalkeeper,,Serbia,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PETROVIC D._48416.png,0,24.7
+13908,NEMANJA,RADONJIC,RADONJIC N.,1996-02-15,0,Striker,,Serbia,185.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RADONJIC N._13908.png,0,28.4
+11893,PREDRAG,RAJKOVIC,RAJKOVIC P.,1995-10-31,1,Goalkeeper,,Serbia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAJKOVIC P._11893.png,0,28.7
+33827,PETAR,RATKOV,RATKOV P.,2003-08-18,18,Striker,,Serbia,193.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RATKOV P._33827.png,0,20.9
+26642,LAZAR,SAMARDZIC,SAMARDZIC L.,2002-02-24,19,Midfielder,,Germany,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAMARDZIC L._26642.png,0,22.3
+11911,UROS,SPAJIC,SPAJIC U.,1993-02-13,24,Defender,,Serbia,188.0,right,,0,31.4
+69585,NEMANJA,STOJIC,STOJIC N.,1998-01-15,3,Defender,,Serbia,190.0,,,0,26.5
+7570,DUSAN,TADIC,TADIC D.,1988-11-20,10,Striker,,Serbia,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TADIC D._7570.png,0,35.6
+20220,ALEKSA,TERZIC,TERZIC A.,1999-08-17,0,Defender,,Serbia,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TERZIC A._20220.png,0,24.9
+12262,MILOS,VELJKOVIC,VELJKOVIC M.,1995-09-26,13,Defender,,Serbia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VELJKOVIC M._12262.png,0,28.8
+16827,DUSAN,VLAHOVIC,VLAHOVIC D.,2000-01-28,7,Striker,,Serbia,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VLAHOVIC D._16827.png,0,24.4
+13365,ANDRIJA,ZIVKOVIC,ZIVKOVIC A.,1996-07-11,14,Striker,,Serbia,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZIVKOVIC A._13365.png,0,28.0
+11865,LASZLO,BENES,BENES L.,1997-09-09,11,Midfielder,,Slovakia,,,,0,26.8
+13905,MATUS,BERO,BERO M.,1995-09-06,21,Midfielder,Center Midfield,Slovakia,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BERO M._13905.png,0,28.8
+23166,ROBERT,BOZENIK,BOZENIK R.,1999-11-18,9,Striker,Centre-Forward,Slovakia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOZENIK R._23166.png,0,24.6
+53256,VERNON,DE MARCO,DE MARCO V.,1992-11-18,15,Defender,Centre-Back,Slovakia,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DE MARCO V._53256.png,0,31.6
+13138,MARTIN,DUBRAVKA,DUBRAVKA M.,1989-01-15,1,Goalkeeper,Goalkeeper,Slovakia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUBRAVKA M._13138.png,0,35.5
+9297,ONDREJ,DUDA,DUDA O.,1994-12-05,8,Midfielder,,Slovakia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUDA O._9297.png,0,29.6
+48512,DAVID,DURIS,DURIS D.,1999-03-22,20,Striker,Left Forward,Slovakia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DURIS D._48512.png,0,25.3
+33232,ARTUR,GAJDOS,GAJDOS A.,2004-01-20,0,Midfielder,Attacking Midfield,Slovakia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAJDOS A._33232.png,0,20.4
+5590,NORBERT,GYOMBER,GYOMBER N.,1992-07-03,6,Defender,Centre-Back,Slovakia,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GYOMBER N._5590.png,0,32.0
+16819,DAVID,HANCKO,HANCKO D.,1997-12-13,16,Defender,Centre-Back,Slovakia,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HANCKO D._16819.png,0,26.5
+7089,LUKAS,HARASLIN,HARASLIN L.,1996-05-26,17,Striker,,Slovakia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HARASLIN L._7089.png,0,28.1
+16949,CHRISTIAN,HERC,HERC C.,1998-09-30,0,Midfielder,Center Midfield,Slovakia,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HERC C._16949.png,0,25.8
+10058,PATRIK,HROSOVSKY,HROSOVSKY P.,1992-04-22,13,Midfielder,Center Midfield,Slovakia,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HROSOVSKY P._10058.png,0,32.2
+16950,ERIK,JIRKA,JIRKA E.,1997-09-19,0,Striker,Right Winger,Slovakia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JIRKA E._16950.png,0,26.8
+33915,SEBASTIAN,KOSA,KOSA S.,2003-09-13,25,Defender,,Slovakia,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOSA S._33915.png,0,20.8
+6531,JURAJ,KUCKA,KUCKA J.,1987-02-26,19,Midfielder,Center Midfield,Slovakia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KUCKA J._6531.png,0,37.4
+13903,STANISLAV,LOBOTKA,LOBOTKA S.,1994-11-25,22,Midfielder,Defensive Midfield,Slovakia,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOBOTKA S._13903.png,0,29.6
+9924,ROBERT,MAK,MAK R.,1991-03-08,0,Striker,Left Forward,Slovakia,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MAK R._9924.png,0,33.3
+26517,ADAM,OBERT,OBERT A.,2002-08-23,4,Defender,,Slovakia,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OBERT A._26517.png,0,21.9
+9912,PETER,PEKARIK,PEKARIK P.,1986-10-30,2,Defender,Right-Back,Slovakia,177.0,right,,0,37.7
+48511,ROBERT,POLIEVKA,POLIEVKA R.,1996-06-09,0,Striker,Left Forward,Slovakia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POLIEVKA R._48511.png,0,28.1
+53255,HENRICH,RAVAS,RAVAS H.,1997-08-16,23,Goalkeeper,Goalkeeper,Slovakia,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAVAS H._53255.png,0,26.9
+59980,TOMAS,RIGO,RIGO T.,2002-07-03,5,Midfielder,,Slovakia,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIGO T._59980.png,0,22.0
+25447,MAREK,RODAK,RODAK M.,1996-12-13,12,Goalkeeper,,Slovakia,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODAK M._25447.png,0,27.5
+13624,LUBOMIR,SATKA,SATKA L.,1995-12-02,0,Defender,Centre-Back,Slovakia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SATKA L._13624.png,0,28.6
+59253,LEO,SAUER,SAUER L.,2005-12-16,24,Striker,,Slovakia,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SAUER L._59253.png,0,18.5
+26390,IVAN,SCHRANZ,SCHRANZ I.,1993-09-13,26,Striker,Left Forward,Slovakia,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHRANZ I._26390.png,0,30.8
+10918,MILAN,SKRINIAR,SKRINIAR M.,1995-02-11,14,Defender,Centre-Back,Slovakia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SKRINIAR M._10918.png,0,29.4
+27998,DAVID,STRELEC,STRELEC D.,2001-04-04,18,Striker,Centre-Forward,Slovakia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STRELEC D._27998.png,0,23.2
+26389,TOMAS,SUSLOV,SUSLOV T.,2002-06-07,7,Striker,Attacking Midfield,Slovakia,174.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUSLOV T._26389.png,0,22.1
+10151,LUBOMIR,TUPTA,TUPTA L.,1998-03-27,10,Striker,Centre-Forward,Slovakia,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TUPTA L._10151.png,0,26.3
+5896,MARTIN,VALJENT,VALJENT M.,1995-12-11,0,Defender,Centre-Back,Slovakia,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VALJENT M._5896.png,0,28.6
+15765,DENIS,VAVRO,VAVRO D.,1996-04-10,3,Defender,Centre-Back,Slovakia,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VAVRO D._15765.png,0,28.2
+15846,JURE,BALKOVEC,BALKOVEC J.,1994-09-09,3,Defender,,Slovenia,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALKOVEC J._15846.png,0,29.8
+9000,VID,BELEC,BELEC V.,1990-06-06,12,Goalkeeper,,Slovenia,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BELEC V._9000.png,0,34.1
+17403,JAKA,BIJOL,BIJOL J.,1999-02-05,6,Defender,,Slovenia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BIJOL J._17403.png,0,25.4
+23939,MIHA,BLAZIC,BLAZIC M.,1993-05-08,4,Defender,,Slovenia,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BLAZIC M._23939.png,0,31.2
+23903,DAVID,BREKALO,BREKALO D.,1998-12-03,23,Defender,,Slovenia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BREKALO D._23903.png,0,25.6
+19385,ZAN,CELAR,CELAR Z.,1999-03-14,19,Striker,,Slovenia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CELAR Z._19385.png,0,25.3
+70169,VANJA,DRKUSIC,DRKUSIC V.,1999-10-30,21,Defender,,Slovenia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DRKUSIC V._70169.png,0,24.7
+25095,TIMI MAX,ELSNIK,ELSNIK T.,1998-04-29,10,Midfielder,,Slovenia,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ELSNIK T._25095.png,0,26.2
+23908,ADAM,GNEZDA CERIN,CERIN A.,1999-07-16,22,Midfielder,,Slovenia,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GNEZDA CERIN A._23908.png,0,25.0
+9347,JON,GORENC STANKOVIC,GORENC STANKOVIC J.,1996-01-14,5,Defender,,Slovenia,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GORENC STANKOVIC J._9347.png,0,28.5
+23911,TOMI,HORVAT,HORVAT T.,1999-03-24,15,Midfielder,,Slovenia,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HORVAT T._23911.png,0,25.3
+6045,JOSIP,ILICIC,ILICIC J.,1988-01-29,26,Midfielder,,Slovenia,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ILICIC J._6045.png,0,36.4
+59411,ERIK,JANZA,JANZA E.,1993-06-21,13,Defender,,Slovenia,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JANZA E._59411.png,0,31.0
+30898,ZAN,KARNICNIK,KARNICNIK Z.,1994-09-18,2,Defender,,Slovenia,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KARNICNIK Z._30898.png,0,29.8
+6053,JASMIN,KURTIC,KURTIC J.,1989-01-10,14,Midfielder,,Slovenia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KURTIC J._6053.png,0,35.5
+19412,SANDI,LOVRIC,LOVRIC S.,1998-03-28,8,Midfielder,,Slovenia,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOVRIC S._19412.png,0,26.3
+13500,JAN,MLAKAR,MLAKAR J.,1998-10-23,17,Striker,,Slovenia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MLAKAR J._13500.png,0,25.7
+7660,JAN,OBLAK,OBLAK J.,1993-01-07,1,Goalkeeper,,Slovenia,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OBLAK J._7660.png,0,31.5
+27995,BENJAMIN,SESKO,SESKO B.,2003-05-31,11,Striker,,Slovenia,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SESKO B._27995.png,0,21.1
+9064,ANDRAZ,SPORAR,SPORAR A.,1994-02-27,9,Striker,,Slovenia,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SPORAR A._9064.png,0,30.3
+8052,PETAR,STOJANOVIC,STOJANOVIC P.,1995-10-07,20,Defender,,Slovenia,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STOJANOVIC P._8052.png,0,28.7
+23898,IGOR,VEKIC,VEKIC I.,1998-05-06,16,Goalkeeper,,Slovenia,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VEKIC I._23898.png,0,26.2
+12488,BENJAMIN,VERBIC,VERBIC B.,1993-11-27,7,Midfielder,,Slovenia,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VERBIC B._12488.png,0,30.6
+98980,ZAN,VIPOTNIK,VIPOTNIK Z.,2002-03-18,18,Striker,,Slovenia,,,,0,22.3
+64877,ADRIAN,ZELJKOVIC,ZELJKOVIC A.,2002-08-19,25,Midfielder,,Slovenia,192.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZELJKOVIC A._64877.png,0,21.9
+37027,NINO,ZUGELJ,ZUGELJ N.,2000-04-25,24,Midfielder,,Slovenia,188.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZUGELJ N._37027.png,0,24.2
+13909,KEPA,ARRIZABALAGA REVUELTA,KEPA,1994-10-03,0,Goalkeeper,Goalkeeper,Spain,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KEPA_13909.png,0,29.7
+12768,MARCO,ASENSIO WILLEMSEN,ASENSIO M.,1996-01-21,0,Striker,Second Striker,Spain,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ASENSIO M._12768.png,0,28.4
+7728,CESAR,AZPILICUETA TANCO,AZPILICUETA C.,1989-08-28,0,Defender,Right-Back,Spain,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AZPILICUETA C._7728.png,0,34.8
+25551,ALEJANDRO,BAENA RODRIGUEZ,BAENA A.,2001-07-20,15,Midfielder,Attacking Midfield,Spain,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAENA A._25551.png,0,22.9
+49168,ALEJANDRO,BALDE MARTINEZ,BALDE A.,2003-10-18,0,Defender,Left-Back,Spain,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALDE A._49168.png,0,20.7
+7486,DANIEL,CARVAJAL RAMOS,CARVAJAL D.,1992-01-11,2,Defender,Right-Back,Spain,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CARVAJAL D._7486.png,0,32.5
+31395,PAU,CUBARSI PAREDES,CURBASI' P.,2007-01-22,26,Defender,,Spain,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CURBASI' P._31395.png,0,17.4
+23370,MARC,CUCURELLA SASETA,CUCURELLA M.,1998-07-22,24,Defender,,Spain,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CUCURELLA M._23370.png,0,25.9
+21430,ANSSUMANE,FATI VIEIRA,ANSU FATI,2002-10-31,0,Striker,,Spain,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ANSU FATI_21430.png,0,21.7
+7754,JOSE' IGNACIO,FERNANDEZ IGLESIAS,NACHO,1990-01-18,4,Defender,,Spain,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NACHO_7754.png,0,34.5
+23933,PAU,FRANCISCO TORRES,TORRES P.,1997-01-16,0,Defender,Centre-Back,Spain,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TORRES P._23933.png,0,27.5
+50269,ALEIX,GARCIA SERRANO,GARCIA A.,1997-06-28,25,Midfielder,,Spain,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARCIA A._50269.png,0,27.0
+25195,FRANCISCO JOSE',GARCIA TORRES,GARCIA F.,1999-08-14,0,Defender,,Spain,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARCIA F._25195.png,0,24.9
+38940,DAVID,GARCIA ZUBIRIA,GARCIA D.,1994-02-14,0,Defender,Centre-Back,Spain,186.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARCIA D._38940.png,0,30.4
+9753,JOSE' LUIS,GAYA' PENA,GAYA' J.,1995-05-25,0,Defender,Left-Back,Spain,172.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAYA' J._9753.png,0,29.1
+24662,PEDRO,GONZALEZ LOPEZ,PEDRI,2002-11-25,20,Midfielder,,Spain,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEDRI_24662.png,0,21.6
+13034,ALEJANDRO,GRIMALDO GARCIA,GRIMALDO A.,1995-09-20,12,Defender,,Spain,171.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GRIMALDO A._13034.png,0,28.8
+13354,RODRIGO,HERNANDEZ CASCANTE,RODRI,1996-06-22,16,Midfielder,Defensive Midfield,Spain,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRI_13354.png,0,28.0
+7904,AYMERIC JEAN LOUIS GERARD ALPHONSE,LAPORTE,LAPORTE A.,1994-05-27,14,Defender,Centre-Back,Spain,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAPORTE A._7904.png,0,30.1
+24827,ROBIN AIME ROBERT,LE NORMAND,LE NORMAND R.,1996-11-11,3,Defender,Centre-Back,Spain,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LE NORMAND R._24827.png,0,27.6
+13409,MARCOS,LLORENTE MORENO,LLORENTE M.,1995-01-30,5,Midfielder,,Spain,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LLORENTE M._13409.png,0,29.4
+49237,FERMIN,LOPEZ MARTIN,LOPEZ F.,2003-05-11,25,Striker,,Spain,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOPEZ F._49237.png,0,21.1
+13215,INIGO,MARTINEZ BERRIDI,MARTINEZ I.,1991-05-17,0,Defender,,Spain,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MARTINEZ I._13215.png,0,33.1
+13490,MIKEL,MERINO ZAZON,MERINO M.,1996-06-22,6,Midfielder,Center Midfield,Spain,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MERINO M._13490.png,0,28.0
+6133,ALVARO BORJA,MORATA MARTIN,MORATA A.,1992-10-23,7,Striker,Centre-Forward,Spain,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MORATA A._6133.png,0,31.7
+7709,JESUS,NAVAS,JESUS NAVAS,1985-11-21,22,Defender,,Spain,170.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JESUS NAVAS_7709.png,0,38.6
+23839,DANIEL,OLMO CARVAJAL,OLMO D.,1998-05-07,10,Striker,Attacking Midfield,Spain,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OLMO D._23839.png,0,26.2
+13414,MIKEL,OYARZABAL UGARTE,OYARZABAL M.,1997-04-21,21,Midfielder,,Spain,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OYARZABAL M._13414.png,0,27.2
+27199,PABLO MARTIN,PAEZ GAVIRA,GAVI,2004-08-05,0,Midfielder,Center Midfield,Spain,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAVI_27199.png,0,19.9
+10738,ALFONSO,PEDRAZA SAG,PEDRAZA A.,1996-04-09,0,Defender,,Spain,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEDRAZA A._10738.png,0,28.2
+24795,AYOZE,PEREZ GUTIERREZ,PEREZ A.,1993-07-29,26,Striker,,Spain,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PEREZ A._24795.png,0,30.9
+33626,DAVID,RAYA MARTIN,RAYA D.,1995-09-15,1,Goalkeeper,Goalkeeper,Spain,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RAYA D._33626.png,0,28.8
+24825,ALEJANDRO,REMIRO GARGALLO,REMIRO A.,1995-03-24,13,Goalkeeper,,Spain,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/REMIRO A._24825.png,0,29.3
+38284,RODRIGO,RIQUELME RECHE,RIQUELME R.,2000-04-02,0,Striker,,Spain,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIQUELME R._38284.png,0,24.2
+16756,FABIAN,RUIZ,FABIAN RUIZ,1996-04-03,8,Midfielder,Center Midfield,Spain,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FABIAN RUIZ_16756.png,0,28.2
+23399,ABEL,RUIZ ORTEGA,RUIZ A.,2000-01-28,0,Striker,Centre-Forward,Spain,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RUIZ A._23399.png,0,24.4
+38282,OIHAN,SANCET TIRAPU,SANCET O.,2000-04-25,0,Midfielder,,Spain,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SANCET O._38282.png,0,24.2
+38941,JOSE' LUIS,SANMARTIN MATO,JOSELU,1990-03-27,9,Striker,Centre-Forward,Spain,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JOSELU_38941.png,0,34.3
+14553,UNAI,SIMON MENDIBIL,SIMON U.,1997-06-11,23,Goalkeeper,Goalkeeper,Spain,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIMON U._14553.png,0,27.1
+17790,FERRAN,TORRES GARCIA,FERRAN TORRES,2000-02-29,11,Striker,,Spain,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERRAN TORRES_17790.png,0,24.3
+68527,DANIEL,VIVIAN MORENO,VIVIAN D.,1999-07-05,5,Defender,,Spain,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VIVIAN D._68527.png,0,25.0
+35462,NICHOLAS,WILLIAMS ARTHUER,WILLIAMS N.,2002-07-12,17,Midfielder,Right Winger,Spain,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WILLIAMS N._35462.png,0,22.0
+31404,LAMINE,YAMAL NASRAOUI EBANA,LAMINE YAMAL,2007-07-13,19,Striker,Right Winger,Spain,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LAMINE YAMAL_31404.png,0,17.0
+68675,BRYAN,ZARAGOZA MARTINEZ,BRYAN ZARAGOZA,2001-09-09,0,Midfielder,,Spain,164.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRYAN ZARAGOZA_68675.png,0,22.8
+24828,MARTIN,ZUBIMENDI IBANEZ,ZUBIMENDI M.,1999-02-02,18,Midfielder,Defensive Midfield,Spain,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZUBIMENDI M._24828.png,0,25.4
+17412,MICHEL,AEBISCHER,AEBISCHER M.,1997-01-06,20,Midfielder,Center Midfield,Switzerland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AEBISCHER M._17412.png,0,27.5
+14955,MANUEL,AKANJI,AKANJI M.,1995-07-19,5,Defender,Centre-Back,Switzerland,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKANJI M._14955.png,0,29.0
+26326,ZEKI,AMDOUNI,AMDOUNI Z.,2000-12-04,25,Striker,Centre-Forward,Switzerland,185.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AMDOUNI Z._26326.png,0,23.6
+8344,LORIS,BENITO,BENITO L.,1992-01-07,0,Defender,,Switzerland,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BENITO L._8344.png,0,32.5
+41199,URAN,BISLIMI,BISLIMI U.,1999-09-25,0,Midfielder,Center Midfield,Switzerland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BISLIMI U._41199.png,0,24.8
+23797,ERAY,COMERT,COMERT E.,1998-02-04,0,Defender,Centre-Back,Switzerland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/COMERT E._23797.png,0,26.4
+52959,KWADWO,DUAH,DUAH K.,1997-02-24,18,Striker,,Switzerland,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUAH K._52959.png,0,27.3
+11122,NICO,ELVEDI,ELVEDI N.,1996-09-30,4,Defender,Centre-Back,Switzerland,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ELVEDI N._11122.png,0,27.8
+7809,BREEL,EMBOLO,EMBOLO B.,1997-02-14,7,Striker,,Switzerland,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/EMBOLO B._7809.png,0,27.4
+16858,EDIMILSON,FERNANDES,FERNANDES E.,1996-04-15,0,Defender,Centre-Back,Switzerland,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FERNANDES E._16858.png,0,28.2
+10289,REMO,FREULER,FREULER R.,1992-04-15,8,Midfielder,Center Midfield,Switzerland,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/FREULER_10289.png,0,32.2
+16528,ULISSES,GARCIA,GARCIA U.,1996-01-11,0,Defender,Left-Back,Switzerland,183.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GARCIA U._16528.png,0,28.5
+26322,ALBIAN,HAJDARI,HAJDARI A.,2003-05-18,0,Defender,,Switzerland,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HAJDARI A._26322.png,0,21.1
+10734,CEDRIC,ITTEN,ITTEN C.,1996-12-27,0,Striker,Centre-Forward,Switzerland,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ITTEN C._10734.png,0,27.5
+31937,ARDON,JASHARI,JASHARI A.,2002-07-30,24,Midfielder,Defensive Midfield,Switzerland,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/JASHARI A._31937.png,0,21.9
+31904,MARVIN,KELLER,KELLER M.,2002-07-03,0,Goalkeeper,,Switzerland,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KELLER M._31904.png,0,22.0
+16524,GREGOR,KOBEL,KOBEL G.,1997-12-06,21,Goalkeeper,Goalkeeper,Switzerland,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOBEL G._16524.png,0,26.6
+69675,DERECK GERMANO,KUTESA,KUTESA D.,1997-12-06,0,Midfielder,,Switzerland,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KUTESA D._69675.png,0,26.6
+26970,PASCAL,LORETZ,LORETZ P.,2003-06-01,0,Goalkeeper,,Switzerland,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LORETZ P._26970.png,0,21.1
+24812,JORDAN,LOTOMBA,LOTOMBA J.,1998-09-29,0,Defender,Right-Back,Switzerland,177.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LOTOMBA J._24812.png,0,25.8
+17406,KEVIN,MBABU,MBABU K.,1995-04-19,0,Defender,,Switzerland,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MBABU K._17406.png,0,29.2
+8439,YVON,MVOGO,MVOGO Y.,1994-06-06,12,Goalkeeper,Goalkeeper,Switzerland,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MVOGO Y._8439.png,0,30.1
+24817,DAN,NDOYE,NDOYE D.,2000-10-25,19,Striker,Right Winger,Switzerland,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NDOYE D._24817.png,0,23.7
+22968,NOAH,OKAFOR,OKAFOR N.,2000-05-24,9,Striker,Centre-Forward,Switzerland,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OKAFOR N._22968.png,0,24.1
+25614,BECIR,OMERAGIC,OMERAGIC B.,2002-01-20,0,Defender,,Switzerland,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OMERAGIC B._25614.png,0,22.4
+24663,FABIAN,RIEDER,RIEDER F.,2002-02-16,26,Midfielder,,Switzerland,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIEDER F._24663.png,0,22.4
+8585,RICARDO,RODRIGUEZ,RODRIGUEZ R.,1992-08-25,13,Defender,Centre-Back,Switzerland,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RODRIGUEZ R._8585.png,0,31.9
+7798,FABIAN,SCHAR,SCHAR F.,1991-12-20,22,Defender,Centre-Back,Switzerland,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHAR F._7798.png,0,32.5
+7037,XHERDAN,SHAQIRI,SHAQIRI X.,1991-10-10,23,Midfielder,Attacking Midfield,Switzerland,169.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHAQIRI X._7037.png,0,32.7
+24664,VINCENT,SIERRO,SIERRO V.,1995-10-08,16,Midfielder,,Switzerland,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIERRO V._24664.png,0,28.7
+9554,YANN,SOMMER,SOMMER Y.,1988-12-17,1,Goalkeeper,Goalkeeper,Switzerland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOMMER Y._9554.png,0,35.5
+11860,DJIBRIL,SOW,SOW D.,1997-02-06,0,Midfielder,Center Midfield,Switzerland,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOW D._11860.png,0,27.4
+8446,RENATO,STEFFEN,STEFFEN R.,1991-11-03,11,Midfielder,Right Winger,Switzerland,170.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STEFFEN R._8446.png,0,32.7
+25684,LEONIDAS,STERGIOU,STERGIOU L.,2002-03-03,2,Defender,,Switzerland,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STERGIOU L._25684.png,0,22.3
+61139,FILIP,UGRINIC,UGRINIC F.,1999-01-05,0,Midfielder,,Switzerland,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UGRINIC F._61139.png,0,25.5
+23932,RUBEN,VARGAS,VARGAS R.,1998-08-05,17,Midfielder,Right Winger,Switzerland,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGAS R._23932.png,0,25.9
+6351,SILVAN,WIDMER,WIDMER S.,1993-03-05,3,Defender,,Switzerland,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/WIDMER S._6351.png,0,31.3
+10018,GRANIT,XHAKA,XHAKA G.,1992-09-27,10,Midfielder,Defensive Midfield,Switzerland,186.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/XHAKA G._10018.png,0,31.8
+11123,DENIS,ZAKARIA,ZAKARIA D.,1996-11-20,6,Midfielder,Defensive Midfield,Switzerland,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZAKARIA D._11123.png,0,27.6
+16538,ANDI,ZEQIRI,ZEQIRI A.,1999-06-22,0,Striker,Centre-Forward,Switzerland,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZEQIRI A._16538.png,0,25.0
+16533,CEDRIC ADRIAN,ZESIGER,ZESIGER C.,1998-06-24,15,Defender,Centre-Back,Switzerland,194.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZESIGER C._16533.png,0,26.0
+16714,STEVEN,ZUBER,ZUBER S.,1991-08-17,14,Midfielder,,Switzerland,182.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZUBER S._16714.png,0,32.9
+34265,SAMET,AKAYDIN,AKAYDIN S.,1994-03-13,4,Defender,Centre-Back,Turkey,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKAYDIN S._34265.png,0,30.3
+17517,YUNUS,AKGUN,AKGUN Y.,2000-07-07,25,Striker,Right Winger,Turkey,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKGUN Y._17517.png,0,24.0
+26395,KEREM,AKTURKOGLU,AKTURKOGLU K.,1998-10-21,7,Striker,Left Forward,Turkey,173.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AKTURKOGLU K._26395.png,0,25.7
+32117,DOGAN,ALEMDAR,ALEMDAR D.,2002-10-29,0,Goalkeeper,Goalkeeper,Turkey,192.0,right,,0,21.7
+34234,OGUZ,AYDIN,AYDIN O.,2000-10-27,0,Striker,Right Winger,Turkey,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AYDIN O._34234.png,0,23.7
+14828,KAAN,AYHAN,AYHAN K.,1994-11-10,22,Midfielder,Centre-Back,Turkey,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/AYHAN K._14828.png,0,29.6
+35499,ABDULKERIM,BARDAKCI,BARDAKCI A.,1994-09-07,14,Defender,Centre-Back,Turkey,185.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARDAKCI A._35499.png,0,29.8
+20908,ALTAY,BAYINDIR,BAYINDIR A.,1998-04-14,12,Goalkeeper,Goalkeeper,Turkey,198.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BAYINDIR A._20908.png,0,26.2
+25577,UGURCAN,CAKIR,CAKIR U.,1996-04-05,23,Goalkeeper,Goalkeeper,Turkey,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CAKIR U._25577.png,0,28.2
+7687,HAKAN,CALHANOGLU,CALHANOGLU H.,1994-02-08,10,Midfielder,Defensive Midfield,Turkey,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CALHANOGLU H._7687.png,0,30.4
+21437,MEHMET ZEKI,CELIK,CELIK M. Z.,1997-02-17,2,Defender,Right-Back,Turkey,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CELIK M. Z._21437.png,0,27.4
+19107,MERIH,DEMIRAL,DEMIRAL M.,1998-03-05,3,Defender,Centre-Back,Turkey,190.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DEMIRAL M._19107.png,0,26.3
+34287,ARDA,GULER,GULER A.,2005-02-25,8,Striker,Attacking Midfield,Turkey,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GULER A._34287.png,0,19.3
+21530,MERT,GUNOK,GUNOK M.,1989-03-01,1,Goalkeeper,Goalkeeper,Turkey,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GUNOK M._21530.png,0,35.3
+17863,OZAN MUHAMMED,KABAK,KABAK O.,2000-03-25,0,Defender,Centre-Back,Turkey,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KABAK O._17863.png,0,24.3
+20912,FERDI,KADIOGLU,KADIOGLU F.,1999-10-07,20,Defender,Left-Back,Turkey,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KADIOGLU F._20912.png,0,24.7
+21531,IRFAN CAN,KAHVECI,KAHVECI I.,1995-07-15,17,Striker,Right Winger,Turkey,176.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KAHVECI I._21531.png,0,29.0
+35084,AHMETCAN,KAPLAN,KAPLAN A.,2003-01-16,13,Defender,Centre-Back,Turkey,189.0,left,,0,21.5
+55250,SEMIH,KILICSOY,KILICSOY S.,2005-08-15,24,Striker,Centre-Forward,Turkey,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KILICSOY S._55250.png,0,18.9
+21550,ORKUN,KOKCU,KOKCU O.,2000-12-29,6,Midfielder,Center Midfield,Turkey,175.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KOKCU O._21550.png,0,23.5
+17563,MERT,MULDUR,MULDUR M.,1999-04-03,18,Defender,Right-Back,Turkey,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MULDUR M._17563.png,0,25.2
+23132,ABDULKADIR,OMUR,OMUR A.,1999-06-25,0,Striker,Attacking Midfield,Turkey,168.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OMUR A._23132.png,0,25.0
+15792,SALIH,OZCAN,OZCAN S.,1998-01-11,15,Midfielder,Defensive Midfield,Turkey,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZCAN S._15792.png,0,26.5
+29762,BERAT,OZDEMIR,OZDEMIR B.,1998-05-23,0,Midfielder,Defensive Midfield,Turkey,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZDEMIR B._29762.png,0,26.1
+68741,CENK,OZKACAR,OZKACAR C.,2000-10-06,0,Defender,Centre-Back,Turkey,190.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/OZKACAR C._68741.png,0,23.7
+14830,CAGLAR,SOYUNCU,SOYUNCU C.,1996-05-23,0,Defender,,Turkey,185.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SOYUNCU C._14830.png,0,28.1
+11145,CENK,TOSUN,TOSUN C.,1991-06-07,9,Striker,Centre-Forward,Turkey,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TOSUN C._11145.png,0,33.1
+14832,ENES,UNAL,UNAL E.,1997-05-10,0,Striker,Centre-Forward,Turkey,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/UNAL E._14832.png,0,27.1
+129428,CAN,UZUN,UZUN C.,2005-11-11,0,Midfielder,Attacking Midfield,Turkey,186.0,right,,0,18.6
+21439,YUSUF,YAZICI,YAZICI Y.,1997-01-29,11,Striker,Attacking Midfield,Turkey,184.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YAZICI Y._21439.png,0,27.4
+36272,BERTUG,YILDIRIM,YILDIRIM B.,2002-07-12,26,Striker,,Turkey,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YILDIRIM B._36272.png,0,22.0
+31264,KENAN,YILDIZ,YILDIZ K.,2005-05-04,19,Striker,Second Striker,Turkey,187.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YILDIZ_K_31264.png,0,19.2
+29786,BARIS ALPER,YILMAZ,BARIS YILMAZ,2000-05-23,21,Striker,Right Winger,Turkey,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BARIS YILMAZ_29786.png,0,24.1
+19519,OKAY,YOKUSLU,YOKUSLU O.,1994-03-09,5,Midfielder,Defensive Midfield,Turkey,191.0,right,,0,30.3
+36107,ISMAIL,YUKSEK,YUKSEK I.,1999-01-26,16,Midfielder,Defensive Midfield,Turkey,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YUKSEK I._36107.png,0,25.4
+22250,VALERIY,BONDAR,BONDAR V.,1999-02-27,21,Defender,,Ukraine,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BONDAR V._22250.png,0,25.3
+24246,ILLIA,BORYSOVYCH ZABARNYI,ZABARNYI I.,2002-09-01,13,Defender,Centre-Back,Ukraine,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZABARNYI I._24246.png,0,21.8
+38393,VOLODYMYR,BRAZHKO,BRAZHKO V.,2002-01-23,18,Midfielder,,Ukraine,184.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BRAZHKO V._38393.png,0,22.4
+24245,GEORGIY,BUSHCHAN,BUSHCHAN G.,1994-05-31,1,Goalkeeper,Goalkeeper,Ukraine,196.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUSHCHAN H._24245.png,0,30.1
+28013,VITALIY,BUYALSKYI,BUYALSKYI V.,1993-01-06,0,Midfielder,Attacking Midfield,Ukraine,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BUYALSKYI V._28013.png,0,31.5
+26396,ARTEM,DOVBYK,DOVBYK A.,1997-06-21,11,Striker,Centre-Forward,Ukraine,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DOVBYK A._26396.png,0,27.0
+37135,VLADYSLAV,DUBINCHAK,DUBINCHAK V.,1998-07-01,0,Defender,,Ukraine,173.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DUBINCHAK V._37135.png,0,26.0
+11125,OLEKSANDR,KARAVAEV,KARAVAEV O.,1992-06-02,0,Defender,Right-Back,Ukraine,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KARAVAEV O._11125.png,0,32.1
+24739,YUKHYM,KONOPLYA,KONOPLYA Y.,1999-08-26,2,Defender,Right-Back,Ukraine,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KONOPLYA Y._24739.png,0,24.8
+7752,SERGIY,KRYVTSOV,KRYVTSOV S.,1991-03-15,0,Defender,Centre-Back,Ukraine,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KRYVTSOV S._7752.png,0,33.3
+15780,ANDRIY,LUNIN,LUNIN A.,1999-02-11,23,Goalkeeper,Goalkeeper,Ukraine,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LUNIN A._15780.png,0,25.4
+14066,RUSLAN,MALINOVSKYI,MALINOVSKYI R.,1993-05-04,8,Midfielder,,Ukraine,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MALINOVSKYI R._14066.png,0,31.2
+23819,MYKOLA,MATVIENKO,MATVIENKO M.,1996-05-02,22,Defender,Centre-Back,Ukraine,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MATVIENKO M._23819.png,0,28.2
+28011,MYKHAYLO,MUDRYK,MUDRYK M.,2001-01-05,10,Striker,Left Forward,Ukraine,175.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MUDRYK M._28011.png,0,23.5
+24738,BOGDAN,MYKHAYLICHENKO,MYKHAYLICHENKO B.,1997-03-21,26,Defender,Left-Back,Ukraine,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MYKHAYLICHENKO B._24738.png,0,27.3
+19380,VITALIY,MYKOLENKO,MYKOLENKO V.,1999-05-29,16,Defender,Left-Back,Ukraine,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/MYKOLENKO V._19380.png,0,25.1
+24801,YEGOR,NAZARYNA,NAZARYNA E.,1997-07-10,0,Midfielder,Center Midfield,Ukraine,183.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NAZARYNA E._24801.png,0,27.0
+38383,OLEKSANDR,PIKHALYONOK,PIKHALYONOK O.,1997-05-07,0,Midfielder,Center Midfield,Ukraine,179.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/PIKHALYONOK O._38383.png,0,27.2
+24531,DENYS,POPOV,POPOV D.,1999-02-17,0,Defender,Centre-Back,Ukraine,185.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/POPOV D._24531.png,0,25.4
+24735,DMYTRO,RIZNYK,RIZNYK D.,1999-01-30,0,Goalkeeper,,Ukraine,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/RIZNYK D._24735.png,0,25.4
+16244,MYKOLA,SHAPARENKO,SHAPARENKO M.,1998-10-04,19,Midfielder,,Ukraine,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SHAPARENKO M._16244.png,0,25.7
+22756,DANYLO,SIKAN,SIKAN D.,2001-04-16,0,Striker,,Ukraine,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SIKAN D._22756.png,0,23.2
+7747,TARAS,STEPANENKO,STEPANENKO T.,1989-08-08,6,Midfielder,Defensive Midfield,Ukraine,181.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/STEPANENKO T._7747.png,0,34.9
+24582,GEORGIY,SUDAKOV,SUDAKOV G.,2002-09-01,14,Midfielder,Attacking Midfield,Ukraine,177.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SUDAKOV G._24582.png,0,21.8
+15781,OLEKSANDR,SVATOK,SVATOK O.,1994-09-27,3,Defender,,Ukraine,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SVATOK O._15781.png,0,29.8
+7848,SERGIY,SYDORCHUK,SYDORCHUK S.,1991-05-02,5,Midfielder,Defensive Midfield,Ukraine,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SYDORCHUK S._7848.png,0,33.2
+32401,MAKSYM,TALOVEROV,TALOVEROV M.,2000-06-28,0,Midfielder,,Ukraine,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TALOVEROV M._32401.png,0,24.0
+56922,MAKSYM,TALOVIEROV,TALOVIEROV M.,2000-06-28,4,Defender,,Ukraine,195.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TALOVIEROV M._56922.png,0,24.0
+24578,ANATOLIY,TRUBIN,TRUBIN A.,2001-08-01,12,Goalkeeper,Goalkeeper,Ukraine,199.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TRUBIN A._24578.png,0,22.9
+13030,VIKTOR,TSYGANKOV,TSYGANKOV V.,1997-11-15,15,Midfielder,Right Winger,Ukraine,178.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TSYGANKOV V._13030.png,0,26.6
+25840,OLEKSANDR,TYMCHYK,TYMCHYK O.,1997-01-20,24,Defender,,Ukraine,180.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/TYMCHYK O._25840.png,0,27.4
+37143,VLADYSLAV,VANAT,VANAT V.,2002-01-04,25,Striker,Centre-Forward,Ukraine,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VANAT V._37143.png,0,22.5
+17326,ROMAN,YAREMCHUK,YAREMCHUK R.,1995-11-27,9,Striker,Centre-Forward,Ukraine,191.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YAREMCHUK R._17326.png,0,28.6
+7845,ANDRIY,YARMOLENKO,YARMOLENKO A.,1989-10-23,7,Midfielder,Right Winger,Ukraine,189.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/YARMOLENKO A._7845.png,0,34.7
+10072,OLEKSANDR,ZINCHENKO,ZINCHENKO O.,1996-12-15,17,Defender,Left-Back,Ukraine,175.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZINCHENKO O._10072.png,0,27.5
+15502,OLEKSANDR,ZUBKOV,ZUBKOV O.,1996-08-03,20,Midfielder,Right Winger,Ukraine,182.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ZUBKOV O._15502.png,0,27.9
+32904,MARTIN,ADAM,ADAM M.,1994-11-06,9,Striker,,Hungary,191.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ADAM M._32904.png,0,29.7
+23518,BOTOND,BALOGH,BALOGH B.,2002-06-06,3,Defender,,Hungary,189.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BALOGH B._23518.png,0,22.1
+25144,BENDEGUZ,BOLLA,BOLLA B.,1999-11-22,14,Defender,,Hungary,179.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOLLA B._25144.png,0,24.6
+24545,ENDRE,BOTKA,BOTKA E.,1994-08-25,21,Defender,,Hungary,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/BOTKA E._24545.png,0,29.9
+45952,KEVIN,CSOBOTH,CSOBOTH K.,2000-06-20,23,Striker,,Hungary,174.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/CSOBOTH K._45952.png,0,24.0
+31879,MARTON,DARDAI,DARDAI M.,2002-02-12,24,Defender,,Germany,188.0,left,,0,22.4
+11129,DENES,DIBUSZ,DIBUSZ D.,1990-11-16,12,Goalkeeper,,Hungary,188.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/DIBUSZ D._11129.png,0,33.6
+9498,ATTILA,FIOLA,FIOLA A.,1990-02-17,5,Defender,,Hungary,183.0,right,,0,34.4
+15225,DANIEL,GAZDAG,GAZDAG D.,1996-03-02,16,Midfielder,,Hungary,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/GAZDAG D._15225.png,0,28.3
+11130,PETER,GULACSI,GULACSI P.,1990-05-06,1,Goalkeeper,,Hungary,190.0,right,,0,34.2
+23516,KRISZTOFER,HORVATH,HORVATH K.,2002-01-08,25,Striker,,Hungary,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/HORVATH K._23516.png,0,22.5
+18800,ZSOLT,KALMAR,KALMAR Z.,1995-06-09,0,Midfielder,,Hungary,185.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KALMAR Z._18800.png,0,29.1
+25656,MIHALY,KATA,KATA M.,2002-04-13,26,Midfielder,,Hungary,176.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KATA M._25656.png,0,22.2
+31072,MILOS,KERKEZ,KERKEZ M.,2003-11-07,11,Defender,,Hungary,180.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/KERKEZ M._31072.png,0,20.6
+11136,LASZLO,KLEINHEISLER,KLEINHEISLER L.,1994-04-08,15,Midfielder,,Hungary,173.0,right,,0,30.2
+11131,ADAM,LANG,LANG A.,1993-01-17,2,Defender,,Hungary,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/LANG A._11131.png,0,31.5
+11135,ADAM,NAGY,NAGY A.,1995-06-17,8,Midfielder,,Hungary,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NAGY A._11135.png,0,29.0
+32902,ZSOLT,NAGY,NAGY Z.,1993-05-25,18,Defender,,Hungary,188.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NAGY Z._32902.png,0,31.1
+17546,LOIC,NEGO,NEGO L.,1991-01-15,7,Defender,,Hungary,,,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/NEGO L._17546.png,0,33.5
+105616,ANDRAS,NEMETH,NEMETH A.,2002-11-09,0,Striker,,Hungary,,,,0,21.6
+14950,WILLI,ORBAN,ORBAN W.,1992-11-03,6,Defender,,Hungary,186.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/ORBAN W._14950.png,0,31.7
+11810,ROLAND,SALLAI,SALLAI R.,1997-05-22,20,Striker,,Hungary,183.0,both,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SALLAI R._11810.png,0,27.1
+20891,ANDRAS,SCHAFER,SCHAFER A.,1999-04-13,13,Midfielder,,Hungary,178.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SCHAFER A._20891.png,0,25.2
+32905,CALLUM,STYLES,STYLES C.,2000-03-27,17,Midfielder,,Hungary,,,,0,24.3
+15218,ATTILA ARPAD,SZALAI,SZALAI A.,1998-01-20,4,Defender,,Hungary,192.0,left,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZALAI A._15218.png,0,26.4
+33590,PETER,SZAPPANOS,SZAPPANOS P.,1990-11-14,22,Goalkeeper,,Hungary,194.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZAPPANOS P._33590.png,0,33.6
+15226,DOMINIK,SZOBOSZLAI,SZOBOSZLAI D.,2000-10-25,10,Midfielder,,Hungary,187.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/SZOBOSZLAI D._15226.png,0,23.7
+46211,SOMA,SZUHODOVSZKI,SZUHODOVSZKI S.,1999-12-30,0,Midfielder,,Hungary,182.0,left,,0,24.5
+46183,BARNABAS,VARGA,VARGA B.,1994-10-25,19,Striker,,Hungary,181.0,right,https://s3.eu-west-1.amazonaws.com/it.sics.logo/120/players/VARGA B._46183.png,0,29.7
